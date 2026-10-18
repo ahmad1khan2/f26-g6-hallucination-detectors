@@ -1,0 +1,6 @@
+language,items,hallucination_rate,mean_answer_chars,mean_answer_words,mean_spans,mean_span_share,correct_answers
+ar,1000,0.882,165.896,27.97,1.332,0.374,118
+en,1000,0.957,343.182,54.933,1.821,0.456,43
+fi,1000,0.84,95.371,11.016,0.921,0.565,160
+hi,1000,0.868,270.704,50.668,1.135,0.401,132
+zh,1000,0.87,116.207,3.888,1.213,0.323,130

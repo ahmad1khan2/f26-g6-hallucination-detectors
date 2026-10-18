@@ -1,0 +1,16 @@
+language,category,raw_rows,sampled_rows
+en,capitals,10000,2140
+en,country,10000,2140
+en,official_language,2375,2140
+de,capitals,10000,2140
+de,country,10000,2140
+de,official_language,2375,2140
+hi,capitals,2500,2140
+hi,country,2500,2140
+hi,official_language,2374,2140
+bn,capitals,2500,2140
+bn,country,2500,2140
+bn,official_language,2375,2140
+ur,capitals,2500,2140
+ur,country,2500,2140
+ur,official_language,2375,2140

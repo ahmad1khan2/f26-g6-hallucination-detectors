@@ -1,0 +1,8 @@
+language,group,script,label_count,eligible_facts,sampled_facts,mean_accepted_answers,median_gold_chars,relations
+ja,high,Japanese,33954,25551,1380,3.04,5.0,46
+zh,high,Han,30985,23278,1380,3.09,3.0,46
+vi,high,Latin,16960,13682,1380,2.22,9.0,46
+tl,medium,Latin,7275,7213,1215,2.47,8.0,46
+sw,medium,Latin,6362,6898,1136,1.28,8.0,46
+yo,low,Latin,2715,4643,856,1.5,9.0,42
+ilo,low,Latin,2241,4060,834,1.35,7.0,42
