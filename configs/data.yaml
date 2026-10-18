@@ -1,0 +1,14 @@
+seed: 42
+
+mtrex:
+  languages: {English: en, Deutsch: de, Hindi: hi, Bengali: bn, Urdu: ur}
+  categories: [capitals, country, official_language]
+
+xfactr:
+  # relation cap per language, set from the eligible facts per relation (see data/README.md)
+  cap_per_relation: 30
+  blank: "___"
+
+psiloqa:
+  languages: [en, hi, zh, fi, ar]
+  items_per_language: 1000

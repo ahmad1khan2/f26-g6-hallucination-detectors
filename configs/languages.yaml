@@ -1,0 +1,26 @@
+# X-FACTR languages with an alias file. label_count = lines in data/alias/mTRExf/<code>.txt
+# (entity labels). Groups: high >= 15000, medium 4000-14999, low < 4000 (natural gaps in the counts).
+# chosen = used in our experiments (templates have no gender or inflection tags).
+english: {code: en, label_count: 57837}
+languages:
+  - {code: fr,  name: French,     script: Latin,      label_count: 51186, group: high,   chosen: false}
+  - {code: nl,  name: Dutch,      script: Latin,      label_count: 47921, group: high,   chosen: false}
+  - {code: es,  name: Spanish,    script: Latin,      label_count: 46591, group: high,   chosen: false}
+  - {code: ru,  name: Russian,    script: Cyrillic,   label_count: 35319, group: high,   chosen: false}
+  - {code: ja,  name: Japanese,   script: Japanese,   label_count: 33954, group: high,   chosen: true}
+  - {code: zh,  name: Chinese,    script: Han,        label_count: 30985, group: high,   chosen: true}
+  - {code: hu,  name: Hungarian,  script: Latin,      label_count: 26993, group: high,   chosen: false}
+  - {code: he,  name: Hebrew,     script: Hebrew,     label_count: 22314, group: high,   chosen: false}
+  - {code: ko,  name: Korean,     script: Hangul,     label_count: 20589, group: high,   chosen: false}
+  - {code: tr,  name: Turkish,    script: Latin,      label_count: 19857, group: high,   chosen: false}
+  - {code: vi,  name: Vietnamese, script: Latin,      label_count: 16960, group: high,   chosen: true}
+  - {code: el,  name: Greek,      script: Greek,      label_count: 16227, group: high,   chosen: false}
+  - {code: ceb, name: Cebuano,    script: Latin,      label_count: 10212, group: medium, chosen: false}
+  - {code: war, name: Waray,      script: Latin,      label_count: 8489,  group: medium, chosen: false}
+  - {code: tl,  name: Tagalog,    script: Latin,      label_count: 7275,  group: medium, chosen: true}
+  - {code: mr,  name: Marathi,    script: Devanagari, label_count: 7039,  group: medium, chosen: false}
+  - {code: sw,  name: Swahili,    script: Latin,      label_count: 6362,  group: medium, chosen: true}
+  - {code: mg,  name: Malagasy,   script: Latin,      label_count: 5064,  group: medium, chosen: false}
+  - {code: yo,  name: Yoruba,     script: Latin,      label_count: 2715,  group: low,    chosen: true}
+  - {code: ilo, name: Ilocano,    script: Latin,      label_count: 2241,  group: low,    chosen: true}
+  - {code: pa,  name: Punjabi,    script: Gurmukhi,   label_count: 1759,  group: low,    chosen: false}  # labels are Shahmukhi, templates Gurmukhi: mixed script, dropped
