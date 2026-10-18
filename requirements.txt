@@ -1,0 +1,14 @@
+# Phase 2 environment (CPU only). Phase 3 adds torch, transformers, bitsandbytes etc.
+pandas
+pyarrow
+numpy
+scipy
+scikit-learn
+matplotlib
+pyyaml
+tqdm
+datasets
+jupyter
+nbconvert
+ipykernel
+pytest

@@ -22,7 +22,17 @@ Base paper: Datta, Chilukuri, Kumar, Ghosh & Zafar (2026). Do LLM hallucination 
 5. Technical report on results
 6. Final report (LaTeX)
 
-Run instructions are added as each phase lands.
+## Setup
+
+```
+python -m venv %USERPROFILE%envs26g6
+%USERPROFILE%envs26g6\Scriptsctivate
+pip install -r requirements.lock.txt
+python scripts/check_env.py
+git submodule update --init
+```
+
+`requirements.txt` lists the direct dependencies; `requirements.lock.txt` pins the exact versions (Python 3.11). Further run instructions are added as each phase lands.
 
 ## License
 
