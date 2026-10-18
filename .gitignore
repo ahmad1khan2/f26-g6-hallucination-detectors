@@ -1,0 +1,13 @@
+# Data, models and secrets
+data/raw/
+models/
+.env
+
+# Python and Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# Claude Code local files (never track)
+CLAUDE.md
+claude-notes/
+.claude/
