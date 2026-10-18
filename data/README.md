@@ -8,8 +8,8 @@ Raw data is rebuilt by `bash scripts/download_data.sh` (git-ignored under `data/
 | Dataset | Source | Version pinned | Licence |
 |---|---|---|---|
 | mTREx | https://github.com/aisoc-lab/low-resource-hallucination-detection, `data/mTREx/` | commit 644d655 (same as `third_party/` submodule) | MIT |
-| X-FACTR | https://github.com/jzbjyb/x-factr, `data/` | commit c1938ec | check repo (data derived from Wikidata/Wikipedia) |
-| PsiloQA | https://huggingface.co/datasets/s-nlp/PsiloQA | `load_dataset("s-nlp/PsiloQA")` on 2026-10-18 | check dataset card |
+| X-FACTR | https://github.com/jzbjyb/x-factr, `data/` | commit c1938ec | no licence file in the repository; data derived from Wikidata and Wikipedia |
+| PsiloQA | https://huggingface.co/datasets/s-nlp/PsiloQA | `load_dataset("s-nlp/PsiloQA")` on 2026-10-18, hub revision 375c332 | CC BY 4.0 (dataset card) |
 
 Commit hashes: `data/raw/mtrex_repo` = 644d6551e16c090a1ae3290c1d0e9635fcc157c7, `data/raw/xfactr` = c1938ec7262ebc34ac0b39daff3f446e103e8a87.
 

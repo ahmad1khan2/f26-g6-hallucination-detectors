@@ -37,7 +37,7 @@ def mtrex(cfg, findings):
         mean_accepted_answers=("n_gold", "mean"), multi_answer_share=("n_gold", lambda s: (s > 1).mean()),
         mean_question_chars=("prompt_chars", "mean")).round(2)
     stats.to_csv(EDA / "mtrex_answers.csv")
-    fig, ax = new_axes(width=6.5)
+    fig, ax = new_axes(width=6.5, height=2.7)
     counts.pivot(index="language", columns="category", values="raw_rows").plot.bar(
         ax=ax, color=[DARK, GREY, ACCENT], width=0.8)
     ax.axhline(counts.sampled_rows.iloc[0], color="black", lw=0.8, ls="--")

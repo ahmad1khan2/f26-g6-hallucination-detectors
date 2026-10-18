@@ -11,3 +11,9 @@ __pycache__/
 CLAUDE.md
 claude-notes/
 .claude/
+
+# Reports live outside the repo (Deliverables/N); only the Phase 6 report may live in report/final/
+report/*
+!report/final/
+*.pdf
+!report/final/**/*.pdf
