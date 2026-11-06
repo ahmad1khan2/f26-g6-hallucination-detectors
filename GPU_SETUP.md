@@ -84,12 +84,13 @@ After Part 1, clone or pull, then run this from the project folder and paste you
 powershell -ExecutionPolicy Bypass -File scripts\run_all.ps1 -Hours 24
 ```
 
-It runs setup, smoke, timing and full, restarts full up to 5 times after a crash (5 minutes apart), then runs verify and pushes the results. It stops without starting the long run if setup, smoke or timing fails.
+It runs setup, smoke, timing and full, restarts full up to 5 times after a crash (5 minutes apart), pushes the small result files about once an hour, then runs verify and pushes the results. It stops without starting the long run if setup, smoke or timing fails. `RUN_COMMANDS.md` lists every command for the run.
 
 - To check on it from another PowerShell window, in the project folder: `Get-Content results\raw\run_all.log -Tail 30 -Encoding Unicode`
-- It ends with `=== DONE` or `=== STOPPED`, and the reason is in the same log.
-- To stop it, press Ctrl-C or close the window. Run the same command to continue. Once timing has finished it goes straight to full and keeps its sizes, so `-Hours` then has no effect.
-- A Windows restart does not resume it by itself. Pause Windows Update for the run, and rerun the command if the PC restarts.
+- It ends with `=== DONE`, `=== PAUSED` or `=== STOPPED`, and the reason is in the same log.
+- To pause it, run `New-Item results\raw\PAUSE -ItemType File -Force` from another window in the project folder. It saves, exits and frees the GPU after the current item. Run the same command to continue. Once timing has finished it goes straight to full and keeps its sizes, so `-Hours` then has no effect.
+- Ctrl-C or closing the window also keeps finished work, but the run then starts again at your next sign-in.
+- After a Windows restart the run starts again when you sign in. A paused or finished run does not. Still pause Windows Update for the run, so it is not interrupted.
 - Send `results\raw\smoke\examples.txt` while mTREx runs. mTREx uses the authors' prompts, so a problem found in ours only affects the later X-FACTR and PsiloQA parts.
 
 Parts 2 and 3 below are the same steps run by hand.
@@ -154,7 +155,7 @@ Choose `--hours` to fit the time you have. This measures real speed, writes `con
 .venv\Scripts\python scripts\run_phase3.py full
 ```
 
-If it stops for any reason (crash, restart, Ctrl-C), run the same command again. It continues from where it stopped and redoes nothing. You can stop it whenever you need results, write up what has finished, and resume later.
+If it stops for any reason (crash, restart, pause, Ctrl-C), run the same command again. It continues from the last saved item, and at most one item or one classifier training is redone. You can stop it whenever you need results, write up what has finished, and resume later. To pause cleanly, run `New-Item results\raw\PAUSE -ItemType File -Force` from another window.
 
 Run it in the folder from step 6, and do not use the GPU for anything else meanwhile. After the English mTREx part it prints accuracy next to the paper's values. Send that if it shows a warning, but the run carries on either way. Items that fail are logged in `errors.jsonl` and retried on the next restart.
 
@@ -192,7 +193,7 @@ The same three commands also work part-way through a run, after stopping `full`,
 | `CUDA is not available` | Run the setup script again, then check `nvidia-smi` works |
 | Out of memory during sampling | Close other programs that use the GPU. Run `timing` again; it lowers the batch size by itself |
 | Text in the console looks garbled | Run `setx PYTHONUTF8 1` and open a new window. The saved files are unaffected |
-| The PC restarted during the run | Run the `full` command again |
+| The PC restarted during the run | Sign in. A run started with `run_all.ps1` starts again by itself. Otherwise run the `full` command again |
 | `full` says to run timing first | Run step 8, which writes the sizes `full` needs |
 | `py -3.11` is not found | Install Python 3.11 (step 2) and open a new window |
 | `git pull` refuses because of local changes | Send the output and do not discard anything; `results` may hold finished work |

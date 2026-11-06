@@ -2,6 +2,8 @@
 
 For a PC that has finished Parts 1 and 2 of `GPU_SETUP.md` (cloned, setup done, test question answered). Run everything in PowerShell. Starting takes about 5 minutes, then the run looks after itself.
 
+Pausing, resuming and every other command are listed in `RUN_COMMANDS.md`.
+
 ## 1. Update the code
 
 ```powershell
@@ -41,7 +43,7 @@ Then:
 - Keep the PC plugged in.
 - Close other programs that use the GPU, such as games, video editors and other AI tools.
 
-Locking the screen is fine. Do not sign out or shut down, because that ends the run.
+Locking the screen is fine. Signing out or shutting down stops the run until you next sign in, when it starts again by itself.
 
 ## 4. Start it
 
@@ -51,7 +53,7 @@ powershell -ExecutionPolicy Bypass -File scripts\run_all.ps1 -Hours 24
 
 Leave this window open. You can minimise it.
 
-It reruns setup (quick now), then smoke, timing and the full run. If the full run crashes, it restarts up to 5 times. At the end it checks the results and pushes them to GitHub by itself. Each stage continues from where it stopped, so no finished work is lost.
+It reruns setup (quick now), then smoke, timing and the full run. If the full run crashes, it restarts up to 5 times. It pushes the small result files about once an hour, and at the end it checks the results and pushes them by itself. The full run saves after every item and continues from there, so at most one item is redone. A stop during smoke or timing repeats that stage, and a smoke that passed is not repeated.
 
 `-Hours 24` is the time budget for the sampling detectors. The timing stage shrinks sampling to fit it. MAM always runs in full, so a very low number can be exceeded.
 
@@ -68,6 +70,7 @@ Get-Content results\raw\run_all.log -Tail 30 -Encoding Unicode
 |---|---|
 | Lines about `MAM`, `Classifiers` or `Sampling` | Running normally. Leave it |
 | `SMOKE PASS` further up, and `Total ETA` | Passed its checks. The ETA is the measured run time |
+| `=== PAUSED` | Paused as you asked. Everything is saved |
 | `=== STOPPED` | It stopped. Send the last 30 lines of the log |
 | `=== DONE` | Finished and pushed |
 
@@ -75,14 +78,7 @@ Also send `results\raw\smoke\examples.txt` when you can, so the sample answers g
 
 ## If you need results before it finishes
 
-Press Ctrl-C in the run window, then:
-
-```powershell
-.venv\Scripts\python scripts\run_phase3.py verify --partial
-git add results configs\run.yaml
-git commit -m "Add partial Phase 3 detector results"
-git push
-```
+Pause it, then send what exists. The commands are under "Stop early and send what exists" in `RUN_COMMANDS.md`.
 
 To continue later, run the command from step 4 again. It goes straight back to the full run and keeps its sizes.
 
@@ -90,11 +86,6 @@ The report also needs time, and the deadline is Nov 8, so plan to stop it with e
 
 ## If the PC restarts or loses power
 
-Open PowerShell and run steps 1 and 4 again, skipping `git pull`:
-
-```powershell
-cd $HOME\f26-g6-hallucination-detectors
-powershell -ExecutionPolicy Bypass -File scripts\run_all.ps1 -Hours 24
-```
+Sign in. The run starts again by itself in its own window and continues from the last saved item. If no window appears, run the command from step 4.
 
 Do not run `git pull` once the full run has started, because results from two code versions would mix.
