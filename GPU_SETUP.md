@@ -76,6 +76,24 @@ powercfg /change hibernate-timeout-ac 0
 
 You need at least 50 GB free. The last two lines stop the PC sleeping while plugged in. Keep it plugged in during the run.
 
+## Unattended: one command for all of Parts 2 and 3
+
+After Part 1, clone or pull, then run this from the project folder and paste your Hugging Face token when asked:
+
+```powershell
+powershell -ExecutionPolicy Bypass -File scripts\run_all.ps1 -Hours 24
+```
+
+It runs setup, smoke, timing and full, restarts full up to 5 times after a crash (5 minutes apart), then runs verify and pushes the results. It stops without starting the long run if setup, smoke or timing fails.
+
+- To check on it from another PowerShell window, in the project folder: `Get-Content results\raw\run_all.log -Tail 30 -Encoding Unicode`
+- It ends with `=== DONE` or `=== STOPPED`, and the reason is in the same log.
+- To stop it, press Ctrl-C or close the window. Run the same command to continue. Once timing has finished it goes straight to full and keeps its sizes, so `-Hours` then has no effect.
+- A Windows restart does not resume it by itself. Pause Windows Update for the run, and rerun the command if the PC restarts.
+- Send `results\raw\smoke\examples.txt` while mTREx runs. mTREx uses the authors' prompts, so a problem found in ours only affects the later X-FACTR and PsiloQA parts.
+
+Parts 2 and 3 below are the same steps run by hand.
+
 ## Part 2: set up the project
 
 ### 6. Clone and run the setup script
