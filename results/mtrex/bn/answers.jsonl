@@ -1,0 +1,719 @@
+{"uid": "mtrex-bn-capitals-000000", "answer": "কেপ জিরার্দো কাউন্টির রাজধানী হল কেপটাউন।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.7839372158050537}
+{"uid": "mtrex-bn-capitals-000001", "answer": "ভিলনিউস", "label": 1, "label_rule": "matches", "first_token_entropy": 2.4113516807556152}
+{"uid": "mtrex-bn-capitals-000002", "answer": "লিঙ্কন শহর।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.380181074142456}
+{"uid": "mtrex-bn-capitals-000003", "answer": "পেম্বিনা কাউন্টির রাজধানী হল পেম্বিনা।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.198502779006958}
+{"uid": "mtrex-bn-capitals-000004", "answer": "পোর্ট অফ স্পেন", "label": 1, "label_rule": "matches", "first_token_entropy": 2.1126108169555664}
+{"uid": "mtrex-bn-capitals-000005", "answer": "হনিরারারা", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2626805305480957}
+{"uid": "mtrex-bn-capitals-000006", "answer": "মেসেনিয়ার রাজধানী প্যাট্রাস।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.5382022857666016}
+{"uid": "mtrex-bn-capitals-000007", "answer": "খোরাসানের রাজধানী হল মাশহাদ।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4619178771972656}
+{"uid": "mtrex-bn-capitals-000008", "answer": "অক্সফোর্ডশায়ারের রাজধানী বাসিংস্টোক।", "label": 0, "label_rule": "matches", "first_token_entropy": 1.661205530166626}
+{"uid": "mtrex-bn-capitals-000009", "answer": "উস্ট-ইলিমস্কি জেলার রাজধানী হল উস্ট-ইল", "label": 0, "label_rule": "matches", "first_token_entropy": 1.1758909225463867}
+{"uid": "mtrex-bn-capitals-000010", "answer": "নেভেলস্কি জেলার রাজধানী হল নেভেলস্ক।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.1283491551876068}
+{"uid": "mtrex-bn-capitals-000011", "answer": "মেসিনা এর রাজধানী হল মেসিনা শহর।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.2595326900482178}
+{"uid": "mtrex-bn-capitals-000012", "answer": "তালিন", "label": 1, "label_rule": "matches", "first_token_entropy": 2.614684581756592}
+{"uid": "mtrex-bn-capitals-000013", "answer": "সেলবি জেলার রাজধানী হল সেলবি।", "label": 0, "label_rule": "matches", "first_token_entropy": 1.6651511192321777}
+{"uid": "mtrex-bn-capitals-000014", "answer": "সিমেরিয়ান বস্পোরাসের রাজধানী ছিল অ্যান্টিও�", "label": 1, "label_rule": "matches", "first_token_entropy": 2.636974334716797}
+{"uid": "mtrex-bn-capitals-000015", "answer": "মাদ্রিদ", "label": 0, "label_rule": "matches", "first_token_entropy": 0.22905461490154266}
+{"uid": "mtrex-bn-capitals-000016", "answer": "মাহাম", "label": 1, "label_rule": "matches", "first_token_entropy": 0.12891648709774017}
+{"uid": "mtrex-bn-capitals-000017", "answer": "আমস্টারডাম", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6024043560028076}
+{"uid": "mtrex-bn-capitals-000018", "answer": "প্যারিস।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.4100279808044434}
+{"uid": "mtrex-bn-capitals-000019", "answer": "আমস্টারডাম", "label": 1, "label_rule": "matches", "first_token_entropy": 2.0457470417022705}
+{"uid": "mtrex-bn-capitals-000020", "answer": "টোকিও", "label": 1, "label_rule": "matches", "first_token_entropy": 2.2498741149902344}
+{"uid": "mtrex-bn-capitals-000021", "answer": "স্টোকহোম।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.6135706901550293}
+{"uid": "mtrex-bn-capitals-000022", "answer": "ভাল দ'আরানের রাজধানী হল ভাল দ'আরান।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.656496286392212}
+{"uid": "mtrex-bn-capitals-000023", "answer": "উত্তর: নর্থাম্পটন কাউন্টির রাজধানী হল নর্থাম", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8812839984893799}
+{"uid": "mtrex-bn-capitals-000024", "answer": "জার্সি কাউন্টি, ইলিনয় এর রাজধানী হল জার্সি", "label": 1, "label_rule": "matches", "first_token_entropy": 0.391352117061615}
+{"uid": "mtrex-bn-capitals-000025", "answer": "বুয়েনস আইরেস", "label": 1, "label_rule": "matches", "first_token_entropy": 2.8694002628326416}
+{"uid": "mtrex-bn-capitals-000026", "answer": "ভ্যাস্টার্ন ইউনিয়নের রাজধানী হল ব্রুসেল�", "label": 1, "label_rule": "matches", "first_token_entropy": 2.38448166847229}
+{"uid": "mtrex-bn-capitals-000027", "answer": "পোর্টার কাউন্টির রাজধানী হল সাউথ কারোলাইনা", "label": 1, "label_rule": "matches", "first_token_entropy": 1.521028995513916}
+{"uid": "mtrex-bn-capitals-000028", "answer": "মাদ্রিদ", "label": 1, "label_rule": "matches", "first_token_entropy": 2.5671701431274414}
+{"uid": "mtrex-bn-capitals-000029", "answer": "সিস্কিউ কাউন্টির রাজধানী হল সিস্কিউ।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.401528835296631}
+{"uid": "mtrex-bn-capitals-000030", "answer": "চাঁদেলের রাজধানী হল প্রাইভে।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.719590187072754}
+{"uid": "mtrex-bn-capitals-000031", "answer": "বোলিখামসাই প্রদেশের রাজধানী হল বোলিখাম�", "label": 1, "label_rule": "matches", "first_token_entropy": 2.4481024742126465}
+{"uid": "mtrex-bn-capitals-000032", "answer": "বিট আগুসির রাজধানী হল বুয়েনোস আইরেস", "label": 1, "label_rule": "matches", "first_token_entropy": 2.276571035385132}
+{"uid": "mtrex-bn-capitals-000033", "answer": "জুইকাউ কাউন্টির রাজধানী হল ব্রাইটন।", "label": 0, "label_rule": "matches", "first_token_entropy": 2.635103225708008}
+{"uid": "mtrex-bn-capitals-000034", "answer": "মেদেলিন", "label": 1, "label_rule": "matches", "first_token_entropy": 0.15553808212280273}
+{"uid": "mtrex-bn-capitals-000035", "answer": "কিগালি", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2581375539302826}
+{"uid": "mtrex-bn-capitals-000036", "answer": "স্টোরনোবারি", "label": 1, "label_rule": "matches", "first_token_entropy": 2.459658145904541}
+{"uid": "mtrex-bn-capitals-000037", "answer": "প্যারিস", "label": 1, "label_rule": "matches", "first_token_entropy": 2.416412591934204}
+{"uid": "mtrex-bn-capitals-000038", "answer": "যুবা কাউন্টির রাজধানী হল মেইকন।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.1687302589416504}
+{"uid": "mtrex-bn-capitals-000039", "answer": "মমচিলগ্রাদ পৌরসভার রাজধানী মমচিলগ্রাদ।", "label": 0, "label_rule": "matches", "first_token_entropy": 1.828621745109558}
+{"uid": "mtrex-bn-capitals-000040", "answer": "ইন্টিবুকা বিভাগের রাজধানী হল ইন্টিবুকা।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.144789695739746}
+{"uid": "mtrex-bn-capitals-000041", "answer": "পানাজি", "label": 0, "label_rule": "matches", "first_token_entropy": 0.06911437213420868}
+{"uid": "mtrex-bn-capitals-000042", "answer": "পিট্সবার্গ", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6139749884605408}
+{"uid": "mtrex-bn-capitals-000043", "answer": "কোকোস দ্বীপপুঞ্জের রাজধানী হল ওয়ে�", "label": 1, "label_rule": "matches", "first_token_entropy": 2.153632402420044}
+{"uid": "mtrex-bn-capitals-000044", "answer": "লুসাকান", "label": 1, "label_rule": "matches", "first_token_entropy": 2.381182909011841}
+{"uid": "mtrex-bn-capitals-000045", "answer": "উইল্টজ (ক্যান্টন) এর রাজধানী হল উইল্টজ।", "label": 0, "label_rule": "matches", "first_token_entropy": 2.1787219047546387}
+{"uid": "mtrex-bn-capitals-000046", "answer": "মাখচকালা", "label": 1, "label_rule": "matches", "first_token_entropy": 2.0412821769714355}
+{"uid": "mtrex-bn-capitals-000047", "answer": "ফেরারার প্রদেশের রাজধানী হল ফেরারার প্রদেশ", "label": 0, "label_rule": "matches", "first_token_entropy": 1.9372013807296753}
+{"uid": "mtrex-bn-capitals-000048", "answer": "রোম", "label": 1, "label_rule": "matches", "first_token_entropy": 0.011636704206466675}
+{"uid": "mtrex-bn-capitals-000049", "answer": "ল্যান্ডস্ক্রোনা পৌরসভা এর রাজধানী ল্যান্ড�", "label": 0, "label_rule": "matches", "first_token_entropy": 1.6620514392852783}
+{"uid": "mtrex-bn-capitals-000050", "answer": "ওয়েস্টমিথের রাজধানী হল ব্রাইটন।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.224954605102539}
+{"uid": "mtrex-bn-capitals-000051", "answer": "বাসেল-ল্যান্ডের রাজধানী লিস্টাল।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0816844701766968}
+{"uid": "mtrex-bn-capitals-000052", "answer": "কোকোমো", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5132408142089844}
+{"uid": "mtrex-bn-capitals-000053", "answer": "ফ্রেডরিক।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.144354820251465}
+{"uid": "mtrex-bn-capitals-000054", "answer": "স্টোরোজিনেটস রায়নের রাজধানী হল স্টোরো", "label": 1, "label_rule": "matches", "first_token_entropy": 2.180696487426758}
+{"uid": "mtrex-bn-capitals-000055", "answer": "হাল্মস্টাড", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9622423648834229}
+{"uid": "mtrex-bn-capitals-000056", "answer": "মোটালা", "label": 1, "label_rule": "matches", "first_token_entropy": 1.448871374130249}
+{"uid": "mtrex-bn-capitals-000057", "answer": "পেটালুমা", "label": 1, "label_rule": "matches", "first_token_entropy": 2.952500820159912}
+{"uid": "mtrex-bn-capitals-000058", "answer": "তেহামা কাউন্টির রাজধানী হল মার্শালটাউন।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.7828328609466553}
+{"uid": "mtrex-bn-capitals-000059", "answer": "লাওসো", "label": 1, "label_rule": "matches", "first_token_entropy": 2.1446948051452637}
+{"uid": "mtrex-bn-capitals-000060", "answer": "কাশকাদার্যো প্রদেশের রাজধানী হল কাশকাদার্�", "label": 1, "label_rule": "matches", "first_token_entropy": 2.440577983856201}
+{"uid": "mtrex-bn-capitals-000061", "answer": "পোডগোরিসা", "label": 1, "label_rule": "matches", "first_token_entropy": 0.12039415538311005}
+{"uid": "mtrex-bn-capitals-000062", "answer": "পার্স প্রদেশের রাজধানী হল বুশেহর।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.385042190551758}
+{"uid": "mtrex-bn-capitals-000063", "answer": "হ্যানয়ি", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06837399303913116}
+{"uid": "mtrex-bn-capitals-000064", "answer": "সিম্ফেরোপল জেলার রাজধানী হল সিম্ফেরোপল।", "label": 0, "label_rule": "matches", "first_token_entropy": 1.7496953010559082}
+{"uid": "mtrex-bn-capitals-000065", "answer": "পোলকোভিচি জেলার রাজধানী হল পোলকোভিচ", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1813888549804688}
+{"uid": "mtrex-bn-capitals-000066", "answer": "হারিফুনছাই এর রাজধানী হল বামসি।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.5733165740966797}
+{"uid": "mtrex-bn-capitals-000067", "answer": "প্যারি", "label": 1, "label_rule": "matches", "first_token_entropy": 0.11001849919557571}
+{"uid": "mtrex-bn-capitals-000068", "answer": "আর্কাচনের আরন্ডিসমঁতের রাজধানী হল আর্কাচন।", "label": 0, "label_rule": "matches", "first_token_entropy": 2.5242953300476074}
+{"uid": "mtrex-bn-capitals-000069", "answer": "কোপেনহ্যাগেন।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.13998837769031525}
+{"uid": "mtrex-bn-capitals-000070", "answer": "ফর্সহাগা পৌরসভার রাজধানী হল ফর্সহাগা।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2649617195129395}
+{"uid": "mtrex-bn-capitals-000071", "answer": "রালি।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.826236367225647}
+{"uid": "mtrex-bn-capitals-000072", "answer": "ত্রাকাই জেলা পৌরসভা এর রাজধানী হল ত্রাকাই।", "label": 0, "label_rule": "matches", "first_token_entropy": 1.5841985940933228}
+{"uid": "mtrex-bn-capitals-000073", "answer": "দাদরা ও নগর হাভেলির রাজধানী পালিফ্রম।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.6039199829101562}
+{"uid": "mtrex-bn-capitals-000074", "answer": "সেন্ট জর্জেস", "label": 1, "label_rule": "matches", "first_token_entropy": 1.724409580230713}
+{"uid": "mtrex-bn-capitals-000075", "answer": "ইগবল্যান্ডের রাজধানী হল প্রেটোরিয়া।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.5306143760681152}
+{"uid": "mtrex-bn-capitals-000076", "answer": "ট্রান্সিলভানিয়া কাউন্টির রাজধানী হল ক্লুজ", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5934239625930786}
+{"uid": "mtrex-bn-capitals-000077", "answer": "মালাগাসি রাজধানী হল বুজিয়াপুর।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3796303272247314}
+{"uid": "mtrex-bn-capitals-000078", "answer": "কাল্যাজিনস্কি জেলার রাজধানী হল কাল্যাজিনস্ক", "label": 0, "label_rule": "matches", "first_token_entropy": 2.0406458377838135}
+{"uid": "mtrex-bn-capitals-000079", "answer": "চুভাশ স্বায়ত্তশাসিত সোভিয়েত সমাজতান্�", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7762703895568848}
+{"uid": "mtrex-bn-capitals-000080", "answer": "আলতায়ের রাজধানী হল নুয়াকশোটি।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.2768959999084473}
+{"uid": "mtrex-bn-capitals-000081", "answer": "লা গুজিরা এর রাজধানী লা পাজ।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2940723896026611}
+{"uid": "mtrex-bn-capitals-000082", "answer": "জিহ্লাভা জেলার রাজধানী হল জিহ্লাভা।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4703421592712402}
+{"uid": "mtrex-bn-capitals-000083", "answer": "সমার প্রদেশের রাজধানী হল সমার।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.097449541091919}
+{"uid": "mtrex-bn-capitals-000084", "answer": "ওয়ারি ডোমেইনের রাজধানী হল বুয়েটান।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.3568921089172363}
+{"uid": "mtrex-bn-capitals-000085", "answer": "গ্রিগস কাউন্টির রাজধানী হল গ্রিগস।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.2841358184814453}
+{"uid": "mtrex-bn-capitals-000086", "answer": "পেনসিলভেনিয়া", "label": 1, "label_rule": "matches", "first_token_entropy": 2.7763290405273438}
+{"uid": "mtrex-bn-capitals-000087", "answer": "গুয়াংজু", "label": 1, "label_rule": "matches", "first_token_entropy": 2.293869972229004}
+{"uid": "mtrex-bn-capitals-000088", "answer": "ব্রিস্টল", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3781092166900635}
+{"uid": "mtrex-bn-capitals-000089", "answer": "বেয়রুথ।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8519816398620605}
+{"uid": "mtrex-bn-capitals-000090", "answer": "প্যারিস।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.8314614295959473}
+{"uid": "mtrex-bn-capitals-000091", "answer": "ওয়্যার রাজধানী হল ওয়্যার।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7580815553665161}
+{"uid": "mtrex-bn-capitals-000092", "answer": "পাম বিচ কাউন্টির রাজধানী হল পাম বিচ।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8758714199066162}
+{"uid": "mtrex-bn-capitals-000093", "answer": "ডিস্ট্রিটো সেন্ট্রালের রাজধানী হল লুসিয়া।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.578587532043457}
+{"uid": "mtrex-bn-capitals-000094", "answer": "টর্সবি", "label": 0, "label_rule": "matches", "first_token_entropy": 1.4432061910629272}
+{"uid": "mtrex-bn-capitals-000095", "answer": "গোথেনবার্গ", "label": 0, "label_rule": "matches", "first_token_entropy": 0.07888968288898468}
+{"uid": "mtrex-bn-capitals-000096", "answer": "এবার্সবার্গ (জেলা) এর রাজধানী এবার্সবার্গ।", "label": 0, "label_rule": "matches", "first_token_entropy": 2.2042031288146973}
+{"uid": "mtrex-bn-capitals-000097", "answer": "আহমেদাবাদ", "label": 1, "label_rule": "matches", "first_token_entropy": 2.5066471099853516}
+{"uid": "mtrex-bn-capitals-000098", "answer": "স্টাভ্রোপোল ক্রাই এর রাজধানী হল স্টাভ্রো�", "label": 0, "label_rule": "matches", "first_token_entropy": 1.8625162839889526}
+{"uid": "mtrex-bn-capitals-000099", "answer": "তেরেক অঞ্চলের রাজধানী হল নাইজেরিয়া।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.7236366271972656}
+{"uid": "mtrex-bn-capitals-000100", "answer": "নেগোটিনো পৌরসভার রাজধানী নেগোটিনো।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.08542051911354065}
+{"uid": "mtrex-bn-capitals-000101", "answer": "ভ্যালেন্সোলের ক্যান্টনের রাজধানী ভ্যালেন্সো�", "label": 0, "label_rule": "matches", "first_token_entropy": 1.114071249961853}
+{"uid": "mtrex-bn-capitals-000102", "answer": "অসলো", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6342166662216187}
+{"uid": "mtrex-bn-capitals-000103", "answer": "ম্যারিয়ন কাউন্টির রাজধানী হল ম্যারিয়ন।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.3952064514160156}
+{"uid": "mtrex-bn-capitals-000104", "answer": "গুপ্তরা এর রাজধানী ছিল পাটলীপুত্র।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.519763708114624}
+{"uid": "mtrex-bn-capitals-000105", "answer": "সিমকো কাউন্টির রাজধানী হল সিমকো।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.071147918701172}
+{"uid": "mtrex-bn-capitals-000106", "answer": "কেইলা প্যারিশের রাজধানী হল কেইলা।", "label": 0, "label_rule": "matches", "first_token_entropy": 2.7790775299072266}
+{"uid": "mtrex-bn-capitals-000107", "answer": "জিজান অঞ্চলের রাজধানী হল জিজান।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.571225643157959}
+{"uid": "mtrex-bn-capitals-000108", "answer": "পাটলিপুত্র", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8162081241607666}
+{"uid": "mtrex-bn-capitals-000109", "answer": "থেনন ক্যান্টনের রাজধানী হল থেনন।", "label": 0, "label_rule": "matches", "first_token_entropy": 1.8730545043945312}
+{"uid": "mtrex-bn-capitals-000110", "answer": "ফের্নিয়ান্ডেল", "label": 1, "label_rule": "matches", "first_token_entropy": 2.6984527111053467}
+{"uid": "mtrex-bn-capitals-000111", "answer": "বার্কসডেল", "label": 1, "label_rule": "matches", "first_token_entropy": 2.136566638946533}
+{"uid": "mtrex-bn-capitals-000112", "answer": "টেবিলল্যান্ডস অঞ্চলের রাজধানী হল ক্যাসল�", "label": 1, "label_rule": "matches", "first_token_entropy": 2.7764742374420166}
+{"uid": "mtrex-bn-capitals-000113", "answer": "সাকোন", "label": 1, "label_rule": "matches", "first_token_entropy": 2.576756000518799}
+{"uid": "mtrex-bn-capitals-000114", "answer": "ম্যানিটুলিন জেলার রাজধানী হল ম্যানিটুলিন।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.105502128601074}
+{"uid": "mtrex-bn-capitals-000115", "answer": "মারকেট কাউন্টির রাজধানী হল মারকেট।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7737232446670532}
+{"uid": "mtrex-bn-capitals-000116", "answer": "শাহজাহানাবাদ (আগমনীপুর)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.209303617477417}
+{"uid": "mtrex-bn-capitals-000117", "answer": "পারিশ", "label": 1, "label_rule": "matches", "first_token_entropy": 2.651883363723755}
+{"uid": "mtrex-bn-capitals-000118", "answer": "কর্সুন-শেভচেঙ্কিভস্কি জেলার রাজধানী হল �", "label": 1, "label_rule": "matches", "first_token_entropy": 1.656538486480713}
+{"uid": "mtrex-bn-capitals-000119", "answer": "ব্রাইস সিটি।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4451797008514404}
+{"uid": "mtrex-bn-capitals-000120", "answer": "টুটলিংগেন (জেলা) এর রাজধানী হল টুটলিং�", "label": 0, "label_rule": "matches", "first_token_entropy": 1.9476828575134277}
+{"uid": "mtrex-bn-capitals-000121", "answer": "বাসেল-কান্ট্রির রাজধানী লুসান।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.824284553527832}
+{"uid": "mtrex-bn-capitals-000122", "answer": "মিনারেলনি বানী পৌরসভা এর রাজধানী মিনারেলন", "label": 0, "label_rule": "matches", "first_token_entropy": 2.061951160430908}
+{"uid": "mtrex-bn-capitals-000123", "answer": "চিলটন কাউন্টির রাজধানী হল চিলটন।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.0387110710144043}
+{"uid": "mtrex-bn-capitals-000124", "answer": "মেডিও তেজোর রাজধানী হল প্রাইভা", "label": 1, "label_rule": "matches", "first_token_entropy": 2.3622522354125977}
+{"uid": "mtrex-bn-capitals-000125", "answer": "বেডওর্থ - বেডওর্থ শহর, বেডওর্থের রাজধানী।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.851574420928955}
+{"uid": "mtrex-bn-capitals-000126", "answer": "সাভিনি-লে-টেম্পল ক্যান্টনের রাজধানী হল সাভ", "label": 0, "label_rule": "matches", "first_token_entropy": 2.5697109699249268}
+{"uid": "mtrex-bn-capitals-000127", "answer": "সিয়েনা", "label": 0, "label_rule": "matches", "first_token_entropy": 1.5406265258789062}
+{"uid": "mtrex-bn-capitals-000128", "answer": "টমাসউইল কাউন্টি", "label": 1, "label_rule": "matches", "first_token_entropy": 2.0390045642852783}
+{"uid": "mtrex-bn-capitals-000129", "answer": "হানয়", "label": 0, "label_rule": "matches", "first_token_entropy": 0.19542594254016876}
+{"uid": "mtrex-bn-capitals-000130", "answer": "গমিনা মুশিনার রাজধানী হল মুশিনা।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.657121419906616}
+{"uid": "mtrex-bn-capitals-000131", "answer": "গজনফর (বর্তমান পাকিস্তানের পাঞ্জাব প্রদেশের �", "label": 1, "label_rule": "matches", "first_token_entropy": 2.4763360023498535}
+{"uid": "mtrex-bn-capitals-000132", "answer": "তাইপেই", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8659669160842896}
+{"uid": "mtrex-bn-capitals-000133", "answer": "লোস লুনাস", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2908134460449219}
+{"uid": "mtrex-bn-capitals-000134", "answer": "কনস্টান্টিনোপল।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.342193067073822}
+{"uid": "mtrex-bn-capitals-000135", "answer": "কারাস অঞ্চলের রাজধানী হল কারাস।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.6011245250701904}
+{"uid": "mtrex-bn-capitals-000136", "answer": "আলমোরাভিদসের রাজধানী হল মানাগুয়া।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.2147936820983887}
+{"uid": "mtrex-bn-capitals-000137", "answer": "এমেট কাউন্টির রাজধানী হল এমেট।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.280787706375122}
+{"uid": "mtrex-bn-capitals-000138", "answer": "ত্রোসা", "label": 0, "label_rule": "matches", "first_token_entropy": 1.4613934755325317}
+{"uid": "mtrex-bn-capitals-000139", "answer": "গারিসা কাউন্টির রাজধানী হল গারিসা।", "label": 0, "label_rule": "matches", "first_token_entropy": 2.1306657791137695}
+{"uid": "mtrex-bn-capitals-000140", "answer": "উইচিতা কাউন্টির রাজধানী হল উইচিতা।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7518285512924194}
+{"uid": "mtrex-bn-capitals-000141", "answer": "একাতেরিনোস্লাভের রাজধানী হল একাতেরিনোস্ল", "label": 1, "label_rule": "matches", "first_token_entropy": 2.2602486610412598}
+{"uid": "mtrex-bn-capitals-000142", "answer": "তেরামো প্রদেশের রাজধানী হল তেরামো।", "label": 0, "label_rule": "matches", "first_token_entropy": 2.497448444366455}
+{"uid": "mtrex-bn-capitals-000143", "answer": "কায়েস অঞ্চলের রাজধানী রাজশাহী।", "label": 0, "label_rule": "matches", "first_token_entropy": 2.601733684539795}
+{"uid": "mtrex-bn-capitals-000144", "answer": "তানারো (বিভাগ) এর রাজধানী হল বান্দরবান।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.910830020904541}
+{"uid": "mtrex-bn-capitals-000145", "answer": "ইলোকোস সুরের রাজধানী হল মানাদো", "label": 1, "label_rule": "matches", "first_token_entropy": 2.6475777626037598}
+{"uid": "mtrex-bn-capitals-000146", "answer": "হারদাপ অঞ্চলের রাজধানী হারদাপ।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.209913730621338}
+{"uid": "mtrex-bn-capitals-000147", "answer": "হায়দ্রাবাদ", "label": 0, "label_rule": "matches", "first_token_entropy": 0.12999361753463745}
+{"uid": "mtrex-bn-capitals-000148", "answer": "বেথানি", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6318237781524658}
+{"uid": "mtrex-bn-capitals-000149", "answer": "ব্রাটিসলাভা", "label": 1, "label_rule": "matches", "first_token_entropy": 2.011442184448242}
+{"uid": "mtrex-bn-capitals-000150", "answer": "স্টুটগার্ট (অঞ্চল) এর রাজধানী স্টুটগার্�", "label": 0, "label_rule": "matches", "first_token_entropy": 0.9116684198379517}
+{"uid": "mtrex-bn-capitals-000151", "answer": "মুক্ত রাজ্যের রাজধানী হল কলকাতা।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.5291318893432617}
+{"uid": "mtrex-bn-capitals-000152", "answer": "ব্রেসুইলের আর্নবিডসমেন্টের রাজধানী হল ব", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8203308582305908}
+{"uid": "mtrex-bn-capitals-000153", "answer": "ওয়ারেন কাউন্টির রাজধানী হল ওয়ারেন।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.48852095007896423}
+{"uid": "mtrex-bn-capitals-000154", "answer": "টার্টার রেয়নের রাজধানী হল টার্টার রেয়ন শ", "label": 1, "label_rule": "matches", "first_token_entropy": 2.6050660610198975}
+{"uid": "mtrex-bn-capitals-000155", "answer": "লাহোর", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4638675451278687}
+{"uid": "mtrex-bn-capitals-000156", "answer": "বুয়েনোস আইরেস", "label": 1, "label_rule": "matches", "first_token_entropy": 2.938422203063965}
+{"uid": "mtrex-bn-capitals-000157", "answer": "ম্যাটাগোর্দা কাউন্টির রাজধানী হল ম্যাটাগোর্দ", "label": 1, "label_rule": "matches", "first_token_entropy": 2.480949640274048}
+{"uid": "mtrex-bn-capitals-000158", "answer": "হ্যানোভেরিয়ানের রাজধানী হল সারাজেভো।", "label": 0, "label_rule": "matches", "first_token_entropy": 1.7140493392944336}
+{"uid": "mtrex-bn-capitals-000159", "answer": "ইয়েরেসের ক্যান্টনের রাজধানী হল বুয়েনো", "label": 0, "label_rule": "matches", "first_token_entropy": 2.2842512130737305}
+{"uid": "mtrex-bn-capitals-000160", "answer": "গিফহর্ন (জেলা) এর রাজধানী হল গিফহর্ন।", "label": 0, "label_rule": "matches", "first_token_entropy": 1.7852119207382202}
+{"uid": "mtrex-bn-capitals-000161", "answer": "হসিংচু কাউন্টির রাজধানী হল হসিংচু।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.9316431283950806}
+{"uid": "mtrex-bn-capitals-000162", "answer": "সিসনকের রাজধানী হল বাংকডু।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.206925868988037}
+{"uid": "mtrex-bn-capitals-000163", "answer": "জিলেসপি কাউন্টির রাজধানী হল জিলেসপি।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.4746718406677246}
+{"uid": "mtrex-bn-capitals-000164", "answer": "মেইকোসাকি", "label": 1, "label_rule": "matches", "first_token_entropy": 2.5179309844970703}
+{"uid": "mtrex-bn-capitals-000165", "answer": "গারফিল্ড কাউন্টির রাজধানী হল এমারি।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.421761989593506}
+{"uid": "mtrex-bn-capitals-000166", "answer": "শাবলা পৌরসভার রাজধানী হল শাবলা।", "label": 0, "label_rule": "matches", "first_token_entropy": 1.4535466432571411}
+{"uid": "mtrex-bn-capitals-000167", "answer": "বিকলের রাজধানী হল বিকল।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.2756500244140625}
+{"uid": "mtrex-bn-capitals-000168", "answer": "আদিস আবাবা", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9173111319541931}
+{"uid": "mtrex-bn-capitals-000169", "answer": "পাকপট্টি", "label": 1, "label_rule": "matches", "first_token_entropy": 2.686133861541748}
+{"uid": "mtrex-bn-capitals-000170", "answer": "কুদিমকারস্কি জেলার রাজধানী হল কুদিমকার", "label": 0, "label_rule": "matches", "first_token_entropy": 2.525252103805542}
+{"uid": "mtrex-bn-capitals-000171", "answer": "মন্টে পার্টিডোর রাজধানী হল প্রাইয়া।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.9194093942642212}
+{"uid": "mtrex-bn-capitals-000172", "answer": "ধুলে জেলার রাজধানী হল ধুলে।", "label": 0, "label_rule": "matches", "first_token_entropy": 1.6999861001968384}
+{"uid": "mtrex-bn-capitals-000173", "answer": "বিডল কাউন্টির রাজধানী হল মিউরিয়া।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7761929035186768}
+{"uid": "mtrex-bn-capitals-000174", "answer": "অসিওলা কাউন্টির রাজধানী হল অসিওলা।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.7740068435668945}
+{"uid": "mtrex-bn-capitals-000175", "answer": "মহারাষ্ট্রের রাজধানী হল মুম্বাই।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0741012915968895}
+{"uid": "mtrex-bn-capitals-000176", "answer": "হারারে", "label": 1, "label_rule": "matches", "first_token_entropy": 2.2143023014068604}
+{"uid": "mtrex-bn-capitals-000177", "answer": "সিভিটাস স্কাইনেস্গের রাজধানী হল স্টোমা।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.532773494720459}
+{"uid": "mtrex-bn-capitals-000178", "answer": "আরএসকে এর রাজধানী হল স্ট্রাইজবার্গ।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.303288459777832}
+{"uid": "mtrex-bn-capitals-000179", "answer": "টার্ন-এট-গ্যারনের রাজধানী হল লুক্সেমবার", "label": 1, "label_rule": "matches", "first_token_entropy": 2.6250810623168945}
+{"uid": "mtrex-bn-capitals-000180", "answer": "মস্কো", "label": 0, "label_rule": "matches", "first_token_entropy": 0.3053257465362549}
+{"uid": "mtrex-bn-capitals-000181", "answer": "সিআরও এর রাজধানী সিঙ্গাপুর।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.1251707077026367}
+{"uid": "mtrex-bn-capitals-000182", "answer": "পোর্টেজ কাউন্টির রাজধানী হল পোর্টেজ।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5855937004089355}
+{"uid": "mtrex-bn-capitals-000183", "answer": "সেন্ট্রো সুর প্রদেশের রাজধানী হল সেন্ট্রো", "label": 1, "label_rule": "matches", "first_token_entropy": 2.4336161613464355}
+{"uid": "mtrex-bn-capitals-000184", "answer": "খোতান রাজ্যের রাজধানী ছাতালগাই।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2761859893798828}
+{"uid": "mtrex-bn-capitals-000185", "answer": "ইসলামিক স্টেট এর রাজধানী হলো বাগদাদ।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.774578332901001}
+{"uid": "mtrex-bn-capitals-000186", "answer": "ফ্লেমিশ অঞ্চলের রাজধানী হল ব্রাটিসলাভা।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.1929008960723877}
+{"uid": "mtrex-bn-capitals-000187", "answer": "কুমিল্লা", "label": 0, "label_rule": "matches", "first_token_entropy": 0.2185620218515396}
+{"uid": "mtrex-bn-capitals-000188", "answer": "পাইস", "label": 1, "label_rule": "matches", "first_token_entropy": 2.726555585861206}
+{"uid": "mtrex-bn-capitals-000189", "answer": "খাইবার-পাখতুনখোয়া এর রাজধানী কুয়ে�", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8362729549407959}
+{"uid": "mtrex-bn-capitals-000190", "answer": "গ্রেসলি", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2930457592010498}
+{"uid": "mtrex-bn-capitals-000191", "answer": "মায়সান প্রদেশের রাজধানী হল লালো।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.6750612258911133}
+{"uid": "mtrex-bn-capitals-000192", "answer": "সাম্বুরু কাউন্টির রাজধানী হল সাম্বুরু।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.2467198371887207}
+{"uid": "mtrex-bn-capitals-000193", "answer": "ডুবনো জেলার রাজধানী হল ডুবনো।", "label": 0, "label_rule": "matches", "first_token_entropy": 2.8074047565460205}
+{"uid": "mtrex-bn-capitals-000194", "answer": "গুজেলইউর্ট জেলার রাজধানী হল গুজেলইউ", "label": 0, "label_rule": "matches", "first_token_entropy": 1.5141980648040771}
+{"uid": "mtrex-bn-capitals-000195", "answer": "টোকুগাওয়া শোগুনের রাজধানী হল টোকু", "label": 1, "label_rule": "matches", "first_token_entropy": 1.9367797374725342}
+{"uid": "mtrex-bn-capitals-000196", "answer": "ভোইভোদিনা এর রাজধানী হল প্রাইভিট।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7193812131881714}
+{"uid": "mtrex-bn-capitals-000197", "answer": "ভিগো কাউন্টির রাজধানী হল ভিগো।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9389598369598389}
+{"uid": "mtrex-bn-capitals-000198", "answer": "পিননবার্গ (জেলা) এর রাজধানী হল পিননবার্গ।", "label": 0, "label_rule": "matches", "first_token_entropy": 2.0539774894714355}
+{"uid": "mtrex-bn-capitals-000199", "answer": "উপালা (ক্যান্টন) এর রাজধানী হল উপালা।", "label": 0, "label_rule": "matches", "first_token_entropy": 1.9175301790237427}
+{"uid": "mtrex-bn-capitals-000200", "answer": "সিজেন-উইটগেনস্টাইনের রাজধানী হল সিজেন।", "label": 0, "label_rule": "matches", "first_token_entropy": 2.048593044281006}
+{"uid": "mtrex-bn-capitals-000201", "answer": "মেইকন শহর।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.639315605163574}
+{"uid": "mtrex-bn-capitals-000202", "answer": "পশ্চিম গঙ্গা রাজবংশের রাজধানী ছিল কোটা।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.7297463417053223}
+{"uid": "mtrex-bn-capitals-000203", "answer": "আমাস্যা প্রদেশের রাজধানী হল আমাস্যা।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.441895008087158}
+{"uid": "mtrex-bn-capitals-000204", "answer": "আস্তানা", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4078708291053772}
+{"uid": "mtrex-bn-capitals-000205", "answer": "মারকেট কাউন্টির রাজধানী হল মারকেট।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.578036308288574}
+{"uid": "mtrex-bn-capitals-000206", "answer": "পানাজি", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06842043250799179}
+{"uid": "mtrex-bn-capitals-000207", "answer": "লুসেইন", "label": 1, "label_rule": "matches", "first_token_entropy": 2.6565961837768555}
+{"uid": "mtrex-bn-capitals-000208", "answer": "হাইনান দ্বীপের রাজধানী হল হাইকু।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.5090208053588867}
+{"uid": "mtrex-bn-capitals-000209", "answer": "স্কাভিনা রাজধানী হল সুবারু।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.507944107055664}
+{"uid": "mtrex-bn-capitals-000210", "answer": "দুশানবে", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7787076234817505}
+{"uid": "mtrex-bn-capitals-000211", "answer": "লিংবি-টারবেক", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2534927129745483}
+{"uid": "mtrex-bn-capitals-000212", "answer": "কার্কসি প্যারিশের রাজধানী হল কার্কসি প্যারিশ", "label": 1, "label_rule": "matches", "first_token_entropy": 2.603299856185913}
+{"uid": "mtrex-bn-capitals-000213", "answer": "উরাল।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2110741138458252}
+{"uid": "mtrex-bn-capitals-000214", "answer": "পামপ্লোনা উপত্যকা এর রাজধানী হল পামপ্লো", "label": 0, "label_rule": "matches", "first_token_entropy": 2.6164276599884033}
+{"uid": "mtrex-bn-capitals-000215", "answer": "ওডোঙ্গা শহরের রাজধানী হল ওডোঙ্গা।", "label": 0, "label_rule": "matches", "first_token_entropy": 2.084681987762451}
+{"uid": "mtrex-bn-capitals-000216", "answer": "নেফটেয়ুগানস্কি জেলার রাজধানী হল নেফট", "label": 0, "label_rule": "matches", "first_token_entropy": 0.2107534557580948}
+{"uid": "mtrex-bn-capitals-000217", "answer": "ফাল্টন কাউন্টি, ওহাইও এর রাজধানী হল ফাল্টন।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.0790371894836426}
+{"uid": "mtrex-bn-capitals-000218", "answer": "দক্ষিণ হল্যান্ডের রাজধানী হল দেন হাখ।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8716163635253906}
+{"uid": "mtrex-bn-capitals-000219", "answer": "কিমরস্কি জেলার রাজধানী হল কিমরস্কি।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.1478681564331055}
+{"uid": "mtrex-bn-capitals-000220", "answer": "সেলজুকের রাজধানী ছিল সেলেকুইয়া।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.04238224029541}
+{"uid": "mtrex-bn-capitals-000221", "answer": "পশ্চিম টিরোনের রাজধানী হল বান্দুলক।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.800171375274658}
+{"uid": "mtrex-bn-capitals-000222", "answer": "খলিফা রাজধানী ছিল খোরাসানের শহর নিশাপুর।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3803915977478027}
+{"uid": "mtrex-bn-capitals-000223", "answer": "ওয়ারউইকশায়ার কাউন্টি কাউন্সিলের রাজধান�", "label": 0, "label_rule": "matches", "first_token_entropy": 1.6732490062713623}
+{"uid": "mtrex-bn-capitals-000224", "answer": "ট্রয়েসের ক্যান্টন-৬ এর রাজধানী হল বাংলাদ", "label": 1, "label_rule": "matches", "first_token_entropy": 2.763080596923828}
+{"uid": "mtrex-bn-capitals-000225", "answer": "ব্রাসেলস।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07042539119720459}
+{"uid": "mtrex-bn-capitals-000226", "answer": "বুয়েনোস আইরেস", "label": 1, "label_rule": "matches", "first_token_entropy": 2.5440945625305176}
+{"uid": "mtrex-bn-capitals-000227", "answer": "প্যারিস", "label": 1, "label_rule": "matches", "first_token_entropy": 2.446176767349243}
+{"uid": "mtrex-bn-capitals-000228", "answer": "ঝাপা এর রাজধানী হল বান্দুলকান্দি।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.304489850997925}
+{"uid": "mtrex-bn-capitals-000229", "answer": "ভানুয়াতুর রাজধানী হল পোর্ট ভিলা।", "label": 0, "label_rule": "matches", "first_token_entropy": 1.1275670528411865}
+{"uid": "mtrex-bn-capitals-000230", "answer": "ওয়াইট হোর্স।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2759582996368408}
+{"uid": "mtrex-bn-capitals-000231", "answer": "ত্রোয়েসের আরন্ডিসমঁতের রাজধানী হল ত্র�", "label": 1, "label_rule": "matches", "first_token_entropy": 2.3221445083618164}
+{"uid": "mtrex-bn-capitals-000232", "answer": "উলগানবাতোর", "label": 1, "label_rule": "matches", "first_token_entropy": 2.7840094566345215}
+{"uid": "mtrex-bn-capitals-000233", "answer": "ম্যাসিডন রেঞ্জেসের রাজধানী হল ম্যাসিডন।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.802363634109497}
+{"uid": "mtrex-bn-capitals-000234", "answer": "কাস্তিলিয়ার রাজধানী হল সান ফেরনান্দো।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.4586565494537354}
+{"uid": "mtrex-bn-capitals-000235", "answer": "কোল কাউন্টি, মিসৌরির রাজধানী হল কোল কাউন্�", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4389629364013672}
+{"uid": "mtrex-bn-capitals-000236", "answer": "বুলান্দশহর", "label": 1, "label_rule": "matches", "first_token_entropy": 3.1146440505981445}
+{"uid": "mtrex-bn-capitals-000237", "answer": "ওবারলিন।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.271616816520691}
+{"uid": "mtrex-bn-capitals-000238", "answer": "পিয়েরিয়া মেলেনসিয়ার রাজধানী।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.6856849193573}
+{"uid": "mtrex-bn-capitals-000239", "answer": "ওয়েস্টন", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8832061290740967}
+{"uid": "mtrex-bn-capitals-000240", "answer": "ব্রাটিসলাভা", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2418031692504883}
+{"uid": "mtrex-bn-capitals-000241", "answer": "বিলমা বিভাগের রাজধানী হল বিলমা।", "label": 0, "label_rule": "matches", "first_token_entropy": 2.379939317703247}
+{"uid": "mtrex-bn-capitals-000242", "answer": "রাবাত", "label": 0, "label_rule": "matches", "first_token_entropy": 0.19087252020835876}
+{"uid": "mtrex-bn-capitals-000243", "answer": "মরবিহানের রাজধানী হল মারবিহান।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.719447135925293}
+{"uid": "mtrex-bn-capitals-000244", "answer": "এভ্রিটানিয়ার রাজধানী নজান।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.510605812072754}
+{"uid": "mtrex-bn-capitals-000245", "answer": "পোখহারা", "label": 1, "label_rule": "matches", "first_token_entropy": 2.9925575256347656}
+{"uid": "mtrex-bn-capitals-000246", "answer": "প্রিওজারস্কি জেলার রাজধানী হল প্রিওজারস্ক", "label": 1, "label_rule": "matches", "first_token_entropy": 2.2503809928894043}
+{"uid": "mtrex-bn-capitals-000247", "answer": "চেস্টার", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5900068283081055}
+{"uid": "mtrex-bn-capitals-000248", "answer": "এইকেন কাউন্টির রাজধানী হল এইকেন।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.2776832580566406}
+{"uid": "mtrex-bn-capitals-000249", "answer": "চেরি কাউন্টির রাজধানী হল সাভানাহ।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7635555267333984}
+{"uid": "mtrex-bn-capitals-000250", "answer": "বাগদা", "label": 1, "label_rule": "matches", "first_token_entropy": 2.410332679748535}
+{"uid": "mtrex-bn-capitals-000251", "answer": "হেইলংজিয়াং প্রদেশের রাজধানী হেইলংজি�", "label": 1, "label_rule": "matches", "first_token_entropy": 2.4293100833892822}
+{"uid": "mtrex-bn-capitals-000252", "answer": "কান্ডালাকশস্কি জেলার রাজধানী হল কান্ডালাকশ", "label": 1, "label_rule": "matches", "first_token_entropy": 2.5215184688568115}
+{"uid": "mtrex-bn-capitals-000253", "answer": "স্টারাচোভিসে কাউন্টির রাজধানী হল স্টারাচোভ", "label": 0, "label_rule": "matches", "first_token_entropy": 2.456850290298462}
+{"uid": "mtrex-bn-capitals-000254", "answer": "কেনজোজো জেলার রাজধানী হল কেনজোজো।", "label": 0, "label_rule": "matches", "first_token_entropy": 2.0548176765441895}
+{"uid": "mtrex-bn-capitals-000255", "answer": "তাশকেন্ট অঞ্চলের রাজধানী হল তাশকেন্দ।", "label": 0, "label_rule": "matches", "first_token_entropy": 1.944496750831604}
+{"uid": "mtrex-bn-capitals-000256", "answer": "মন্টবাঁ জেলার প্রশাসনিক অঞ্চল এর রাজধানী হ", "label": 1, "label_rule": "matches", "first_token_entropy": 2.4177825450897217}
+{"uid": "mtrex-bn-capitals-000257", "answer": "বেলফোর্ট।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.9109047651290894}
+{"uid": "mtrex-bn-capitals-000258", "answer": "উত্তরপুর", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4761074781417847}
+{"uid": "mtrex-bn-capitals-000259", "answer": "কেন্দুজহার", "label": 0, "label_rule": "matches", "first_token_entropy": 2.1364974975585938}
+{"uid": "mtrex-bn-capitals-000260", "answer": "আমুর অঞ্চলের রাজধানী হল ফুচোও।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.245424270629883}
+{"uid": "mtrex-bn-capitals-000261", "answer": "ইয়র্ক কাউন্টির রাজধানী হল ইয়র্ক।", "label": 0, "label_rule": "matches", "first_token_entropy": 2.3118526935577393}
+{"uid": "mtrex-bn-capitals-000262", "answer": "কুইবেসা", "label": 1, "label_rule": "matches", "first_token_entropy": 2.8346099853515625}
+{"uid": "mtrex-bn-capitals-000263", "answer": "ব্রাটসেলস।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.46422645449638367}
+{"uid": "mtrex-bn-capitals-000264", "answer": "ক্যাস্টেলসারাসিন-১ এর রাজধানী ছিল ক্যাস্টেল", "label": 1, "label_rule": "matches", "first_token_entropy": 2.4161758422851562}
+{"uid": "mtrex-bn-capitals-000265", "answer": "ভাল-ডি'ওয়াজের রাজধানী হল ভাল-ডি'ওয়া", "label": 1, "label_rule": "matches", "first_token_entropy": 2.129558563232422}
+{"uid": "mtrex-bn-capitals-000266", "answer": "বালরামপুর", "label": 1, "label_rule": "matches", "first_token_entropy": 2.158914566040039}
+{"uid": "mtrex-bn-capitals-000267", "answer": "সিসিলির আমিরাতের রাজধানী হল সিস।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6309309005737305}
+{"uid": "mtrex-bn-capitals-000268", "answer": "ভারখয়ানস্কি", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7290376424789429}
+{"uid": "mtrex-bn-capitals-000269", "answer": "মওয়াঞ্জা অঞ্চলের রাজধানী হল মওয়াঞ্�", "label": 1, "label_rule": "matches", "first_token_entropy": 2.724064826965332}
+{"uid": "mtrex-bn-capitals-000270", "answer": "মন্টেরেজির রাজধানী হল লুয়ান্ডা।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7888675928115845}
+{"uid": "mtrex-bn-capitals-000271", "answer": "লুডভিকা পৌরসভা এর রাজধানী লুডভিকা।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9312649965286255}
+{"uid": "mtrex-bn-capitals-000272", "answer": "চাগুয়াজু বিভাগের রাজধানী হল চাগুয়াজ", "label": 1, "label_rule": "matches", "first_token_entropy": 2.259014129638672}
+{"uid": "mtrex-bn-capitals-000273", "answer": "কুচিচিং কাউন্টির রাজধানী হল কুচিচিং।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.460287570953369}
+{"uid": "mtrex-bn-capitals-000274", "answer": "শাওয়ানো কাউন্টির রাজধানী হল শাওয়ানো।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8091251850128174}
+{"uid": "mtrex-bn-capitals-000275", "answer": "বেসামরিক নাজাকা", "label": 1, "label_rule": "matches", "first_token_entropy": 2.5986485481262207}
+{"uid": "mtrex-bn-capitals-000276", "answer": "টোকিও", "label": 1, "label_rule": "matches", "first_token_entropy": 2.396005153656006}
+{"uid": "mtrex-bn-capitals-000277", "answer": "টালবট কাউন্টির রাজধানী হল টালবট শহর।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7047359943389893}
+{"uid": "mtrex-bn-capitals-000278", "answer": "সান জোসে", "label": 1, "label_rule": "matches", "first_token_entropy": 2.442197322845459}
+{"uid": "mtrex-bn-capitals-000279", "answer": "অগ্নেবীর রাজধানী হল বুলগোজা।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.708141326904297}
+{"uid": "mtrex-bn-capitals-000280", "answer": "পেইজ কাউন্টি", "label": 1, "label_rule": "matches", "first_token_entropy": 2.8462631702423096}
+{"uid": "mtrex-bn-capitals-000281", "answer": "ব্রাটিসলাভা", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6295440196990967}
+{"uid": "mtrex-bn-capitals-000282", "answer": "ভারখনোদনিপ্রোভস্ক জেলার রাজধানী হল ভার�", "label": 1, "label_rule": "matches", "first_token_entropy": 2.358102321624756}
+{"uid": "mtrex-bn-capitals-000283", "answer": "দুখোভশ্চিনস্কি জেলার রাজধানী হল দুখো", "label": 1, "label_rule": "matches", "first_token_entropy": 2.7100539207458496}
+{"uid": "mtrex-bn-capitals-000284", "answer": "হার্টফোর্ড", "label": 0, "label_rule": "matches", "first_token_entropy": 1.4361779689788818}
+{"uid": "mtrex-bn-capitals-000285", "answer": "বেরলিন।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.37222546339035034}
+{"uid": "mtrex-bn-capitals-000286", "answer": "ওমস্ক অঞ্চলের রাজধানী হল ওমস্ক।", "label": 0, "label_rule": "matches", "first_token_entropy": 1.9127213954925537}
+{"uid": "mtrex-bn-capitals-000287", "answer": "উরমিয়া", "label": 0, "label_rule": "matches", "first_token_entropy": 1.9270895719528198}
+{"uid": "mtrex-bn-capitals-000288", "answer": "আল ওয়াহাতের রাজধানী হল সানা'আ", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5797230005264282}
+{"uid": "mtrex-bn-capitals-000289", "answer": "উত্তর কায়ং রিজেন্সির রাজধানী হল উত্তর কায", "label": 1, "label_rule": "matches", "first_token_entropy": 2.3993020057678223}
+{"uid": "mtrex-bn-capitals-000290", "answer": "উত্তর-পশ্চিমের রাজধানী হল গুয়াজারাত।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.727430820465088}
+{"uid": "mtrex-bn-capitals-000291", "answer": "মস্কোভ।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.3876199722290039}
+{"uid": "mtrex-bn-capitals-000292", "answer": "মনরো কাউন্টি, ফ্লোরিডার রাজধানী হল মনরো।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.0386264324188232}
+{"uid": "mtrex-bn-capitals-000293", "answer": "সিটি বান্তো।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6739091873168945}
+{"uid": "mtrex-bn-capitals-000294", "answer": "অটাওয়া কাউন্টি, ওকলাহোমার রাজধানী হল অ", "label": 1, "label_rule": "matches", "first_token_entropy": 2.499727725982666}
+{"uid": "mtrex-bn-capitals-000295", "answer": "সাওগাত", "label": 1, "label_rule": "matches", "first_token_entropy": 2.5139241218566895}
+{"uid": "mtrex-bn-capitals-000296", "answer": "ভোজভোদিনা এর রাজধানী হল মিনস্ক", "label": 1, "label_rule": "matches", "first_token_entropy": 1.087289571762085}
+{"uid": "mtrex-bn-capitals-000297", "answer": "ট্রাইভেনা", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2783989906311035}
+{"uid": "mtrex-bn-capitals-000298", "answer": "বাবিলোন", "label": 1, "label_rule": "matches", "first_token_entropy": 0.11471599340438843}
+{"uid": "mtrex-bn-capitals-000299", "answer": "ভিলিউইস্কি জেলার রাজধানী হল ভিলিউইস্কি।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1523892879486084}
+{"uid": "mtrex-bn-capitals-000300", "answer": "পারান", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9098296761512756}
+{"uid": "mtrex-bn-capitals-000301", "answer": "লুক্সেমবার্গ", "label": 1, "label_rule": "matches", "first_token_entropy": 2.3473916053771973}
+{"uid": "mtrex-bn-capitals-000302", "answer": "বাল্টিস্কি জেলার রাজধানী হল বাল্টিস্ক।", "label": 0, "label_rule": "matches", "first_token_entropy": 1.0337480306625366}
+{"uid": "mtrex-bn-capitals-000303", "answer": "সান মাতেও", "label": 1, "label_rule": "matches", "first_token_entropy": 1.9111148118972778}
+{"uid": "mtrex-bn-capitals-000304", "answer": "গরজকোভিসে পৌরসভার রাজধানী হল গরজকোভ", "label": 1, "label_rule": "matches", "first_token_entropy": 1.154646635055542}
+{"uid": "mtrex-bn-capitals-000305", "answer": "সুসা", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4581005573272705}
+{"uid": "mtrex-bn-capitals-000306", "answer": "মোনরো, ওহাইও", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3972883224487305}
+{"uid": "mtrex-bn-capitals-000307", "answer": "ট্রুপ কাউন্টির রাজধানী হল ট্রুপটন।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.1766557693481445}
+{"uid": "mtrex-bn-capitals-000308", "answer": "মালাক্কি জেলার রাজধানী মালাক্কি।", "label": 0, "label_rule": "matches", "first_token_entropy": 1.8126838207244873}
+{"uid": "mtrex-bn-capitals-000309", "answer": "হনোই আন্সিয়ে", "label": 1, "label_rule": "matches", "first_token_entropy": 0.17277899384498596}
+{"uid": "mtrex-bn-capitals-000310", "answer": "ব্রুকস কাউন্টির রাজধানী হল ব্রুকস।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.427525043487549}
+{"uid": "mtrex-bn-capitals-000311", "answer": "নিউরবিনস্ক জেলার রাজধানী হল নিউরবিনস্ক।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.35672444105148315}
+{"uid": "mtrex-bn-capitals-000312", "answer": "ভেনেজুয়েলা", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1850534677505493}
+{"uid": "mtrex-bn-capitals-000313", "answer": "লং আইল্যান্ড", "label": 1, "label_rule": "matches", "first_token_entropy": 2.134249687194824}
+{"uid": "mtrex-bn-capitals-000314", "answer": "ভিগো", "label": 0, "label_rule": "matches", "first_token_entropy": 1.2471319437026978}
+{"uid": "mtrex-bn-capitals-000315", "answer": "সেমারাং রিজেন্সির রাজধানী হল সেমারাং।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.1727919578552246}
+{"uid": "mtrex-bn-capitals-000316", "answer": "ভালদিভিয়া প্রদেশের রাজধানী হল ভালদিভিয়", "label": 0, "label_rule": "matches", "first_token_entropy": 2.2541849613189697}
+{"uid": "mtrex-bn-capitals-000317", "answer": "মালাটি", "label": 1, "label_rule": "matches", "first_token_entropy": 1.794187068939209}
+{"uid": "mtrex-bn-capitals-000318", "answer": "আলবরজ প্রদেশের রাজধানী হল আলবরজ।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.531630039215088}
+{"uid": "mtrex-bn-capitals-000319", "answer": "প্রাচাতিৎজ জেলার রাজধানী হল প্রাচাতিৎজ।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.282137155532837}
+{"uid": "mtrex-bn-capitals-000320", "answer": "লিপজিগ", "label": 1, "label_rule": "matches", "first_token_entropy": 2.09450101852417}
+{"uid": "mtrex-bn-capitals-000321", "answer": "সেন্ট ক্যাথরিন এর রাজধানী জেমসটাউন।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.519361972808838}
+{"uid": "mtrex-bn-capitals-000322", "answer": "বার্চটেসগাডেনার ল্যান্ডের রাজধানী হল ব্রান্�", "label": 1, "label_rule": "matches", "first_token_entropy": 2.6520895957946777}
+{"uid": "mtrex-bn-capitals-000323", "answer": "মস্কোভ।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.642777442932129}
+{"uid": "mtrex-bn-capitals-000324", "answer": "অ্যাভেল্লিনোর প্রদেশের রাজধানী হল অ্যাভেল", "label": 1, "label_rule": "matches", "first_token_entropy": 2.62463116645813}
+{"uid": "mtrex-bn-capitals-000325", "answer": "ল হো-সেন্ট-ফ্রাঁসোয়া আঞ্চলিক কাউন্টি প�", "label": 1, "label_rule": "matches", "first_token_entropy": 1.9691015481948853}
+{"uid": "mtrex-bn-capitals-000326", "answer": "কায়ুংগা জেলার রাজধানী হল কায়ুংগা।", "label": 0, "label_rule": "matches", "first_token_entropy": 2.365007162094116}
+{"uid": "mtrex-bn-capitals-000327", "answer": "ডেনিজলি প্রদেশের রাজধানী হল বোগোরা।", "label": 0, "label_rule": "matches", "first_token_entropy": 2.6345696449279785}
+{"uid": "mtrex-bn-capitals-000328", "answer": "মলোদেচনো অঞ্চলের রাজধানী হল মলোদা।", "label": 0, "label_rule": "matches", "first_token_entropy": 2.6639604568481445}
+{"uid": "mtrex-bn-capitals-000329", "answer": "লা রিওখা প্রদেশের রাজধানী লা রিওখা।", "label": 0, "label_rule": "matches", "first_token_entropy": 1.4552767276763916}
+{"uid": "mtrex-bn-capitals-000330", "answer": "ভিয়েনা", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7911388874053955}
+{"uid": "mtrex-bn-capitals-000331", "answer": "জয়সিংথরি", "label": 1, "label_rule": "matches", "first_token_entropy": 2.2074365615844727}
+{"uid": "mtrex-bn-capitals-000332", "answer": "লৌখস্কি জেলার রাজধানী হল লৌখস্কি।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.9736013412475586}
+{"uid": "mtrex-bn-capitals-000333", "answer": "ডামফ্রিজ এবং গ্যালোওয়ে এর রাজধানী হলো", "label": 0, "label_rule": "matches", "first_token_entropy": 2.6005520820617676}
+{"uid": "mtrex-bn-capitals-000334", "answer": "অস্ট্রোগোজস্কি জেলার রাজধানী হল অস্ট্র", "label": 1, "label_rule": "matches", "first_token_entropy": 2.492191791534424}
+{"uid": "mtrex-bn-capitals-000335", "answer": "অরেঞ্জবার্গ কাউন্টির রাজধানী অরেঞ্জবার্গ।", "label": 0, "label_rule": "matches", "first_token_entropy": 1.7814713716506958}
+{"uid": "mtrex-bn-capitals-000336", "answer": "কিশিনেভোস্ক।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.743816375732422}
+{"uid": "mtrex-bn-capitals-000337", "answer": "মাহাগাম", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09990396350622177}
+{"uid": "mtrex-bn-capitals-000338", "answer": "এঞ্জেলিনা কাউন্টির রাজধানী হল এঞ্জেলিনা।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.4382543563842773}
+{"uid": "mtrex-bn-capitals-000339", "answer": "স্টার্লিং কাউন্টির রাজধানী স্টার্লিং।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.9522404670715332}
+{"uid": "mtrex-bn-capitals-000340", "answer": "আলবানি", "label": 1, "label_rule": "matches", "first_token_entropy": 3.0614514350891113}
+{"uid": "mtrex-bn-capitals-000341", "answer": "আদিগেহা এর রাজধানী হল বাখতাকাবাদ।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.271339178085327}
+{"uid": "mtrex-bn-capitals-000342", "answer": "আবুজা", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2875053882598877}
+{"uid": "mtrex-bn-capitals-000343", "answer": "ত্রুবচেভস্কি জেলার রাজধানী হল ত্রুবচে", "label": 1, "label_rule": "matches", "first_token_entropy": 2.216479539871216}
+{"uid": "mtrex-bn-capitals-000344", "answer": "আর্জোলিস এবং করিন্থিয়া প্রিফেকচার এর রাজ�", "label": 1, "label_rule": "matches", "first_token_entropy": 2.1655197143554688}
+{"uid": "mtrex-bn-capitals-000345", "answer": "ফেল্পস কাউন্টির রাজধানী হল ফেল্পস।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.1546337604522705}
+{"uid": "mtrex-bn-capitals-000346", "answer": "ক্রিটেনডেন কাউন্টির রাজধানী হল ক্রিটেনডেন।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.562476634979248}
+{"uid": "mtrex-bn-capitals-000347", "answer": "ব্রিটিশ সোমালিল্যান্ড প্রোটেক্টরেট এর রাজধ", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1782515048980713}
+{"uid": "mtrex-bn-capitals-000348", "answer": "হিবিস্কাস কোস্ট স্থানীয় পৌরসভার রাজধান�", "label": 1, "label_rule": "matches", "first_token_entropy": 0.941423237323761}
+{"uid": "mtrex-bn-capitals-000349", "answer": "এহিমে প্রিফেকচারের রাজধানী হল বোইসি।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.672027111053467}
+{"uid": "mtrex-bn-capitals-000350", "answer": "মাসেরু।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.8245201110839844}
+{"uid": "mtrex-bn-capitals-000351", "answer": "ফ্রি হোল্ডার জেলার রাজধানী হল ফ্রি হোল্ডা�", "label": 1, "label_rule": "matches", "first_token_entropy": 2.871771812438965}
+{"uid": "mtrex-bn-capitals-000352", "answer": "দুশান্ববে", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2133034467697144}
+{"uid": "mtrex-bn-capitals-000353", "answer": "হিল্ডেসহাইমের রাজধানী হল হিল্ডেসহাইম।", "label": 0, "label_rule": "matches", "first_token_entropy": 2.0766191482543945}
+{"uid": "mtrex-bn-capitals-000354", "answer": "উডফোর্ড কাউন্টির রাজধানী উডফোর্ড।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.005221366882324}
+{"uid": "mtrex-bn-capitals-000355", "answer": "বাগলপুর", "label": 1, "label_rule": "matches", "first_token_entropy": 3.0535972118377686}
+{"uid": "mtrex-bn-capitals-000356", "answer": "ব্রাটিসলাভা", "label": 1, "label_rule": "matches", "first_token_entropy": 2.7511401176452637}
+{"uid": "mtrex-bn-capitals-000357", "answer": "শেনানডোয়া কাউন্টির রাজধানী হল শেনানডোয", "label": 1, "label_rule": "matches", "first_token_entropy": 2.3225865364074707}
+{"uid": "mtrex-bn-capitals-000358", "answer": "পশ্চিমাঞ্চলের রাজধানী হল গুয়াহাটি।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.7315902709960938}
+{"uid": "mtrex-bn-capitals-000359", "answer": "বার্বাডোসের রাজধানী হল জর্জটাউন।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8300323486328125}
+{"uid": "mtrex-bn-capitals-000360", "answer": "পোর্ট সেন্ট জন্স", "label": 1, "label_rule": "matches", "first_token_entropy": 2.3354783058166504}
+{"uid": "mtrex-bn-capitals-000361", "answer": "আদিগেয়ার রাজধানী হল মানাগু।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.014712333679199}
+{"uid": "mtrex-bn-capitals-000362", "answer": "গার্ডেন্ডার", "label": 1, "label_rule": "matches", "first_token_entropy": 2.489328384399414}
+{"uid": "mtrex-bn-capitals-000363", "answer": "এনিডা", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8294801712036133}
+{"uid": "mtrex-bn-capitals-000364", "answer": "পের্ম ক্রাই এর রাজধানী হল বাংখাই।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.105968952178955}
+{"uid": "mtrex-bn-capitals-000365", "answer": "ব্রুক প্রশাসনের রাজধানী হল ব্রুকসেল।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8792424201965332}
+{"uid": "mtrex-bn-capitals-000366", "answer": "ম্যানসফিল্ড।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5753092765808105}
+{"uid": "mtrex-bn-capitals-000367", "answer": "কলেটন কাউন্টির রাজধানী হল কলেটন।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.4025046825408936}
+{"uid": "mtrex-bn-capitals-000368", "answer": "উলান বাদার", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4609432220458984}
+{"uid": "mtrex-bn-capitals-000369", "answer": "হার্জেগ-বসনিয়া কাউন্টির রাজধানী হার্জেগ।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.1388344764709473}
+{"uid": "mtrex-bn-capitals-000370", "answer": "লারামি কাউন্টির রাজধানী হল লারামি।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6425886154174805}
+{"uid": "mtrex-bn-capitals-000371", "answer": "মিলে ল্যাক্স কাউন্টির রাজধানী হল মিলে ল্যাক্স।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.5033297538757324}
+{"uid": "mtrex-bn-capitals-000372", "answer": "ওগোউয়ে-মারিটাইম প্রদেশের রাজধানী হল বা�", "label": 1, "label_rule": "matches", "first_token_entropy": 2.5267333984375}
+{"uid": "mtrex-bn-capitals-000373", "answer": "চণ্ডীগড়", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6068578362464905}
+{"uid": "mtrex-bn-capitals-000374", "answer": "চেরাসের রাজধানী হল নাইজেরিয়া।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.8218793869018555}
+{"uid": "mtrex-bn-capitals-000375", "answer": "বার্সেলোনা", "label": 0, "label_rule": "matches", "first_token_entropy": 0.08255475759506226}
+{"uid": "mtrex-bn-capitals-000376", "answer": "লেক্কোর প্রদেশের রাজধানী হল লেক্কো।", "label": 0, "label_rule": "matches", "first_token_entropy": 1.7374025583267212}
+{"uid": "mtrex-bn-capitals-000377", "answer": "অষ্টিয়ান কাউন্টির রাজধানী হল অষ্টিয়ান।", "label": 0, "label_rule": "matches", "first_token_entropy": 2.411803722381592}
+{"uid": "mtrex-bn-capitals-000378", "answer": "গমিনা ভোজনিচের রাজধানী হল বাতুমি।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.5381760597229004}
+{"uid": "mtrex-bn-capitals-000379", "answer": "মনাকো", "label": 1, "label_rule": "matches", "first_token_entropy": 2.3173329830169678}
+{"uid": "mtrex-bn-capitals-000380", "answer": "চুদনিভ রায়নের রাজধানী হল ব্রাটল।", "label": 0, "label_rule": "matches", "first_token_entropy": 2.7115392684936523}
+{"uid": "mtrex-bn-capitals-000381", "answer": "ঝামেরকান্দা", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7429250478744507}
+{"uid": "mtrex-bn-capitals-000382", "answer": "সেন্ট জর্জ প্যারিশ, সেন্ট ভিনসেন্ট এবং গ্রেনাড", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5512659549713135}
+{"uid": "mtrex-bn-capitals-000383", "answer": "উত্তর কানারা এর রাজধানী তারাওতা।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.429871082305908}
+{"uid": "mtrex-bn-capitals-000384", "answer": "তিয়েরা ডেল ফুয়েগো প্রদেশের রাজধানী হ", "label": 1, "label_rule": "matches", "first_token_entropy": 2.2841575145721436}
+{"uid": "mtrex-bn-capitals-000385", "answer": "সেন্ট জর্জেস", "label": 1, "label_rule": "matches", "first_token_entropy": 2.1602656841278076}
+{"uid": "mtrex-bn-capitals-000386", "answer": "লভিভ অঞ্চলের রাজধানী হল লভিভ।", "label": 0, "label_rule": "matches", "first_token_entropy": 1.8857303857803345}
+{"uid": "mtrex-bn-capitals-000387", "answer": "উড কাউন্টির রাজধানী হল ব্লুফোন্টেন।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.430802822113037}
+{"uid": "mtrex-bn-capitals-000388", "answer": "লিবারেক অঞ্চলের রাজধানী হল বাংগোই।", "label": 0, "label_rule": "matches", "first_token_entropy": 2.6130261421203613}
+{"uid": "mtrex-bn-capitals-000389", "answer": "জেজারসলেন্ড", "label": 1, "label_rule": "matches", "first_token_entropy": 2.1268858909606934}
+{"uid": "mtrex-bn-capitals-000390", "answer": "বিলেজিক প্রদেশের রাজধানী হল বিলেজিক।", "label": 0, "label_rule": "matches", "first_token_entropy": 2.3913326263427734}
+{"uid": "mtrex-bn-capitals-000391", "answer": "গ্রান্ডি কাউন্টির রাজধানী হল গ্রান্ড বেই।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8920235633850098}
+{"uid": "mtrex-bn-capitals-000392", "answer": "বুকারেস্ট", "label": 1, "label_rule": "matches", "first_token_entropy": 2.390195846557617}
+{"uid": "mtrex-bn-capitals-000393", "answer": "বাগদাদ", "label": 0, "label_rule": "matches", "first_token_entropy": 0.7769399285316467}
+{"uid": "mtrex-bn-capitals-000394", "answer": "হাডসন কাউন্টির রাজধানী হল হাডসন।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4754905700683594}
+{"uid": "mtrex-bn-capitals-000395", "answer": "হেরাত।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.260521411895752}
+{"uid": "mtrex-bn-capitals-000396", "answer": "সান্তান্ডার এর রাজধানী হল সান্তান্ডার সিটি।", "label": 0, "label_rule": "matches", "first_token_entropy": 2.009795665740967}
+{"uid": "mtrex-bn-capitals-000397", "answer": "ভেইমার সরকারের রাজধানী হলো বার্মিংহাম।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.096327543258667}
+{"uid": "mtrex-bn-capitals-000398", "answer": "বুয়েনোস আইরেস", "label": 1, "label_rule": "matches", "first_token_entropy": 2.65816593170166}
+{"uid": "mtrex-bn-capitals-000399", "answer": "ফ্লোরিয়েন্স।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8815726041793823}
+{"uid": "mtrex-bn-capitals-000400", "answer": "গ্রানমা প্রদেশের রাজধানী হল কাবুল।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.256162166595459}
+{"uid": "mtrex-bn-capitals-000401", "answer": "প্রিশ্টিনা", "label": 1, "label_rule": "matches", "first_token_entropy": 2.4772605895996094}
+{"uid": "mtrex-bn-capitals-000402", "answer": "ডেগেনফোর্ড জেলার রাজধানী হল ডেগেনফোর্ড।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.8599696159362793}
+{"uid": "mtrex-bn-capitals-000403", "answer": "কিটো", "label": 1, "label_rule": "matches", "first_token_entropy": 0.20996832847595215}
+{"uid": "mtrex-bn-capitals-000404", "answer": "প্যারিস।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.19930022954940796}
+{"uid": "mtrex-bn-capitals-000405", "answer": "বার্লিন", "label": 1, "label_rule": "matches", "first_token_entropy": 2.369277000427246}
+{"uid": "mtrex-bn-capitals-000406", "answer": "ব্রিক্সেনের বিশপের পদের রাজধানী হল ব্রিক্সেন", "label": 0, "label_rule": "matches", "first_token_entropy": 2.0742955207824707}
+{"uid": "mtrex-bn-capitals-000407", "answer": "ডেভিডসন কাউন্টির রাজধানী হল ডেভিডসন।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.45704984664917}
+{"uid": "mtrex-bn-capitals-000408", "answer": "ডোমেকিকা", "label": 1, "label_rule": "matches", "first_token_entropy": 2.5410873889923096}
+{"uid": "mtrex-bn-capitals-000409", "answer": "ওবক অঞ্চলের রাজধানী হল বালিকপানি।", "label": 0, "label_rule": "matches", "first_token_entropy": 2.4628310203552246}
+{"uid": "mtrex-bn-capitals-000410", "answer": "বেরেজিভকা", "label": 0, "label_rule": "matches", "first_token_entropy": 1.060551643371582}
+{"uid": "mtrex-bn-capitals-000411", "answer": "আসুন হাগুই", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6844334602355957}
+{"uid": "mtrex-bn-capitals-000412", "answer": "ব্রাটল", "label": 1, "label_rule": "matches", "first_token_entropy": 2.6345531940460205}
+{"uid": "mtrex-bn-capitals-000413", "answer": "তানিনথরী বিভাগের রাজধানী হল বান্দরবান।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.698660373687744}
+{"uid": "mtrex-bn-capitals-000414", "answer": "বিজার্ত গভর্নরেটের রাজধানী ছাবাহ।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.3740129470825195}
+{"uid": "mtrex-bn-capitals-000415", "answer": "সেলিউসিডের রাজধানী ছিল সেলেউকি।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0636382102966309}
+{"uid": "mtrex-bn-capitals-000416", "answer": "টভার এর রাজপুত্র এর রাজধানী ছিল প্রস্তুম", "label": 0, "label_rule": "matches", "first_token_entropy": 2.4087095260620117}
+{"uid": "mtrex-bn-capitals-000417", "answer": "তিখভিনস্কি জেলার রাজধানী হল তিখভিনস্ক।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.1156163215637207}
+{"uid": "mtrex-bn-capitals-000418", "answer": "প্রিস্টিনা", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09530593454837799}
+{"uid": "mtrex-bn-capitals-000419", "answer": "বার্লিন", "label": 1, "label_rule": "matches", "first_token_entropy": 1.626825213432312}
+{"uid": "mtrex-bn-capitals-000420", "answer": "সান ডিয়েগো", "label": 1, "label_rule": "matches", "first_token_entropy": 2.8820316791534424}
+{"uid": "mtrex-bn-capitals-000421", "answer": "জেরুজালেম", "label": 0, "label_rule": "matches", "first_token_entropy": 1.1102750301361084}
+{"uid": "mtrex-bn-capitals-000422", "answer": "বামিয়ান", "label": 0, "label_rule": "matches", "first_token_entropy": 1.4201332330703735}
+{"uid": "mtrex-bn-capitals-000423", "answer": "ট্যালাহাসি", "label": 1, "label_rule": "matches", "first_token_entropy": 0.31001996994018555}
+{"uid": "mtrex-bn-capitals-000424", "answer": "ওকলাহোমা সিটি।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4885659217834473}
+{"uid": "mtrex-bn-capitals-000425", "answer": "ব্রিজটাউন", "label": 1, "label_rule": "matches", "first_token_entropy": 2.5930261611938477}
+{"uid": "mtrex-bn-capitals-000426", "answer": "আঘলাবিদসের রাজধানী হল বিশকা।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.537266492843628}
+{"uid": "mtrex-bn-capitals-000427", "answer": "সামার।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.335754632949829}
+{"uid": "mtrex-bn-capitals-000428", "answer": "এথেন্স", "label": 0, "label_rule": "matches", "first_token_entropy": 0.7460340261459351}
+{"uid": "mtrex-bn-capitals-000429", "answer": "কনস্ট্যানজ (জেলা) এর রাজধানী হল কনস্ট্যান�", "label": 0, "label_rule": "matches", "first_token_entropy": 1.706848382949829}
+{"uid": "mtrex-bn-capitals-000430", "answer": "ওয়েবার কাউন্টি, ইউটাহ এর রাজধানী হল ব্রি�", "label": 1, "label_rule": "matches", "first_token_entropy": 2.1061837673187256}
+{"uid": "mtrex-bn-capitals-000431", "answer": "পিজানস্ক", "label": 1, "label_rule": "matches", "first_token_entropy": 2.7770748138427734}
+{"uid": "mtrex-bn-capitals-000432", "answer": "থাবো মোফুতসান্যানা জেলা পৌরসভা এর রাজধ", "label": 1, "label_rule": "matches", "first_token_entropy": 2.27207612991333}
+{"uid": "mtrex-bn-capitals-000433", "answer": "এডা পৌরসভার রাজধানী হল এডা।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2448756694793701}
+{"uid": "mtrex-bn-capitals-000434", "answer": "পোলটস্কের রাজধানী হল পোলটস্ক।", "label": 0, "label_rule": "matches", "first_token_entropy": 1.6056588888168335}
+{"uid": "mtrex-bn-capitals-000435", "answer": "সিলেট।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.14976665377616882}
+{"uid": "mtrex-bn-capitals-000436", "answer": "আশগাবাত", "label": 0, "label_rule": "matches", "first_token_entropy": 0.42840343713760376}
+{"uid": "mtrex-bn-capitals-000437", "answer": "হ্যানোভার", "label": 1, "label_rule": "matches", "first_token_entropy": 1.253915548324585}
+{"uid": "mtrex-bn-capitals-000438", "answer": "কার্ভার কাউন্টির রাজধানী হল কার্ভারভিল।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.6355631351470947}
+{"uid": "mtrex-bn-capitals-000439", "answer": "মোরাদাবাদ", "label": 0, "label_rule": "matches", "first_token_entropy": 1.5970333814620972}
+{"uid": "mtrex-bn-capitals-000440", "answer": "ওয়ার্মহাউটের ক্যান্টনের রাজধানী হল জিয়া", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8724238872528076}
+{"uid": "mtrex-bn-capitals-000441", "answer": "কর্পেন আইকে বিভাগের রাজধানী হল কর্পেন।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.4669902324676514}
+{"uid": "mtrex-bn-capitals-000442", "answer": "ব্রাটিসলাভা।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.22974412143230438}
+{"uid": "mtrex-bn-capitals-000443", "answer": "ইয়াকিমা কাউন্টির রাজধানী হল ইয়াকিমা।", "label": 0, "label_rule": "matches", "first_token_entropy": 2.412929058074951}
+{"uid": "mtrex-bn-capitals-000444", "answer": "বেটজডর্ফ (ভারব্যান্ডসগেমাইন্ড) এর রাজধান�", "label": 0, "label_rule": "matches", "first_token_entropy": 2.231384515762329}
+{"uid": "mtrex-bn-capitals-000445", "answer": "সুলাইমানি", "label": 1, "label_rule": "matches", "first_token_entropy": 2.086113452911377}
+{"uid": "mtrex-bn-capitals-000446", "answer": "বসফোরান রাজ্যের রাজধানী ছিল বসফোরান।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.5021159648895264}
+{"uid": "mtrex-bn-capitals-000447", "answer": "কিম্বল কাউন্টির রাজধানী হল কিম্বলটন।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.035552501678467}
+{"uid": "mtrex-bn-capitals-000448", "answer": "সান্তোস।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.1248996257781982}
+{"uid": "mtrex-bn-capitals-000449", "answer": "ব্রাজাভিলে", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7933069467544556}
+{"uid": "mtrex-bn-capitals-000450", "answer": "বুকারেস্ট", "label": 1, "label_rule": "matches", "first_token_entropy": 2.0557751655578613}
+{"uid": "mtrex-bn-capitals-000451", "answer": "গ্রিনউড কাউন্টির রাজধানী হল গ্রিনউডভিল।", "label": 0, "label_rule": "matches", "first_token_entropy": 1.4108223915100098}
+{"uid": "mtrex-bn-capitals-000452", "answer": "জাম্বোয়াঙ্গা উপদ্বীপ অঞ্চলের রাজধানী", "label": 1, "label_rule": "matches", "first_token_entropy": 2.2693121433258057}
+{"uid": "mtrex-bn-capitals-000453", "answer": "এলিস কাউন্টি, টেক্সাসের রাজধানী হল এলিস।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.198089599609375}
+{"uid": "mtrex-bn-capitals-000454", "answer": "দামেস্ক", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6822421550750732}
+{"uid": "mtrex-bn-capitals-000455", "answer": "পাসাউ (জেলা) এর রাজধানী হল পাসাউ।", "label": 0, "label_rule": "matches", "first_token_entropy": 1.5634653568267822}
+{"uid": "mtrex-bn-capitals-000456", "answer": "বুলক কাউন্টির রাজধানী হল বুলক সিটি।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.1407346725463867}
+{"uid": "mtrex-bn-capitals-000457", "answer": "ক্যানবেরা", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9562674760818481}
+{"uid": "mtrex-bn-capitals-000458", "answer": "এনডলাম্বে", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3034182786941528}
+{"uid": "mtrex-bn-capitals-000459", "answer": "ভার্বার্গ পৌরসভার রাজধানী ভার্বার্গ।", "label": 0, "label_rule": "matches", "first_token_entropy": 1.8092706203460693}
+{"uid": "mtrex-bn-capitals-000460", "answer": "ইচোলস কাউন্টির রাজধানী হল ইচোলস।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.4244868755340576}
+{"uid": "mtrex-bn-capitals-000461", "answer": "স্মেডজেব্যাকেন পৌরসভার রাজধানী হল স্মেড", "label": 0, "label_rule": "matches", "first_token_entropy": 1.3745366334915161}
+{"uid": "mtrex-bn-capitals-000462", "answer": "লুগানো ক্যান্টনের রাজধানী হল বাথ।", "label": 0, "label_rule": "matches", "first_token_entropy": 2.4138104915618896}
+{"uid": "mtrex-bn-capitals-000463", "answer": "হেরশেই", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3621370792388916}
+{"uid": "mtrex-bn-capitals-000464", "answer": "স্মিথ কাউন্টির রাজধানী হল জ্যাকসনভিল।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4100209474563599}
+{"uid": "mtrex-bn-capitals-000465", "answer": "বয়াকা বিভাগের রাজধানী বয়াকা।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.2527384757995605}
+{"uid": "mtrex-bn-capitals-000466", "answer": "কাউনাস কাউন্টির রাজধানী হল কাউনাস।", "label": 0, "label_rule": "matches", "first_token_entropy": 2.647426128387451}
+{"uid": "mtrex-bn-capitals-000467", "answer": "আত্তাপেউ প্রদেশের রাজধানী হল কাবুল।", "label": 0, "label_rule": "matches", "first_token_entropy": 2.4921364784240723}
+{"uid": "mtrex-bn-capitals-000468", "answer": "স্টোকহোম।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.4520206451416016}
+{"uid": "mtrex-bn-capitals-000469", "answer": "ব্রোডি রায়নের রাজধানী হল ব্রুকস।", "label": 0, "label_rule": "matches", "first_token_entropy": 2.4671578407287598}
+{"uid": "mtrex-bn-capitals-000470", "answer": "আপসালা কাউন্টির রাজধানী হল আপসালা।", "label": 0, "label_rule": "matches", "first_token_entropy": 1.8203682899475098}
+{"uid": "mtrex-bn-capitals-000471", "answer": "আনসবাখ (জেলা) এর রাজধানী হল আনসবাখ।", "label": 0, "label_rule": "matches", "first_token_entropy": 2.3077073097229004}
+{"uid": "mtrex-bn-capitals-000472", "answer": "ভিলেইকা ভলবাস্তের রাজধানী হল ভিলেইকা ভল", "label": 0, "label_rule": "matches", "first_token_entropy": 1.8497453927993774}
+{"uid": "mtrex-bn-capitals-000473", "answer": "দাখা", "label": 1, "label_rule": "matches", "first_token_entropy": 2.45285964012146}
+{"uid": "mtrex-bn-capitals-000474", "answer": "ম্যানসফিল্ড জেলা পরিষদের রাজধানী হল ম্যান�", "label": 1, "label_rule": "matches", "first_token_entropy": 2.085399627685547}
+{"uid": "mtrex-bn-capitals-000475", "answer": "সুরখেত", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3859590291976929}
+{"uid": "mtrex-bn-capitals-000476", "answer": "উলানবাটর", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0826821327209473}
+{"uid": "mtrex-bn-capitals-000477", "answer": "বাটভিল", "label": 1, "label_rule": "matches", "first_token_entropy": 2.2938032150268555}
+{"uid": "mtrex-bn-capitals-000478", "answer": "বানেহ কাউন্টির রাজধানী হল বানেহ।", "label": 0, "label_rule": "matches", "first_token_entropy": 1.9200093746185303}
+{"uid": "mtrex-bn-capitals-000479", "answer": "চাভেস কাউন্টির রাজধানী হল চাভেস।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.2906298637390137}
+{"uid": "mtrex-bn-capitals-000480", "answer": "ব্রিটিশ কমনওয়েলথের রাজধানী লন্ডন।", "label": 0, "label_rule": "matches", "first_token_entropy": 2.5937438011169434}
+{"uid": "mtrex-bn-capitals-000481", "answer": "সিএনএমআই এর রাজধানী হল নাইজেরিয়া।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.3457751274108887}
+{"uid": "mtrex-bn-capitals-000482", "answer": "কাবুল", "label": 0, "label_rule": "matches", "first_token_entropy": 0.7194751501083374}
+{"uid": "mtrex-bn-capitals-000483", "answer": "মাদিসন", "label": 1, "label_rule": "matches", "first_token_entropy": 2.245790958404541}
+{"uid": "mtrex-bn-capitals-000484", "answer": "বাইসি সিটি", "label": 1, "label_rule": "matches", "first_token_entropy": 2.1012654304504395}
+{"uid": "mtrex-bn-capitals-000485", "answer": "অ্যাডামস কাউন্টির রাজধানী অ্যাডামসটাউন।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.121337413787842}
+{"uid": "mtrex-bn-capitals-000486", "answer": "জায়ারের রাজধানী হল জায়ার শহর।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.312832832336426}
+{"uid": "mtrex-bn-capitals-000487", "answer": "পাবনা", "label": 1, "label_rule": "matches", "first_token_entropy": 2.324162483215332}
+{"uid": "mtrex-bn-capitals-000488", "answer": "পাটনা", "label": 1, "label_rule": "matches", "first_token_entropy": 2.2706451416015625}
+{"uid": "mtrex-bn-capitals-000489", "answer": "আলমেরিয়া", "label": 1, "label_rule": "matches", "first_token_entropy": 2.4364893436431885}
+{"uid": "mtrex-bn-capitals-000490", "answer": "এডিনবার্গ", "label": 0, "label_rule": "matches", "first_token_entropy": 0.2878417670726776}
+{"uid": "mtrex-bn-capitals-000491", "answer": "বাজো চিনকা/বাইক্স চিনকা এর রাজধানী হল বাজ", "label": 1, "label_rule": "matches", "first_token_entropy": 2.047995090484619}
+{"uid": "mtrex-bn-capitals-000492", "answer": "সেন্ট জনসের ক্যান্টন।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.508437395095825}
+{"uid": "mtrex-bn-capitals-000493", "answer": "গুয়াজিরা এর রাজধানী হল গুয়াজিরা শহর", "label": 1, "label_rule": "matches", "first_token_entropy": 2.17788028717041}
+{"uid": "mtrex-bn-capitals-000494", "answer": "ওয়াশাকি কাউন্টির রাজধানী হল ওয়াশাকি।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4466774463653564}
+{"uid": "mtrex-bn-capitals-000495", "answer": "নুয়েভো লারেডো পৌরসভার রাজধানী হল নু", "label": 0, "label_rule": "matches", "first_token_entropy": 0.08150948584079742}
+{"uid": "mtrex-bn-capitals-000496", "answer": "স্পিটসবার্গেনের রাজধানী হল স্পিটসবার্গেন স", "label": 1, "label_rule": "matches", "first_token_entropy": 2.1416854858398438}
+{"uid": "mtrex-bn-capitals-000497", "answer": "দুরাঙ্গো", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2135369777679443}
+{"uid": "mtrex-bn-capitals-000498", "answer": "দাশতেস্তান কাউন্টির রাজধানী হল দাশতেস্তান।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.9544830322265625}
+{"uid": "mtrex-bn-capitals-000499", "answer": "ত্রিচুর রাজধানী ত্রিচুর।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.968973696231842}
+{"uid": "mtrex-bn-capitals-000500", "answer": "জনোমো জেলার রাজধানী হল জনোমো।", "label": 0, "label_rule": "matches", "first_token_entropy": 2.2259793281555176}
+{"uid": "mtrex-bn-capitals-000501", "answer": "লাভেন্টি ক্যান্টনের রাজধানী হল লাভেন্টি।", "label": 0, "label_rule": "matches", "first_token_entropy": 1.7370549440383911}
+{"uid": "mtrex-bn-capitals-000502", "answer": "কনস্টান্টিনোপল।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1723984032869339}
+{"uid": "mtrex-bn-capitals-000503", "answer": "বার্লিন।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.26778292655944824}
+{"uid": "mtrex-bn-capitals-000504", "answer": "প্রাইয়ামরিন", "label": 0, "label_rule": "matches", "first_token_entropy": 2.3616831302642822}
+{"uid": "mtrex-bn-capitals-000505", "answer": "বিয়িং", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7337721586227417}
+{"uid": "mtrex-bn-capitals-000506", "answer": "স্টিলওয়াটার", "label": 0, "label_rule": "matches", "first_token_entropy": 2.433077812194824}
+{"uid": "mtrex-bn-capitals-000507", "answer": "আসতানে", "label": 1, "label_rule": "matches", "first_token_entropy": 2.0657310485839844}
+{"uid": "mtrex-bn-capitals-000508", "answer": "লাইমা", "label": 1, "label_rule": "matches", "first_token_entropy": 2.1602671146392822}
+{"uid": "mtrex-bn-capitals-000509", "answer": "হেভেসের রাজধানী হল সান মারিনো।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.3318495750427246}
+{"uid": "mtrex-bn-capitals-000510", "answer": "লাহাসা", "label": 1, "label_rule": "matches", "first_token_entropy": 2.3086307048797607}
+{"uid": "mtrex-bn-capitals-000511", "answer": "কায়রো", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8029797077178955}
+{"uid": "mtrex-bn-capitals-000512", "answer": "হ্লাবিসা", "label": 0, "label_rule": "matches", "first_token_entropy": 1.0492615699768066}
+{"uid": "mtrex-bn-capitals-000513", "answer": "পাইপস্টোন কাউন্টির রাজধানী হল পাইপস্টোন।", "label": 0, "label_rule": "matches", "first_token_entropy": 2.359344005584717}
+{"uid": "mtrex-bn-capitals-000514", "answer": "ভিলহেলমিনা", "label": 0, "label_rule": "matches", "first_token_entropy": 1.208964228630066}
+{"uid": "mtrex-bn-capitals-000515", "answer": "ব্র্যাক্সটন কাউন্টির রাজধানী হল ব্র্যাক্সটন।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.652627468109131}
+{"uid": "mtrex-bn-capitals-000516", "answer": "সাগাডাহক কাউন্টির রাজধানী হল সাগাডাহক।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.314666748046875}
+{"uid": "mtrex-bn-capitals-000517", "answer": "সেন্ট-লরঁ-ডু-মারোনির আরন্ডিসমঁ এর রাজধান", "label": 1, "label_rule": "matches", "first_token_entropy": 2.406280279159546}
+{"uid": "mtrex-bn-capitals-000518", "answer": "সালাইন শহর।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5084447860717773}
+{"uid": "mtrex-bn-capitals-000519", "answer": "দিওরবেল অঞ্চলের রাজধানী হল নামুরো।", "label": 0, "label_rule": "matches", "first_token_entropy": 2.874584436416626}
+{"uid": "mtrex-bn-capitals-000520", "answer": "গ্লেনস ফার।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.752614974975586}
+{"uid": "mtrex-bn-capitals-000521", "answer": "উইবক্স কাউন্টি, মন্টানার রাজধানী হল উইবক", "label": 0, "label_rule": "matches", "first_token_entropy": 1.2044553756713867}
+{"uid": "mtrex-bn-capitals-000522", "answer": "সেন্ট-অবিন-ডু-কর্মিয়ের ক্যান্টনের রাজধান�", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7258350849151611}
+{"uid": "mtrex-bn-capitals-000523", "answer": "স্ট্যান্ডার্ড", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8054440021514893}
+{"uid": "mtrex-bn-capitals-000524", "answer": "ব্রাটিসলাভা", "label": 1, "label_rule": "matches", "first_token_entropy": 0.025967562571167946}
+{"uid": "mtrex-bn-capitals-000525", "answer": "স্ক্যান্ডারবর্গ পৌরসভার রাজধানী হল স্ক্যান", "label": 0, "label_rule": "matches", "first_token_entropy": 1.6838269233703613}
+{"uid": "mtrex-bn-capitals-000526", "answer": "সান ডিয়েগো", "label": 0, "label_rule": "matches", "first_token_entropy": 0.8760557174682617}
+{"uid": "mtrex-bn-capitals-000527", "answer": "আমেরিকা - ওয়াশিংটন ডি.সি., আর্জেন্টিনা - বু�", "label": 1, "label_rule": "matches", "first_token_entropy": 2.444864273071289}
+{"uid": "mtrex-bn-capitals-000528", "answer": "বুলিট কাউন্টির রাজধানী হল ম্যাককেয়, কেন�", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8426531553268433}
+{"uid": "mtrex-bn-capitals-000529", "answer": "স্বিলেনগ্রাদ পৌরসভা এর রাজধানী হল স্বিলেন�", "label": 0, "label_rule": "matches", "first_token_entropy": 1.6111226081848145}
+{"uid": "mtrex-bn-capitals-000530", "answer": "মাউন্ট প্লেসাইড।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.5567431449890137}
+{"uid": "mtrex-bn-capitals-000531", "answer": "ট্রেগো কাউন্টির রাজধানী হল ট্রেগো।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3529994487762451}
+{"uid": "mtrex-bn-capitals-000532", "answer": "শাহজাহানাবাদ (আগমনে আগরা)", "label": 0, "label_rule": "matches", "first_token_entropy": 1.174811840057373}
+{"uid": "mtrex-bn-capitals-000533", "answer": "বোগান শায়ারের রাজধানী হল বোগান শায়ার।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.4899096488952637}
+{"uid": "mtrex-bn-capitals-000534", "answer": "সান জুসে", "label": 1, "label_rule": "matches", "first_token_entropy": 2.5493288040161133}
+{"uid": "mtrex-bn-capitals-000535", "answer": "ক্রাসনোয়ার্স্ক", "label": 1, "label_rule": "matches", "first_token_entropy": 2.788811683654785}
+{"uid": "mtrex-bn-capitals-000536", "answer": "টেলফোর্ড এবং ওরেকিন এর রাজধানী হল টেলফ", "label": 0, "label_rule": "matches", "first_token_entropy": 2.3157787322998047}
+{"uid": "mtrex-bn-capitals-000537", "answer": "হলি কাউন্টির রাজধানী হল হলি।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5666370391845703}
+{"uid": "mtrex-bn-capitals-000538", "answer": "দেরাদুন।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4540863037109375}
+{"uid": "mtrex-bn-capitals-000539", "answer": "পিকার্ডির রাজধানী হল পিকার্ডি শহর।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.3578438758850098}
+{"uid": "mtrex-bn-capitals-000540", "answer": "ব্র্যাডলি কাউন্টির রাজধানী হল ব্র্যাডলি।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.402721881866455}
+{"uid": "mtrex-bn-capitals-000541", "answer": "লুয়ান্ডা", "label": 1, "label_rule": "matches", "first_token_entropy": 2.060025930404663}
+{"uid": "mtrex-bn-capitals-000542", "answer": "খার্টুম।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1890340894460678}
+{"uid": "mtrex-bn-capitals-000543", "answer": "পোর্টসমাউথ", "label": 1, "label_rule": "matches", "first_token_entropy": 2.1983184814453125}
+{"uid": "mtrex-bn-capitals-000544", "answer": "সুরখন্দার্য অঞ্চলের রাজধানী হল সুরখন্দার", "label": 1, "label_rule": "matches", "first_token_entropy": 2.8262693881988525}
+{"uid": "mtrex-bn-capitals-000545", "answer": "ট্রেন্টিনোর রাজধানী হল ট্রেন্টো।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.9425311088562012}
+{"uid": "mtrex-bn-capitals-000546", "answer": "কাজভিন প্রদেশের রাজধানী হল কাজভিন।", "label": 0, "label_rule": "matches", "first_token_entropy": 2.7957592010498047}
+{"uid": "mtrex-bn-capitals-000547", "answer": "অঙ্কোনা প্রদেশের রাজধানী হল অঙ্কোনা।", "label": 0, "label_rule": "matches", "first_token_entropy": 2.7587122917175293}
+{"uid": "mtrex-bn-capitals-000548", "answer": "পুতুমায়ো বিভাগের রাজধানী হল রাজশাহী।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.808694362640381}
+{"uid": "mtrex-bn-capitals-000549", "answer": "পোলেওয়ালি মন্দার রিজেন্সির রাজধানী হল প", "label": 0, "label_rule": "matches", "first_token_entropy": 2.5630860328674316}
+{"uid": "mtrex-bn-capitals-000550", "answer": "থেসালোনিকি", "label": 0, "label_rule": "matches", "first_token_entropy": 0.9165050983428955}
+{"uid": "mtrex-bn-capitals-000551", "answer": "ইস্তাম্বুল।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.7359962463378906}
+{"uid": "mtrex-bn-capitals-000552", "answer": "ব্রিটিশ উপনিবেশগুলির রাজধানী ছিল কলকাতা।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.0245633125305176}
+{"uid": "mtrex-bn-capitals-000553", "answer": "ভ্যালাইসের রাজধানী হল পোর্ট অব স্পেন।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5966663360595703}
+{"uid": "mtrex-bn-capitals-000554", "answer": "ফ্রান্টিরো", "label": 1, "label_rule": "matches", "first_token_entropy": 1.9091249704360962}
+{"uid": "mtrex-bn-capitals-000555", "answer": "বিতোলা", "label": 0, "label_rule": "matches", "first_token_entropy": 0.8407044410705566}
+{"uid": "mtrex-bn-capitals-000556", "answer": "ট্লোকওয়ে", "label": 1, "label_rule": "matches", "first_token_entropy": 0.717881441116333}
+{"uid": "mtrex-bn-capitals-000557", "answer": "মহা সারাখাম প্রদেশের রাজধানী হল কাবুল।", "label": 0, "label_rule": "matches", "first_token_entropy": 2.8875746726989746}
+{"uid": "mtrex-bn-capitals-000558", "answer": "বেলফ্রাই", "label": 1, "label_rule": "matches", "first_token_entropy": 3.001246213912964}
+{"uid": "mtrex-bn-capitals-000559", "answer": "বেনটন", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2733714580535889}
+{"uid": "mtrex-bn-capitals-000560", "answer": "সান ডিয়েগো", "label": 0, "label_rule": "matches", "first_token_entropy": 0.533441960811615}
+{"uid": "mtrex-bn-capitals-000561", "answer": "ম্যারিনেট কাউন্টির রাজধানী হল সান রানসিস।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.5883193016052246}
+{"uid": "mtrex-bn-capitals-000562", "answer": "এডিনবরা।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.22431546449661255}
+{"uid": "mtrex-bn-capitals-000563", "answer": "মধ্যাঞ্চল, মালাউই এর রাজধানী হল মধ্যাঞ্চল", "label": 1, "label_rule": "matches", "first_token_entropy": 2.7970223426818848}
+{"uid": "mtrex-bn-capitals-000564", "answer": "লস সেরানোসের রাজধানী হল সান সেবাস্তিয়ান।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.2309377193450928}
+{"uid": "mtrex-bn-capitals-000565", "answer": "দিলী", "label": 1, "label_rule": "matches", "first_token_entropy": 2.4507646560668945}
+{"uid": "mtrex-bn-capitals-000566", "answer": "রাজধানী হল রাজধানী", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4139332175254822}
+{"uid": "mtrex-bn-capitals-000567", "answer": "বেনু-প্লেটো এর রাজধানী ছিল অ্যাথেন্স।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.507418632507324}
+{"uid": "mtrex-bn-capitals-000568", "answer": "এনজের রাজধানী হল বাংকাক।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.7429709434509277}
+{"uid": "mtrex-bn-capitals-000569", "answer": "ওমাসুয়োস প্রদেশের রাজধানী হল বোগো�", "label": 1, "label_rule": "matches", "first_token_entropy": 2.5532169342041016}
+{"uid": "mtrex-bn-capitals-000570", "answer": "তিউনিস", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0140070915222168}
+{"uid": "mtrex-bn-capitals-000571", "answer": "পাইকে", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0925817489624023}
+{"uid": "mtrex-bn-capitals-000572", "answer": "উত্তর: আর্লিংটন", "label": 1, "label_rule": "matches", "first_token_entropy": 2.029616355895996}
+{"uid": "mtrex-bn-capitals-000573", "answer": "খোররমশহর", "label": 0, "label_rule": "matches", "first_token_entropy": 0.5018776655197144}
+{"uid": "mtrex-bn-capitals-000574", "answer": "আর্ডিনো পৌরসভা এর রাজধানী আর্ডিনো।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.6967763900756836}
+{"uid": "mtrex-bn-capitals-000575", "answer": "খাসাভিউর্তোভস্কি জেলার রাজধানী হল খাসাভিউর", "label": 0, "label_rule": "matches", "first_token_entropy": 1.0599524974822998}
+{"uid": "mtrex-bn-capitals-000576", "answer": "ফাল্টন কাউন্টির রাজধানী হল ব্যাটল ক্রিক।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5581862926483154}
+{"uid": "mtrex-bn-capitals-000577", "answer": "ভিশি সরকারের রাজধানী হল ভিশি।", "label": 0, "label_rule": "matches", "first_token_entropy": 1.5530753135681152}
+{"uid": "mtrex-bn-capitals-000578", "answer": "ওমাহেকের রাজধানী হল ওমাহেক শহর।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1463512182235718}
+{"uid": "mtrex-bn-capitals-000579", "answer": "শ্মিডটোভস্কি জেলার রাজধানী হল শ্মিডটোভ", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8169076442718506}
+{"uid": "mtrex-bn-capitals-000580", "answer": "করাচি", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8148192763328552}
+{"uid": "mtrex-bn-capitals-000581", "answer": "দেহলোরান কাউন্টির রাজধানী হল সান্তা ক্রুজ", "label": 0, "label_rule": "matches", "first_token_entropy": 1.877827763557434}
+{"uid": "mtrex-bn-capitals-000582", "answer": "ওগল কাউন্টির রাজধানী হল ওগল শহর।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8623260259628296}
+{"uid": "mtrex-bn-capitals-000583", "answer": "শায়ার অফ বাও বাও এর রাজধানী হল কুয়ালাল", "label": 1, "label_rule": "matches", "first_token_entropy": 2.756615161895752}
+{"uid": "mtrex-bn-capitals-000584", "answer": "বুডাপেস্ট", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9367987513542175}
+{"uid": "mtrex-bn-capitals-000585", "answer": "মেট্রোপলিটন বরো অফ উইরাল এর রাজধানী হল �", "label": 1, "label_rule": "matches", "first_token_entropy": 2.383902072906494}
+{"uid": "mtrex-bn-capitals-000586", "answer": "গমিনা ডবচিচের রাজধানী হল মিনস্ক।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.8257389068603516}
+{"uid": "mtrex-bn-capitals-000587", "answer": "পালো আল্টো কাউন্টির রাজধানী হল পালো আল্ট�", "label": 1, "label_rule": "matches", "first_token_entropy": 2.198174476623535}
+{"uid": "mtrex-bn-capitals-000588", "answer": "গিয়ারভিল", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2806527614593506}
+{"uid": "mtrex-bn-capitals-000589", "answer": "স্যাক্স-কোবুর্গ-সালফেল্ডের রাজধানী হল হ", "label": 0, "label_rule": "matches", "first_token_entropy": 2.412313461303711}
+{"uid": "mtrex-bn-capitals-000590", "answer": "হাতায় প্রদেশের রাজধানী হল হাতায়।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.4131064414978027}
+{"uid": "mtrex-bn-capitals-000591", "answer": "চুকোটস্কি জেলার রাজধানী হল চুকোটস্ক", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9640403389930725}
+{"uid": "mtrex-bn-capitals-000592", "answer": "পালার রাজধানী হল নয়াদিল্লি।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.060500383377075}
+{"uid": "mtrex-bn-capitals-000593", "answer": "স্মিলা রায়নের রাজধানী হল স্মিলা।", "label": 0, "label_rule": "matches", "first_token_entropy": 2.6485185623168945}
+{"uid": "mtrex-bn-capitals-000594", "answer": "জেফারসন শহর।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5984102487564087}
+{"uid": "mtrex-bn-capitals-000595", "answer": "আল ওয়াহাত জেলার রাজধানী হল আল ওয়াহা�", "label": 1, "label_rule": "matches", "first_token_entropy": 1.9255962371826172}
+{"uid": "mtrex-bn-capitals-000596", "answer": "পূর্ব সিংভূমের রাজধানী হল বুজুম্বুরা।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.920969009399414}
+{"uid": "mtrex-bn-capitals-000597", "answer": "বেনিংটন কাউন্টির রাজধানী হল বেনিংটন।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.587892770767212}
+{"uid": "mtrex-bn-capitals-000598", "answer": "হুয়েরফানো কাউন্টি, কলোরাডোর রাজধানী হ�", "label": 1, "label_rule": "matches", "first_token_entropy": 1.829416036605835}
+{"uid": "mtrex-bn-capitals-000599", "answer": "রোয়ান কাউন্টির রাজধানী হল রোয়ান।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9418745636940002}
+{"uid": "mtrex-bn-capitals-000600", "answer": "মোসেস লেক", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8686155676841736}
+{"uid": "mtrex-bn-capitals-000601", "answer": "কোহুইলা এবং টেক্সাস এর রাজধানী হলো সি�", "label": 1, "label_rule": "matches", "first_token_entropy": 2.2398135662078857}
+{"uid": "mtrex-bn-capitals-000602", "answer": "ফারিবল্ট কাউন্টির রাজধানী হল ফারিবল্ট।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.648021697998047}
+{"uid": "mtrex-bn-capitals-000603", "answer": "বুরগন্ডির রাজধানী বুরগন্ডি শহর।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9693395495414734}
+{"uid": "mtrex-bn-capitals-000604", "answer": "জিবুতির রাজধানী হল জিবুতি শহর।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.774298906326294}
+{"uid": "mtrex-bn-capitals-000605", "answer": "সাফারিদসের রাজধানী হল সাফারিদস শহর।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.4805057048797607}
+{"uid": "mtrex-bn-capitals-000606", "answer": "ব্রাসেল।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3322803974151611}
+{"uid": "mtrex-bn-capitals-000607", "answer": "হাইটারসফিল্ড", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8048000931739807}
+{"uid": "mtrex-bn-capitals-000608", "answer": "মিয়াজাকি প্রিফেকচারের রাজধানী হল মিয়াজ", "label": 0, "label_rule": "matches", "first_token_entropy": 2.7763671875}
+{"uid": "mtrex-bn-capitals-000609", "answer": "ব্লাগোয়েভগ্রাদ", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9225438833236694}
+{"uid": "mtrex-bn-capitals-000610", "answer": "আউটার হেব্রিডিসের রাজধানী হল হেব্রিডিস।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.803724527359009}
+{"uid": "mtrex-bn-capitals-000611", "answer": "টোমেলিলা", "label": 0, "label_rule": "matches", "first_token_entropy": 1.189332365989685}
+{"uid": "mtrex-bn-capitals-000612", "answer": "পল্লব রাজ্যের রাজধানী ছিল পল্লব।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.243467330932617}
+{"uid": "mtrex-bn-capitals-000613", "answer": "ভীমসি প্যারিশের রাজধানী হল ভীমসি।", "label": 0, "label_rule": "matches", "first_token_entropy": 2.564681053161621}
+{"uid": "mtrex-bn-capitals-000614", "answer": "মানসেহরা জেলার রাজধানী হল মানসেহরা।", "label": 0, "label_rule": "matches", "first_token_entropy": 2.4083950519561768}
+{"uid": "mtrex-bn-capitals-000615", "answer": "অ্যালামাকি কাউন্টির রাজধানী হল অ্যালামাকি।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.5470643043518066}
+{"uid": "mtrex-bn-capitals-000616", "answer": "আলেকজান্দ্রিয়া", "label": 1, "label_rule": "matches", "first_token_entropy": 1.9670343399047852}
+{"uid": "mtrex-bn-capitals-000617", "answer": "অস্ট্রোগথিকের রাজধানী হল ব্রাসলস।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.4235968589782715}
+{"uid": "mtrex-bn-capitals-000618", "answer": "সুইজারল্যান্ড কাউন্টির রাজধানী হল সুইজা�", "label": 1, "label_rule": "matches", "first_token_entropy": 2.1125898361206055}
+{"uid": "mtrex-bn-capitals-000619", "answer": "ইম্ফাল", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7672405242919922}
+{"uid": "mtrex-bn-capitals-000620", "answer": "কারাকাস", "label": 1, "label_rule": "matches", "first_token_entropy": 0.20546653866767883}
+{"uid": "mtrex-bn-capitals-000621", "answer": "পেনসিলভেনিয়া, মার্কিন যুক্তরাষ্ট্রের রিভস �", "label": 1, "label_rule": "matches", "first_token_entropy": 2.5272374153137207}
+{"uid": "mtrex-bn-capitals-000622", "answer": "বেলগোরোড", "label": 1, "label_rule": "matches", "first_token_entropy": 2.6983253955841064}
+{"uid": "mtrex-bn-capitals-000623", "answer": "এফএসএম এর রাজধানী খার্টুম।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.576158285140991}
+{"uid": "mtrex-bn-capitals-000624", "answer": "ম্যাগনেসিয়া (আঞ্চলিক ইউনিট) এর রাজধানী হ�", "label": 1, "label_rule": "matches", "first_token_entropy": 2.799072265625}
+{"uid": "mtrex-bn-capitals-000625", "answer": "কেন্ট কাউন্টির রাজধানী চ্যাথাম।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.407099962234497}
+{"uid": "mtrex-bn-capitals-000626", "answer": "টরন্টো", "label": 1, "label_rule": "matches", "first_token_entropy": 2.085340976715088}
+{"uid": "mtrex-bn-capitals-000627", "answer": "সিউক্স কাউন্টির রাজধানী হল মোর্রিসটাউন।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6803206205368042}
+{"uid": "mtrex-bn-capitals-000628", "answer": "সেন্ট হেলেনা", "label": 1, "label_rule": "matches", "first_token_entropy": 2.644521951675415}
+{"uid": "mtrex-bn-capitals-000629", "answer": "ভালগা রাজধানী হল মানাকামপুসা।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.465524196624756}
+{"uid": "mtrex-bn-capitals-000630", "answer": "সালাহ উদ্দিনের রাজধানী ছিল সালাহ উদ্দিন।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.406081199645996}
+{"uid": "mtrex-bn-capitals-000631", "answer": "অস্টিন।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.1100220680236816}
+{"uid": "mtrex-bn-capitals-000632", "answer": "ওয়িথ কাউন্টির রাজধানী হল ওয়েস্ট পার্মি�", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9111589193344116}
+{"uid": "mtrex-bn-capitals-000633", "answer": "জেলা কার্লস্রুহে এর রাজধানী হল কার্লস্রু", "label": 1, "label_rule": "matches", "first_token_entropy": 2.7801804542541504}
+{"uid": "mtrex-bn-capitals-000634", "answer": "কাসানসায় জেলার রাজধানী হল কাসানসায়।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7099525332450867}
+{"uid": "mtrex-bn-capitals-000635", "answer": "সোফিয়া", "label": 1, "label_rule": "matches", "first_token_entropy": 1.660353422164917}
+{"uid": "mtrex-bn-capitals-000636", "answer": "উইরালের রাজধানী হল ইয়েকাতেরিনবুর্গ।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.250912666320801}
+{"uid": "mtrex-bn-capitals-000637", "answer": "কসাই এর রাজধানী হল কসাই শহর।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.7067203521728516}
+{"uid": "mtrex-bn-capitals-000638", "answer": "ওয়েস্টলক কাউন্টির রাজধানী হল ওয়েস্ট�", "label": 0, "label_rule": "matches", "first_token_entropy": 1.7790014743804932}
+{"uid": "mtrex-bn-capitals-000639", "answer": "ডাবলিন", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2546902596950531}
+{"uid": "mtrex-bn-capitals-000640", "answer": "লেসোথো", "label": 1, "label_rule": "matches", "first_token_entropy": 2.0905866622924805}
+{"uid": "mtrex-bn-capitals-000641", "answer": "আলবার্টা পরিবহনের রাজধানী এডমন্টন।", "label": 0, "label_rule": "matches", "first_token_entropy": 2.464129686355591}
+{"uid": "mtrex-bn-capitals-000642", "answer": "গাগাউজিয়ার রাজধানী হল বাতামান্ডি।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.1500279903411865}
+{"uid": "mtrex-bn-capitals-000643", "answer": "বাউটজেন জেলার রাজধানী হল বাউটজেন।", "label": 0, "label_rule": "matches", "first_token_entropy": 2.0861191749572754}
+{"uid": "mtrex-bn-capitals-000644", "answer": "পারিস।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.390153646469116}
+{"uid": "mtrex-bn-capitals-000645", "answer": "ফরগনা", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0114831924438477}
+{"uid": "mtrex-bn-capitals-000646", "answer": "বাংই", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7483758926391602}
+{"uid": "mtrex-bn-capitals-000647", "answer": "সান্তা ফে দে আলমোসনা", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0110704898834229}
+{"uid": "mtrex-bn-capitals-000648", "answer": "পানাজি", "label": 0, "label_rule": "matches", "first_token_entropy": 0.25848227739334106}
+{"uid": "mtrex-bn-capitals-000649", "answer": "ম্যাকডোনো কাউন্টির রাজধানী হল ম্যাকডোনো�", "label": 1, "label_rule": "matches", "first_token_entropy": 2.1328892707824707}
+{"uid": "mtrex-bn-capitals-000650", "answer": "সির্মিয়ার রাজধানী হল বাগদাদ।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.772068977355957}
+{"uid": "mtrex-bn-capitals-000651", "answer": "সম্রাট রাশিয়ান এর রাজধানী ছিল সামার্ক্যান্ড।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6070590019226074}
+{"uid": "mtrex-bn-capitals-000652", "answer": "সেফটন", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1561951637268066}
+{"uid": "mtrex-bn-capitals-000653", "answer": "মাদ্রিদ", "label": 0, "label_rule": "matches", "first_token_entropy": 0.04011045768857002}
+{"uid": "mtrex-bn-capitals-000654", "answer": "মৌখরির রাজধানী হল মৌখরি।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.5309441089630127}
+{"uid": "mtrex-bn-capitals-000655", "answer": "স্নেলভিল।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6528592109680176}
+{"uid": "mtrex-bn-capitals-000656", "answer": "লেহ", "label": 1, "label_rule": "matches", "first_token_entropy": 0.030714519321918488}
+{"uid": "mtrex-bn-capitals-000657", "answer": "গুলবাহার", "label": 1, "label_rule": "matches", "first_token_entropy": 3.0128862857818604}
+{"uid": "mtrex-bn-capitals-000658", "answer": "শিরাজ", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5330848693847656}
+{"uid": "mtrex-bn-capitals-000659", "answer": "ওডেসা অঞ্চলের রাজধানী হল ওডেসা।", "label": 0, "label_rule": "matches", "first_token_entropy": 2.1441125869750977}
+{"uid": "mtrex-bn-capitals-000660", "answer": "ক্যামেরুনের রাজধানী হল ব্রাটভাইল।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.390047073364258}
+{"uid": "mtrex-bn-capitals-000661", "answer": "লুয়ান্ডা", "label": 1, "label_rule": "matches", "first_token_entropy": 2.689484119415283}
+{"uid": "mtrex-bn-capitals-000662", "answer": "লুন্ড পৌরসভা এর রাজধানী লুন্ড।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.7073197960853577}
+{"uid": "mtrex-bn-capitals-000663", "answer": "প্যারিস", "label": 1, "label_rule": "matches", "first_token_entropy": 2.6837096214294434}
+{"uid": "mtrex-bn-capitals-000664", "answer": "মিত্র রাজধানী হলো কালিনিনগ্রাদ।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.8220176696777344}
+{"uid": "mtrex-bn-capitals-000665", "answer": "বান্দা বিভাগের রাজধানী হল বান্দা।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.1733267307281494}
+{"uid": "mtrex-bn-capitals-000666", "answer": "গাবরোভো", "label": 1, "label_rule": "matches", "first_token_entropy": 1.849757432937622}
+{"uid": "mtrex-bn-capitals-000667", "answer": "মিনস্ক", "label": 1, "label_rule": "matches", "first_token_entropy": 2.808206796646118}
+{"uid": "mtrex-bn-capitals-000668", "answer": "ভ্যালি ডি'অস্টে এর রাজধানী লুগানো।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.2124080657958984}
+{"uid": "mtrex-bn-capitals-000669", "answer": "লাহোর", "label": 0, "label_rule": "matches", "first_token_entropy": 0.022678567096590996}
+{"uid": "mtrex-bn-capitals-000670", "answer": "আমস্টারডাম", "label": 1, "label_rule": "matches", "first_token_entropy": 2.502718448638916}
+{"uid": "mtrex-bn-capitals-000671", "answer": "স্টোকহোম |", "label": 1, "label_rule": "matches", "first_token_entropy": 2.7386465072631836}
+{"uid": "mtrex-bn-capitals-000672", "answer": "গোমেল ভলবাস্তের রাজধানী হল গোমেল ভলব", "label": 0, "label_rule": "matches", "first_token_entropy": 2.72976016998291}
+{"uid": "mtrex-bn-capitals-000673", "answer": "কিরোভ-চেপেটস্কি জেলার রাজধানী হল কিরো�", "label": 0, "label_rule": "matches", "first_token_entropy": 1.9235042333602905}
+{"uid": "mtrex-bn-capitals-000674", "answer": "হোইমা জেলার রাজধানী হোইমা।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4645323753356934}
+{"uid": "mtrex-bn-capitals-000675", "answer": "জেরাবল", "label": 1, "label_rule": "matches", "first_token_entropy": 2.287778377532959}
+{"uid": "mtrex-bn-capitals-000676", "answer": "ব্রাটিসলাভা", "label": 1, "label_rule": "matches", "first_token_entropy": 2.5334584712982178}
+{"uid": "mtrex-bn-capitals-000677", "answer": "ডেভিসটাউন", "label": 1, "label_rule": "matches", "first_token_entropy": 2.027735948562622}
+{"uid": "mtrex-bn-capitals-000678", "answer": "সেশেলসের রাজধানী হল ভাকারিয়া।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8464804887771606}
+{"uid": "mtrex-bn-capitals-000679", "answer": "লিঙ্কন প্যারিশের রাজধানী হল লিঙ্কন।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.055928349494934}
+{"uid": "mtrex-bn-capitals-000680", "answer": "কার্টন", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2407288551330566}
+{"uid": "mtrex-bn-capitals-000681", "answer": "কাবুল।", "label": 0, "label_rule": "matches", "first_token_entropy": 1.2456958293914795}
+{"uid": "mtrex-bn-capitals-000682", "answer": "নিকোসিয়া", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2819276452064514}
+{"uid": "mtrex-bn-capitals-000683", "answer": "লস পেদ্রোচেসের রাজধানী হল লস পেদ্রোচে", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3617891073226929}
+{"uid": "mtrex-bn-capitals-000684", "answer": "ডভিনা গভর্নরেটের রাজধানী হল ডভিনা।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.685555934906006}
+{"uid": "mtrex-bn-capitals-000685", "answer": "পাতালিপুত্রা", "label": 1, "label_rule": "matches", "first_token_entropy": 3.0338525772094727}
+{"uid": "mtrex-bn-capitals-000686", "answer": "লিখোস্লাভলস্কি জেলার রাজধানী হল লিখোস্ল", "label": 0, "label_rule": "matches", "first_token_entropy": 1.8229423761367798}
+{"uid": "mtrex-bn-capitals-000687", "answer": "চাম্পাসাকের রাজধানী হল নজামবুলু।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.7353782653808594}
+{"uid": "mtrex-bn-capitals-000688", "answer": "পাডুয়া প্রদেশের রাজধানী হল পাডুয়া।", "label": 0, "label_rule": "matches", "first_token_entropy": 2.9223570823669434}
+{"uid": "mtrex-bn-capitals-000689", "answer": "ফ্রাঙ্ক স্কয়ার", "label": 1, "label_rule": "matches", "first_token_entropy": 0.10963550955057144}
+{"uid": "mtrex-bn-capitals-000690", "answer": "তিয়েরা ডেল ফুয়েগো প্রদেশের রাজধানী হ", "label": 1, "label_rule": "matches", "first_token_entropy": 2.2287585735321045}
+{"uid": "mtrex-bn-capitals-000691", "answer": "মিলওকি কাউন্টির রাজধানী মিলওকি।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.35528644919395447}
+{"uid": "mtrex-bn-capitals-000692", "answer": "কাসাই-অকসিডেন্টালের রাজধানী হল কাসাই।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.1032378673553467}
+{"uid": "mtrex-bn-capitals-000693", "answer": "সেসেল দ্বীপপুঞ্জের রাজধানী হল ভিক্টোরি�", "label": 1, "label_rule": "matches", "first_token_entropy": 2.5996644496917725}
+{"uid": "mtrex-bn-capitals-000694", "answer": "প্রোভেনসালের রাজধানী হল প্রোভেনসাল।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.516019582748413}
+{"uid": "mtrex-bn-capitals-000695", "answer": "লোয়ারেল", "label": 1, "label_rule": "matches", "first_token_entropy": 2.4423694610595703}
+{"uid": "mtrex-bn-capitals-000696", "answer": "উত্তর পিয়ংয়াং এর রাজধানী উত্তর পিয়ং�", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1505022048950195}
+{"uid": "mtrex-bn-capitals-000697", "answer": "উত্তর: উলান বাটোর", "label": 1, "label_rule": "matches", "first_token_entropy": 2.7328357696533203}
+{"uid": "mtrex-bn-capitals-000698", "answer": "তুলুনস্কি জেলার রাজধানী হল তুলুনস্কি।", "label": 0, "label_rule": "matches", "first_token_entropy": 2.3041067123413086}
+{"uid": "mtrex-bn-capitals-000699", "answer": "সাটার কাউন্টির রাজধানী হল সাটার।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5097258687019348}
+{"uid": "mtrex-bn-capitals-000700", "answer": "নিজনেভার্তোভস্কি জেলার রাজধানী হল নিজনেভা�", "label": 0, "label_rule": "matches", "first_token_entropy": 0.27888771891593933}
+{"uid": "mtrex-bn-capitals-000701", "answer": "সেভিয়াজ।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.9086837768554688}
+{"uid": "mtrex-bn-capitals-000702", "answer": "বেহেরা এর রাজধানী হল মাসেরাত।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.931006908416748}
+{"uid": "mtrex-bn-capitals-000703", "answer": "এনুগু রাজ্যের রাজধানী হল এনুগু শহর।", "label": 0, "label_rule": "matches", "first_token_entropy": 2.6439437866210938}
+{"uid": "mtrex-bn-capitals-000704", "answer": "ট্রেইটলেন কাউন্টির রাজধানী হল ট্রেইটলেন।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.066737651824951}
+{"uid": "mtrex-bn-capitals-000705", "answer": "ত্রিপুরার রাজধানী আগরতলা।", "label": 0, "label_rule": "matches", "first_token_entropy": 1.7606242895126343}
+{"uid": "mtrex-bn-capitals-000706", "answer": "ভেলিকৌস্টিউগস্কি জেলার রাজধানী হল ভেলিক", "label": 1, "label_rule": "matches", "first_token_entropy": 2.453878402709961}
+{"uid": "mtrex-bn-capitals-000707", "answer": "তাম্বোপাতা এর রাজধানী হল লিসবন।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.47758412361145}
+{"uid": "mtrex-bn-capitals-000708", "answer": "সিংহাসারির রাজধানী হল জবালপুর।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.4503092765808105}
+{"uid": "mtrex-bn-capitals-000709", "answer": "মুরাঙ্গা কাউন্টির রাজধানী হল মুরাঙ্গা।", "label": 0, "label_rule": "matches", "first_token_entropy": 2.3588991165161133}
+{"uid": "mtrex-bn-capitals-000710", "answer": "প্রাগা", "label": 1, "label_rule": "matches", "first_token_entropy": 2.3976447582244873}
+{"uid": "mtrex-bn-capitals-000711", "answer": "ব্রাটিসলাভা", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9580607414245605}
+{"uid": "mtrex-bn-capitals-000712", "answer": "তিরুবনন্তপুরম।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.1259260177612305}
+{"uid": "mtrex-bn-capitals-000713", "answer": "গান্ধীনগর", "label": 0, "label_rule": "matches", "first_token_entropy": 0.010121935978531837}
+{"uid": "mtrex-bn-capitals-000714", "answer": "মেলবোর্নের রাজধানী হল মেলবোর্ন।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6564239263534546}
+{"uid": "mtrex-bn-capitals-000715", "answer": "শ্রীনগর।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.05315933749079704}
+{"uid": "mtrex-bn-capitals-000716", "answer": "সানা", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5449575185775757}
+{"uid": "mtrex-bn-capitals-000717", "answer": "কার্তলি-কাশেতির রাজধানী হল কাশেতি।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.7499775886535645}
+{"uid": "mtrex-bn-capitals-000718", "answer": "ম্যানিলা", "label": 0, "label_rule": "matches", "first_token_entropy": 1.8510537147521973}
