@@ -689,6 +689,7 @@ def sample_schema(records, model, tokenizer, prompts, raw_dir, num_samples=20, m
         uid = group[0].uid
         if uid in done:
             continue
+        shared.check_pause()
         try:
             torch.manual_seed(shared.item_seed(uid))
             responses = _sample_chunks(shared.chat_text(group[0], tokenizer, prompts), model, tokenizer,
@@ -723,6 +724,7 @@ def score_schema(samples_path, answers_path, out_dir, language):
         for uid in row["uids"]:
             if uid in done or uid not in answers:  # no answer yet: a later resume scores it
                 continue
+            shared.check_pause()
             try:
                 score = _unigram_score(answers[uid], row["samples"], language)
             except Exception as e:  # logged, never swallowed; KeyboardInterrupt still stops the run

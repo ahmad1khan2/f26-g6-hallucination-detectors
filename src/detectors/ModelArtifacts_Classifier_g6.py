@@ -424,6 +424,7 @@ def trained_block_g6(part, items, key, artifact, seed, device, train):
     # G6: one training's rows, read from its checkpoint if a stopped run already saved them
     if part.exists():
         return shared.read_results(part)
+    shared.check_pause()
     rows = predict_group_g6(items, key, artifact, seed, device, train)
     part.parent.mkdir(parents=True, exist_ok=True)
     shared.write_atomic(part, "".join(json.dumps(r) + "\n" for r in rows))

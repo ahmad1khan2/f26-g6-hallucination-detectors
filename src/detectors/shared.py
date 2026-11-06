@@ -12,6 +12,7 @@ from src.common.schema import Record
 MODEL_NAME = "meta-llama/Llama-3.1-8B-Instruct"
 RESULTS = ROOT / "results"
 AUTHORS_PROMPTS = ROOT / "third_party" / "low-resource-hallucination-detection" / "prompts" / "mTREx_prompts.json"
+PAUSE_FILE = ROOT / "results" / "raw" / "PAUSE"  # fixed: smoke and timing repoint RESULTS, the pause command must not care
 
 # spaCy has no Swahili or Ilocano pipeline, so they get its language-neutral tokenizer.
 SPACY_CODES = {code: code for code in "en de hi bn ur zh ja vi tl yo fi ar".split()} | {"sw": "xx", "ilo": "xx"}
@@ -83,6 +84,16 @@ def results_dir(dataset: str, language: str, raw: bool = False) -> Path:
     path = RESULTS / "raw" / dataset / language if raw else RESULTS / dataset / language
     path.mkdir(parents=True, exist_ok=True)
     return path
+
+
+class Paused(BaseException):
+    """The user asked to pause. A BaseException so the per-item `except Exception` handlers cannot log it as a failure."""
+
+
+def check_pause() -> None:
+    """Called between items, when everything finished so far is on disk."""
+    if PAUSE_FILE.exists():
+        raise Paused
 
 
 def _sync(f) -> None:

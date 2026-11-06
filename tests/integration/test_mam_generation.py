@@ -41,6 +41,30 @@ def _capture(module, model, ids):
             handle.remove()
 
 
+def _hooks(model):
+    return sum(len(module._forward_hooks) for module in model.modules())
+
+
+def test_a_pause_stops_mam_before_the_next_item_and_removes_the_hooks(tmp_path, monkeypatch, dirs, tiny_model,
+                                                                     tiny_tokenizer, fake_prompts, mtrex_records):
+    monkeypatch.setattr(shared, "PAUSE_FILE", tmp_path / "PAUSE")
+    (tmp_path / "PAUSE").touch()
+    before = _hooks(tiny_model)
+    with pytest.raises(shared.Paused):
+        _run(mtrex_records, tiny_model, tiny_tokenizer, fake_prompts, dirs)
+    assert not (dirs[0] / "answers.jsonl").exists() and _hooks(tiny_model) == before
+
+
+def test_a_pause_stops_given_answer_mam_before_the_next_item_and_removes_the_hooks(tmp_path, monkeypatch, dirs, tiny_model,
+                                                                                  tiny_tokenizer, fake_prompts, psiloqa_records):
+    monkeypatch.setattr(shared, "PAUSE_FILE", tmp_path / "PAUSE")
+    (tmp_path / "PAUSE").touch()
+    before = _hooks(tiny_model)
+    with pytest.raises(shared.Paused):
+        mam_multi.run_schema_given_answer(psiloqa_records, tiny_model, tiny_tokenizer, fake_prompts, *dirs)
+    assert not (dirs[0] / "answers.jsonl").exists() and _hooks(tiny_model) == before
+
+
 def test_run_schema_writes_both_files_with_the_agreed_rows(dirs, tiny_model, tiny_tokenizer, fake_prompts,
                                                            mtrex_records):
     _run(mtrex_records, tiny_model, tiny_tokenizer, fake_prompts, dirs)

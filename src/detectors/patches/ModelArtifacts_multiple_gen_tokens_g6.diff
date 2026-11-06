@@ -11,7 +11,7 @@ diff --git a/third_party/low-resource-hallucination-detection/scripts/MAM_HD_met
  
  """## Define functions for processing"""
  
-@@ -708,6 +711,66 @@ def processing_dataset(data_category, model, tokenizer, device, coll_str, args):
+@@ -708,6 +711,67 @@ def processing_dataset(data_category, model, tokenizer, device, coll_str, args):
      
      logging.info(f"Time taken: {(time.time()-time_now)/3600} hours for {data_category} category of {args.dataset_name} dataset with {args.model_name} model in {args.language} language.")
  
@@ -47,6 +47,7 @@ diff --git a/third_party/low-resource-hallucination-detection/scripts/MAM_HD_met
 +    total_layers = len(model.model.layers)
 +    try:
 +        for record in tqdm([r for r in records if r.uid not in done], desc="MAM features (given answer)"):
++            shared.check_pause()
 +            try:
 +                FULLY_CONNECTED_HIDDEN_LAYERS.clear()
 +                ATTENTION_HIDDEN_LAYERS.clear()

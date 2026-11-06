@@ -247,6 +247,18 @@ def test_resume_mam_on_a_fresh_run_is_empty_and_creates_nothing(tmp_path):
     assert not list(tmp_path.iterdir())
 
 
+def test_check_pause_raises_only_when_the_file_exists(tmp_path, monkeypatch):
+    monkeypatch.setattr(shared, "PAUSE_FILE", tmp_path / "PAUSE")
+    shared.check_pause()
+    (tmp_path / "PAUSE").touch()
+    with pytest.raises(shared.Paused):
+        shared.check_pause()
+
+
+def test_a_pause_is_not_caught_by_the_per_item_error_handling():
+    assert not issubclass(shared.Paused, Exception)
+
+
 def test_item_seed_is_stable_and_differs_by_uid():
     assert shared.item_seed("a") == shared.item_seed("a") != shared.item_seed("b")
     assert 0 <= shared.item_seed("a") < 2**32

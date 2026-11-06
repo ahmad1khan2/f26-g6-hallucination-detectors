@@ -182,6 +182,22 @@ def test_checkpoints_from_a_smaller_feature_set_are_not_reused(tmp_path, monkeyp
     assert len(trained) == 2
 
 
+def test_a_pause_stops_before_the_next_training_and_keeps_the_finished_ones(tmp_path, monkeypatch):
+    write_features(tmp_path / "features.pkl", {"P1": alternating(40)})
+    monkeypatch.setattr(shared, "PAUSE_FILE", tmp_path / "PAUSE")
+    real = by_first_token.predict_group_g6
+
+    def pause_after_training(*args):
+        rows = real(*args)
+        (tmp_path / "PAUSE").touch()
+        return rows
+
+    monkeypatch.setattr(by_first_token, "predict_group_g6", pause_after_training)
+    with pytest.raises(shared.Paused):
+        by_first_token.run_schema(tmp_path / "features.pkl", tmp_path / "out", seeds=(42,))
+    assert len(list((tmp_path / "classifier_parts").iterdir())) == 1
+
+
 def test_a_finished_language_does_not_load_its_features_again(tmp_path, monkeypatch):
     write_features(tmp_path / "features.pkl", {"P1": alternating(40)})
     by_first_token.run_schema(tmp_path / "features.pkl", tmp_path / "out", seeds=(42,))

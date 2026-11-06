@@ -33,6 +33,7 @@ SMOKE_LANGUAGE = {"mtrex": "bn", "xfactr": "ilo", "psiloqa": "ar"}
 PAPER_ACCURACY = {"capitals": 74, "country": 77, "official_language": 70}
 ACCURACY_WARN_POINTS = 10
 MAX_NEW_TOKENS = 50
+PAUSED_EXIT = 75  # tells run_all.ps1 this is a pause, so it must not retry, verify or push
 DEFAULT_SEEDS = [42, 43, 44]
 DEFAULT_SAMPLE_STEP = 50
 SMOKE_STEPS = (10, 20)
@@ -436,8 +437,14 @@ def main(argv=None, loader=shared.load_generator, sbert_loader=sem.load_sbert) -
     results, original = Path(args.results), shared.RESULTS
     shared.RESULTS = results
     try:
+        if args.command != "verify":  # verify may run beside a job that has yet to see the pause, and must not take it
+            shared.check_pause()
         log_run(results, " ".join(sys.argv[1:] if argv is None else argv))
         return COMMANDS[args.command](args, cfg, loader, lru_cache(maxsize=None)(sbert_loader))
+    except shared.Paused:
+        shared.PAUSE_FILE.unlink(missing_ok=True)
+        print("Paused: everything finished so far is saved. Run the same command to continue.")
+        return PAUSED_EXIT
     except KeyboardInterrupt:
         print("Interrupted: rerun the same command to resume.")
         return 130

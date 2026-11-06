@@ -26,7 +26,7 @@ diff --git a/third_party/low-resource-hallucination-detection/scripts/Sampling_H
          self.ngram_count = 0
          self.counts = {'<unk>': 0}
          self.n = n
-@@ -633,6 +635,102 @@ def main(args):
+@@ -633,6 +635,104 @@ def main(args):
              args=args)
  
  
@@ -84,6 +84,7 @@ diff --git a/third_party/low-resource-hallucination-detection/scripts/Sampling_H
 +        uid = group[0].uid
 +        if uid in done:
 +            continue
++        shared.check_pause()
 +        try:
 +            torch.manual_seed(shared.item_seed(uid))
 +            responses = _sample_chunks(shared.chat_text(group[0], tokenizer, prompts), model, tokenizer,
@@ -118,6 +119,7 @@ diff --git a/third_party/low-resource-hallucination-detection/scripts/Sampling_H
 +        for uid in row["uids"]:
 +            if uid in done or uid not in answers:  # no answer yet: a later resume scores it
 +                continue
++            shared.check_pause()
 +            try:
 +                score = _unigram_score(answers[uid], row["samples"], language)
 +            except Exception as e:  # logged, never swallowed; KeyboardInterrupt still stops the run

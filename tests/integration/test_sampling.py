@@ -1,7 +1,9 @@
 """Sampling with the tiny random Llama: row shape, chunking, reproducibility, equality with the authors' path."""
+import pytest
 import torch
 
 from src.detectors import selfcheckGPT_g6 as sgm
+from src.detectors import semanticEntropy_g6 as sem
 from src.detectors import shared
 
 NEW_TOKENS = 6
@@ -87,3 +89,38 @@ def test_a_failing_item_is_logged_and_the_run_goes_on(tmp_path, tiny_model, tiny
     assert [r["uid"] for r in rows] == [mtrex_records[1].uid]
     (error,) = shared.read_results(tmp_path / "out" / "errors.jsonl")
     assert error["uid"] == mtrex_records[0].uid and error["stage"] == "sampling" and "boom" in error["error"]
+
+
+def _paused(tmp_path, monkeypatch):
+    monkeypatch.setattr(shared, "PAUSE_FILE", tmp_path / "PAUSE")
+    (tmp_path / "PAUSE").touch()
+
+
+def test_a_pause_stops_sampling_before_the_next_item(tmp_path, monkeypatch, tiny_model, tiny_tokenizer, fake_prompts,
+                                                     mtrex_records):
+    _paused(tmp_path, monkeypatch)
+    with pytest.raises(shared.Paused):
+        sample(mtrex_records, tiny_model, tiny_tokenizer, fake_prompts, tmp_path)
+    assert not (tmp_path / "samples.jsonl").exists()
+
+
+def _saved_samples(tmp_path):
+    row = {"uid": "a", "uids": ["a"], "samples": ["x y"], "log_liks": [[-1.0]]}
+    shared.append_jsonl(tmp_path / "samples.jsonl", row)
+    shared.append_jsonl(tmp_path / "answers.jsonl", {"uid": "a", "answer": "x"})
+
+
+def test_a_pause_stops_selfcheck_scoring_before_the_next_item(tmp_path, monkeypatch):
+    _saved_samples(tmp_path)
+    _paused(tmp_path, monkeypatch)
+    with pytest.raises(shared.Paused):
+        sgm.score_schema(tmp_path / "samples.jsonl", tmp_path / "answers.jsonl", tmp_path, "en")
+    assert not (tmp_path / "sgm.jsonl").exists()
+
+
+def test_a_pause_stops_semantic_entropy_scoring_before_the_next_item(tmp_path, monkeypatch, fake_encoder):
+    _saved_samples(tmp_path)
+    _paused(tmp_path, monkeypatch)
+    with pytest.raises(shared.Paused):
+        sem.score_schema(tmp_path / "samples.jsonl", tmp_path, fake_encoder)
+    assert not (tmp_path / "sem.jsonl").exists()

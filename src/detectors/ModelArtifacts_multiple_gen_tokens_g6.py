@@ -743,6 +743,7 @@ def run_schema_given_answer(records, model, tokenizer, prompts, out_dir, raw_dir
     total_layers = len(model.model.layers)
     try:
         for record in tqdm([r for r in records if r.uid not in done], desc="MAM features (given answer)"):
+            shared.check_pause()
             try:
                 FULLY_CONNECTED_HIDDEN_LAYERS.clear()
                 ATTENTION_HIDDEN_LAYERS.clear()

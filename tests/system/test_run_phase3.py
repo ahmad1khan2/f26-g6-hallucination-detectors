@@ -85,6 +85,91 @@ def test_a_killed_full_run_resumes_to_the_same_uids_without_duplicates(tmp_path,
     assert resumed == uids(reference)
 
 
+def _pause_after_two_sampling_turns(tmp_path, monkeypatch):
+    pause_file = tmp_path / "PAUSE"
+    monkeypatch.setattr(shared, "PAUSE_FILE", pause_file)
+    real_sample, turns = sgm.sample_schema, []
+
+    def pausing(*args, **kwargs):
+        real_sample(*args, **kwargs)
+        turns.append(1)
+        if len(turns) == 2:
+            pause_file.touch()
+
+    monkeypatch.setattr(sgm, "sample_schema", pausing)
+    return pause_file, real_sample
+
+
+def test_a_paused_full_run_exits_with_the_pause_code_and_resumes_to_the_same_results(tmp_path, run, reference, monkeypatch, capsys):
+    pause_file, real_sample = _pause_after_two_sampling_turns(tmp_path, monkeypatch)
+    assert run("full") == rp.PAUSED_EXIT
+    assert not pause_file.exists()
+    assert "Paused" in capsys.readouterr().out
+    monkeypatch.setattr(sgm, "sample_schema", real_sample)
+    assert run("full") == 0
+    assert uids(tmp_path / "results") == uids(reference)
+    for dataset in rp.DATASETS:
+        for language in RUN_CONFIG["languages"][dataset]:
+            for name in ("answers.jsonl", "mam_preds_seed42.jsonl"):
+                assert (tmp_path / "results" / dataset / language / name).read_bytes() == \
+                    (reference / dataset / language / name).read_bytes()
+
+
+def test_a_pause_set_before_the_start_does_not_load_the_model(tmp_path, monkeypatch):
+    pause_file = tmp_path / "PAUSE"
+    monkeypatch.setattr(shared, "PAUSE_FILE", pause_file)
+    pause_file.touch()
+    config = tmp_path / "run.yaml"
+    config.write_text(yaml.safe_dump(RUN_CONFIG), encoding="utf-8")
+
+    def must_not_load():
+        raise AssertionError("the model was loaded")
+
+    code = rp.main(["full", "--config", str(config), "--results", str(tmp_path / "results")], loader=must_not_load)
+    assert code == rp.PAUSED_EXIT and not pause_file.exists()
+
+
+def test_verify_leaves_a_pending_pause_for_the_running_job(tmp_path, monkeypatch):
+    pause_file = tmp_path / "PAUSE"
+    monkeypatch.setattr(shared, "PAUSE_FILE", pause_file)
+    pause_file.touch()
+    monkeypatch.setattr(rp, "COMMANDS", {**rp.COMMANDS, "verify": lambda *a: 0})
+    config = tmp_path / "run.yaml"
+    config.write_text(yaml.safe_dump(RUN_CONFIG), encoding="utf-8")
+    assert rp.main(["verify", "--config", str(config), "--results", str(tmp_path / "results")]) == 0
+    assert pause_file.exists()
+
+
+def test_a_power_cut_leaving_torn_files_resumes_to_the_same_results(tmp_path, run, reference, monkeypatch):
+    real_sample, turns = sgm.sample_schema, []
+
+    def killed(*args, **kwargs):
+        real_sample(*args, **kwargs)
+        turns.append(1)
+        if len(turns) == 3:
+            raise KeyboardInterrupt
+
+    monkeypatch.setattr(sgm, "sample_schema", killed)
+    assert run("full") == 130
+    monkeypatch.setattr(sgm, "sample_schema", real_sample)
+    results = tmp_path / "results"
+    for path in [*results.glob("raw/*/*/samples.jsonl"), *results.glob("*/*/sgm.jsonl"), *results.glob("*/*/sem.jsonl"),
+                 *results.glob("*/*/answers.jsonl")]:
+        data = path.read_bytes()
+        if data:
+            path.write_bytes(data[:-3] + b"\0" * 8)  # the last row is torn, with a zero-filled tail
+    for path in results.glob("raw/*/*/features.pkl"):
+        with open(path, "ab") as f:
+            f.write(b"\x80\x04\x95half")
+    assert run("full") == 0
+
+    resumed = uids(results)
+    for key, found in resumed.items():
+        assert len(found) == len(set(found)), key
+    assert {k: set(v) for k, v in resumed.items()} == {k: set(v) for k, v in uids(reference).items()}
+    check_results(results, rp.PROCESSED, RUN_CONFIG)
+
+
 def test_timing_writes_the_measured_sizes_into_the_config(tmp_path, run, capsys):
     fresh = tmp_path / "fresh.yaml"
     fresh.write_text(yaml.safe_dump({k: v for k, v in RUN_CONFIG.items() if k != "measured"}), encoding="utf-8")

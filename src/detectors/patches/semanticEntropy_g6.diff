@@ -20,7 +20,7 @@ diff --git a/third_party/low-resource-hallucination-detection/scripts/Sampling_H
          Global_MMLU = load_dataset("CohereForAI/Global-MMLU", lang_codes[args.language.lower()])
          Global_MMLU.set_format("pandas")
          data = Global_MMLU['test'][:]
-@@ -616,6 +619,59 @@ def main(args):
+@@ -616,6 +619,60 @@ def main(args):
                              args=args)
  
  
@@ -64,6 +64,7 @@ diff --git a/third_party/low-resource-hallucination-detection/scripts/Sampling_H
 +    for row in shared.read_results(samples_path):
 +        if row["uid"] in done:
 +            continue
++        shared.check_pause()
 +        try:
 +            entropies = {name: float(values[0]) for name, values
 +                         in compute_entropies(row["samples"], row["log_liks"], cutoff, sbert_model).items()}

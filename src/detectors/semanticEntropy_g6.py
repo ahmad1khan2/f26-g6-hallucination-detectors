@@ -659,6 +659,7 @@ def score_schema(samples_path, out_dir, sbert_model, cutoff=0.75, level="item"):
     for row in shared.read_results(samples_path):
         if row["uid"] in done:
             continue
+        shared.check_pause()
         try:
             entropies = {name: float(values[0]) for name, values
                          in compute_entropies(row["samples"], row["log_liks"], cutoff, sbert_model).items()}
