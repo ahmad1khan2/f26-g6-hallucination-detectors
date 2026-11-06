@@ -1,0 +1,57 @@
+# Prompts for X-FACTR and PsiloQA, in the structure of the authors' mTREx_prompts.json.
+# Placeholders: {sentence} (X-FACTR sentence with the blank ___), {passage} and {question} (PsiloQA).
+# Trailing " \n" in system/user follows the authors' mTREx prompts.
+# checked_by: who read each prompt. The team has no reader for these languages, so the user authorised an AI read;
+# this differs from the PRD (a person), and the report must say so. Low-confidence reads are marked.
+xfactr:
+  en:
+    system: "Suppose your job is to fill in the blank in a sentence. When you are given an English sentence with a blank (___), give only the missing entity in English, in its dictionary form. Do not write anything else except the answer. \n"
+    user: "Sentence: {sentence} \n"
+    asst: "Answer (in English): "
+  ja:
+    system: "あなたの仕事は、文の空欄を埋めることです。空欄（___）のある日本語の文が与えられたら、空欄に入る言葉だけを、辞書に載っている基本の形で、日本語で答えてください。答え以外は何も書かないでください。 \n"
+    user: "文: {sentence} \n"
+    asst: "答え（日本語）: "
+  zh:
+    system: "假设你的任务是补全句子中的空白。当你收到一个带有空白（___）的中文句子时，请只用中文写出空白处缺少的词语，并使用词典中的基本形式。除了答案之外，不要写任何其他内容。 \n"
+    user: "句子：{sentence} \n"
+    asst: "答案（中文）："
+  vi:
+    system: "Giả sử nhiệm vụ của bạn là điền vào chỗ trống trong một câu. Khi được cho một câu tiếng Việt có chỗ trống (___), hãy chỉ trả lời phần còn thiếu bằng tiếng Việt, ở dạng từ điển. Không viết bất cứ điều gì khác ngoài câu trả lời. \n"
+    user: "Câu: {sentence} \n"
+    asst: "Trả lời (bằng tiếng Việt): "
+  tl:
+    system: "Ipagpalagay na ang trabaho mo ay punan ang patlang sa isang pangungusap. Kapag binigyan ka ng pangungusap sa Tagalog na may patlang (___), ibigay lamang ang nawawalang salita sa Tagalog, sa anyo nito sa diksyunaryo. Huwag magsulat ng anupaman maliban sa sagot. \n"
+    user: "Pangungusap: {sentence} \n"
+    asst: "Sagot (sa Tagalog): "
+  sw:
+    system: "Tuseme kazi yako ni kujaza nafasi iliyoachwa wazi katika sentensi. Unapopewa sentensi ya Kiswahili yenye nafasi wazi (___), toa tu kitu kinachokosekana kwa Kiswahili, katika umbo lake la kamusi. Usiandike kitu kingine chochote isipokuwa jibu. \n"
+    user: "Sentensi: {sentence} \n"
+    asst: "Jibu (kwa Kiswahili): "
+  yo:
+    system: "Ro pé iṣẹ́ rẹ ni láti kún àlàfo inú gbólóhùn kan. Nígbà tí a bá fún ọ ní gbólóhùn Yorùbá tí ó ní àlàfo (___), fi èdè Yorùbá nìkan dáhùn ohun tí ó sọnù, ní ìrísí rẹ̀ nínú atúmọ̀ èdè. Má ṣe kọ ohunkóhun mìíràn yàtọ̀ sí ìdáhùn. \n"
+    user: "Gbólóhùn: {sentence} \n"
+    asst: "Ìdáhùn (ní èdè Yorùbá): "
+  ilo:
+    system: "Ibilangmo nga trabahom ti mangpunno iti blangko iti maysa a sentensia. No maikkanka iti sentensia iti Ilokano nga addaan iti blangko (___), sumungbat laeng iti kurang a balikas iti Ilokano, iti porma a masarakan iti diksionario. Awan sabali nga isuratmo malaksid iti sungbat. \n"
+    user: "Pangungusap: {sentence} \n"
+    asst: "Sungbat (iti Ilokano): "
+psiloqa:
+  en:
+    system: "Suppose your job is to answer questions using a given passage. Read the passage and answer the question in English only. \n"
+    user: "Passage: {passage} \n\nQuestion: {question} \n"
+  hi:
+    system: "मान लीजिए कि आपका काम दिए गए अनुच्छेद के आधार पर सवालों के जवाब देना है। अनुच्छेद पढ़ें और प्रश्न का उत्तर केवल हिंदी में दें। \n"
+    user: "अनुच्छेद: {passage} \n\nप्रश्न: {question} \n"
+  zh:
+    system: "假设你的任务是根据给定的文章回答问题。请阅读文章，并只用中文回答问题。 \n"
+    user: "文章：{passage} \n\n问题：{question} \n"
+  fi:
+    system: "Oletetaan, että tehtäväsi on vastata kysymyksiin annetun tekstikappaleen perusteella. Lue kappale ja vastaa kysymykseen vain suomeksi. \n"
+    user: "Kappale: {passage} \n\nKysymys: {question} \n"
+  ar:
+    system: "افترض أن مهمتك هي الإجابة عن الأسئلة اعتمادًا على فقرة معطاة. اقرأ الفقرة وأجب عن السؤال باللغة العربية فقط. \n"
+    user: "الفقرة: {passage} \n\nالسؤال: {question} \n"
+checked_by:
+  xfactr: {en: "claude (AI, user-authorised)", ja: "claude (AI, user-authorised)", zh: "claude (AI, user-authorised)", vi: "claude (AI, user-authorised)", tl: "claude (AI, user-authorised)", sw: "claude (AI, user-authorised)", yo: "claude (AI, user-authorised, low confidence)", ilo: "claude (AI, user-authorised, low confidence)"}
+  psiloqa: {en: "claude (AI, user-authorised)", hi: "claude (AI, user-authorised)", zh: "claude (AI, user-authorised)", fi: "claude (AI, user-authorised)", ar: "claude (AI, user-authorised)"}
