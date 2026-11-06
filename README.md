@@ -25,14 +25,39 @@ Base paper: Datta, Chilukuri, Kumar, Ghosh & Zafar (2026). Do LLM hallucination 
 ## Setup
 
 ```
-python -m venv %USERPROFILE%envs26g6
-%USERPROFILE%envs26g6\Scriptsctivate
+python -m venv %USERPROFILE%\venvs\f26g6
+%USERPROFILE%\venvs\f26g6\Scripts\activate
 pip install -r requirements.lock.txt
 python scripts/check_env.py
 git submodule update --init
 ```
 
 `requirements.txt` lists the direct dependencies; `requirements.lock.txt` pins the exact versions (Python 3.11). Further run instructions are added as each phase lands.
+
+## Running Phase 3 on the GPU machine
+
+Windows, PowerShell. Needs Python 3.11, git, an NVIDIA driver and access to this private repository. Turn off Windows sleep before the long runs; the first model run downloads about 16 GB. Full steps and troubleshooting are in `GPU_SETUP.md`.
+
+```powershell
+git clone --recurse-submodules https://github.com/ahmad1khan2/f26-g6-hallucination-detectors
+cd f26-g6-hallucination-detectors
+py -3.11 scripts\bootstrap.py                                    # venv, CUDA torch, pinned dependencies, HF login, GPU check
+.venv\Scripts\python scripts\run_phase3.py smoke                 # 20 items per dataset, then pytest -m gpu
+.venv\Scripts\python scripts\run_phase3.py timing --hours 30     # measures speed, writes configs\run.yaml, prints the ETA
+.venv\Scripts\python scripts\run_phase3.py full                  # resumable: after any stop, rerun the same command
+.venv\Scripts\python scripts\run_phase3.py verify                # tests\test_results.py and results\flags.txt
+.venv\Scripts\python scripts\run_phase3.py verify --partial      # the same for a run stopped early
+```
+
+Afterwards: `git add results; git commit; git push`. `results/raw/` stays on that machine.
+
+Tests:
+
+```powershell
+pytest                # everything except the GPU tests
+pytest tests/unit     # one level: unit, integration, regression or system
+pytest -m gpu         # real-model tests, GPU machine only
+```
 
 ## License
 
