@@ -1,5 +1,6 @@
 """Group 6 helpers shared by the adapted detector scripts: model loading, prompts, result files."""
 import json
+import os
 import pickle
 from functools import lru_cache
 from itertools import zip_longest
@@ -84,11 +85,31 @@ def results_dir(dataset: str, language: str, raw: bool = False) -> Path:
     return path
 
 
+def _sync(f) -> None:
+    """Force a file's bytes to the disk: without this a power cut loses writes the OS was still holding."""
+    f.flush()
+    os.fsync(f.fileno())
+
+
+def write_atomic(path, text: str) -> None:
+    """Replace a file in one step, so a stop at any moment leaves the old file or the new one, never half of one."""
+    path = Path(path)
+    tmp = path.with_name(path.name + ".tmp")
+    try:
+        with open(tmp, "w", encoding="utf-8", newline="\n") as f:
+            f.write(text)
+            _sync(f)
+        os.replace(tmp, path)
+    finally:
+        tmp.unlink(missing_ok=True)
+
+
 def append_jsonl(path, row: dict) -> None:
     path = Path(path)
     path.parent.mkdir(parents=True, exist_ok=True)
     with open(path, "a", encoding="utf-8", newline="\n") as f:
         f.write(json.dumps(row, ensure_ascii=False) + "\n")
+        _sync(f)
 
 
 def read_results(path) -> list:
@@ -96,17 +117,16 @@ def read_results(path) -> list:
     path = Path(path)
     if not path.exists():
         return []
-    text = path.read_text(encoding="utf-8")
-    lines = text.split("\n")
+    lines = path.read_bytes().split(b"\n")
     complete, tail = lines[:-1], lines[-1]
-    rows = [json.loads(line) for line in complete if line.strip()]
+    rows = [json.loads(line.decode("utf-8")) for line in complete if line.strip()]
     return rows if not tail.strip() else rows + _parse_tail(tail)
 
 
-def _parse_tail(tail: str) -> list:
+def _parse_tail(tail: bytes) -> list:
     try:
-        return [json.loads(tail)]
-    except json.JSONDecodeError:
+        return [json.loads(tail.decode("utf-8"))]
+    except ValueError:  # cut inside a row, inside a character, or zero bytes left by a power cut
         return []
 
 
@@ -117,7 +137,8 @@ def repair_jsonl(path) -> None:
         return
     data = path.read_bytes()
     if data and not data.endswith(b"\n"):
-        path.write_bytes(data[: data.rfind(b"\n") + 1])
+        with open(path, "r+b") as f:  # truncate in place: rewriting could lose the whole file in a second power cut
+            f.truncate(data.rfind(b"\n") + 1)
 
 
 def done_uids(path) -> set:
@@ -130,6 +151,7 @@ def append_feature(path, feature: dict) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     with open(path, "ab") as f:
         pickle.dump(feature, f)
+        _sync(f)
 
 
 def _scan_features(path):
@@ -150,28 +172,48 @@ def read_features(path) -> list:
     return list({feature["uid"]: feature for feature, _ in _scan_features(path)}.values())
 
 
-def repair_features(path) -> None:
-    """Cut a half-written last record so the next append stays readable. Call once before resuming."""
+def repair_features(path) -> set:
+    """Cut a half-written last record so the next append stays readable; returns the uids kept. Call once before resuming."""
     path = Path(path)
     if not path.exists():
-        return
-    end = 0
-    for _, end in _scan_features(path):
-        pass
+        return set()
+    end, uids = 0, set()
+    for feature, end in _scan_features(path):
+        uids.add(feature["uid"])
     with open(path, "r+b") as f:
         f.truncate(end)
+    return uids
+
+
+def resume_mam(answers_path, features_path) -> set:
+    """Repair both MAM files and return the uids that are done. Call once before resuming.
+
+    An item counts as done only with both its feature and its answer. Runs written before appends were synced
+    can lose a feature in a power cut while its answer survives; that answer is dropped so the item runs again.
+    """
+    repair_jsonl(answers_path)
+    feature_uids = repair_features(features_path)
+    rows = read_results(answers_path)
+    kept = [row for row in rows if row["uid"] in feature_uids]
+    if len(kept) != len(rows):
+        write_atomic(answers_path, "".join(json.dumps(row, ensure_ascii=False) + "\n" for row in kept))
+    return {row["uid"] for row in kept}
 
 
 def log_error(directory, uid: str, stage: str, error: Exception) -> None:
-    append_jsonl(Path(directory) / "errors.jsonl",
-                 {"uid": uid, "stage": stage, "error": f"{type(error).__name__}: {error}"})
+    path = Path(directory) / "errors.jsonl"
+    repair_jsonl(path)  # no stage repairs this file on resume, and a torn row would corrupt the next one
+    append_jsonl(path, {"uid": uid, "stage": stage, "error": f"{type(error).__name__}: {error}"})
 
 
 def write_run_json(directory, **fields) -> None:
     path = Path(directory) / "run.json"
-    current = json.loads(path.read_text(encoding="utf-8")) if path.exists() else {}
+    try:
+        current = json.loads(path.read_text(encoding="utf-8"))
+    except (FileNotFoundError, ValueError):  # unreadable after a power cut: only the start time is lost
+        current = {}
     # default=str: a model config value json cannot store must not stop a long run on every restart.
-    path.write_text(json.dumps(current | fields, ensure_ascii=False, indent=2, default=str), encoding="utf-8")
+    write_atomic(path, json.dumps(current | fields, ensure_ascii=False, indent=2, default=str))
 
 
 def item_seed(uid: str) -> int:

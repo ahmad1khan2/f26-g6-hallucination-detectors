@@ -392,7 +392,7 @@ def run_timing(args, cfg, loader, sbert_loader):
            + _sampling_seconds(throughput, counts, num_languages, limits)) / 3600
     cfg = {**cfg, "sampling_limit": limits,
            "measured": {"date": _now(), "hours": args.hours, "eta_hours": round(eta, 2), "throughput": throughput}}
-    Path(args.config).write_text(CONFIG_HEADER + yaml.safe_dump(cfg, sort_keys=False), encoding="utf-8", newline="\n")
+    shared.write_atomic(args.config, CONFIG_HEADER + yaml.safe_dump(cfg, sort_keys=False))
     _print_plan(throughput, limits, counts, num_languages, eta)
     return 0
 

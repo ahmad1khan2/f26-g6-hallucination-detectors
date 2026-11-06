@@ -141,6 +141,112 @@ def test_write_run_json_merges_fields(tmp_path):
     assert json.loads((tmp_path / "run.json").read_text(encoding="utf-8")) == {"model": "m", "items": 3}
 
 
+def test_appends_reach_the_disk_before_returning(tmp_path, monkeypatch):
+    synced = []
+    monkeypatch.setattr(shared.os, "fsync", synced.append)
+    shared.append_jsonl(tmp_path / "a.jsonl", {"uid": "x"})
+    shared.append_feature(tmp_path / "f.pkl", {"uid": "x"})
+    assert len(synced) == 2
+
+
+def test_read_results_forgives_a_tail_cut_inside_a_character(tmp_path):
+    path = tmp_path / "a.jsonl"
+    cut = '{"uid": "y", "answer": "दिल्ली"}'.encode("utf-8")[:-4]  # ends two bytes into a three-byte character
+    with pytest.raises(UnicodeDecodeError):
+        cut.decode("utf-8")
+    path.write_bytes(b'{"uid": "x"}\n' + cut)
+    assert [r["uid"] for r in shared.read_results(path)] == ["x"]
+
+
+def test_read_results_forgives_a_tail_of_zero_bytes_left_by_a_power_cut(tmp_path):
+    path = tmp_path / "a.jsonl"
+    path.write_bytes(b'{"uid": "x"}\n' + b"\0" * 64)
+    assert [r["uid"] for r in shared.read_results(path)] == ["x"]
+
+
+def test_read_results_still_raises_on_bad_bytes_before_the_last_line(tmp_path):
+    path = tmp_path / "a.jsonl"
+    path.write_bytes(b'{"uid": "\xff"}\n{"uid": "y"}\n')
+    with pytest.raises(UnicodeDecodeError):
+        shared.read_results(path)
+
+
+def test_log_error_after_a_half_written_row_keeps_the_file_readable(tmp_path):
+    path = tmp_path / "errors.jsonl"
+    path.write_text('{"uid": "a", "stage": "mam", "error": "x"}\n{"uid": "b", "sta', encoding="utf-8")
+    shared.log_error(tmp_path, "c", "mam", ValueError("boom"))
+    assert [r["uid"] for r in shared.read_results(path)] == ["a", "c"]
+
+
+def test_write_atomic_replaces_the_file_and_leaves_no_temp_behind(tmp_path):
+    path = tmp_path / "a.txt"
+    shared.write_atomic(path, "one")
+    shared.write_atomic(path, "दो")
+    assert path.read_text(encoding="utf-8") == "दो"
+    assert [p.name for p in tmp_path.iterdir()] == ["a.txt"]
+
+
+def test_write_atomic_keeps_the_old_file_when_the_write_fails(tmp_path, monkeypatch):
+    path = tmp_path / "a.txt"
+    shared.write_atomic(path, "old")
+
+    def full_disk(_):
+        raise OSError("disk full")
+
+    monkeypatch.setattr(shared.os, "fsync", full_disk)
+    with pytest.raises(OSError):
+        shared.write_atomic(path, "new")
+    assert path.read_text(encoding="utf-8") == "old"
+
+
+def test_write_run_json_survives_a_corrupt_existing_file(tmp_path):
+    (tmp_path / "run.json").write_text('{"model": "m', encoding="utf-8")
+    shared.write_run_json(tmp_path, items=3)
+    assert json.loads((tmp_path / "run.json").read_text(encoding="utf-8")) == {"items": 3}
+
+
+def _mam_files(tmp_path, answers, features):
+    answers_path, features_path = tmp_path / "answers.jsonl", tmp_path / "features.pkl"
+    for uid in answers:
+        shared.append_jsonl(answers_path, {"uid": uid, "answer": "दिल्ली"})
+    for uid in features:
+        shared.append_feature(features_path, {"uid": uid})
+    return answers_path, features_path
+
+
+def test_resume_mam_returns_items_that_have_both_files(tmp_path):
+    paths = _mam_files(tmp_path, "ab", "ab")
+    assert shared.resume_mam(*paths) == {"a", "b"}
+
+
+def test_resume_mam_drops_an_answer_whose_feature_was_lost(tmp_path):
+    paths = _mam_files(tmp_path, "abc", "ab")
+    assert shared.resume_mam(*paths) == {"a", "b"}
+    assert [r["uid"] for r in shared.read_results(paths[0])] == ["a", "b"]
+    assert "दिल्ली" in paths[0].read_text(encoding="utf-8")
+
+
+def test_resume_mam_does_not_count_a_feature_without_an_answer_as_done(tmp_path):
+    paths = _mam_files(tmp_path, "a", "ab")
+    assert shared.resume_mam(*paths) == {"a"}
+
+
+def test_resume_mam_repairs_torn_tails_in_both_files(tmp_path):
+    answers_path, features_path = _mam_files(tmp_path, "ab", "ab")
+    with open(answers_path, "ab") as f:
+        f.write(b'{"uid": "c')
+    with open(features_path, "ab") as f:
+        f.write(b"\x80\x04\x95half")
+    assert shared.resume_mam(answers_path, features_path) == {"a", "b"}
+    assert answers_path.read_bytes().endswith(b"\n")
+    assert [f["uid"] for f in shared.read_features(features_path)] == ["a", "b"]
+
+
+def test_resume_mam_on_a_fresh_run_is_empty_and_creates_nothing(tmp_path):
+    assert shared.resume_mam(tmp_path / "answers.jsonl", tmp_path / "features.pkl") == set()
+    assert not list(tmp_path.iterdir())
+
+
 def test_item_seed_is_stable_and_differs_by_uid():
     assert shared.item_seed("a") == shared.item_seed("a") != shared.item_seed("b")
     assert 0 <= shared.item_seed("a") < 2**32

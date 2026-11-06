@@ -11,7 +11,7 @@ diff --git a/third_party/low-resource-hallucination-detection/scripts/MAM_HD_met
  
  """## Define functions for processing"""
  
-@@ -708,6 +711,68 @@ def processing_dataset(data_category, model, tokenizer, device, coll_str, args):
+@@ -708,6 +711,66 @@ def processing_dataset(data_category, model, tokenizer, device, coll_str, args):
      
      logging.info(f"Time taken: {(time.time()-time_now)/3600} hours for {data_category} category of {args.dataset_name} dataset with {args.model_name} model in {args.language} language.")
  
@@ -42,9 +42,7 @@ diff --git a/third_party/low-resource-hallucination-detection/scripts/MAM_HD_met
 +    # G6: resumable teacher-forced run over PsiloQA records: the given answer is appended to the chat text, no generate
 +    out_dir, raw_dir = Path(out_dir), Path(raw_dir)
 +    answers_path, features_path = out_dir / "answers.jsonl", raw_dir / "features.pkl"
-+    shared.repair_jsonl(answers_path)
-+    shared.repair_features(features_path)
-+    done = shared.done_uids(answers_path)
++    done = shared.resume_mam(answers_path, features_path)
 +    handles = register_g6_hooks(model)
 +    total_layers = len(model.model.layers)
 +    try:

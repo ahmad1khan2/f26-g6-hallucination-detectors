@@ -631,9 +631,7 @@ def run_schema(records, model, tokenizer, prompts, out_dir, raw_dir, max_new_tok
     # G6: resumable run over mTREx / X-FACTR schema records; features first, then the answers row (a kill between is safe)
     out_dir, raw_dir = Path(out_dir), Path(raw_dir)
     answers_path, features_path = out_dir / "answers.jsonl", raw_dir / "features.pkl"
-    shared.repair_jsonl(answers_path)
-    shared.repair_features(features_path)
-    done = shared.done_uids(answers_path)
+    done = shared.resume_mam(answers_path, features_path)
     handles = register_g6_hooks(model)
     total_layers = len(model.model.layers)
     try:
