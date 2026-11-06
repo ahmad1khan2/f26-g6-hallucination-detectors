@@ -17,3 +17,6 @@ report/*
 !report/final/
 *.pdf
 !report/final/**/*.pdf
+
+# Phase 3: large run outputs stay on the run machine
+results/raw/

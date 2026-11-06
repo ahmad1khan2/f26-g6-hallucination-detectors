@@ -1,0 +1,12 @@
+# Phase 3 (detectors). torch comes from the CUDA index, chosen by scripts/bootstrap.py.
+-r requirements.txt
+transformers
+accelerate
+bitsandbytes
+sentence-transformers
+sentencepiece
+protobuf
+spacy
+nltk
+sudachipy
+sudachidict_core
