@@ -89,6 +89,16 @@ cd f26-g6-hallucination-detectors
 py -3.11 scripts\bootstrap.py
 ```
 
+If you already cloned it, update instead, then run the setup script as usual:
+
+```powershell
+cd $HOME\f26-g6-hallucination-detectors
+git pull
+py -3.11 scripts\bootstrap.py
+```
+
+Always pull before starting `smoke`. Do not pull while `full` is running or between its restarts, because results from two code versions would mix.
+
 The script creates `.venv`, installs the CUDA build of torch and the pinned packages, asks for your Hugging Face token, downloads the model (about 16 GB), and answers one test question. It is safe to run again if it stops.
 
 It worked if it prints a question, an answer, the GPU name and the peak VRAM. It also prints two `setx` lines at the end. Run them once, so later windows find the model:
@@ -108,7 +118,9 @@ Open a new PowerShell window and return to the folder with `cd $HOME\f26-g6-hall
 .venv\Scripts\python scripts\run_phase3.py smoke
 ```
 
-This runs 20 items per dataset through every detector, then the GPU tests. It must end with PASS. It also prints the path of a file with example answers. Send that file for checking before going on: prompts and label rules are frozen at this point.
+This runs 20 items per dataset through every detector, then the GPU tests, and downloads the LaBSE model (under 1 GB) the first time. It must end with `SMOKE PASS`. `WARN` lines are fine; `FAIL` lines are not, so send the output if you see `SMOKE FAIL`.
+
+It also writes example answers to `results\raw\smoke\examples.txt`. That folder is not pushed, so send the file by hand and have it checked before going on: prompts and label rules are frozen at this point.
 
 ### 8. Timing test
 
@@ -126,6 +138,8 @@ Choose `--hours` to fit the time you have. This measures real speed, writes `con
 
 If it stops for any reason (crash, restart, Ctrl-C), run the same command again. It continues from where it stopped and redoes nothing. You can stop it whenever you need results, write up what has finished, and resume later.
 
+Run it in the folder from step 6, and do not use the GPU for anything else meanwhile. After the English mTREx part it prints accuracy next to the paper's values. Send that if it shows a warning, but the run carries on either way. Items that fail are logged in `errors.jsonl` and retried on the next restart.
+
 ### 10. Check the results
 
 ```powershell
@@ -133,6 +147,8 @@ If it stops for any reason (crash, restart, Ctrl-C), run the same command again.
 ```
 
 It must pass. Warnings about languages with too few items of one class are expected, and are written to `results\flags.txt`. They are not failures.
+
+If you stopped `full` early, use `verify --partial` instead. Unfinished counts then become warnings, while bad values still fail.
 
 ### 11. Send the results back
 
@@ -143,6 +159,8 @@ git push
 ```
 
 `results\raw` (features and samples, about 7 GB or more) is not pushed and stays on this PC. Keep it until Phase 4 is finished.
+
+To turn sleep back on afterwards, set `standby-timeout-ac` to the minutes you normally use, for example `powercfg /change standby-timeout-ac 30`.
 
 The same three commands also work part-way through a run, after stopping `full`, if a report needs partial results.
 
@@ -157,3 +175,6 @@ The same three commands also work part-way through a run, after stopping `full`,
 | Out of memory during sampling | Close other programs that use the GPU. Run `timing` again; it lowers the batch size by itself |
 | Text in the console looks garbled | Run `setx PYTHONUTF8 1` and open a new window. The saved files are unaffected |
 | The PC restarted during the run | Run the `full` command again |
+| `full` says to run timing first | Run step 8, which writes the sizes `full` needs |
+| `py -3.11` is not found | Install Python 3.11 (step 2) and open a new window |
+| `git pull` refuses because of local changes | Send the output and do not discard anything; `results` may hold finished work |
