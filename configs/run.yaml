@@ -1,0 +1,11 @@
+# Run sizes. `python scripts/run_phase3.py timing --hours H` rewrites this file and adds a `measured` key;
+# `full` refuses to start until `measured` exists. Optional keys: `languages: {dataset: [codes]}` (cut order), `seeds`.
+mam_limit: null              # items per language for MAM and classifiers; null = all (never cut)
+sampling_limit:              # items per language for SelfCheckGPT and Semantic Entropy; null = all
+  mtrex: null
+  xfactr: null
+  psiloqa: null
+psiloqa_max_new_tokens: 150  # replaced by the 95th percentile of tokenized PsiloQA answers when timing runs
+num_samples: 20
+sample_chunk: 20             # samples per generate call; timing halves it after an out-of-memory error
+sample_step: 50              # items per language per round-robin turn
