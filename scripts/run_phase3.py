@@ -5,6 +5,7 @@ import platform
 import shutil
 import subprocess
 import sys
+import threading
 import time
 from datetime import datetime
 from functools import lru_cache
@@ -34,6 +35,10 @@ PAPER_ACCURACY = {"capitals": 74, "country": 77, "official_language": 70}
 ACCURACY_WARN_POINTS = 10
 MAX_NEW_TOKENS = 50
 PAUSED_EXIT = 75  # tells run_all.ps1 this is a pause, so it must not retry, verify or push
+BACKUP_SECONDS = 3600
+BACKUP_GIT_TIMEOUT = 300  # a stuck network must not hold a backup forever
+BACKUP_MESSAGE = "Add partial Phase 3 detector results"
+_BACKUP_LOCK = threading.Lock()
 DEFAULT_SEEDS = [42, 43, 44]
 DEFAULT_SAMPLE_STEP = 50
 SMOKE_STEPS = (10, 20)
@@ -242,12 +247,60 @@ def stage_sampling(cfg, model, tokenizer, prompts, sbert_loader):
 
 # ---- commands ---------------------------------------------------------------------------------------------------
 
+def backup_results(root=ROOT) -> None:
+    """Commit and push the small result files. A failure is printed and never stops the run."""
+    def git(*args):
+        return subprocess.run(["git", "-c", "core.fsync=all", *args], cwd=root, capture_output=True, text=True, errors="replace",
+                              timeout=BACKUP_GIT_TIMEOUT, env={**os.environ, "GIT_TERMINAL_PROMPT": "0"})
+
+    def must(*args):
+        done = git(*args)
+        if done.returncode:
+            raise OSError(f"git {args[0]}: {done.stderr.strip()}")
+
+    with _BACKUP_LOCK:
+        try:
+            must("add", "results", "configs/run.yaml")
+            if git("diff", "--cached", "--quiet").returncode:
+                must("commit", "-m", BACKUP_MESSAGE)
+            must("push")  # also when nothing is new, so a push that failed last time goes through
+            print(f"Backup pushed at {_now()}")
+        except (OSError, subprocess.SubprocessError) as e:
+            print(f"WARNING: backup failed, the run carries on: {e}")
+
+
+def _backup_loop(stop) -> None:
+    while not stop.wait(BACKUP_SECONDS):
+        backup_results()
+
+
+def _start_backups():
+    """Hourly pushes while the real run works; never for another results folder, so tests leave the repo alone."""
+    if shared.RESULTS != ROOT / "results":
+        return None
+    (ROOT / ".git" / "index.lock").unlink(missing_ok=True)  # a run killed mid-commit would block every later commit
+    stop = threading.Event()
+    threading.Thread(target=_backup_loop, args=(stop,), daemon=True).start()
+    return stop
+
+
 def run_full(args, cfg, loader, sbert_loader):
-    model, tokenizer = loader()
-    prompts = shared.load_prompts()
-    stage_mam(cfg, model, tokenizer, prompts)
-    stage_classifiers(cfg)
-    stage_sampling(cfg, model, tokenizer, prompts, sbert_loader)
+    stop_backups = _start_backups()
+    try:
+        model, tokenizer = loader()
+        prompts = shared.load_prompts()
+        stage_mam(cfg, model, tokenizer, prompts)
+        stage_classifiers(cfg)
+        stage_sampling(cfg, model, tokenizer, prompts, sbert_loader)
+    except shared.Paused:
+        if stop_backups:
+            backup_results()
+        raise
+    finally:
+        if stop_backups:
+            stop_backups.set()
+            with _BACKUP_LOCK:  # let a running backup finish: run_all.ps1 commits next and needs the git lock free
+                pass
     print("Full run finished. Check it with: python scripts/run_phase3.py verify")
     return 0
 
@@ -317,6 +370,8 @@ def run_smoke(args, cfg, loader, sbert_loader):
     for line in problems:
         print(f"FAIL {line}")
     print("SMOKE FAIL" if problems else "SMOKE PASS")
+    if not problems:
+        (root / "passed").touch()  # run_all.ps1 skips setup and smoke after a stop during timing
     return 1 if problems else 0
 
 

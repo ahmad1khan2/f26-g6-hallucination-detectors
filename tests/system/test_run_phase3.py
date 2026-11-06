@@ -1,4 +1,7 @@
 """scripts/run_phase3.py end to end on the tiny random model: smoke, timing, full, a killed run, verify."""
+import subprocess
+import threading
+
 import pytest
 import yaml
 
@@ -188,7 +191,112 @@ def test_smoke_passes_on_the_tiny_model_and_writes_examples(tmp_path, run, monke
 
     examples = (tmp_path / "results" / "raw" / "smoke" / "examples.txt").read_text(encoding="utf-8")
     assert "[mtrex/bn]" in examples and "[psiloqa/ar]" in examples
+    assert (tmp_path / "results" / "raw" / "smoke" / "passed").exists()
+
+
+def test_a_failed_smoke_leaves_no_passed_marker(tmp_path, run, monkeypatch):
+    monkeypatch.setattr(rp, "SMOKE_STEPS", (3, 6))
+    monkeypatch.setattr(rp, "_smoke_layout_problems", lambda *a: (["broken"], []))
+    assert run("smoke", "--no-gpu-tests") == 1
+    assert not (tmp_path / "results" / "raw" / "smoke" / "passed").exists()
 
 
 def test_verify_exits_with_the_exit_code_of_test_results(run):
     assert run("verify") == 0
+
+
+def _git(cwd, *args):
+    return subprocess.run(["git", *args], cwd=cwd, check=True, capture_output=True, text=True).stdout
+
+
+@pytest.fixture
+def clone(tmp_path):
+    """A repo with results/ and configs/run.yaml, pushing to a local bare remote."""
+    remote, root = tmp_path / "remote.git", tmp_path / "repo"
+    _git(tmp_path, "init", "--bare", str(remote))
+    (root / "results" / "raw").mkdir(parents=True)
+    (root / "configs").mkdir()
+    (root / "configs" / "run.yaml").write_text("measured: 1\n", encoding="utf-8")
+    (root / "results" / "answers.jsonl").write_text("{}\n", encoding="utf-8")
+    (root / ".gitignore").write_text("results/raw/\n", encoding="utf-8")
+    _git(root, "init", "-b", "main")
+    _git(root, "config", "user.name", "t")
+    _git(root, "config", "user.email", "t@t")
+    _git(root, "remote", "add", "origin", str(remote))
+    _git(root, "add", ".")
+    _git(root, "commit", "-m", "start")
+    _git(root, "push", "-u", "origin", "main")
+    return root
+
+
+def _pushed(root):
+    return _git(root, "log", "origin/main", "--format=%s").splitlines()
+
+
+def test_backup_commits_and_pushes_results_but_not_raw_files(clone):
+    (clone / "results" / "answers.jsonl").write_text("{}\n{}\n", encoding="utf-8")
+    (clone / "results" / "raw" / "features.pkl").write_bytes(b"x")
+    rp.backup_results(clone)
+    assert _pushed(clone)[0] == rp.BACKUP_MESSAGE
+    tracked = _git(clone, "ls-tree", "-r", "--name-only", "origin/main")
+    assert "results/answers.jsonl" in tracked and "features.pkl" not in tracked
+
+
+def test_backup_with_nothing_new_makes_no_empty_commit(clone):
+    rp.backup_results(clone)
+    assert _pushed(clone) == ["start"]
+
+
+def test_backup_never_raises_when_the_push_fails_and_says_so(clone, capsys):
+    _git(clone, "remote", "set-url", "origin", str(clone / "no-such-remote"))
+    (clone / "results" / "answers.jsonl").write_text("{}\n{}\n", encoding="utf-8")
+    rp.backup_results(clone)
+    assert "WARNING" in capsys.readouterr().out
+
+
+def test_a_backup_that_could_not_push_is_pushed_by_the_next_one(clone):
+    url = _git(clone, "remote", "get-url", "origin").strip()
+    _git(clone, "remote", "set-url", "origin", str(clone / "no-such-remote"))
+    (clone / "results" / "answers.jsonl").write_text("{}\n{}\n", encoding="utf-8")
+    rp.backup_results(clone)
+    _git(clone, "remote", "set-url", "origin", url)
+    rp.backup_results(clone)
+    assert _pushed(clone)[0] == rp.BACKUP_MESSAGE
+
+
+def test_backups_repeat_on_the_real_results_folder_and_clear_a_stale_git_lock(tmp_path, monkeypatch):
+    (tmp_path / ".git").mkdir()
+    (tmp_path / ".git" / "index.lock").touch()
+    monkeypatch.setattr(rp, "ROOT", tmp_path)
+    monkeypatch.setattr(shared, "RESULTS", tmp_path / "results")
+    monkeypatch.setattr(rp, "BACKUP_SECONDS", 0.01)
+    fired = threading.Semaphore(0)
+    monkeypatch.setattr(rp, "backup_results", lambda *a: fired.release())
+    stop = rp._start_backups()
+    try:
+        assert not (tmp_path / ".git" / "index.lock").exists()
+        assert fired.acquire(timeout=10) and fired.acquire(timeout=10)
+    finally:
+        stop.set()
+
+
+def test_no_backups_for_any_other_results_folder(tmp_path, monkeypatch):
+    monkeypatch.setattr(shared, "RESULTS", tmp_path / "elsewhere")
+    assert rp._start_backups() is None
+
+
+def test_a_pause_makes_one_last_backup(tmp_path, monkeypatch, tiny_model, tiny_tokenizer):
+    monkeypatch.setattr(rp, "ROOT", tmp_path)
+    monkeypatch.setattr(shared, "RESULTS", tmp_path / "results")
+    monkeypatch.setattr(shared, "PAUSE_FILE", tmp_path / "PAUSE")
+    backups = []
+    monkeypatch.setattr(rp, "backup_results", lambda *a: backups.append(1))
+
+    def pause_in_mam(*args):
+        (tmp_path / "PAUSE").touch()
+        shared.check_pause()
+
+    monkeypatch.setattr(rp, "stage_mam", pause_in_mam)
+    with pytest.raises(shared.Paused):
+        rp.run_full(None, RUN_CONFIG, lambda: (tiny_model, tiny_tokenizer), None)
+    assert backups == [1]
