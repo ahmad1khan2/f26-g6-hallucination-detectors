@@ -1,11 +1,31 @@
-# Run sizes. `python scripts/run_phase3.py timing --hours H` rewrites this file and adds a `measured` key;
-# `full` refuses to start until `measured` exists. Optional keys: `languages: {dataset: [codes]}` (cut order), `seeds`.
-mam_limit: null              # items per language for MAM and classifiers; null = all (never cut)
-sampling_limit:              # items per language for SelfCheckGPT and Semantic Entropy; null = all
-  mtrex: null
-  xfactr: null
-  psiloqa: null
-psiloqa_max_new_tokens: 150  # replaced by the 95th percentile of tokenized PsiloQA answers when timing runs
+# Run sizes. `run_phase3.py timing --hours H` rewrites this file and adds `measured`; `full` needs it.
+mam_limit: null
+sampling_limit:
+  mtrex: 91
+  xfactr: 91
+  psiloqa: 91
+psiloqa_max_new_tokens: 264
 num_samples: 20
-sample_chunk: 20             # samples per generate call; timing halves it after an out-of-memory error
-sample_step: 50              # items per language per round-robin turn
+sample_chunk: 20
+sample_step: 50
+measured:
+  date: '2026-11-06T09:40:05'
+  hours: 24.0
+  eta_hours: 24.0
+  throughput:
+    mam:
+      mtrex: 1.785952664999968
+      xfactr: 1.677922895000029
+      psiloqa: 0.15733422500006783
+    clf:
+      mtrex: 18.483113699998285
+      xfactr: 9.080980500004443
+      psiloqa: 8.871810899998309
+    sampling:
+      mtrex: 2.9283388666663086
+      xfactr: 1.6158200999998371
+      psiloqa: 3.1880165666661924
+    scoring:
+      mtrex: 0.829046533333288
+      xfactr: 0.5656688333334993
+      psiloqa: 0.2636833666662521

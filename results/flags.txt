@@ -1,0 +1,10 @@
+mtrex/en: missing sgm.jsonl
+mtrex/en: missing sem.jsonl
+mtrex/en: missing mam_preds_seed*.jsonl
+mtrex/de: not run yet
+mtrex/hi: answers + mam errors incomplete, 4161 of 6420
+mtrex/hi: missing sgm.jsonl
+mtrex/hi: missing sem.jsonl
+mtrex/hi: missing mam_preds_seed*.jsonl
+mtrex/bn: not run yet
+mtrex/ur: not run yet

@@ -19,3 +19,11 @@ See `results/flags.txt` after `verify`: notes such as "not run yet" or a thin te
 ## Machine versions
 
 `scripts/check_gpu.py` appends one block per machine below.
+
+## DESKTOP-O11JBVQ
+- torch: 2.15.0+cu132
+- transformers: 5.22.1
+- CUDA: 13.2
+- driver: 596.71
+- GPU: NVIDIA RTX A4000
+- peak VRAM (GiB): 5.73
