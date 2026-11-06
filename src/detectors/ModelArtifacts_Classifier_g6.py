@@ -6,6 +6,8 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import roc_auc_score
 from tqdm import tqdm
 from datasets import load_dataset
+import tempfile  # G6: scratch folder for the authors' per-artifact result files
+from src.detectors import shared  # G6: feature, result and error file helpers
 
 """## Define functions for processing"""
 
@@ -124,7 +126,10 @@ def gen_classifier_roc(**cls_roc_args):
     with torch.no_grad():
         pred = torch.nn.functional.softmax(classifier_model(X_test), dim=1)
         prediction_classes = (pred[:, 1] > 0.5).type(torch.long).cpu()
-        roc_auc = roc_auc_score(y_test.cpu(), pred[:, 1].cpu())
+        try:
+            roc_auc = roc_auc_score(y_test.cpu(), pred[:, 1].cpu())
+        except ValueError:  # G6: a one-class test split must not lose its predictions; AUROC is computed in Phase 4
+            roc_auc = float('nan')
         accuracy = (prediction_classes.numpy() == y_test.cpu().numpy()).mean()
 
         # Prepare data for saving
@@ -132,6 +137,8 @@ def gen_classifier_roc(**cls_roc_args):
 
         # Combine test indices from the original dataset and predictions
         results = [{"index": idx, "prediction": p} for idx, p in zip(test_indices, pred_list)]
+        if cls_roc_args.get('preds_out') is not None:  # G6: hand the test indices and probabilities back to run_schema
+            cls_roc_args['preds_out'].extend(results)
 
         # Save results to a JSON file
         file_name = f"classifier_results_{artifact_name}.json"
@@ -375,6 +382,63 @@ def processing_dataset(data_category, device, args):
             f.write(f"{artifact}: {metrics}\n")
     
     logging.info(f"Time taken: {(time.time()-time_now)/3600} hours for {data_category} category of {args.dataset_name} dataset with {args.model_name} model in {args.language} language.")
+
+
+# G6: one classifier per group and artifact, over the schema feature files; returns nothing, writes mam_preds_seed<k>.jsonl
+def run_groups_g6(features_path, out_dir, seeds, by_relation, device, artifact_keys, train=None):
+    # G6: shared by both classifier scripts; `train` is the caller's own gen_classifier_roc
+    train = train or gen_classifier_roc
+    features_path = Path(features_path)
+    if not features_path.exists():
+        raise FileNotFoundError(f"feature file not found: {features_path}")
+    out_dir = Path(out_dir)
+    out_dir.mkdir(parents=True, exist_ok=True)
+    device = device or torch.device("cpu")
+    features = shared.read_features(features_path)
+    if by_relation:
+        groups = {}
+        for item in features:
+            groups.setdefault(item["relation"], []).append(item)
+    else:
+        groups = {out_dir.name: features}
+    for seed in seeds:
+        path = out_dir / f"mam_preds_seed{seed}.jsonl"
+        if path.exists():
+            continue
+        out_rows = []
+        for name, items in groups.items():
+            try:
+                for artifact, key in artifact_keys.items():
+                    out_rows += predict_group_g6(items, key, artifact, seed, device, train)
+            except ValueError as e:
+                shared.log_error(out_dir, name, "classifier", e)
+        tmp = path.with_suffix(".jsonl.tmp")
+        tmp.write_text("".join(json.dumps(r) + "\n" for r in out_rows), encoding="utf-8")
+        os.replace(tmp, path)
+
+
+def predict_group_g6(items, key, artifact, seed, device, train):
+    # G6: last layer only (index 1); torch is seeded because the released training is not
+    labels = np.array([item["label"] for item in items])
+    y_train, _ = train_test_split(labels, test_size=0.2, random_state=seed)
+    if len(set(y_train)) < 2:
+        raise ValueError(f"training split has one class ({len(y_train)} items)")
+    inputs = np.stack([item[key][1] for item in items]).astype(np.float32)
+    torch.manual_seed(seed)
+    preds = []
+    with tempfile.TemporaryDirectory() as scratch:
+        train(inputs=inputs, correct=labels, artifact_name=artifact, device=device,
+              cls_results_file_path=os.path.join(scratch, "classifier_results.txt"), cls_results_dir=scratch,
+              num_hidden_nodes=256, dropout_mlp=0.5, learning_rate=1e-4, weight_decay=1e-2, batch_size=128,
+              seed_val=seed, preds_out=preds)
+    return [{"uid": items[p["index"]]["uid"], "relation": items[p["index"]]["relation"], "split": "test",
+             "p_hallucinated": float(p["prediction"]), "artifact": artifact} for p in preds]
+
+
+def run_schema(features_path, out_dir, seeds=(42, 43, 44), by_relation=False, device=None):
+    # G6: entry point for our schema feature files (first generated token), last layer of both artifacts
+    run_groups_g6(features_path, out_dir, seeds, by_relation, device,
+                  {"fully_connected": "first_fully_connected", "attention": "first_attention"})
 
 
 def main(args):
