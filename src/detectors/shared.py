@@ -138,7 +138,7 @@ def _scan_features(path):
         while True:
             try:
                 feature = pickle.load(f)
-            except (EOFError, pickle.UnpicklingError):
+            except (EOFError, pickle.UnpicklingError, MemoryError):  # MemoryError: a garbled frame length
                 return
             yield feature, f.tell()
 

@@ -109,6 +109,15 @@ def test_repair_features_cuts_a_half_written_record_so_appends_stay_readable(tmp
     assert [f["uid"] for f in shared.read_features(path)] == ["a", "b"]
 
 
+def test_repair_features_survives_a_tail_claiming_a_huge_frame(tmp_path):
+    path = tmp_path / "features.pkl"
+    shared.append_feature(path, {"uid": "a"})
+    with open(path, "ab") as f:
+        f.write(b"\x80\x04\x95" + (2**62).to_bytes(8, "little"))
+    shared.repair_features(path)
+    assert [f["uid"] for f in shared.read_features(path)] == ["a"]
+
+
 def test_read_features_is_empty_for_a_missing_file(tmp_path):
     assert shared.read_features(tmp_path / "none.pkl") == []
 
