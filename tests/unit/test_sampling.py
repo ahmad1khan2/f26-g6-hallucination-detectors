@@ -178,13 +178,18 @@ def prompt_languages():
     return xfactr, load_config("data")["psiloqa"]["languages"]
 
 
-def test_prompts_cover_every_language_and_start_unchecked():
+def test_prompts_cover_every_language_and_record_who_read_them():
     prompts = load_config("prompts")
     xfactr, psiloqa = prompt_languages()
     assert set(prompts["xfactr"]) == set(xfactr) and set(prompts["psiloqa"]) == set(psiloqa)
     assert set(prompts["checked_by"]["xfactr"]) == set(xfactr)
     assert set(prompts["checked_by"]["psiloqa"]) == set(psiloqa)
-    assert {v for group in prompts["checked_by"].values() for v in group.values()} == {"pending"}
+    readers = {v for group in prompts["checked_by"].values() for v in group.values()}
+    assert readers and all(reader and reader != "pending" for reader in readers)
+
+
+def test_ilocano_prompt_has_no_tagalog_word_for_sentence():
+    assert "angungusap" not in str(load_config("prompts")["xfactr"]["ilo"])
 
 
 def test_xfactr_prompts_format_with_real_records_through_build_messages():

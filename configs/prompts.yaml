@@ -34,7 +34,7 @@ xfactr:
     asst: "Ìdáhùn (ní èdè Yorùbá): "
   ilo:
     system: "Ibilangmo nga trabahom ti mangpunno iti blangko iti maysa a sentensia. No maikkanka iti sentensia iti Ilokano nga addaan iti blangko (___), sumungbat laeng iti kurang a balikas iti Ilokano, iti porma a masarakan iti diksionario. Awan sabali nga isuratmo malaksid iti sungbat. \n"
-    user: "Pangungusap: {sentence} \n"
+    user: "Sentensia: {sentence} \n"
     asst: "Sungbat (iti Ilokano): "
 psiloqa:
   en:
