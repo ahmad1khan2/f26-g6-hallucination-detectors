@@ -1,0 +1,82 @@
+diff --git a/third_party/low-resource-hallucination-detection/scripts/MAM_HD_methods/ModelArtifacts_multiple_gen_tokens.py b/src/detectors/ModelArtifacts_multiple_gen_tokens_g6.py
+--- a/third_party/low-resource-hallucination-detection/scripts/MAM_HD_methods/ModelArtifacts_multiple_gen_tokens.py
++++ b/src/detectors/ModelArtifacts_multiple_gen_tokens_g6.py
+@@ -6,6 +6,9 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
+ from datasets import load_dataset
+ from collections import defaultdict
+ from functools import partial
++from pathlib import Path  # G6: paths for the schema runner
++from src.detectors import shared  # G6: resume helpers and the chat text for our schema records
++from src.detectors.ModelArtifacts_g6 import token_entropy, log_item_error  # G6: stateless helpers shared with the single-token script
+ 
+ """## Define functions for processing"""
+ 
+@@ -708,6 +711,68 @@ def processing_dataset(data_category, model, tokenizer, device, coll_str, args):
+     
+     logging.info(f"Time taken: {(time.time()-time_now)/3600} hours for {data_category} category of {args.dataset_name} dataset with {args.model_name} model in {args.language} language.")
+ 
++FULLY_CONNECTED_LAYER_NAME = ["model.layers.", ".mlp.up_proj"]  # G6: same split as the authors' activation_layer_name
++ATTENTION_LAYER_NAME = ["model.layers.", ".self_attn.o_proj"]  # G6: same split as the authors' attention_layer_name
++
++def register_g6_hooks(model):
++    # G6: hooks only on the middle and last layer (the authors' collect_* rule) to limit memory; caller removes the handles
++    total_layers = len(model.model.layers)
++    middle_layer = total_layers // 2 - 1 if total_layers % 2 == 0 else total_layers // 2
++    modules = dict(model.named_modules())
++    handles = []
++    for layer in {middle_layer, total_layers - 1}:
++        fc_name = f"{FULLY_CONNECTED_LAYER_NAME[0]}{layer}{FULLY_CONNECTED_LAYER_NAME[1]}"
++        attn_name = f"{ATTENTION_LAYER_NAME[0]}{layer}{ATTENTION_LAYER_NAME[1]}"
++        handles.append(modules[fc_name].register_forward_hook(partial(save_fully_connected_hidden, fc_name)))
++        handles.append(modules[attn_name].register_forward_hook(partial(save_attention_hidden, attn_name)))
++    return handles
++
++def average_token_positions(collect_token_pos_only, layer_name, total_layers, start_pos, seq_len, avg_num_tokens):
++    # G6: mean over the answer's first avg_num_tokens positions, never past the sequence end; an empty range is an error
++    positions = range(start_pos, min(start_pos + avg_num_tokens, seq_len))
++    if not positions:
++        raise ValueError("the answer has no tokens")
++    return np.mean(np.stack([collect_token_pos_only(p, layer_name, total_layers) for p in positions]), axis=0)
++
++def run_schema_given_answer(records, model, tokenizer, prompts, out_dir, raw_dir, avg_num_tokens=10):
++    # G6: resumable teacher-forced run over PsiloQA records: the given answer is appended to the chat text, no generate
++    out_dir, raw_dir = Path(out_dir), Path(raw_dir)
++    answers_path, features_path = out_dir / "answers.jsonl", raw_dir / "features.pkl"
++    shared.repair_jsonl(answers_path)
++    shared.repair_features(features_path)
++    done = shared.done_uids(answers_path)
++    handles = register_g6_hooks(model)
++    total_layers = len(model.model.layers)
++    try:
++        for record in tqdm([r for r in records if r.uid not in done], desc="MAM features (given answer)"):
++            try:
++                FULLY_CONNECTED_HIDDEN_LAYERS.clear()
++                ATTENTION_HIDDEN_LAYERS.clear()
++                chat = shared.chat_text(record, tokenizer, prompts)
++                start_pos = tokenizer(text=chat, return_tensors="pt")["input_ids"].size(dim=-1)
++                inputs = tokenizer(text=chat + record.answer, return_tensors="pt").to(model.device)
++                seq_len = inputs["input_ids"].size(dim=-1)
++                with torch.no_grad():
++                    logits = model(**inputs).logits.squeeze()
++                fc_avg = average_token_positions(collect_fully_connected_token_pos_only, FULLY_CONNECTED_LAYER_NAME,
++                                                 total_layers, start_pos, seq_len, avg_num_tokens)
++                attn_avg = average_token_positions(collect_attention_token_pos_only, ATTENTION_LAYER_NAME,
++                                                   total_layers, start_pos, seq_len, avg_num_tokens)
++                first_fully_connected, _ = collect_fully_connected(start_pos, FULLY_CONNECTED_LAYER_NAME, total_layers)
++                first_attention, _ = collect_attention(start_pos, ATTENTION_LAYER_NAME, total_layers)
++                shared.append_feature(features_path, {
++                    "uid": record.uid, "relation": record.relation, "label": record.label,
++                    "first_fully_connected": first_fully_connected, "first_attention": first_attention,
++                    "token_pos_fully_connected_avg": fc_avg, "token_pos_attention_avg": attn_avg})
++                shared.append_jsonl(answers_path, {
++                    "uid": record.uid, "answer": record.answer, "label": record.label, "label_rule": "spans",
++                    "first_token_entropy": token_entropy(logits[start_pos])})
++            except Exception as e:
++                log_item_error(out_dir, record.uid, e)
++    finally:
++        for handle in handles:
++            handle.remove()
++
+ def main(args):
+     device = torch.device(f"cuda:{args.gpu_index}" if torch.cuda.is_available() else "cpu")
+     model, tokenizer = load_model_and_tokenizer(

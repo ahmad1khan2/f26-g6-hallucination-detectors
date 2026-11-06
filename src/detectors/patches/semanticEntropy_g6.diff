@@ -1,0 +1,82 @@
+diff --git a/third_party/low-resource-hallucination-detection/scripts/Sampling_HD_methods/semanticEntropy.py b/src/detectors/semanticEntropy_g6.py
+--- a/third_party/low-resource-hallucination-detection/scripts/Sampling_HD_methods/semanticEntropy.py
++++ b/src/detectors/semanticEntropy_g6.py
+@@ -8,6 +8,8 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
+ from sentence_transformers import SentenceTransformer
+ from datasets import load_dataset
+ from sklearn.metrics import roc_auc_score
++from pathlib import Path  # G6: used by the schema scorer below
++from src.detectors import shared  # G6: result-file helpers for the schema scorer below
+ 
+ """## Define functions for processing"""
+ 
+@@ -499,7 +501,8 @@ def processing_dataset(data_category, model, tokenizer, sbert_model, device, arg
+                 continue
+ 
+     elif args.dataset_name == "GMMLU":
+-        lang_codes = {"english": "en", "hindi": "hi", "bengali": "bn", "deutsch": "de"}
++        # G6: bug fix, "urdu" was missing from this table so Urdu raised KeyError
++        lang_codes = {"english": "en", "hindi": "hi", "bengali": "bn", "deutsch": "de", "urdu": "ur"}
+         Global_MMLU = load_dataset("CohereForAI/Global-MMLU", lang_codes[args.language.lower()])
+         Global_MMLU.set_format("pandas")
+         data = Global_MMLU['test'][:]
+@@ -616,6 +619,59 @@ def main(args):
+                             args=args)
+ 
+ 
++def load_sbert(device=None):
++    # G6: new, LaBSE loader that does not need the authors' argparse namespace
++    return SentenceTransformer("sentence-transformers/LaBSE", device=device)
++
++
++def compute_entropies(str_responses, log_liks, cutoff_score, sbert_model):
++    # G6: new, the entropy loop of answer_question repeated verbatim so it can run on saved samples
++    entropies = defaultdict(list)
++    semantic_ids = get_semantic_ids(str_responses, cutoff_score, sbert_model)
++    entropies['cluster_assignment_entropy'].append(cluster_assignment_entropy(semantic_ids))
++    for agg_name, agg_func in zip(['', '_sum'], [np.mean, np.sum]):
++        log_liks_agg = [agg_func(log_lik) for log_lik in log_liks]
++
++        # Compute standard entropy
++        entropies['regular_entropy' + agg_name].append(predictive_entropy(log_liks_agg))
++
++        # Compute semantic entropies with summing and with averaging probabilities within the cluster
++        cluster_agg_names = ['', '_sum-normalized', '_sum-normalized-rao', '_cmean']
++        cluster_aggs = ['sum', 'sum_normalized', 'sum_normalized', 'mean']
++        for cluster_agg_name, cluster_agg in zip(cluster_agg_names, cluster_aggs):
++            log_likelihood_per_semantic_id = logsumexp_by_id(semantic_ids, log_liks_agg, agg=cluster_agg)
++            name = 'semantic_entropy' + agg_name + cluster_agg_name
++
++            if cluster_agg_name != '_sum-normalized-rao':
++                pe = predictive_entropy(log_likelihood_per_semantic_id)
++            else:
++                pe = predictive_entropy_rao(log_likelihood_per_semantic_id)
++
++            entropies[name].append(pe)
++    return entropies
++
++
++def score_schema(samples_path, out_dir, sbert_model, cutoff=0.75, level="item"):
++    # G6: new, scores the saved samples (shared with SelfCheckGPT) into out_dir/sem.jsonl; resumes by uid
++    out_path = Path(out_dir) / "sem.jsonl"
++    shared.repair_jsonl(out_path)
++    done = shared.done_uids(out_path)
++    for row in shared.read_results(samples_path):
++        if row["uid"] in done:
++            continue
++        try:
++            entropies = {name: float(values[0]) for name, values
++                         in compute_entropies(row["samples"], row["log_liks"], cutoff, sbert_model).items()}
++            bad = [name for name, value in entropies.items() if not np.isfinite(value)]
++            if bad:
++                raise ValueError(f"non-finite entropy: {bad}")
++        except Exception as e:  # logged, never swallowed; KeyboardInterrupt still stops the run
++            shared.log_error(out_dir, row["uid"], "sem", e)
++            continue
++        shared.append_jsonl(out_path, {"uid": row["uid"], "uids": row["uids"], "entropies": entropies,
++                                       "level": level})
++
++
+ if __name__ == "__main__":
+     parser = argparse.ArgumentParser(description="Evaluate Semantic Entropy method across different LLMs and languages for both mTREx and G-MMLU datasets.")
+     parser.add_argument("--gpu_index", type=str, help="Give one aviable GPU index to utilize for inference", required=False, default="0")

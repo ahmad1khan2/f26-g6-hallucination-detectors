@@ -1,0 +1,80 @@
+diff --git a/third_party/low-resource-hallucination-detection/scripts/MAM_HD_methods/ModelArtifacts.py b/src/detectors/ModelArtifacts_g6.py
+--- a/third_party/low-resource-hallucination-detection/scripts/MAM_HD_methods/ModelArtifacts.py
++++ b/src/detectors/ModelArtifacts_g6.py
+@@ -5,7 +5,10 @@ from tqdm import tqdm
+ from transformers import AutoTokenizer, AutoModelForCausalLM
+ from datasets import load_dataset
+ from collections import defaultdict
++from pathlib import Path  # G6: paths for the schema runner
+ from functools import partial
++from src.common.text import matches  # G6: label via matches()
++from src.detectors import shared  # G6: resume helpers and the chat text for our schema records
+ 
+ """## Define functions for processing"""
+ 
+@@ -597,6 +600,65 @@ def processing_dataset(data_category, model, tokenizer, device, coll_str, args):
+     
+     logging.info(f"Time taken: {(time.time()-time_now)/3600} hours for {data_category} category of {args.dataset_name} dataset with {args.model_name} model in {args.language} language.")
+ 
++FULLY_CONNECTED_LAYER_NAME = ["model.layers.", ".mlp.up_proj"]  # G6: same split as the authors' activation_layer_name
++ATTENTION_LAYER_NAME = ["model.layers.", ".self_attn.o_proj"]  # G6: same split as the authors' attention_layer_name
++
++def token_entropy(logits):
++    # G6: Shannon entropy (nats) of the first generated token's distribution; replaces saving 128,256 floats per item
++    log_p = torch.log_softmax(logits.to(torch.float32), dim=-1)
++    return float(-(log_p.exp() * log_p).sum().item())
++
++def register_g6_hooks(model):
++    # G6: hooks only on the middle and last layer (the authors' collect_* rule) to limit memory; caller removes the handles
++    total_layers = len(model.model.layers)
++    middle_layer = total_layers // 2 - 1 if total_layers % 2 == 0 else total_layers // 2
++    modules = dict(model.named_modules())
++    handles = []
++    for layer in {middle_layer, total_layers - 1}:
++        fc_name = f"{FULLY_CONNECTED_LAYER_NAME[0]}{layer}{FULLY_CONNECTED_LAYER_NAME[1]}"
++        attn_name = f"{ATTENTION_LAYER_NAME[0]}{layer}{ATTENTION_LAYER_NAME[1]}"
++        handles.append(modules[fc_name].register_forward_hook(partial(save_fully_connected_hidden, fc_name)))
++        handles.append(modules[attn_name].register_forward_hook(partial(save_attention_hidden, attn_name)))
++    return handles
++
++def log_item_error(out_dir, uid, error):
++    # G6: a failed item is logged and skipped; after an out-of-memory error the cache is released
++    shared.log_error(out_dir, uid, "mam", error)
++    if isinstance(error, torch.cuda.OutOfMemoryError):
++        torch.cuda.empty_cache()
++
++def run_schema(records, model, tokenizer, prompts, out_dir, raw_dir, max_new_tokens=50, min_new_tokens=5):
++    # G6: resumable run over mTREx / X-FACTR schema records; features first, then the answers row (a kill between is safe)
++    out_dir, raw_dir = Path(out_dir), Path(raw_dir)
++    answers_path, features_path = out_dir / "answers.jsonl", raw_dir / "features.pkl"
++    shared.repair_jsonl(answers_path)
++    shared.repair_features(features_path)
++    done = shared.done_uids(answers_path)
++    handles = register_g6_hooks(model)
++    total_layers = len(model.model.layers)
++    try:
++        for record in tqdm([r for r in records if r.uid not in done], desc="MAM features"):
++            try:
++                FULLY_CONNECTED_HIDDEN_LAYERS.clear()
++                ATTENTION_HIDDEN_LAYERS.clear()
++                answer, logits, start_pos = generate_response(
++                    question=shared.chat_text(record, tokenizer, prompts), max_new_tokens=max_new_tokens,
++                    min_new_tokens=min_new_tokens, tokenizer=tokenizer, model=model, device=model.device)
++                first_fully_connected, _ = collect_fully_connected(start_pos, FULLY_CONNECTED_LAYER_NAME, total_layers)
++                first_attention, _ = collect_attention(start_pos, ATTENTION_LAYER_NAME, total_layers)
++                label = 0 if matches(answer, record.gold) else 1
++                shared.append_feature(features_path, {
++                    "uid": record.uid, "relation": record.relation, "label": label,
++                    "first_fully_connected": first_fully_connected, "first_attention": first_attention})
++                shared.append_jsonl(answers_path, {
++                    "uid": record.uid, "answer": answer, "label": label, "label_rule": "matches",
++                    "first_token_entropy": token_entropy(logits[start_pos])})
++            except Exception as e:
++                log_item_error(out_dir, record.uid, e)
++    finally:
++        for handle in handles:
++            handle.remove()
++
+ def main(args):
+     device = torch.device(f"cuda:{args.gpu_index}" if torch.cuda.is_available() else "cpu")
+     model, tokenizer = load_model_and_tokenizer(

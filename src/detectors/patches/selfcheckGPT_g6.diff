@@ -1,0 +1,131 @@
+diff --git a/third_party/low-resource-hallucination-detection/scripts/Sampling_HD_methods/selfcheckGPT.py b/src/detectors/selfcheckGPT_g6.py
+--- a/third_party/low-resource-hallucination-detection/scripts/Sampling_HD_methods/selfcheckGPT.py
++++ b/src/detectors/selfcheckGPT_g6.py
+@@ -8,12 +8,14 @@ from sklearn.metrics import roc_auc_score
+ import spacy
+ from nltk.util import ngrams
+ from typing import List
++from pathlib import Path  # G6: used by the schema functions below
++from src.detectors import shared  # G6: tokenizer and result-file helpers
+ 
+ """## Define functions for processing"""
+     
+ class UnigramModel:
+     def __init__(self, lang_code: str) -> None:
+-        self.nlp = spacy.blank(lang_code)
++        self.nlp = shared.blank_spacy(lang_code)  # G6: spacy.blank crashes on sw/ilo/vi codes; shared builds ours
+         self.token_count = 0
+         self.counts = {'<unk>': 0}
+ 
+@@ -57,7 +59,7 @@ class UnigramModel:
+     
+ class NgramModel:
+     def __init__(self, n: int, lang_code: str, left_pad_symbol: str = '<s>') -> None:
+-        self.nlp = spacy.blank(lang_code)
++        self.nlp = shared.blank_spacy(lang_code)  # G6: spacy.blank crashes on sw/ilo/vi codes; shared builds ours
+         self.ngram_count = 0
+         self.counts = {'<unk>': 0}
+         self.n = n
+@@ -633,6 +635,102 @@ def main(args):
+             args=args)
+ 
+ 
++def _question_groups(records):
++    # G6: new, one group per item; PsiloQA records sharing (language, prompt) are one question
++    groups = {}
++    for record in records:
++        key = (record.language, record.prompt) if record.dataset == "psiloqa" else record.uid
++        groups.setdefault(key, []).append(record)
++    return list(groups.values())
++
++
++def _sample_chunks(chat_str, model, tokenizer, num_samples, max_new_tokens, chunk):
++    # G6: new, the sampling and EOS/transition-score logic of generate_responses, in batches of `chunk`
++    tokenized_inputs = tokenizer(text=chat_str, return_tensors="pt", padding=True).to(model.device)
++    start_pos = tokenized_inputs["input_ids"].size(dim=-1)
++    full_responses = []
++    while len(full_responses) < num_samples:
++        n = min(chunk, num_samples - len(full_responses))
++        with torch.no_grad():
++            model_outputs = model.generate(input_ids=tokenized_inputs["input_ids"], attention_mask=tokenized_inputs["attention_mask"],
++                do_sample=True,
++                temperature=1,
++                max_new_tokens=max_new_tokens,
++                return_dict_in_generate=True,
++                output_scores=True,
++                pad_token_id=tokenizer.pad_token_id,
++                eos_token_id=tokenizer.eos_token_id,
++                num_return_sequences=n
++            )
++        transition_scores = model.compute_transition_scores(model_outputs.sequences, model_outputs.scores, normalize_logits=True)
++        for i in range(n):
++            generated_tokens_ids = model_outputs.sequences[i][start_pos:]
++            eos_indices = (generated_tokens_ids == tokenizer.eos_token_id).nonzero(as_tuple=True)[0]
++            if len(eos_indices) > 0:
++                first_eos_idx = eos_indices[0].item()
++                filtered_tokens_ids = generated_tokens_ids[:first_eos_idx + 1]
++                filtered_log_likelihoods = [transition_scores[i][j].item() for j in range(first_eos_idx + 1)]
++            else:
++                filtered_tokens_ids = generated_tokens_ids
++                filtered_log_likelihoods = [transition_scores[i][j].item() for j in range(len(transition_scores[i]))]
++            response = tokenizer.decode(filtered_tokens_ids, skip_special_tokens=True)
++            full_responses.append((response.replace("\n", " ").strip(), filtered_log_likelihoods))
++        del model_outputs, transition_scores
++        gc.collect()
++    return full_responses
++
++
++def sample_schema(records, model, tokenizer, prompts, raw_dir, num_samples=20, max_new_tokens=50, chunk=20, out_dir=None):
++    # G6: new, samples once per item (per question for PsiloQA) into raw_dir/samples.jsonl for both scorers; resumes by uid
++    path = Path(raw_dir) / "samples.jsonl"
++    shared.repair_jsonl(path)
++    done = shared.done_uids(path)
++    for group in _question_groups(records):
++        uid = group[0].uid
++        if uid in done:
++            continue
++        try:
++            torch.manual_seed(shared.item_seed(uid))
++            responses = _sample_chunks(shared.chat_text(group[0], tokenizer, prompts), model, tokenizer,
++                                       num_samples, max_new_tokens, chunk)
++        except Exception as e:  # logged, never swallowed; KeyboardInterrupt still stops the run
++            if isinstance(e, torch.cuda.OutOfMemoryError):
++                torch.cuda.empty_cache()
++            shared.log_error(out_dir or raw_dir, uid, "sampling", e)
++            continue
++        shared.append_jsonl(path, {"uid": uid, "uids": [r.uid for r in group],
++                                   "samples": [r[0] for r in responses], "log_liks": [r[1] for r in responses]})
++
++
++def _unigram_score(passage, sampled_passages, language):
++    # G6: new, the authors' score 1 - exp(-avg_neg_logprob) from SelfCheck_Ngram.predict; refuses empty or NaN
++    if not passage.strip():
++        raise ValueError("empty answer")
++    pred = SelfCheck_Ngram.predict(passage=passage, sampled_passages=sampled_passages, lang_code=language)
++    score = 1.0 - np.exp(-pred['doc_level']['avg_neg_logprob'])
++    if not np.isfinite(score):
++        raise ValueError(f"non-finite score {score}")
++    return float(score)
++
++
++def score_schema(samples_path, answers_path, out_dir, language):
++    # G6: new, scores each uid's answer against the saved samples into out_dir/sgm.jsonl; resumes by uid
++    out_path = Path(out_dir) / "sgm.jsonl"
++    shared.repair_jsonl(out_path)
++    done = shared.done_uids(out_path)
++    answers = {row["uid"]: row["answer"] for row in shared.read_results(answers_path)}
++    for row in shared.read_results(samples_path):
++        for uid in row["uids"]:
++            if uid in done or uid not in answers:  # no answer yet: a later resume scores it
++                continue
++            try:
++                score = _unigram_score(answers[uid], row["samples"], language)
++            except Exception as e:  # logged, never swallowed; KeyboardInterrupt still stops the run
++                shared.log_error(out_dir, uid, "sgm", e)
++                continue
++            shared.append_jsonl(out_path, {"uid": uid, "score": score})
++
++
+ if __name__ == "__main__":
+     parser = argparse.ArgumentParser(description="Evaluate SelfCheckGPT method across different LLMs and languages for G-MMLU and mTREx datasets.")
+     parser.add_argument("--gpu_index", type=str, help="Give one aviable GPU index to utilize for inference", required=False, default="0")
