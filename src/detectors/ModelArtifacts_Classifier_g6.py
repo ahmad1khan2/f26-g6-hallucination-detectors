@@ -7,6 +7,7 @@ from sklearn.metrics import roc_auc_score
 from tqdm import tqdm
 from datasets import load_dataset
 import tempfile  # G6: scratch folder for the authors' per-artifact result files
+import shutil  # G6: removes the training checkpoints once a language is finished
 from src.detectors import shared  # G6: feature, result and error file helpers
 
 """## Define functions for processing"""
@@ -394,6 +395,9 @@ def run_groups_g6(features_path, out_dir, seeds, by_relation, device, artifact_k
     out_dir = Path(out_dir)
     out_dir.mkdir(parents=True, exist_ok=True)
     device = device or torch.device("cpu")
+    missing = [seed for seed in seeds if not (out_dir / f"mam_preds_seed{seed}.jsonl").exists()]
+    if not missing:  # a resumed run skips finished languages without reading gigabytes of features
+        return
     features = shared.read_features(features_path)
     if by_relation:
         groups = {}
@@ -401,20 +405,29 @@ def run_groups_g6(features_path, out_dir, seeds, by_relation, device, artifact_k
             groups.setdefault(item["relation"], []).append(item)
     else:
         groups = {out_dir.name: features}
-    for seed in seeds:
-        path = out_dir / f"mam_preds_seed{seed}.jsonl"
-        if path.exists():
-            continue
+    parts = features_path.parent / "classifier_parts"
+    for seed in missing:
         out_rows = []
         for name, items in groups.items():
             try:
                 for artifact, key in artifact_keys.items():
-                    out_rows += predict_group_g6(items, key, artifact, seed, device, train)
+                    # the count keeps a checkpoint from being reused if a retried item changed the training set
+                    part = parts / f"seed{seed}_n{len(features)}_{name}_{artifact}.jsonl"
+                    out_rows += trained_block_g6(part, items, key, artifact, seed, device, train)
             except ValueError as e:
                 shared.log_error(out_dir, name, "classifier", e)
-        tmp = path.with_suffix(".jsonl.tmp")
-        tmp.write_text("".join(json.dumps(r) + "\n" for r in out_rows), encoding="utf-8")
-        os.replace(tmp, path)
+        shared.write_atomic(out_dir / f"mam_preds_seed{seed}.jsonl", "".join(json.dumps(r) + "\n" for r in out_rows))
+    shutil.rmtree(parts, ignore_errors=True)
+
+
+def trained_block_g6(part, items, key, artifact, seed, device, train):
+    # G6: one training's rows, read from its checkpoint if a stopped run already saved them
+    if part.exists():
+        return shared.read_results(part)
+    rows = predict_group_g6(items, key, artifact, seed, device, train)
+    part.parent.mkdir(parents=True, exist_ok=True)
+    shared.write_atomic(part, "".join(json.dumps(r) + "\n" for r in rows))
+    return rows
 
 
 def predict_group_g6(items, key, artifact, seed, device, train):

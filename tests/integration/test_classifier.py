@@ -126,6 +126,73 @@ def test_existing_seed_file_is_skipped_and_others_are_written(tmp_path):
     assert rows(out, 43) and not list(out.glob("*.tmp"))
 
 
+class Stopped(BaseException):
+    """Stands in for a kill or a pause: `except Exception` must not catch it."""
+
+
+def stop_after(monkeypatch, blocks):
+    """Make predict_group_g6 stop the run once `blocks` trainings have finished; returns the list of trainings."""
+    real, trained = by_first_token.predict_group_g6, []
+
+    def counted(items, key, artifact, seed, device, train):
+        if len(trained) == blocks:
+            raise Stopped
+        trained.append((items[0]["relation"], artifact, seed))
+        return real(items, key, artifact, seed, device, train)
+
+    monkeypatch.setattr(by_first_token, "predict_group_g6", counted)
+    return trained
+
+
+def test_a_stopped_classifier_resumes_with_only_the_missing_trainings_and_the_same_output(tmp_path, monkeypatch):
+    plan = {"A": alternating(40), "B": alternating(30)}
+    write_features(tmp_path / "features.pkl", plan)
+    by_first_token.run_schema(tmp_path / "features.pkl", tmp_path / "whole", seeds=(42,), by_relation=True)
+
+    stop_after(monkeypatch, 3)
+    with pytest.raises(Stopped):
+        by_first_token.run_schema(tmp_path / "features.pkl", tmp_path / "out", seeds=(42,), by_relation=True)
+    assert not (tmp_path / "out" / "mam_preds_seed42.jsonl").exists()
+
+    monkeypatch.undo()
+    trained = stop_after(monkeypatch, 99)
+    by_first_token.run_schema(tmp_path / "features.pkl", tmp_path / "out", seeds=(42,), by_relation=True)
+    assert trained == [("B", "attention", 42)]
+    assert (tmp_path / "out" / "mam_preds_seed42.jsonl").read_bytes() == \
+        (tmp_path / "whole" / "mam_preds_seed42.jsonl").read_bytes()
+
+
+def test_checkpoints_are_removed_once_every_seed_is_written(tmp_path):
+    write_features(tmp_path / "features.pkl", {"P1": alternating(40)})
+    by_first_token.run_schema(tmp_path / "features.pkl", tmp_path / "out", seeds=(42, 43))
+    assert not (tmp_path / "classifier_parts").exists()
+
+
+def test_checkpoints_from_a_smaller_feature_set_are_not_reused(tmp_path, monkeypatch):
+    write_features(tmp_path / "features.pkl", {"P1": alternating(40)})
+    stop_after(monkeypatch, 1)
+    with pytest.raises(Stopped):
+        by_first_token.run_schema(tmp_path / "features.pkl", tmp_path / "out", seeds=(42,))
+    assert list((tmp_path / "classifier_parts").iterdir())
+
+    monkeypatch.undo()
+    shared.append_feature(tmp_path / "features.pkl", feature(np.random.default_rng(1), "d-en-P1-new", "P1", 1, "first"))
+    trained = stop_after(monkeypatch, 99)
+    by_first_token.run_schema(tmp_path / "features.pkl", tmp_path / "out", seeds=(42,))
+    assert len(trained) == 2
+
+
+def test_a_finished_language_does_not_load_its_features_again(tmp_path, monkeypatch):
+    write_features(tmp_path / "features.pkl", {"P1": alternating(40)})
+    by_first_token.run_schema(tmp_path / "features.pkl", tmp_path / "out", seeds=(42,))
+
+    def must_not_load(_):
+        raise AssertionError("features were loaded")
+
+    monkeypatch.setattr(shared, "read_features", must_not_load)
+    by_first_token.run_schema(tmp_path / "features.pkl", tmp_path / "out", seeds=(42,))
+
+
 def test_missing_feature_file_fails_with_a_clear_error(tmp_path):
     with pytest.raises(FileNotFoundError, match="features.pkl"):
         by_first_token.run_schema(tmp_path / "features.pkl", tmp_path / "out")

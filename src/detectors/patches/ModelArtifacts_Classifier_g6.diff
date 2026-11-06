@@ -1,16 +1,17 @@
 diff --git a/third_party/low-resource-hallucination-detection/scripts/MAM_HD_methods/ModelArtifacts_Classifier.py b/src/detectors/ModelArtifacts_Classifier_g6.py
 --- a/third_party/low-resource-hallucination-detection/scripts/MAM_HD_methods/ModelArtifacts_Classifier.py
 +++ b/src/detectors/ModelArtifacts_Classifier_g6.py
-@@ -6,6 +6,8 @@ from sklearn.model_selection import train_test_split
+@@ -6,6 +6,9 @@ from sklearn.model_selection import train_test_split
  from sklearn.metrics import roc_auc_score
  from tqdm import tqdm
  from datasets import load_dataset
 +import tempfile  # G6: scratch folder for the authors' per-artifact result files
++import shutil  # G6: removes the training checkpoints once a language is finished
 +from src.detectors import shared  # G6: feature, result and error file helpers
  
  """## Define functions for processing"""
  
-@@ -124,7 +126,10 @@ def gen_classifier_roc(**cls_roc_args):
+@@ -124,7 +127,10 @@ def gen_classifier_roc(**cls_roc_args):
      with torch.no_grad():
          pred = torch.nn.functional.softmax(classifier_model(X_test), dim=1)
          prediction_classes = (pred[:, 1] > 0.5).type(torch.long).cpu()
@@ -22,7 +23,7 @@ diff --git a/third_party/low-resource-hallucination-detection/scripts/MAM_HD_met
          accuracy = (prediction_classes.numpy() == y_test.cpu().numpy()).mean()
  
          # Prepare data for saving
-@@ -132,6 +137,8 @@ def gen_classifier_roc(**cls_roc_args):
+@@ -132,6 +138,8 @@ def gen_classifier_roc(**cls_roc_args):
  
          # Combine test indices from the original dataset and predictions
          results = [{"index": idx, "prediction": p} for idx, p in zip(test_indices, pred_list)]
@@ -31,7 +32,7 @@ diff --git a/third_party/low-resource-hallucination-detection/scripts/MAM_HD_met
  
          # Save results to a JSON file
          file_name = f"classifier_results_{artifact_name}.json"
-@@ -377,6 +384,63 @@ def processing_dataset(data_category, device, args):
+@@ -377,6 +385,75 @@ def processing_dataset(data_category, device, args):
      logging.info(f"Time taken: {(time.time()-time_now)/3600} hours for {data_category} category of {args.dataset_name} dataset with {args.model_name} model in {args.language} language.")
  
  
@@ -45,6 +46,9 @@ diff --git a/third_party/low-resource-hallucination-detection/scripts/MAM_HD_met
 +    out_dir = Path(out_dir)
 +    out_dir.mkdir(parents=True, exist_ok=True)
 +    device = device or torch.device("cpu")
++    missing = [seed for seed in seeds if not (out_dir / f"mam_preds_seed{seed}.jsonl").exists()]
++    if not missing:  # a resumed run skips finished languages without reading gigabytes of features
++        return
 +    features = shared.read_features(features_path)
 +    if by_relation:
 +        groups = {}
@@ -52,20 +56,29 @@ diff --git a/third_party/low-resource-hallucination-detection/scripts/MAM_HD_met
 +            groups.setdefault(item["relation"], []).append(item)
 +    else:
 +        groups = {out_dir.name: features}
-+    for seed in seeds:
-+        path = out_dir / f"mam_preds_seed{seed}.jsonl"
-+        if path.exists():
-+            continue
++    parts = features_path.parent / "classifier_parts"
++    for seed in missing:
 +        out_rows = []
 +        for name, items in groups.items():
 +            try:
 +                for artifact, key in artifact_keys.items():
-+                    out_rows += predict_group_g6(items, key, artifact, seed, device, train)
++                    # the count keeps a checkpoint from being reused if a retried item changed the training set
++                    part = parts / f"seed{seed}_n{len(features)}_{name}_{artifact}.jsonl"
++                    out_rows += trained_block_g6(part, items, key, artifact, seed, device, train)
 +            except ValueError as e:
 +                shared.log_error(out_dir, name, "classifier", e)
-+        tmp = path.with_suffix(".jsonl.tmp")
-+        tmp.write_text("".join(json.dumps(r) + "\n" for r in out_rows), encoding="utf-8")
-+        os.replace(tmp, path)
++        shared.write_atomic(out_dir / f"mam_preds_seed{seed}.jsonl", "".join(json.dumps(r) + "\n" for r in out_rows))
++    shutil.rmtree(parts, ignore_errors=True)
++
++
++def trained_block_g6(part, items, key, artifact, seed, device, train):
++    # G6: one training's rows, read from its checkpoint if a stopped run already saved them
++    if part.exists():
++        return shared.read_results(part)
++    rows = predict_group_g6(items, key, artifact, seed, device, train)
++    part.parent.mkdir(parents=True, exist_ok=True)
++    shared.write_atomic(part, "".join(json.dumps(r) + "\n" for r in rows))
++    return rows
 +
 +
 +def predict_group_g6(items, key, artifact, seed, device, train):
