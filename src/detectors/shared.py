@@ -1,5 +1,6 @@
 """Group 6 helpers shared by the adapted detector scripts: model loading, prompts, result files."""
 import json
+import pickle
 from functools import lru_cache
 from itertools import zip_longest
 from pathlib import Path
@@ -121,6 +122,44 @@ def repair_jsonl(path) -> None:
 
 def done_uids(path) -> set:
     return {row["uid"] for row in read_results(path)}
+
+
+def append_feature(path, feature: dict) -> None:
+    """Add one item's activations (a dict with a uid) to a pickle stream, as the authors' chunks do."""
+    path = Path(path)
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with open(path, "ab") as f:
+        pickle.dump(feature, f)
+
+
+def _scan_features(path):
+    """Yield (feature, end offset) for each whole record; stops quietly at a half-written tail."""
+    with open(path, "rb") as f:
+        while True:
+            try:
+                feature = pickle.load(f)
+            except (EOFError, pickle.UnpicklingError):
+                return
+            yield feature, f.tell()
+
+
+def read_features(path) -> list:
+    """All features by uid in first-seen order. A repeated uid (killed between two writes) keeps the later one."""
+    if not Path(path).exists():
+        return []
+    return list({feature["uid"]: feature for feature, _ in _scan_features(path)}.values())
+
+
+def repair_features(path) -> None:
+    """Cut a half-written last record so the next append stays readable. Call once before resuming."""
+    path = Path(path)
+    if not path.exists():
+        return
+    end = 0
+    for _, end in _scan_features(path):
+        pass
+    with open(path, "r+b") as f:
+        f.truncate(end)
 
 
 def log_error(directory, uid: str, stage: str, error: Exception) -> None:

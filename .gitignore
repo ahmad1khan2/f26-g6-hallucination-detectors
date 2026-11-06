@@ -20,3 +20,4 @@ report/*
 
 # Phase 3: large run outputs stay on the run machine
 results/raw/
+.venv/

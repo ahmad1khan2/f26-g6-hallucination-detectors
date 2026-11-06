@@ -91,6 +91,28 @@ def test_read_results_raises_on_corruption_before_the_last_line(tmp_path):
         shared.read_results(path)
 
 
+def test_features_round_trip_and_later_duplicate_uid_wins(tmp_path):
+    path = tmp_path / "raw" / "features.pkl"
+    shared.append_feature(path, {"uid": "a", "x": 1})
+    shared.append_feature(path, {"uid": "b", "x": 2})
+    shared.append_feature(path, {"uid": "a", "x": 3})
+    assert [(f["uid"], f["x"]) for f in shared.read_features(path)] == [("a", 3), ("b", 2)]
+
+
+def test_repair_features_cuts_a_half_written_record_so_appends_stay_readable(tmp_path):
+    path = tmp_path / "features.pkl"
+    shared.append_feature(path, {"uid": "a"})
+    with open(path, "ab") as f:
+        f.write(b"\x80\x04\x95half")
+    shared.repair_features(path)
+    shared.append_feature(path, {"uid": "b"})
+    assert [f["uid"] for f in shared.read_features(path)] == ["a", "b"]
+
+
+def test_read_features_is_empty_for_a_missing_file(tmp_path):
+    assert shared.read_features(tmp_path / "none.pkl") == []
+
+
 def test_log_error_records_uid_stage_and_message(tmp_path):
     shared.log_error(tmp_path, "u1", "mam", ValueError("boom"))
     row = shared.read_results(tmp_path / "errors.jsonl")[0]
