@@ -6143,3 +6143,278 @@
 {"uid": "mtrex-hi-official_language-001862", "answer": "इराक की आधिकारिक भाषा अरबी है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.017524775117635727}
 {"uid": "mtrex-hi-official_language-001863", "answer": "बेल्जियम की आधिकारिक भाषाएं फ्रेंच, डच और जर्मन हैं।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.022487089037895203}
 {"uid": "mtrex-hi-official_language-001864", "answer": "डंडी की आधिकारिक भाषा स्वाहिली है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.14286662638187408}
+{"uid": "mtrex-hi-official_language-001865", "answer": "विश्व व्यापार संगठन की आधिकारिक भाषा अंग्रेजी है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03039797581732273}
+{"uid": "mtrex-hi-official_language-001866", "answer": "बर्न की आधिकारिक भाषा जर्मन है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.24677591025829315}
+{"uid": "mtrex-hi-official_language-001867", "answer": "चेन्नई की आधिकारिक भाषा तमिल है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0030650408007204533}
+{"uid": "mtrex-hi-official_language-001868", "answer": "भारत की आधिकारिक भाषा हिंदी है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03731396421790123}
+{"uid": "mtrex-hi-official_language-001869", "answer": "मोज़ाम्बिकी की आधिकारिक भाषा पोर्तुगीज़ और मारिन्हे है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.10981185734272003}
+{"uid": "mtrex-hi-official_language-001870", "answer": "फेरो द्वीप की आधिकारिक भाषा डेनिश है।", "label": 0, "label_rule": "matches", "first_token_entropy": 1.3184043169021606}
+{"uid": "mtrex-hi-official_language-001871", "answer": "फ्रैंकोफोन की आधिकारिक भाषा फ्रेंच है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.16492131352424622}
+{"uid": "mtrex-hi-official_language-001872", "answer": "क्यूबेकी की आधिकारिक भाषा फ्रेंच है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.18865439295768738}
+{"uid": "mtrex-hi-official_language-001873", "answer": "भारत के संविधान के अनुसार, लद्दाख प्रशासनिक क्षेत्र (एलपीआर) की आधिकारिक भाषा हिंदी और अंग्र", "label": 1, "label_rule": "matches", "first_token_entropy": 0.26519736647605896}
+{"uid": "mtrex-hi-official_language-001874", "answer": "केइटेले की आधिकारिक भाषा फ्रेंच है।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0998384952545166}
+{"uid": "mtrex-hi-official_language-001875", "answer": "पोमो की आधिकारिक भाषा कोंकणी है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.08836299926042557}
+{"uid": "mtrex-hi-official_language-001876", "answer": "बाद का जिन की आधिकारिक भाषा फ्रेंच है।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7290573120117188}
+{"uid": "mtrex-hi-official_language-001877", "answer": "अगारक स्युनिक की आधिकारिक भाषा कोरियाई है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.25768089294433594}
+{"uid": "mtrex-hi-official_language-001878", "answer": "अंतर्राष्ट्रीय ओलंपिक समिति की आधिकारिक भाषा अंग्रेजी और फ्रेंच है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.014025034382939339}
+{"uid": "mtrex-hi-official_language-001879", "answer": "हवाई की आधिकारिक भाषा हिंदी और अंग्रेजी है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.9195026159286499}
+{"uid": "mtrex-hi-official_language-001880", "answer": "आरएसके की आधिकारिक भाषा अंग्रेजी है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.08408816158771515}
+{"uid": "mtrex-hi-official_language-001881", "answer": "वालेंसियन समुदाय की आधिकारिक भाषा वालेंसियन है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.37812793254852295}
+{"uid": "mtrex-hi-official_language-001882", "answer": "क्रूसेडर राज्य की आधिकारिक भाषा हिंदी है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.17159877717494965}
+{"uid": "mtrex-hi-official_language-001883", "answer": "गिनी की आधिकारिक भाषा पोर्टुगीज़ है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.15732349455356598}
+{"uid": "mtrex-hi-official_language-001884", "answer": "नीयूएन की आधिकारिक भाषा अंग्रेजी है।", "label": 0, "label_rule": "matches", "first_token_entropy": 1.7474799156188965}
+{"uid": "mtrex-hi-official_language-001885", "answer": "रिस्तिजार्वि की आधिकारिक भाषा तुर्की है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.35073012113571167}
+{"uid": "mtrex-hi-official_language-001886", "answer": "पश्चिमी केप प्रांत की आधिकारिक भाषा अंग्रेजी है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.01922108232975006}
+{"uid": "mtrex-hi-official_language-001887", "answer": "कालाजार (कालाजोकि) की आधिकारिक भाषा हिंदी है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8678995370864868}
+{"uid": "mtrex-hi-official_language-001888", "answer": "अस्तुरिया की आधिकारिक भाषा स्पेनिश है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.08804687857627869}
+{"uid": "mtrex-hi-official_language-001889", "answer": "सैमिंकी की आधिकारिक भाषा सैमिंकी है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.39505594968795776}
+{"uid": "mtrex-hi-official_language-001890", "answer": "सर्बियाई ऑर्थोडॉक्सी की आधिकारिक भाषा सर्बियाई है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0026518641971051693}
+{"uid": "mtrex-hi-official_language-001891", "answer": "सर्बियाई क्रायिना गणराज्य की आधिकारिक भाषा सर्बियाई है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0050729308277368546}
+{"uid": "mtrex-hi-official_language-001892", "answer": "हैदराबाद, तेलंगाना की आधिकारिक भाषा तेलुगु है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.3410376012325287}
+{"uid": "mtrex-hi-official_language-001893", "answer": "स्कॉटिश की आधिकारिक भाषा स्कॉटिश गेलिक और अंग्रेजी है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0051009031012654305}
+{"uid": "mtrex-hi-official_language-001894", "answer": "खुरासान की आधिकारिक भाषा उज़बेक है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.04371126368641853}
+{"uid": "mtrex-hi-official_language-001895", "answer": "कोर्प्पू की आधिकारिक भाषा तेलुगु है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.11392340064048767}
+{"uid": "mtrex-hi-official_language-001896", "answer": "खोरासानी की आधिकारिक भाषा फारसी है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.13502393662929535}
+{"uid": "mtrex-hi-official_language-001897", "answer": "नास्तोला की आधिकारिक भाषा स्वाहिली है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.25484001636505127}
+{"uid": "mtrex-hi-official_language-001898", "answer": "नक्किला की आधिकारिक भाषा अंग्रेजी है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.05665142834186554}
+{"uid": "mtrex-hi-official_language-001899", "answer": "अफ्रीकी-अमेरिकी की आधिकारिक भाषा अंग्रेजी है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.28882524371147156}
+{"uid": "mtrex-hi-official_language-001900", "answer": "देहेउबार्थ की आधिकारिक भाषा नेपाली है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.11978592723608017}
+{"uid": "mtrex-hi-official_language-001901", "answer": "अद्यगेया की आधिकारिक भाषा स्वाहिली है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.126824289560318}
+{"uid": "mtrex-hi-official_language-001902", "answer": "ओंटारियो की आधिकारिक भाषा अंग्रेजी है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.03177552670240402}
+{"uid": "mtrex-hi-official_language-001903", "answer": "न्यू-ब्रंसविक की आधिकारिक भाषा न्यू-ब्रंसविक है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06455644220113754}
+{"uid": "mtrex-hi-official_language-001904", "answer": "भारत की आधिकारिक भाषा हिंदी है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.04535572975873947}
+{"uid": "mtrex-hi-official_language-001905", "answer": "ओसेटियन्स की आधिकारिक भाषा ओसेटियन भाषा है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.018756287172436714}
+{"uid": "mtrex-hi-official_language-001906", "answer": "डोनेट्स्क नगरपालिका की आधिकारिक भाषा रूसी है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.03758265823125839}
+{"uid": "mtrex-hi-official_language-001907", "answer": "लुहान्स्क ओब्लास्ट की आधिकारिक भाषा यूक्रेनी है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.2536700367927551}
+{"uid": "mtrex-hi-official_language-001908", "answer": "जमैका की आधिकारिक भाषा अंग्रेजी है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0504298210144043}
+{"uid": "mtrex-hi-official_language-001909", "answer": "कार्ल्स्कोगा नगर पालिका की आधिकारिक भाषा नॉर्वेजियन है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.017390113323926926}
+{"uid": "mtrex-hi-official_language-001910", "answer": "कोसोवो की आधिकारिक भाषा अल्बानियाई और सेर्बियाई है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03566254675388336}
+{"uid": "mtrex-hi-official_language-001911", "answer": "बगलान प्रांत की आधिकारिक भाषा बांग्ला है।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.537926435470581}
+{"uid": "mtrex-hi-official_language-001912", "answer": "कोट डी'आइवर की आधिकारिक भाषा फ्रेंच है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.09354688227176666}
+{"uid": "mtrex-hi-official_language-001913", "answer": "विश्वव्यापी एस्पेरांतो युवा संगठन की आधिकारिक भाषा स्पेनिश है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.009408468380570412}
+{"uid": "mtrex-hi-official_language-001914", "answer": "सलाहकार परिषद की आधिकारिक भाषा अंग्रेजी है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.007087732665240765}
+{"uid": "mtrex-hi-official_language-001915", "answer": "सोमालिया की आधिकारिक भाषा सोमाली है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.017530715093016624}
+{"uid": "mtrex-hi-official_language-001916", "answer": "रुओवेसि की आधिकारिक भाषा फ्रेंच है।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.3940165042877197}
+{"uid": "mtrex-hi-official_language-001917", "answer": "लक्ज़मबर्गिश की आधिकारिक भाषा लक्ज़मबर्गिश और फ्रेंच है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.005602184683084488}
+{"uid": "mtrex-hi-official_language-001918", "answer": "अकादमिस्का दमकोरेन लीरान की आधिकारिक भाषा रूसी है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.037543702870607376}
+{"uid": "mtrex-hi-official_language-001919", "answer": "हॉलैंड की आधिकारिक भाषा डच है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.12433962523937225}
+{"uid": "mtrex-hi-official_language-001920", "answer": "रौतालम्पी की आधिकारिक भाषा नेपाली है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.060712702572345734}
+{"uid": "mtrex-hi-official_language-001921", "answer": "हुइटिनेन की आधिकारिक भाषा हिंदी नहीं है, लेकिन यहाँ की आधिकारिक भाषा हिंदी है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6401911377906799}
+{"uid": "mtrex-hi-official_language-001922", "answer": "काल्मिक की आधिकारिक भाषा मलयालम है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.34624841809272766}
+{"uid": "mtrex-hi-official_language-001923", "answer": "जामिजार्वि की आधिकारिक भाषा जामिजार्वि भाषा है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5591139793395996}
+{"uid": "mtrex-hi-official_language-001924", "answer": "बल्गेरियाई ऑर्थोडॉक्स चर्च की आधिकारिक भाषा बल्गेरियाई है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0021983240731060505}
+{"uid": "mtrex-hi-official_language-001925", "answer": "महान श्वेत उत्तर की आधिकारिक भाषा अंग्रेजी है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.08131799846887589}
+{"uid": "mtrex-hi-official_language-001926", "answer": "येरेवान की आधिकारिक भाषा आर्मेनियाई है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.05675823614001274}
+{"uid": "mtrex-hi-official_language-001927", "answer": "कुस्तावी की आधिकारिक भाषा स्वाहिली है।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6221427917480469}
+{"uid": "mtrex-hi-official_language-001928", "answer": "क़ज़वीन प्रांत की आधिकारिक भाषा उर्दू है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7530558109283447}
+{"uid": "mtrex-hi-official_language-001929", "answer": "नूनावुत की आधिकारिक भाषा नूनावुत भाषा है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9859656691551208}
+{"uid": "mtrex-hi-official_language-001930", "answer": "संयुक्त राष्ट्र संगठन की आधिकारिक भाषा अंग्रेजी है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.002662668004631996}
+{"uid": "mtrex-hi-official_language-001931", "answer": "मल्लोर्कीन की आधिकारिक भाषा कैटलन और स्पेनिश है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.28549715876579285}
+{"uid": "mtrex-hi-official_language-001932", "answer": "लिमोजिन की आधिकारिक भाषा फ्रेंच है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.8247169852256775}
+{"uid": "mtrex-hi-official_language-001933", "answer": "अर्जेंटीना की आधिकारिक भाषा स्पेनिश है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.010384872555732727}
+{"uid": "mtrex-hi-official_language-001934", "answer": "रुओकोलाह्ति की आधिकारिक भाषा स्वाहिली है।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.401545763015747}
+{"uid": "mtrex-hi-official_language-001935", "answer": "सीए (कंपनी अधिनियम) की आधिकारिक भाषा अंग्रेजी है।", "label": 0, "label_rule": "matches", "first_token_entropy": 1.0289177894592285}
+{"uid": "mtrex-hi-official_language-001936", "answer": "लाओ पीडीआर की आधिकारिक भाषा लाओ है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4078158736228943}
+{"uid": "mtrex-hi-official_language-001937", "answer": "अल्ताई की आधिकारिक भाषा तुर्की है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.049505580216646194}
+{"uid": "mtrex-hi-official_language-001938", "answer": "ओवरटोर्नेओ नगर पालिका की आधिकारिक भाषा इटालवियन है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1169343888759613}
+{"uid": "mtrex-hi-official_language-001939", "answer": "भारत की आधिकारिक भाषा हिंदी है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.05106726288795471}
+{"uid": "mtrex-hi-official_language-001940", "answer": "जिबूती की आधिकारिक भाषा अरबी है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.04467619210481644}
+{"uid": "mtrex-hi-official_language-001941", "answer": "टोंगा की आधिकारिक भाषा टोंगन भाषा है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.003966710064560175}
+{"uid": "mtrex-hi-official_language-001942", "answer": "रूसी शाही दरबार की आधिकारिक भाषा रूसी है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.02149197831749916}
+{"uid": "mtrex-hi-official_language-001943", "answer": "सेंट विंसेंट की आधिकारिक भाषा अंग्रेजी है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.03244830667972565}
+{"uid": "mtrex-hi-official_language-001944", "answer": "कौटो मिक्सटो की आधिकारिक भाषा क्रियोल भाषा है।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5115089416503906}
+{"uid": "mtrex-hi-official_language-001945", "answer": "स्वीडिश की आधिकारिक भाषा स्वीडिश है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0066235680133104324}
+{"uid": "mtrex-hi-official_language-001946", "answer": "मारियानहामिना की आधिकारिक भाषा मार्शल भाषा है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6740430593490601}
+{"uid": "mtrex-hi-official_language-001947", "answer": "मेक्सिकन गणराज्य की आधिकारिक भाषा स्पेनिश है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.06847270578145981}
+{"uid": "mtrex-hi-official_language-001948", "answer": "ब्रिटिश राज की आधिकारिक भाषा अंग्रेजी थी।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.061101075261831284}
+{"uid": "mtrex-hi-official_language-001949", "answer": "तेजो की आधिकारिक भाषा तेलुगु है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2393387258052826}
+{"uid": "mtrex-hi-official_language-001950", "answer": "पेरू की आधिकारिक भाषा स्पेनिश और केचुआ है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.03199465945363045}
+{"uid": "mtrex-hi-official_language-001951", "answer": "अल्टा वेरापाज की आधिकारिक भाषा मलयालम है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.026110518723726273}
+{"uid": "mtrex-hi-official_language-001952", "answer": "रूसी सम्राट की आधिकारिक भाषा रूसी है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.014238452538847923}
+{"uid": "mtrex-hi-official_language-001953", "answer": "यूक्रेनी एसएसआर की आधिकारिक भाषा यूक्रेनी है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.011720545589923859}
+{"uid": "mtrex-hi-official_language-001954", "answer": "एसडी की आधिकारिक भाषा हिंदी और अंग्रेजी है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.06008791923522949}
+{"uid": "mtrex-hi-official_language-001955", "answer": "पिएलावेसी की आधिकारिक भाषा पोर्टुगीज़ है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8179517984390259}
+{"uid": "mtrex-hi-official_language-001956", "answer": "गैलिशियन सोवियत समाजवादी गणराज्य की आधिकारिक भाषा गैलिशियन और रूसी थी।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2983037829399109}
+{"uid": "mtrex-hi-official_language-001957", "answer": "हामिना की आधिकारिक भाषा अंग्रेजी है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.08220887929201126}
+{"uid": "mtrex-hi-official_language-001958", "answer": "मास्कोवी रूस की आधिकारिक भाषा रूसी है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.5425218343734741}
+{"uid": "mtrex-hi-official_language-001959", "answer": "क्यू की आधिकारिक भाषा अंग्रेजी है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7538345456123352}
+{"uid": "mtrex-hi-official_language-001960", "answer": "फिनिश है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.6475018262863159}
+{"uid": "mtrex-hi-official_language-001961", "answer": "मेडिसी फ्लोरेंस की आधिकारिक भाषा इटालियन है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1560267060995102}
+{"uid": "mtrex-hi-official_language-001962", "answer": "कैटेलोनिया की आधिकारिक भाषा कैटेलान है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.12810662388801575}
+{"uid": "mtrex-hi-official_language-001963", "answer": "सल्ला की आधिकारिक भाषा स्वाहिली है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7794753909111023}
+{"uid": "mtrex-hi-official_language-001964", "answer": "बुरुंडी की आधिकारिक भाषा फ्रेंच और किरुंडी है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.01933099702000618}
+{"uid": "mtrex-hi-official_language-001965", "answer": "ओबरलैंड की आधिकारिक भाषा जर्मन है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.25233718752861023}
+{"uid": "mtrex-hi-official_language-001966", "answer": "नीदरलैंड्स में आधिकारिक भाषा हिंदी नहीं है, लेकिन मानक डच (स्टैंडर्ड डच) की आधिकारिक भाषा डच", "label": 0, "label_rule": "matches", "first_token_entropy": 1.672226905822754}
+{"uid": "mtrex-hi-official_language-001967", "answer": "सिंगापुर की आधिकारिक भाषा अंग्रेजी है, लेकिन मुख्य भाषा चीनी है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.003013326320797205}
+{"uid": "mtrex-hi-official_language-001968", "answer": "स्वतंत्र संबद्ध राज्य की आधिकारिक भाषा हिंदी है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6060102581977844}
+{"uid": "mtrex-hi-official_language-001969", "answer": "पुर्तगाल गणराज्य की आधिकारिक भाषा पुर्तगाली है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.037270449101924896}
+{"uid": "mtrex-hi-official_language-001970", "answer": "उत्सुकि की आधिकारिक भाषा तिब्बती है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.44412142038345337}
+{"uid": "mtrex-hi-official_language-001971", "answer": "सोर्सेले नगर पालिका की आधिकारिक भाषा हिंदी और सोर्सेले भाषा है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.45026442408561707}
+{"uid": "mtrex-hi-official_language-001972", "answer": "नॉर्मन सिसिली की आधिकारिक भाषा इटालवी है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03001275286078453}
+{"uid": "mtrex-hi-official_language-001973", "answer": "प्यूर्टो रिकान की आधिकारिक भाषा स्पेनिश है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.027672862634062767}
+{"uid": "mtrex-hi-official_language-001974", "answer": "फिलिस्तीनी प्राधिकृत क्षेत्रों में अरबी हिंदी के समान हिंदी के रूप में ही आधिकारिक भाषा है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3881378173828125}
+{"uid": "mtrex-hi-official_language-001975", "answer": "आंध्र प्रदेश की आधिकारिक भाषा तेलुगु है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.04222441464662552}
+{"uid": "mtrex-hi-official_language-001976", "answer": "मुझे खेद है, \"Trougout\" शब्द का कोई अर्थ नहीं है। यह एक अस्तित्वहीन शब्द है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.33853811025619507}
+{"uid": "mtrex-hi-official_language-001977", "answer": "मंगोलिया की आधिकारिक भाषा मंगोल भाषा है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.030535386875271797}
+{"uid": "mtrex-hi-official_language-001978", "answer": "लेप्पाविर्ता की आधिकारिक भाषा मलयालम है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.15197178721427917}
+{"uid": "mtrex-hi-official_language-001979", "answer": "तोग्लियात्ति की आधिकारिक भाषा मलयालम है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2046423852443695}
+{"uid": "mtrex-hi-official_language-001980", "answer": "अमेरिकी की आधिकारिक भाषा अंग्रेजी है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.08737871795892715}
+{"uid": "mtrex-hi-official_language-001981", "answer": "लैटिन। रोमन साम्राज्य की आधिकारिक भाषा लैटिन थी।", "label": 0, "label_rule": "matches", "first_token_entropy": 1.2483669519424438}
+{"uid": "mtrex-hi-official_language-001982", "answer": "ज्युवास्कुला की आधिकारिक भाषा स्वादलीन भाषा है।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.063687801361084}
+{"uid": "mtrex-hi-official_language-001983", "answer": "अश्शूरिया की आधिकारिक भाषा अरबी है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.47996485233306885}
+{"uid": "mtrex-hi-official_language-001984", "answer": "पुर्तगाली कीबोर्ड लेआउट की आधिकारिक भाषा पुर्तगाली है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0678391233086586}
+{"uid": "mtrex-hi-official_language-001985", "answer": "बील/बिएने ट्रॉलीबस प्रणाली की आधिकारिक भाषा फ्रेंच है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.6169506907463074}
+{"uid": "mtrex-hi-official_language-001986", "answer": "अचेमेनिड काल की आधिकारिक भाषा पारसी भाषा थी।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2269773781299591}
+{"uid": "mtrex-hi-official_language-001987", "answer": "दक्षिण टायरॉल की आधिकारिक भाषा जर्मन और इटैलियन है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.004011040553450584}
+{"uid": "mtrex-hi-official_language-001988", "answer": "दक्षिण कोरिया की आधिकारिक भाषा कोरियाई है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0030357143841683865}
+{"uid": "mtrex-hi-official_language-001989", "answer": "बियास्का की आधिकारिक भाषा बास्क और स्पेनिश है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.45996272563934326}
+{"uid": "mtrex-hi-official_language-001990", "answer": "इनारी सामी की आधिकारिक भाषा स्वाहिली है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.02999424748122692}
+{"uid": "mtrex-hi-official_language-001991", "answer": "मैसिडोनिया की आधिकारिक भाषा मैसिडोनियन है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.3887268900871277}
+{"uid": "mtrex-hi-official_language-001992", "answer": "बरटांगी भाषा की आधिकारिक भाषा बरटांगी है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7898108959197998}
+{"uid": "mtrex-hi-official_language-001993", "answer": "फ्रेंच गयानी की आधिकारिक भाषा अंग्रेजी है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.04403643310070038}
+{"uid": "mtrex-hi-official_language-001994", "answer": "स्टावरोपोल क्राय की आधिकारिक भाषा रूसी है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.338632732629776}
+{"uid": "mtrex-hi-official_language-001995", "answer": "केरल की आधिकारिक भाषा मलयालम है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.028302818536758423}
+{"uid": "mtrex-hi-official_language-001996", "answer": "सुराहम्मर नगर पालिका की आधिकारिक भाषा तेलुगु है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.46123597025871277}
+{"uid": "mtrex-hi-official_language-001997", "answer": "कोमोरियन्स की आधिकारिक भाषा कोमोरियन है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.021152475848793983}
+{"uid": "mtrex-hi-official_language-001998", "answer": "मद्रास शहर की आधिकारिक भाषा तमिल है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.11422685533761978}
+{"uid": "mtrex-hi-official_language-001999", "answer": "युकोन प्रदेश की आधिकारिक भाषा अंग्रेजी है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.30530786514282227}
+{"uid": "mtrex-hi-official_language-002000", "answer": "जेनेवा की आधिकारिक भाषा फ्रेंच है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.06026255339384079}
+{"uid": "mtrex-hi-official_language-002001", "answer": "जोरोइनेन की आधिकारिक भाषा मोंगोलियाई है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5922760367393494}
+{"uid": "mtrex-hi-official_language-002002", "answer": "उत्तरी अटलांटिक संधि संगठन (नाटो) की आधिकारिक भाषा अंग्रेजी है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.014998633414506912}
+{"uid": "mtrex-hi-official_language-002003", "answer": "अचेमेनिड पर्शिया की आधिकारिक भाषा पारसी भाषा थी।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.20414525270462036}
+{"uid": "mtrex-hi-official_language-002004", "answer": "बश्कोर्ट की आधिकारिक भाषा उज्बेक भाषा है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.11207926273345947}
+{"uid": "mtrex-hi-official_language-002005", "answer": "आयरिश की आधिकारिक भाषा आयरिश भाषा है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.37403082847595215}
+{"uid": "mtrex-hi-official_language-002006", "answer": "वेटिकन सिटी राज्य की आधिकारिक भाषा लैटिन और इटैलियन है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03340078145265579}
+{"uid": "mtrex-hi-official_language-002007", "answer": "स्पेनी उपनिवेशवाद की आधिकारिक भाषा स्पेनिश है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.02480361796915531}
+{"uid": "mtrex-hi-official_language-002008", "answer": "गैलिसिया (स्पेन) की आधिकारिक भाषा गैलिशियन (गैलिसियन) है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.027446817606687546}
+{"uid": "mtrex-hi-official_language-002009", "answer": "अंतर्राष्ट्रीय प्रकाश आयोग की आधिकारिक भाषा अंग्रेजी और फ्रेंच है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.013055226765573025}
+{"uid": "mtrex-hi-official_language-002010", "answer": "तुवालु की आधिकारिक भाषा फिजिययन (Fijian) और अंग्रेजी है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.05681171268224716}
+{"uid": "mtrex-hi-official_language-002011", "answer": "इलोमांत्सी की आधिकारिक भाषा हिंदी और संथाल है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.062238775193691254}
+{"uid": "mtrex-hi-official_language-002012", "answer": "पुओलंका की आधिकारिक भाषा स्वाहिली है।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4275379180908203}
+{"uid": "mtrex-hi-official_language-002013", "answer": "साल्वाडोरियन की आधिकारिक भाषा स्पेनिश है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.6425931453704834}
+{"uid": "mtrex-hi-official_language-002014", "answer": "फ्रेंच पोलिनेशिया की आधिकारिक भाषा फ्रेंच है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.05474158748984337}
+{"uid": "mtrex-hi-official_language-002015", "answer": "सोवियत संघ की आधिकारिक भाषा रूसी थी।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.008589758537709713}
+{"uid": "mtrex-hi-official_language-002016", "answer": "स्पेनी उपनिवेशिकरण की आधिकारिक भाषा स्पेनिश है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.02504480630159378}
+{"uid": "mtrex-hi-official_language-002017", "answer": "आर्जेंटीना की आधिकारिक भाषा स्पेनिश है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.04635585844516754}
+{"uid": "mtrex-hi-official_language-002018", "answer": "रूस की आधिकारिक भाषा रूसी है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.00675121508538723}
+{"uid": "mtrex-hi-official_language-002019", "answer": "चिंग सम्राट की आधिकारिक भाषा मंडारिन थी।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6602330803871155}
+{"uid": "mtrex-hi-official_language-002020", "answer": "नीदरलैंडी भाषा संघ की आधिकारिक भाषा डच है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.014673201367259026}
+{"uid": "mtrex-hi-official_language-002021", "answer": "भूटान की आधिकारिक भाषा द्जोंगका है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.055051662027835846}
+{"uid": "mtrex-hi-official_language-002022", "answer": "बर्निसिया की आधिकारिक भाषा स्पेनिश है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.30266273021698}
+{"uid": "mtrex-hi-official_language-002023", "answer": "त्रांसनिस्त्रियन गणराज्य की आधिकारिक भाषा स्लोवेनी है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09665977954864502}
+{"uid": "mtrex-hi-official_language-002024", "answer": "फराह की आधिकारिक भाषा अंग्रेजी है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7866393327713013}
+{"uid": "mtrex-hi-official_language-002025", "answer": "दक्षिण वियतनाम की आधिकारिक भाषा वियतनामी है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.005365916062146425}
+{"uid": "mtrex-hi-official_language-002026", "answer": "तहुआंतिनसुयो की आधिकारिक भाषा स्पेनिश है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3704128861427307}
+{"uid": "mtrex-hi-official_language-002027", "answer": "कांगो लोकतांत्रिक गणराज्य की आधिकारिक भाषा फ्रेंच है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.034901440143585205}
+{"uid": "mtrex-hi-official_language-002028", "answer": "वियतनाम युद्ध की आधिकारिक भाषा वियतनामी है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.13662397861480713}
+{"uid": "mtrex-hi-official_language-002029", "answer": "वाल डी'आरान की आधिकारिक भाषा फ्रेंच है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.41540202498435974}
+{"uid": "mtrex-hi-official_language-002030", "answer": "कANNADA है।", "label": 1, "label_rule": "matches", "first_token_entropy": 6.288640022277832}
+{"uid": "mtrex-hi-official_language-002031", "answer": "मिक्केली की आधिकारिक भाषा स्वाहिली है।", "label": 1, "label_rule": "matches", "first_token_entropy": 3.0090646743774414}
+{"uid": "mtrex-hi-official_language-002032", "answer": "पदासजोकि की आधिकारिक भाषा हिंदी है।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2299433946609497}
+{"uid": "mtrex-hi-official_language-002033", "answer": "डायफेड की आधिकारिक भाषा फ्रेंच है।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2919213771820068}
+{"uid": "mtrex-hi-official_language-002034", "answer": "सामांगन प्रांत की आधिकारिक भाषा तिबेटी है।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5219919681549072}
+{"uid": "mtrex-hi-official_language-002035", "answer": "एनएफबी की आधिकारिक भाषा अंग्रेजी है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.11341407895088196}
+{"uid": "mtrex-hi-official_language-002036", "answer": "केन्या की आधिकारिक भाषा स्वाहिली और अंग्रेजी है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.018612440675497055}
+{"uid": "mtrex-hi-official_language-002037", "answer": "गगाउज़ की आधिकारिक भाषा नेपाली है।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2835532426834106}
+{"uid": "mtrex-hi-official_language-002038", "answer": "सिमो की आधिकारिक भाषा सिमो (सिमो) है।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.073914051055908}
+{"uid": "mtrex-hi-official_language-002039", "answer": "बोत्सवाना की आधिकारिक भाषा सेट्सवानो और अंग्रेजी है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.029452964663505554}
+{"uid": "mtrex-hi-official_language-002040", "answer": "लाम्पुंग की आधिकारिक भाषा इंडोनेशियाई है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.09315551072359085}
+{"uid": "mtrex-hi-official_language-002041", "answer": "बोस्को/गुरिन की आधिकारिक भाषा स्वादल (Swadl) है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7929843068122864}
+{"uid": "mtrex-hi-official_language-002042", "answer": "स्पेनी उपनिवेशी साम्राज्य की आधिकारिक भाषा स्पेनिश है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.015477911569178104}
+{"uid": "mtrex-hi-official_language-002043", "answer": "डीएनआर (दक्षिणी नाइजीरिया) की आधिकारिक भाषा अंग्रेजी है।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4679388999938965}
+{"uid": "mtrex-hi-official_language-002044", "answer": "अलावस की आधिकारिक भाषा तुर्की है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.18078985810279846}
+{"uid": "mtrex-hi-official_language-002045", "answer": "यूक्रेनी सोवियत सरकार की आधिकारिक भाषा यूक्रेनी थी।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.01892998442053795}
+{"uid": "mtrex-hi-official_language-002046", "answer": "टेनेसी की आधिकारिक भाषा अंग्रेजी है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.006917329505085945}
+{"uid": "mtrex-hi-official_language-002047", "answer": "बाद का जिन राजवंश की आधिकारिक भाषा फ्रेंच है।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.056334137916565}
+{"uid": "mtrex-hi-official_language-002048", "answer": "लुउमाकी की आधिकारिक भाषा फ्रेंच है।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1205739974975586}
+{"uid": "mtrex-hi-official_language-002049", "answer": "नीदरलैंड्स एंटिल्स की आधिकारिक भाषा हिंदी नहीं है, यहाँ की आधिकारिक भाषा डच है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.016116971150040627}
+{"uid": "mtrex-hi-official_language-002050", "answer": "आइडाहो की आधिकारिक भाषा अंग्रेजी है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.12549522519111633}
+{"uid": "mtrex-hi-official_language-002051", "answer": "हौसा भाषा दक्षिण-पूर्व नाइजीरिया की आधिकारिक भाषा है।", "label": 1, "label_rule": "matches", "first_token_entropy": 3.022966146469116}
+{"uid": "mtrex-hi-official_language-002052", "answer": "जाम्बी प्रांत की आधिकारिक भाषा स्वाहिली है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7226707935333252}
+{"uid": "mtrex-hi-official_language-002053", "answer": "पारैनेन की आधिकारिक भाषा स्वीडिश है।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1520774364471436}
+{"uid": "mtrex-hi-official_language-002054", "answer": "सस्केचेवान की आधिकारिक भाषा रूसी है।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1075570583343506}
+{"uid": "mtrex-hi-official_language-002055", "answer": "कबार्डिनो-बल्कारिया की आधिकारिक भाषा काबार्डिनो-बल्कारियाई है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9894769191741943}
+{"uid": "mtrex-hi-official_language-002056", "answer": "ग्रीक ऑर्थोडॉक्स की आधिकारिक भाषा ग्रीक है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.01566515862941742}
+{"uid": "mtrex-hi-official_language-002057", "answer": "नेनेट्स स्वायत्त ओक्रग की आधिकारिक भाषा रूसी है।", "label": 0, "label_rule": "matches", "first_token_entropy": 1.5535376071929932}
+{"uid": "mtrex-hi-official_language-002058", "answer": "पिटकेर्न की आधिकारिक भाषा फ्रेंच है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.024591689929366112}
+{"uid": "mtrex-hi-official_language-002059", "answer": "भारत की आधिकारिक भाषा हिंदी है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.39400866627693176}
+{"uid": "mtrex-hi-official_language-002060", "answer": "अर्जेंटीना की आधिकारिक भाषा स्पेनिश है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.006729502696543932}
+{"uid": "mtrex-hi-official_language-002061", "answer": "लुगांस्क की आधिकारिक भाषा रूसी है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.2278135120868683}
+{"uid": "mtrex-hi-official_language-002062", "answer": "फिलीपीन सरकार की आधिकारिक भाषा अंग्रेजी और फिलीपीनो है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.051581379026174545}
+{"uid": "mtrex-hi-official_language-002063", "answer": "स्लोवाक की आधिकारिक भाषा स्लोवाक भाषा है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.008356867358088493}
+{"uid": "mtrex-hi-official_language-002064", "answer": "पुर्तगाली शासन की आधिकारिक भाषा पुर्तगाली है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.05735272169113159}
+{"uid": "mtrex-hi-official_language-002065", "answer": "वर्सोइक्स की आधिकारिक भाषा फ्रेंच है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.07836773991584778}
+{"uid": "mtrex-hi-official_language-002066", "answer": "हुम्प्पिला की आधिकारिक भाषा सिन्धु लिपि में लिखी जाने वाली सिन्धु भाषा थी।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.15113148093223572}
+{"uid": "mtrex-hi-official_language-002067", "answer": "ब्रुनेई की आधिकारिक भाषा मलायू और अंग्रेजी है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03603681921958923}
+{"uid": "mtrex-hi-official_language-002068", "answer": "हेलमंद की आधिकारिक भाषा अंग्रेजी है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.22089362144470215}
+{"uid": "mtrex-hi-official_language-002069", "answer": "लैब्राडोर की आधिकारिक भाषा अंग्रेजी है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.08936388045549393}
+{"uid": "mtrex-hi-official_language-002070", "answer": "नेपाली साहित्य की आधिकारिक भाषा नेपाली है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0015362442936748266}
+{"uid": "mtrex-hi-official_language-002071", "answer": "चीन की आधिकारिक भाषा में में मुख्य रूप से चीनी (मैंडरिन) है, लेकिन चीन में कई अन्य भाषाएं भी ब", "label": 0, "label_rule": "matches", "first_token_entropy": 0.015237085521221161}
+{"uid": "mtrex-hi-official_language-002072", "answer": "खबरोव्स्क क्राय की आधिकारिक भाषा रूसी है।", "label": 0, "label_rule": "matches", "first_token_entropy": 1.5832242965698242}
+{"uid": "mtrex-hi-official_language-002073", "answer": "लोहजा की आधिकारिक भाषा स्वाहिली है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.48424723744392395}
+{"uid": "mtrex-hi-official_language-002074", "answer": "सर्बियाई की आधिकारिक भाषा सर्बो-क्रोएशियाई है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.005606371443718672}
+{"uid": "mtrex-hi-official_language-002075", "answer": "ओउलुन्सालो की आधिकारिक भाषा स्वाहिली है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2742418050765991}
+{"uid": "mtrex-hi-official_language-002076", "answer": "भारत की आधिकारिक भाषा हिंदी है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.14553581178188324}
+{"uid": "mtrex-hi-official_language-002077", "answer": "फिनिश और स्वीडिश दोनों ही फिनलैंड की आधिकारिक भाषाएं हैं।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.30421561002731323}
+{"uid": "mtrex-hi-official_language-002078", "answer": "यूक्रेनी भाषा कीव की प्रधानता की आधिकारिक भाषा है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5757242441177368}
+{"uid": "mtrex-hi-official_language-002079", "answer": "गोशेन की आधिकारिक भाषा तुर्की है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9706716537475586}
+{"uid": "mtrex-hi-official_language-002080", "answer": "यूरोपीय संघ की आधिकारिक भाषाएं 24 हैं, लेकिन मुख्य भाषाएं हैं अंग्रेजी, जर्मन, फ्रेंच, इतालवी, स", "label": 0, "label_rule": "matches", "first_token_entropy": 0.011278368532657623}
+{"uid": "mtrex-hi-official_language-002081", "answer": "म्यानामार की आधिकारिक भाषा बर्मी (बुर्मा भाषा) है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.39976057410240173}
+{"uid": "mtrex-hi-official_language-002082", "answer": "फ्रेंच-कनाडियन की आधिकारिक भाषा फ्रेंच है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.044132478535175323}
+{"uid": "mtrex-hi-official_language-002083", "answer": "यूक्रेनी सोशलिस्ट सोवियत गणराज्य की आधिकारिक भाषा यूक्रेनी थी।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.020297519862651825}
+{"uid": "mtrex-hi-official_language-002084", "answer": "वोल्गा बुल्गारिया की आधिकारिक भाषा बुल्गारियाई है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.27839967608451843}
+{"uid": "mtrex-hi-official_language-002085", "answer": "ईसाई प्रार्थना के लिए आधिकारिक भाषा लैटिन है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.13200438022613525}
+{"uid": "mtrex-hi-official_language-002086", "answer": "कैटालोनिया की आधिकारिक भाषा कैटालान है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09378416836261749}
+{"uid": "mtrex-hi-official_language-002087", "answer": "प्राचीन यूनानी की आधिकारिक भाषा ग्रीक थी।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.014084902592003345}
+{"uid": "mtrex-hi-official_language-002088", "answer": "सांता इसाबेल की आधिकारिक भाषा स्पेनिश है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.10801602900028229}
+{"uid": "mtrex-hi-official_language-002089", "answer": "सामान्य बाजार की आधिकारिक भाषा हिंदी है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.19082516431808472}
+{"uid": "mtrex-hi-official_language-002090", "answer": "सर्बिया की आधिकारिक भाषा सर्बो-क्रोएशियाई है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.007316703908145428}
+{"uid": "mtrex-hi-official_language-002091", "answer": "मागिया नगर पालिका की आधिकारिक भाषा मराठी है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6820383071899414}
+{"uid": "mtrex-hi-official_language-002092", "answer": "मिनोर्का की आधिकारिक भाषा स्पेनिश है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.1375044286251068}
+{"uid": "mtrex-hi-official_language-002093", "answer": "गुआम की आधिकारिक भाषा अंग्रेजी है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.08367842435836792}
+{"uid": "mtrex-hi-official_language-002094", "answer": "बर्ग्स कम्यून की आधिकारिक भाषा डच है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.04674721509218216}
+{"uid": "mtrex-hi-official_language-002095", "answer": "जॉर्जिया की आधिकारिक भाषा जॉर्जियाई है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.029178429394960403}
+{"uid": "mtrex-hi-official_language-002096", "answer": "चेचन्याई की आधिकारिक भाषा रूसी है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.11929792910814285}
+{"uid": "mtrex-hi-official_language-002097", "answer": "मोर्जेस की आधिकारिक भाषा हिंदी और अंग्रेजी है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8893728256225586}
+{"uid": "mtrex-hi-official_language-002098", "answer": "रीहिमाकी की आधिकारिक भाषा स्वाहिली है।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2349004745483398}
+{"uid": "mtrex-hi-official_language-002099", "answer": "दाहोमी की आधिकारिक भाषा दाहोमी है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.46448177099227905}
+{"uid": "mtrex-hi-official_language-002100", "answer": "ओरेब्रो काउंटी परिषद की आधिकारिक भाषा हंगरियन है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.012443910352885723}
+{"uid": "mtrex-hi-official_language-002101", "answer": "टियर्प की आधिकारिक भाषा डच है।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5640040636062622}
+{"uid": "mtrex-hi-official_language-002102", "answer": "होबो नगर पालिका की आधिकारिक भाषा स्वाहिली है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06955443322658539}
+{"uid": "mtrex-hi-official_language-002103", "answer": "चेक गणराज्य की आधिकारिक भाषा चेक है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.009233079850673676}
+{"uid": "mtrex-hi-official_language-002104", "answer": "चुवाशिया की आधिकारिक भाषा चुवाश और रूसी है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.3085787892341614}
+{"uid": "mtrex-hi-official_language-002105", "answer": "वेनेटो की आधिकारिक भाषा वेनेटियन है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.032451603561639786}
+{"uid": "mtrex-hi-official_language-002106", "answer": "कोटो मिस्तो की आधिकारिक भाषा कोटो भाषा है।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.151057243347168}
+{"uid": "mtrex-hi-official_language-002107", "answer": "साल्वाडोर की आधिकारिक भाषा स्पेनिश है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.8121281862258911}
+{"uid": "mtrex-hi-official_language-002108", "answer": "मास्कोवी की आधिकारिक भाषा रूसी है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.9622960686683655}
+{"uid": "mtrex-hi-official_language-002109", "answer": "फ्रीसिया की आधिकारिक भाषा फ्रीसियन है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.19041377305984497}
+{"uid": "mtrex-hi-official_language-002110", "answer": "रोंको सोप्रा आस्कोना की आधिकारिक भाषा स्वाहिली है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7184962034225464}
+{"uid": "mtrex-hi-official_language-002111", "answer": "अल्बुइशेक की आधिकारिक भाषा अल्बानियाई और माचेरोनियाई है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.02674482762813568}
+{"uid": "mtrex-hi-official_language-002112", "answer": "जूका की आधिकारिक भाषा स्वाहिली है।", "label": 1, "label_rule": "matches", "first_token_entropy": 3.1295905113220215}
+{"uid": "mtrex-hi-official_language-002113", "answer": "सहरावी की आधिकारिक भाषा अरबी है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06676807999610901}
+{"uid": "mtrex-hi-official_language-002114", "answer": "उज़्बेक की आधिकारिक भाषा उज़्बेक है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09144586324691772}
+{"uid": "mtrex-hi-official_language-002115", "answer": "दक्षिण सैंडविच द्वीपसमूह की आधिकारिक भाषा अंग्रेजी है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0019612214528024197}
+{"uid": "mtrex-hi-official_language-002116", "answer": "काशुबियन की आधिकारिक भाषा काशुबियन है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.46894973516464233}
+{"uid": "mtrex-hi-official_language-002117", "answer": "यूक्रेन सोवियत की आधिकारिक भाषा यूक्रेनी और रूसी थी।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0323827788233757}
+{"uid": "mtrex-hi-official_language-002118", "answer": "कनाडाई-अमेरिकी की आधिकारिक भाषा अंग्रेजी है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03580562397837639}
+{"uid": "mtrex-hi-official_language-002119", "answer": "यू.एस. की आधिकारिक भाषा अंग्रेजी है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.1131637841463089}
+{"uid": "mtrex-hi-official_language-002120", "answer": "यूके की आधिकारिक भाषा अंग्रेजी है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.3822091221809387}
+{"uid": "mtrex-hi-official_language-002121", "answer": "विसायन अकादमी ऑफ आर्ट्स एंड लेटर्स की आधिकारिक भाषा हिंदी और अंग्रेजी है।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.399310827255249}
+{"uid": "mtrex-hi-official_language-002122", "answer": "फ्रांस की आधिकारिक भाषा फ्रेंच है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.041428450495004654}
+{"uid": "mtrex-hi-official_language-002123", "answer": "वेनेज़ुएला की आधिकारिक भाषा स्पेनिश है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.011925337836146355}
+{"uid": "mtrex-hi-official_language-002124", "answer": "मुझे खेद है, लेकिन मुझे पुंकालैडुन के बारे में जानकारी नहीं मिली।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.9281814098358154}
+{"uid": "mtrex-hi-official_language-002125", "answer": "पेरू की आधिकारिक भाषा स्पेनिश है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.035800617188215256}
+{"uid": "mtrex-hi-official_language-002126", "answer": "चीनी क़िंग राजवंश की आधिकारिक भाषा मैंडारिन हिंदी में चीनी भाषा थी।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.010460696183145046}
+{"uid": "mtrex-hi-official_language-002127", "answer": "हुएहुएतेनांगो की आधिकारिक भाषा हानी है।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1919656991958618}
+{"uid": "mtrex-hi-official_language-002128", "answer": "पोल्विजार्वि की आधिकारिक भाषा स्वादल (स्वादल भाषा) है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.056407392024993896}
+{"uid": "mtrex-hi-official_language-002129", "answer": "लक्ज़मबर्ग की आधिकारिक भाषा फ्रेंच, जर्मन और लक्ज़मबर्गिश है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0029429574497044086}
+{"uid": "mtrex-hi-official_language-002130", "answer": "ब्रिटिश उपनिवेशी शासन की आधिकारिक भाषा अंग्रेजी थी।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.14238017797470093}
+{"uid": "mtrex-hi-official_language-002131", "answer": "तम्मेला की आधिकारिक भाषा तमिल है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8904202580451965}
+{"uid": "mtrex-hi-official_language-002132", "answer": "सिस्मा की आधिकारिक भाषा सिस्मा भाषा है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.60028475522995}
+{"uid": "mtrex-hi-official_language-002133", "answer": "रूसी भाषा रूसी समाजवादी संघीय सोवियत गणराज्य की आधिकारिक भाषा थी।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.020604323595762253}
+{"uid": "mtrex-hi-official_language-002134", "answer": "कोस्की टीएल की आधिकारिक भाषा स्वीडिश है।", "label": 1, "label_rule": "matches", "first_token_entropy": 0.041685208678245544}
+{"uid": "mtrex-hi-official_language-002135", "answer": "वीतासारी की आधिकारिक भाषा स्वाहिली है।", "label": 1, "label_rule": "matches", "first_token_entropy": 2.005467653274536}
+{"uid": "mtrex-hi-official_language-002136", "answer": "बोलीविया की आधिकारिक भाषा स्पेनिश है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.028124762699007988}
+{"uid": "mtrex-hi-official_language-002137", "answer": "भारत की आधिकारिक भाषा हिंदी है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.018050624057650566}
+{"uid": "mtrex-hi-official_language-002138", "answer": "तलिलित की आधिकारिक भाषा तेलुगु है।", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8637218475341797}
+{"uid": "mtrex-hi-official_language-002139", "answer": "स्वीडिश ही स्टॉकहोम की आधिकारिक भाषा है।", "label": 0, "label_rule": "matches", "first_token_entropy": 0.5503001809120178}
