@@ -4,6 +4,7 @@ Hard problems raise AssertionError; softer ones come back as flags, which are pr
 summary and written to results/flags.txt.
 """
 import math
+import os
 import warnings
 from collections import Counter
 
@@ -67,8 +68,16 @@ def _expected(limit, available):
     return available if limit is None else min(limit, available)
 
 
-def _error_count(errors, stage):
-    return sum(1 for e in errors if e["stage"] == stage)
+def _covered(rows, errors, stages):
+    """Distinct uids with a row or an error: an item that failed and then succeeded on resume counts once."""
+    return len({r["uid"] for r in rows} | {e["uid"] for e in errors if e["stage"] in stages})
+
+
+def _check_count(name, what, got, want, shortfall_allowed, flags):
+    if got < want and shortfall_allowed:
+        flags.append(f"{name}: {what} incomplete, {got} of {want}")
+    else:
+        assert got == want, f"{name}: {what} = {got}, expected {want}"
 
 
 def _thin_split_flags(rows, labels, where):
@@ -81,7 +90,7 @@ def _thin_split_flags(rows, labels, where):
     return []
 
 
-def _check_language(directory, name, uids, run_cfg, dataset):
+def _check_language(directory, name, uids, run_cfg, dataset, partial):
     flags = []
     answers = read_results(directory / "answers.jsonl")
     errors = read_results(directory / "errors.jsonl")
@@ -92,8 +101,7 @@ def _check_language(directory, name, uids, run_cfg, dataset):
     else:
         _check_answers(answers, uids, f"{name}/answers.jsonl")
         want = _expected(run_cfg.get("mam_limit"), len(uids))
-        got = len(answers) + _error_count(errors, "mam")
-        assert got == want, f"{name}: answers + mam errors = {got}, expected {want}"
+        _check_count(name, "answers + mam errors", _covered(answers, errors, ("mam",)), want, partial, flags)
     for stage, file_name, check in (("sgm", "sgm.jsonl", _check_sgm), ("sem", "sem.jsonl", _check_sem)):
         rows = read_results(directory / file_name)
         if not rows:
@@ -102,8 +110,10 @@ def _check_language(directory, name, uids, run_cfg, dataset):
         check(rows, uids, f"{name}/{file_name}")
         if stage == "sgm":
             want = _expected((run_cfg.get("sampling_limit") or {}).get(dataset), len(uids))
-            got = len(rows) + _error_count(errors, "sgm")
-            assert got == want, f"{name}: sgm rows + sgm errors = {got}, expected {want}"
+            # A failed repeated PsiloQA question logs only its first uid, so a sampling error can leave a shortfall.
+            sampling_failed = any(e["stage"] == "sampling" for e in errors)
+            _check_count(name, "sgm rows + sgm errors", _covered(rows, errors, ("sgm", "sampling")), want,
+                         partial or sampling_failed, flags)
     labels = {row["uid"]: row["label"] for row in answers}
     pred_files = sorted(directory.glob("mam_preds_seed*.jsonl"))
     if not pred_files:
@@ -116,8 +126,11 @@ def _check_language(directory, name, uids, run_cfg, dataset):
     return flags
 
 
-def check_results(results_root, processed_dir, run_cfg) -> list:
-    """Validate every results/<dataset>/<language>/ folder; return flags, raise AssertionError on hard failures."""
+def check_results(results_root, processed_dir, run_cfg, partial=False) -> list:
+    """Validate every results/<dataset>/<language>/ folder; return flags, raise AssertionError on hard failures.
+
+    partial=True is for a run stopped early: unfinished counts become flags. Bad values still fail.
+    """
     flags = []
     for dataset in DATASETS:
         dataset_dir = results_root / dataset
@@ -132,7 +145,7 @@ def check_results(results_root, processed_dir, run_cfg) -> list:
             if not (dataset_dir / language).is_dir():
                 flags.append(f"{dataset}/{language}: not run yet")
                 continue
-            flags += _check_language(dataset_dir / language, f"{dataset}/{language}", uids, run_cfg, dataset)
+            flags += _check_language(dataset_dir / language, f"{dataset}/{language}", uids, run_cfg, dataset, partial)
     return flags
 
 
@@ -146,7 +159,7 @@ def _real_run_cfg() -> dict:
 def test_real_results_are_consistent_with_the_processed_files():
     if not any((RESULTS / d).is_dir() for d in DATASETS):
         pytest.skip("results/ has no dataset folders yet")
-    flags = check_results(RESULTS, PROCESSED, _real_run_cfg())
+    flags = check_results(RESULTS, PROCESSED, _real_run_cfg(), partial=os.environ.get("G6_PARTIAL") == "1")
     (RESULTS / "flags.txt").write_text("".join(f + "\n" for f in flags), encoding="utf-8")
     if flags:
         warnings.warn("results flags:\n" + "\n".join(flags), stacklevel=1)

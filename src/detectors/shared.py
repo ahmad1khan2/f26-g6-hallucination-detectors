@@ -170,7 +170,8 @@ def log_error(directory, uid: str, stage: str, error: Exception) -> None:
 def write_run_json(directory, **fields) -> None:
     path = Path(directory) / "run.json"
     current = json.loads(path.read_text(encoding="utf-8")) if path.exists() else {}
-    path.write_text(json.dumps(current | fields, ensure_ascii=False, indent=2), encoding="utf-8")
+    # default=str: a model config value json cannot store must not stop a long run on every restart.
+    path.write_text(json.dumps(current | fields, ensure_ascii=False, indent=2, default=str), encoding="utf-8")
 
 
 def item_seed(uid: str) -> int:
