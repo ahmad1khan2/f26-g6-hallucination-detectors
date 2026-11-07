@@ -1,0 +1,739 @@
+{"uid": "xfactr-sw-P37-000083", "answer": "Lugha rasmi ya Umoja wa Ulaya ni Kiingereza.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.016472376883029938}
+{"uid": "xfactr-sw-P30-000413", "answer": "Yordani ipo mahali pa Mashariki ya Mwatano.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.04567084461450577}
+{"uid": "xfactr-sw-P103-000065", "answer": "Lugha ya asili ya Octave Mirbeau ni Kifaransa.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.010733621194958687}
+{"uid": "xfactr-sw-P190-000013", "answer": "St. Petersburg.   Kwa hivyo, sentensi inakuwa: Moscow na St. Petersburg ni miji pacha.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6948056817054749}
+{"uid": "xfactr-sw-P20-000060", "answer": "Papa Callixtus I alifariki 14 Agosti 223.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.01699967309832573}
+{"uid": "xfactr-sw-P527-000035", "answer": "kama taifa linaloendelea.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2652794122695923}
+{"uid": "xfactr-sw-P39-000019", "answer": "Rais wa Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0021767981816083193}
+{"uid": "xfactr-sw-P530-000492", "answer": "Australia anadumisha mahusiano ya kidiplomasia na nchi nyingi.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.16000530123710632}
+{"uid": "xfactr-sw-P39-000068", "answer": "Rais wa Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.004721321165561676}
+{"uid": "xfactr-sw-P190-000549", "answer": "Istanbul na Konstantinopoli ni miji pacha.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.006310025230050087}
+{"uid": "xfactr-sw-P190-000125", "answer": "Prague na Vienna ni miji pacha.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.02445395290851593}
+{"uid": "xfactr-sw-P47-000583", "answer": "Saudia anapakana na Uarabuni.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2531733214855194}
+{"uid": "xfactr-sw-P463-000251", "answer": "Kitaifa wa Mikenea", "label": 1, "label_rule": "matches", "first_token_entropy": 4.627655982971191}
+{"uid": "xfactr-sw-P47-000082", "answer": "Malaysia.   (Singapuri inapakana na Malaysia)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.523452639579773}
+{"uid": "xfactr-sw-P190-000770", "answer": "Santiago de Chile na mji mwingine ni miji pacha.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06843826919794083}
+{"uid": "xfactr-sw-P103-000095", "answer": "Lugha ya asili ya Jean Cocteau ni Kifaransa.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.010443426668643951}
+{"uid": "xfactr-sw-P17-000123", "answer": "Sofia ina patikana katika jamhuri ya Uajemi.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.43963417410850525}
+{"uid": "xfactr-sw-P190-000494", "answer": "Sofia na Sofia ni miji pacha.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.20630580186843872}
+{"uid": "xfactr-sw-P47-000359", "answer": "Benin anapakana na Togo.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.08184845745563507}
+{"uid": "xfactr-sw-P1376-000116", "answer": "Tashkent ni mji mkuu wa Uzbekistan.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.29283687472343445}
+{"uid": "xfactr-sw-P47-000254", "answer": "Zambia inapakana na Tanzania.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.046206437051296234}
+{"uid": "xfactr-sw-P47-000432", "answer": "Ukraine. (Moldova inapakana na Ukraine)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1183216571807861}
+{"uid": "xfactr-sw-P37-000027", "answer": "Lugha rasmi ya Vietnam ni Vietnami.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.019150789827108383}
+{"uid": "xfactr-sw-P37-000253", "answer": "Lugha rasmi ya Jamhuri ya Muungano wa Tanzania ni Kiswahili.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.005523350555449724}
+{"uid": "xfactr-sw-P190-000667", "answer": "Warshawa na Moscow ni miji pacha.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2142813801765442}
+{"uid": "xfactr-sw-P47-000413", "answer": "Uzbekistan anapakana na Kirgizia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0563347190618515}
+{"uid": "xfactr-sw-P190-000135", "answer": "St. Petersburg.   Kwa hivyo, sentensi inakuwa: Moscow na St. Petersburg ni miji pacha.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6948056817054749}
+{"uid": "xfactr-sw-P47-000037", "answer": "Ufaransa anapakana na Ubelgiji.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.37899571657180786}
+{"uid": "xfactr-sw-P190-000637", "answer": "Santo Domingo na Santo Domingo ni miji pacha.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.015248368494212627}
+{"uid": "xfactr-sw-P47-000511", "answer": "West Virginia anapakana na Virginia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.01887773722410202}
+{"uid": "xfactr-sw-P1376-000079", "answer": "Tirana ni mji mkuu wa Albania.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.014370737597346306}
+{"uid": "xfactr-sw-P527-000069", "answer": "kwa ukweli wa kihistoria, ukoloni na ukandamizaji.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7828419208526611}
+{"uid": "xfactr-sw-P30-000180", "answer": "pamoja na mto wa Chicago.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7755718231201172}
+{"uid": "xfactr-sw-P190-000996", "answer": "Ili kujibu swali, nafasi inayohitajika ni \"miji\".", "label": 1, "label_rule": "matches", "first_token_entropy": 3.443464517593384}
+{"uid": "xfactr-sw-P530-000472", "answer": "Uhindi anadumisha mahusiano ya kidiplomasia na nchi nyingine.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.02551109343767166}
+{"uid": "xfactr-sw-P131-000079", "answer": "Indiana inapatikana katika Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.27893662452697754}
+{"uid": "xfactr-sw-P530-000645", "answer": "Israel anadumisha mahusiano ya kidiplomasia na Marekani.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.467263787984848}
+{"uid": "xfactr-sw-P190-000455", "answer": "Kuala Lumpur na Petaling Jaya", "label": 1, "label_rule": "matches", "first_token_entropy": 0.20611810684204102}
+{"uid": "xfactr-sw-P30-000278", "answer": "katika Bahari la Atlantiki, kwenye kisiwa cha Amerika.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4466395378112793}
+{"uid": "xfactr-sw-P30-000107", "answer": "pamoja na nchi nyingine kadhaa za Magharibi ya Afrika.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.3359171152114868}
+{"uid": "xfactr-sw-P530-000318", "answer": "Luxemburg anadumisha mahusiano ya kidiplomasia na nchi nyingi.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.32149675488471985}
+{"uid": "xfactr-sw-P47-000074", "answer": "China anapakana na nchi nyingi.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6001338958740234}
+{"uid": "xfactr-sw-P47-000452", "answer": "Senegal anapakana na Mauritania.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.017849372699856758}
+{"uid": "xfactr-sw-P937-000085", "answer": "Sigmund Freud alikuwa anafanya kazi katika hospitali ya Vienna.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.010465969331562519}
+{"uid": "xfactr-sw-P530-000728", "answer": "Yemen anadumisha mahusiano ya kidiplomasia na Marekani.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5304811596870422}
+{"uid": "xfactr-sw-P47-000125", "answer": "Zambia inapakana na Tanzania.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.046206437051296234}
+{"uid": "xfactr-sw-P190-000731", "answer": "Yerusalemu na Jeriko ni miji pacha.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.025850484147667885}
+{"uid": "xfactr-sw-P463-000030", "answer": "Liga ya Kitaifa ya Misri", "label": 1, "label_rule": "matches", "first_token_entropy": 2.968668222427368}
+{"uid": "xfactr-sw-P47-000353", "answer": "Guyana anapakana na Venezuela.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.015188447199761868}
+{"uid": "xfactr-sw-P530-000521", "answer": "Uchina.   Kanada anadumisha mahusiano ya kidiplomasia na Uchina.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.8683571815490723}
+{"uid": "xfactr-sw-P47-000167", "answer": "Namibia inapakana na Angola.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.011509197764098644}
+{"uid": "xfactr-sw-P530-000070", "answer": "Uchina.   Ujerumani anadumisha mahusiano ya kidiplomasia na Uchina.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.4127860069274902}
+{"uid": "xfactr-sw-P1376-000250", "answer": "Dili ni mji mkuu wa Kaskazini-Mashariki mwa Tanzania.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.012386386282742023}
+{"uid": "xfactr-sw-P530-000419", "answer": "Norwei anadumisha mahusiano ya kidiplomasia na Uchina.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03983882814645767}
+{"uid": "xfactr-sw-P530-000855", "answer": "Saudia anadumisha mahusiano ya kidiplomasia na nchi nyingine.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3051025867462158}
+{"uid": "xfactr-sw-P530-000316", "answer": "Uchina.   Kanada anadumisha mahusiano ya kidiplomasia na Uchina.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.8683571815490723}
+{"uid": "xfactr-sw-P47-000307", "answer": "Illinois anapakana na Indiana.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0005831037415191531}
+{"uid": "xfactr-sw-P47-000202", "answer": "Austria inapakana na Ujerumani.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0033356640487909317}
+{"uid": "xfactr-sw-P530-000188", "answer": "Japani anadumisha mahusiano ya kidiplomasia na Marekani.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.19128930568695068}
+{"uid": "xfactr-sw-P463-000158", "answer": "Dominica ni mwanachama wa Umoja wa Mataifa.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.321144700050354}
+{"uid": "xfactr-sw-P530-000763", "answer": "Pakistan anadumisha mahusiano ya kidiplomasia na Marekani.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.19712474942207336}
+{"uid": "xfactr-sw-P530-000448", "answer": "Syria anadumisha mahusiano ya kidiplomasia na Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.013494027778506279}
+{"uid": "xfactr-sw-P47-000266", "answer": "Kamboja anapakana na Vietnam.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4169796109199524}
+{"uid": "xfactr-sw-P47-000405", "answer": "Dola la Tatu anapakana na Dola la Kwanza.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.008928871713578701}
+{"uid": "xfactr-sw-P530-000676", "answer": "Afghanistan anadumisha mahusiano ya kidiplomasia na Marekani.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.04152463376522064}
+{"uid": "xfactr-sw-P530-000934", "answer": "Ethiopia anadumisha mahusiano ya kidiplomasia na Marekani.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0054128109477460384}
+{"uid": "xfactr-sw-P17-000484", "answer": "Amazonas ina patikana katika jamhuri ya Venezuela.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.13855992257595062}
+{"uid": "xfactr-sw-P530-000956", "answer": "EC anadumisha mahusiano ya kidiplomasia na nchi zinazofanana.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.31247562170028687}
+{"uid": "xfactr-sw-P47-000245", "answer": "Uturuki anapakana na Ukraine.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03511151671409607}
+{"uid": "xfactr-sw-P530-000155", "answer": "Japani anadumisha mahusiano ya kidiplomasia na Marekani.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.19128930568695068}
+{"uid": "xfactr-sw-P47-000605", "answer": "Timor ya Mashariki anapakana na Ufilipino.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.004308242350816727}
+{"uid": "xfactr-sw-P407-000052", "answer": "Daniel iliyandikwa katika kitabu.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.2980542182922363}
+{"uid": "xfactr-sw-P530-000203", "answer": "Papua Guinea Mpya anadumisha mahusiano ya kidiplomasia na Marekani.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3193000555038452}
+{"uid": "xfactr-sw-P530-000029", "answer": "Italia anadumisha mahusiano ya kidiplomasia na Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0002620589511934668}
+{"uid": "xfactr-sw-P530-000414", "answer": "Israel.   Kwa mujibu wa habari za tarehe 25 Julai 2024, Lebanoni anadumisha mahusiano ya kidiplomasia na Israel.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8708615303039551}
+{"uid": "xfactr-sw-P190-000005", "answer": "Berlin na Brandenburg ni miji pacha.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.15601444244384766}
+{"uid": "xfactr-sw-P47-000528", "answer": "Misri anapakana na Misri.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.008248796686530113}
+{"uid": "xfactr-sw-P37-000547", "answer": "Lugha rasmi ya Jamhuri ya Muungano wa Tanzania ni Kiswahili.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.005523350555449724}
+{"uid": "xfactr-sw-P47-000260", "answer": "Brazil anapakana na nchi za Uruguay, Argentina, Paraguay, Bolivia, Peru, Colombia, Venezuela, Guyana, Suriname, na French Guiana.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.8141953945159912}
+{"uid": "xfactr-sw-P530-000900", "answer": "Italia anadumisha mahusiano ya kidiplomasia na Marekani.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0002620589511934668}
+{"uid": "xfactr-sw-P37-000797", "answer": "Lugha rasmi ya Tuvalu ni Kiingereza.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.005946485325694084}
+{"uid": "xfactr-sw-P530-000791", "answer": "Kupro anadumisha mahusiano ya kidiplomasia na nchi nyingine.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2400272637605667}
+{"uid": "xfactr-sw-P190-000633", "answer": "New Delhi na Mumbai ni miji pacha.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.12471382319927216}
+{"uid": "xfactr-sw-P463-000090", "answer": "Korea Kaskazini ni mwanachama wa Umoja wa Mataifa.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.4710150957107544}
+{"uid": "xfactr-sw-P39-000001", "answer": "Rais wa Marekani", "label": 0, "label_rule": "matches", "first_token_entropy": 0.002419848693534732}
+{"uid": "xfactr-sw-P47-000170", "answer": "Austria inapakana na Ujerumani.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0033356640487909317}
+{"uid": "xfactr-sw-P47-000292", "answer": "North Carolina anapakana na Virginia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.11180466413497925}
+{"uid": "xfactr-sw-P190-000326", "answer": "Tokyo na New York ni miji pacha.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.004240939859300852}
+{"uid": "xfactr-sw-P47-000222", "answer": "Msumbiji anapakana na Malaawi.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8139870166778564}
+{"uid": "xfactr-sw-P36-000178", "answer": "Astana. (Astana ni mji mkuu wa Kazakhstan)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0029888548888266087}
+{"uid": "xfactr-sw-P530-000442", "answer": "Visiwa vya Solomon anadumisha mahusiano ya kidiplomasia na nchi nyingi.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.011650407686829567}
+{"uid": "xfactr-sw-P1376-000020", "answer": "Netherlands. (Netherlands ni nchi yenye mji mkuu Amsterdam)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8314200639724731}
+{"uid": "xfactr-sw-P1376-000087", "answer": "Nigeria. (Nigeria)", "label": 0, "label_rule": "matches", "first_token_entropy": 1.0587646961212158}
+{"uid": "xfactr-sw-P47-000036", "answer": "Ubelgiji anapakana na Ufaransa.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.5205605626106262}
+{"uid": "xfactr-sw-P30-000034", "answer": "Ubelgiji ipo mahali pa Ubelgiji.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3338647186756134}
+{"uid": "xfactr-sw-P37-000193", "answer": "Lugha rasmi ya Msumbiri ni Kireno.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.026262816041707993}
+{"uid": "xfactr-sw-P69-000001", "answer": "chuo kikuu cha Princeton.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.012571797706186771}
+{"uid": "xfactr-sw-P530-000546", "answer": "Slovenia anadumisha mahusiano ya kidiplomasia na nchi nyingine.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5718374252319336}
+{"uid": "xfactr-sw-P937-000249", "answer": "Gottfried Leibniz alikuwa anafanya kazi katika chuo kikuu cha Leipzig.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.004373088479042053}
+{"uid": "xfactr-sw-P17-000048", "answer": "Kichina Ina patikana katika jamhuri ya China.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.48936235904693604}
+{"uid": "xfactr-sw-P1376-000065", "answer": "Athens ni mji mkuu wa nchi ya Ugiriki.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.03656010329723358}
+{"uid": "xfactr-sw-P47-000154", "answer": "Zimbabwe inapakana na Zambia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4767397940158844}
+{"uid": "xfactr-sw-P47-000052", "answer": "CH anapakana na mto.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6895521283149719}
+{"uid": "xfactr-sw-P37-000018", "answer": "Lugha rasmi ya Italia ni Kiitaliano.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.012200171127915382}
+{"uid": "xfactr-sw-P17-000269", "answer": "Sinaloa Ina patikana katika jamhuri ya Mexiko.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.41642218828201294}
+{"uid": "xfactr-sw-P530-000011", "answer": "Uchina.   Kanada anadumisha mahusiano ya kidiplomasia na Uchina.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.8683571815490723}
+{"uid": "xfactr-sw-P530-000249", "answer": "Korea Kusini anadumisha mahusiano ya kidiplomasia na Marekani.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5228577852249146}
+{"uid": "xfactr-sw-P530-000906", "answer": "Belarus anadumisha mahusiano ya kidiplomasia na nchi nyingine.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.002267698757350445}
+{"uid": "xfactr-sw-P530-000496", "answer": "Saudia anadumisha mahusiano ya kidiplomasia na nchi nyingine.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3051025867462158}
+{"uid": "xfactr-sw-P1376-000070", "answer": "Vietnam. (Hanoi ni mji mkuu wa Vietnam)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.020493295043706894}
+{"uid": "xfactr-sw-P530-000544", "answer": "Uturuki anadumisha mahusiano ya kidiplomasia na Marekani.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4499724209308624}
+{"uid": "xfactr-sw-P530-000880", "answer": "Urusi anadumisha mahusiano ya kidiplomasia na Marekani.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.30428797006607056}
+{"uid": "xfactr-sw-P37-000863", "answer": "Lugha rasmi ya South Dakota ni Kiingereza.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.018317371606826782}
+{"uid": "xfactr-sw-P140-000444", "answer": "Dini ya Papa Innocent IV ni Kikatoliki.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.02599608711898327}
+{"uid": "xfactr-sw-P47-000549", "answer": "Idaho inapakana na Washington, Montana, Wyoming, Utah, Nevada, Oregon, na Utah.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0072480663657188416}
+{"uid": "xfactr-sw-P47-000435", "answer": "Arkansas anapakana na Misuri.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.008466886356472969}
+{"uid": "xfactr-sw-P47-000336", "answer": "Lituanya anapakana na bahari.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.20196767151355743}
+{"uid": "xfactr-sw-P190-000818", "answer": "Marseille na Aix-en-Provence ni miji pacha.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1636863350868225}
+{"uid": "xfactr-sw-P190-000682", "answer": "Boston na New York ni miji pacha.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.35113033652305603}
+{"uid": "xfactr-sw-P190-000710", "answer": "Toronto, Ontario na Kanada ni miji pacha.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07103163003921509}
+{"uid": "xfactr-sw-P361-000038", "answer": "Brazil nisehemu ya Amerika ya Kusini.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9438982009887695}
+{"uid": "xfactr-sw-P463-000104", "answer": "Sri Lanka ni mwanachama wa Umoja wa Mataifa.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.0321424007415771}
+{"uid": "xfactr-sw-P463-000187", "answer": "ASEAN. (Association of Southeast Asian Nations)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.004162644036114216}
+{"uid": "xfactr-sw-P17-000203", "answer": "Pakistan. (Islamabad ni jiji la pamoja na mji mkuu wa Pakistan.)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.7760162353515625}
+{"uid": "xfactr-sw-P527-000389", "answer": "Ulaya ya Magharibi inajumuishwa.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03760397434234619}
+{"uid": "xfactr-sw-P131-000101", "answer": "New Hampshire inapatikana katika New England.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8979641199111938}
+{"uid": "xfactr-sw-P30-000365", "answer": "Jamhuri ya Dominika ipo mahali pa kati ya Bahari ya Atlantiki na Bahari ya Karibi.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0069140782579779625}
+{"uid": "xfactr-sw-P136-000122", "answer": "Whitney Elizabeth Houston anacheza muziki wa R&B.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.00020032381871715188}
+{"uid": "xfactr-sw-P463-000035", "answer": "Denmark ni mwanachama wa Umoja wa Ulaya.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.008016088977456093}
+{"uid": "xfactr-sw-P36-000042", "answer": "Jakarta. (Jakarta ndio mji mkuu wa Indonesia)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.004629680886864662}
+{"uid": "xfactr-sw-P39-000483", "answer": "Papa Klementi IX Anahuduma katika cheo cha Papa.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.11944764852523804}
+{"uid": "xfactr-sw-P190-000754", "answer": "Manama na Bahrain ni miji pacha.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.009889783337712288}
+{"uid": "xfactr-sw-P463-000036", "answer": "Kroatia ni mwanachama wa Umoja wa Ulaya.", "label": 0, "label_rule": "matches", "first_token_entropy": 3.8362293243408203}
+{"uid": "xfactr-sw-P190-000353", "answer": "Beijing na Xi'an ni miji pacha.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0033291922882199287}
+{"uid": "xfactr-sw-P190-000228", "answer": "Helsinki na Stockholm ni miji pacha.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.026586182415485382}
+{"uid": "xfactr-sw-P30-000160", "answer": "Mali ipo mahali pa Afrika.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.9101442694664001}
+{"uid": "xfactr-sw-P463-000521", "answer": "Visiwa vya Solomon ni mwanachama wa Umoja wa Mataifa.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.013825261034071445}
+{"uid": "xfactr-sw-P463-000880", "answer": "Tunisia ni mwanachama wa Umoja wa Mataifa.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4325697124004364}
+{"uid": "xfactr-sw-P1376-000023", "answer": "Thailand. (Bangkok ni mji mkuu wa Thailand)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.01512768305838108}
+{"uid": "xfactr-sw-P407-000474", "answer": "Tatiana iliyandikwa katika kitabu.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.08606404811143875}
+{"uid": "xfactr-sw-P37-000004", "answer": "Lugha rasmi ya Urusi ni Kirusi.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.011393704451620579}
+{"uid": "xfactr-sw-P1376-000256", "answer": "Gabon. (Gabon)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0038320417515933514}
+{"uid": "xfactr-sw-P937-000005", "answer": "Georges Pompidou alikuwa anafanya kazi katika serikali.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0007333140238188207}
+{"uid": "xfactr-sw-P37-000542", "answer": "Kiswahili", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5912230014801025}
+{"uid": "xfactr-sw-P527-000014", "answer": "kama nchi yenye uhuru na serikali ya kidemokrasia.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.303878903388977}
+{"uid": "xfactr-sw-P138-000006", "answer": "jina la mtu mwenye asili ya India ambaye alianzisha dini ya Ubuddha.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.018841568380594254}
+{"uid": "xfactr-sw-P103-000037", "answer": "Lugha ya asili ya Jean-Jacques Rousseau ni Kifaransa.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.011899348348379135}
+{"uid": "xfactr-sw-P131-000062", "answer": "Missouri inapatikana katika Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.005477866157889366}
+{"uid": "xfactr-sw-P39-000373", "answer": "Papa Celestine IV Anahuduma katika cheo cha Papa.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.23814547061920166}
+{"uid": "xfactr-sw-P190-000056", "answer": "Kiev na Ukraine.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3571586012840271}
+{"uid": "xfactr-sw-P463-000458", "answer": "PL ni mwanachama wa chama cha siasa cha Chama cha Demokrasia na Maendeleo (Chadema).", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2036457061767578}
+{"uid": "xfactr-sw-P106-000030", "answer": "Bing Crosby ni mwanamuziki.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.04205926135182381}
+{"uid": "xfactr-sw-P30-000051", "answer": "pamoja na nchi nyingine kadhaa za Ulaya.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.2732783555984497}
+{"uid": "xfactr-sw-P17-000072", "answer": "Kiholanzi Ina patikana katika jamhuri ya Uholanzi.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.7595603466033936}
+{"uid": "xfactr-sw-P190-000154", "answer": "Buenos Aires na Argentina ni miji pacha.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.012039532884955406}
+{"uid": "xfactr-sw-P30-000065", "answer": "pamoja na Singapuri na Brunei.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8194688558578491}
+{"uid": "xfactr-sw-P407-000016", "answer": "Mkataba wa Versailles iliyandikwa katika 1919.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2787094116210938}
+{"uid": "xfactr-sw-P190-000002", "answer": "Los Angeles na Mexico ni miji pacha.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.009852590039372444}
+{"uid": "xfactr-sw-P190-000029", "answer": "San Francisco na New York ni miji pacha.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03773807734251022}
+{"uid": "xfactr-sw-P36-000078", "answer": "Vienna. (Vienna ni mji mkuu wa Austria)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.06606397032737732}
+{"uid": "xfactr-sw-P138-000004", "answer": "jina la mtu wa kwanza aliyefaulu katika nchi hiyo.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.021034972742199898}
+{"uid": "xfactr-sw-P131-000047", "answer": "Pennsylvania inapatikana katika Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.00906592607498169}
+{"uid": "xfactr-sw-P30-000253", "answer": "Tonga ipo mahali pa kujifungua.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5393537282943726}
+{"uid": "xfactr-sw-P190-000243", "answer": "Mexico na Guatemala ni miji pacha.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.20708806812763214}
+{"uid": "xfactr-sw-P937-000042", "answer": "Calvin Coolidge alikuwa anafanya kazi katika Urais.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0008801639778539538}
+{"uid": "xfactr-sw-P30-000062", "answer": "Jamhuri ya China ipo mahali pa Asia.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.020021099597215652}
+{"uid": "xfactr-sw-P463-000420", "answer": "Monako ni mwanachama wa Umoja wa Mataifa.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.008742384612560272}
+{"uid": "xfactr-sw-P463-000362", "answer": "Belize ni mwanachama wa CARICOM.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.020470988005399704}
+{"uid": "xfactr-sw-P190-000083", "answer": "Warshawa na Moscow ni miji pacha.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.2142813801765442}
+{"uid": "xfactr-sw-P39-000715", "answer": "Rais wa Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.6590873003005981}
+{"uid": "xfactr-sw-P39-000004", "answer": "Franklin D. Roosevelt Anahuduma katika cheo cha Rais wa Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0016204267740249634}
+{"uid": "xfactr-sw-P30-000021", "answer": "Argentina ipo mahali pa Amerika ya Kusini.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.6869986057281494}
+{"uid": "xfactr-sw-P37-000420", "answer": "Lugha rasmi ya Komori ni Kikomori.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.008371906355023384}
+{"uid": "xfactr-sw-P190-000279", "answer": "Istanbul na Konstantinopoli ni miji pacha.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.006310025230050087}
+{"uid": "xfactr-sw-P190-000679", "answer": "Athens na Sparta", "label": 1, "label_rule": "matches", "first_token_entropy": 0.052957627922296524}
+{"uid": "xfactr-sw-P36-000229", "answer": "Sana'a. (Sana'a ni mji mkuu wa Yemen)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0005293237627483904}
+{"uid": "xfactr-sw-P39-000032", "answer": "Rais wa Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0036969331558793783}
+{"uid": "xfactr-sw-P190-000922", "answer": "Ili kujibu swali, nafasi inayohitajika ni \"miji\".", "label": 1, "label_rule": "matches", "first_token_entropy": 3.443464517593384}
+{"uid": "xfactr-sw-P36-000084", "answer": "mji mkuu wa CH ni Chimoio.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.057282160967588425}
+{"uid": "xfactr-sw-P190-000521", "answer": "Taipei na Beijing ni miji pacha.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0377829372882843}
+{"uid": "xfactr-sw-P407-000035", "answer": "Michael iliyandikwa katika Biblia.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6661756038665771}
+{"uid": "xfactr-sw-P1376-000003", "answer": "Tokyo ni mji mkuu wa Japani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0030252551659941673}
+{"uid": "xfactr-sw-P937-000011", "answer": "Pablo Picasso alikuwa anafanya kazi katika ujenzi wa sanaa.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0055914209224283695}
+{"uid": "xfactr-sw-P463-000106", "answer": "Eritrea ni mwanachama wa Umoja wa Mataifa.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.13716402649879456}
+{"uid": "xfactr-sw-P463-000068", "answer": "Latvia ni mwanachama wa Umoja wa Ulaya.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.004015529528260231}
+{"uid": "xfactr-sw-P37-000208", "answer": "Kiswahili", "label": 1, "label_rule": "matches", "first_token_entropy": 2.010976791381836}
+{"uid": "xfactr-sw-P37-000074", "answer": "Lugha rasmi ya Belarus ni Kibelarusi.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.010206942446529865}
+{"uid": "xfactr-sw-P1376-000029", "answer": "Cape Town ni mji mkuu wa Cape Town.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.017515499144792557}
+{"uid": "xfactr-sw-P1376-000192", "answer": "Nuuk ni mji mkuu wa Grenland.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0010564879048615694}
+{"uid": "xfactr-sw-P276-000031", "answer": "Vita Kuu ya Pili ya Dunia inapatikana (mtaa wa) Ulaya.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.01595163717865944}
+{"uid": "xfactr-sw-P37-000901", "answer": "Lugha rasmi ya Akrotiri na Dhekelia ni Kiingereza.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.009224958717823029}
+{"uid": "xfactr-sw-P39-000366", "answer": "Papa Silvester II Anahuduma katika cheo cha Papa.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.19290082156658173}
+{"uid": "xfactr-sw-P37-000073", "answer": "Hindi. (Hindi ni lugha rasmi ya India)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.020724589005112648}
+{"uid": "xfactr-sw-P30-000119", "answer": "Malawi iko kwenye nyanja ya Zambezi.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.007550190202891827}
+{"uid": "xfactr-sw-P407-000011", "answer": "Daniel iliyandikwa katika kitabu.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.2980542182922363}
+{"uid": "xfactr-sw-P36-000193", "answer": "Bamako. Kwa Kiingereza: Bamako.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.006656119134277105}
+{"uid": "xfactr-sw-P131-000242", "answer": "Svalbard inapatikana katika Antartika.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.006932255811989307}
+{"uid": "xfactr-sw-P1376-000010", "answer": "Rio de Janeiro ni mji mkuu wa Brazil.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.028368722647428513}
+{"uid": "xfactr-sw-P37-000178", "answer": "Lugha rasmi ya Malaysia ni Kimalay.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.011835876852273941}
+{"uid": "xfactr-sw-P138-000001", "answer": "Bengali, jina la lugha ya watu wa nchi hiyo.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7122345566749573}
+{"uid": "xfactr-sw-P30-000217", "answer": "Misri ipo mahali pa Mashariki ya Kaskazini ya Afrika.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.002893084427341819}
+{"uid": "xfactr-sw-P30-000233", "answer": "Libya iko Afrika.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.003520288970321417}
+{"uid": "xfactr-sw-P937-000047", "answer": "Josef Stalin alikuwa anafanya kazi katika uwanja wa siasa.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0009427937911823392}
+{"uid": "xfactr-sw-P36-000040", "answer": "Baku. (Baku ni mji mkuu wa Azerbaijan)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.1829177439212799}
+{"uid": "xfactr-sw-P30-000008", "answer": "pamoja na nchi nyingine nyingi za Asia.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.127216100692749}
+{"uid": "xfactr-sw-P36-000094", "answer": "Santiago. (Santiago ni mji mkuu wa Chile)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5041211843490601}
+{"uid": "xfactr-sw-P30-000102", "answer": "pamoja na nchi nyingine kadhaa za Amerika ya Kusini.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.8801411390304565}
+{"uid": "xfactr-sw-P20-000087", "answer": "T. S. Eliot alifariki London, Uingereza.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.30209532380104065}
+{"uid": "xfactr-sw-P37-000166", "answer": "Kifaransa. Kifaransa ni lugha rasmi ya Senegal.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.8631225824356079}
+{"uid": "xfactr-sw-P463-000256", "answer": "Albania ni mwanachama wa Umoja wa Mataifa.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.686575710773468}
+{"uid": "xfactr-sw-P103-000135", "answer": "Lugha ya asili ya Vergilio ni Kilatini.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.02036895602941513}
+{"uid": "xfactr-sw-P1376-000055", "answer": "Mexico ni mji mkuu wa nchi ya Mexico.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.554535150527954}
+{"uid": "xfactr-sw-P30-000314", "answer": "Kirgizia ipo mahali pa kujifungua.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.39834558963775635}
+{"uid": "xfactr-sw-P30-000273", "answer": "Lesotho ipo mahali pa Afrika.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0019679602701216936}
+{"uid": "xfactr-sw-P37-000188", "answer": "Lugha rasmi ya Kigiriki ni Kigiriki.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.010710317641496658}
+{"uid": "xfactr-sw-P463-000037", "answer": "Austria ni mwanachama wa Umoja wa Ulaya.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.03426913917064667}
+{"uid": "xfactr-sw-P19-000969", "answer": "Agnes Monica alizaliwa 30 Juni 1986.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03935861960053444}
+{"uid": "xfactr-sw-P37-000507", "answer": "Lugha rasmi ya Arizona ni Kiingereza.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.02054833061993122}
+{"uid": "xfactr-sw-P37-000737", "answer": "Lugha rasmi ya Aceh ni Indonesia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.02193700149655342}
+{"uid": "xfactr-sw-P37-000065", "answer": "Lugha rasmi ya Kolombia ni Kispania.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.011477528139948845}
+{"uid": "xfactr-sw-P37-000174", "answer": "Lugha rasmi ya Umoja wa Ulaya ni Kiingereza.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.016472376883029938}
+{"uid": "xfactr-sw-P27-000011", "answer": "Vladimir Putin ni raia wa Urusi.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.01629539206624031}
+{"uid": "xfactr-sw-P1412-000000", "answer": "Napoleon Bonaparte alikuwa anawasiliana katika historia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3242369294166565}
+{"uid": "xfactr-sw-P37-000213", "answer": "Lugha rasmi ya Paraguay ni Kireno.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.007652349770069122}
+{"uid": "xfactr-sw-P36-000038", "answer": "Beirut. (Beirut ni mji mkuu wa Lebanoni)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.027596604079008102}
+{"uid": "xfactr-sw-P131-000145", "answer": "Delhi inapatikana katika India.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.004172047600150108}
+{"uid": "xfactr-sw-P140-000054", "answer": "Dini ya Dola Takatifu la Kiroma ni Ukristo.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.12859877943992615}
+{"uid": "xfactr-sw-P1376-000011", "answer": "China. (Beijing ni mji mkuu wa China)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.8799324035644531}
+{"uid": "xfactr-sw-P30-000015", "answer": "Uhindi ipo mahali pa kujifungua.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0509946271777153}
+{"uid": "xfactr-sw-P1412-000006", "answer": "Vladimir Putin alikuwa anawasiliana katika kongamano la chama cha chama cha Kikomunisti cha Urusi.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.17761224508285522}
+{"uid": "xfactr-sw-P30-000079", "answer": "Paraguay ipo mahali pa mashariki mwa Amerika ya Kusini.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.008582807146012783}
+{"uid": "xfactr-sw-P140-000223", "answer": "Dini ya Papa Honori I ni Ukristo.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.020782962441444397}
+{"uid": "xfactr-sw-P463-000049", "answer": "Umoja wa Mataifa", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7285853624343872}
+{"uid": "xfactr-sw-P463-000051", "answer": "Haiti ni mwanachama wa Umoja wa Mataifa.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.07704725116491318}
+{"uid": "xfactr-sw-P36-000018", "answer": "London. (Mji mkuu wa Uingereza ni London.)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.9255570769309998}
+{"uid": "xfactr-sw-P37-000356", "answer": "Lugha rasmi ya Dola la Roma ni Kiitaliano.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.02876126952469349}
+{"uid": "xfactr-sw-P140-000047", "answer": "Dini ya Afghanistan ni Islam.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.034921202808618546}
+{"uid": "xfactr-sw-P37-000103", "answer": "Lugha rasmi ya Moldova ni Kirusi.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.008031696081161499}
+{"uid": "xfactr-sw-P937-000027", "answer": "Bavaria alikuwa anafanya kazi katika uwanja wa mpira wa miguu.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0181315578520298}
+{"uid": "xfactr-sw-P1412-000360", "answer": "Martin Luther alikuwa anawasiliana katika kongamano la Vatikanu.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.024831507354974747}
+{"uid": "xfactr-sw-P30-000001", "answer": "Kanada ipo mahali pa Amerika ya Kaskazini.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.6681833267211914}
+{"uid": "xfactr-sw-P37-000177", "answer": "Lugha rasmi ya El Salvador ni Kispania.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.008818214759230614}
+{"uid": "xfactr-sw-P1376-000015", "answer": "Finland. (Helsinki ni mji mkuu wa Finland.)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03848612308502197}
+{"uid": "xfactr-sw-P361-000019", "answer": "Ujerumani nisehemu ya Ulaya.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.7730023860931396}
+{"uid": "xfactr-sw-P30-000239", "answer": "Visiwa vya Solomon ipo mahali pa Bahari ya Pasifiki.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.00922277383506298}
+{"uid": "xfactr-sw-P36-000086", "answer": "Berlin. (Berlin ndio mji mkuu wa Ujerumani)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.8718948364257812}
+{"uid": "xfactr-sw-P463-000088", "answer": "Australia ni mwanachama wa Umoja wa Mataifa.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.5514336824417114}
+{"uid": "xfactr-sw-P463-000906", "answer": "Kamerun ni mwanachama wa Umoja wa Mataifa.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.9071459770202637}
+{"uid": "xfactr-sw-P131-000038", "answer": "Florida inapatikana katika Amerika ya Kaskazini.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2591027617454529}
+{"uid": "xfactr-sw-P463-000211", "answer": "Najeshi ya Kimataifa.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.4111809730529785}
+{"uid": "xfactr-sw-P30-000222", "answer": "Vatikani ipo mahali pa mji.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1044251024723053}
+{"uid": "xfactr-sw-P1376-000037", "answer": "Yerusalemu ni mji mkuu wa Israel.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.010252462700009346}
+{"uid": "xfactr-sw-P17-000105", "answer": "Kansas Ina patikana katika jamhuri ya Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.1029770374298096}
+{"uid": "xfactr-sw-P30-000044", "answer": "Austria ipo mahali pa Ulaya.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.004379467107355595}
+{"uid": "xfactr-sw-P17-000050", "answer": "Tokyo Ina patikana katika jamhuri ya Japan.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.004133706446737051}
+{"uid": "xfactr-sw-P103-000013", "answer": "Lugha ya asili ya Ronald Reagan ni Kiingereza.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.013655010610818863}
+{"uid": "xfactr-sw-P37-000123", "answer": "Kirigizia. (Kirigizia ni lugha rasmi ya Kirgizia)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8603203296661377}
+{"uid": "xfactr-sw-P131-000435", "answer": "Sahara inapatikana katika Afrika.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.04377949610352516}
+{"uid": "xfactr-sw-P30-000020", "answer": "Ujerumani ipo mahali pa mashariki mwa Uropa.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3116533160209656}
+{"uid": "xfactr-sw-P1376-000474", "answer": "Yerusalemu ni mji mkuu wa Israel.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.010252462700009346}
+{"uid": "xfactr-sw-P36-000028", "answer": "mji mkuu wa Afrika Kusini ni Pretoria", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2831186056137085}
+{"uid": "xfactr-sw-P30-000163", "answer": "pamoja na Uganda, Tanzania, na Kenya.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2546979188919067}
+{"uid": "xfactr-sw-P463-000134", "answer": "Jamhuri ya Afrika ya Kati ni mwanachama wa Umoja wa Mataifa.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.05404394865036011}
+{"uid": "xfactr-sw-P140-000082", "answer": "Dini ya Papa Pius XI ni Katoliki.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.04388893023133278}
+{"uid": "xfactr-sw-P37-000013", "answer": "Lugha rasmi ya Hispania ni Kihispania.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.011096028611063957}
+{"uid": "xfactr-sw-P37-000742", "answer": "Lugha rasmi ya Luxemburg ni Kifaransa.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.033937372267246246}
+{"uid": "xfactr-sw-P1376-000193", "answer": "Algiers ni mji mkuu wa Algeria.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.06898766756057739}
+{"uid": "xfactr-sw-P1376-000040", "answer": "Zagreb ni mji mkuu wa Croatia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0012612002901732922}
+{"uid": "xfactr-sw-P463-000224", "answer": "Jamhuri ya Muungano wa Tanzania ni mwanachama wa Umoja wa Mataifa.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.07261116802692413}
+{"uid": "xfactr-sw-P131-000070", "answer": "Rhine Kaskazini-Westfalia inapatikana katika Ujerumani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.014171606861054897}
+{"uid": "xfactr-sw-P1376-000195", "answer": "Dushanbe ni mji mkuu wa Tajikistan.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0824071615934372}
+{"uid": "xfactr-sw-P527-000019", "answer": "Amerika ya Kilatini inajumuishwa.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.052660759538412094}
+{"uid": "xfactr-sw-P463-000114", "answer": "Marekani ni mwanachama wa Umoja wa Mataifa.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.1627511978149414}
+{"uid": "xfactr-sw-P103-000110", "answer": "Lugha ya asili ya Papa Yohane Paulo II ni Kitalia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.022802984341979027}
+{"uid": "xfactr-sw-P39-000025", "answer": "Rais wa Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.003878289135172963}
+{"uid": "xfactr-sw-P37-000223", "answer": "Lugha rasmi ya Abkhazia ni Kibhazia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.013667920604348183}
+{"uid": "xfactr-sw-P463-000573", "answer": "Umoja wa Mataifa", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7285853624343872}
+{"uid": "xfactr-sw-P36-000140", "answer": "Riyadh.   (Riyadh ni mji mkuu na mji mkubwa zaidi wa nchi ya Saudi Arabia.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.06902264058589935}
+{"uid": "xfactr-sw-P463-000407", "answer": "Jamhuri ya Muungano wa Tanzania ni mwanachama wa Umoja wa Mataifa.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07261116802692413}
+{"uid": "xfactr-sw-P17-000141", "answer": "Kigiriki Ina patikana katika jamhuri ya Ugiriki.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.9141658544540405}
+{"uid": "xfactr-sw-P30-000200", "answer": "pamoja na mto San Francisco.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5257363319396973}
+{"uid": "xfactr-sw-P36-000020", "answer": "Delhi. (Mji mkuu wa Uhindi ni Delhi)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.05675855651497841}
+{"uid": "xfactr-sw-P17-000006", "answer": "New York Ina patikana katika jamhuri ya Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.16582760214805603}
+{"uid": "xfactr-sw-P140-000045", "answer": "Dini ya Giuseppe Sarto ni Kikatoliki.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.031781379133462906}
+{"uid": "xfactr-sw-P463-000062", "answer": "Korea Kusini ni mwanachama wa Umoja wa Mataifa.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.7650948762893677}
+{"uid": "xfactr-sw-P17-000068", "answer": "Yerusalemu Ina patikana katika jamhuri ya Israeli.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.013007662259042263}
+{"uid": "xfactr-sw-P1376-000007", "answer": "Dublin ni mji mkuu wa Ireland.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0018629363039508462}
+{"uid": "xfactr-sw-P937-000014", "answer": "Vladimir Lenin alikuwa anafanya kazi katika chama cha kisoshalisti.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03411093354225159}
+{"uid": "xfactr-sw-P30-000271", "answer": "pamoja na milima ya mlima Olympus.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7348880171775818}
+{"uid": "xfactr-sw-P36-000281", "answer": "mji mkuu wa Oklahoma ni Oklahoma City.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.016090665012598038}
+{"uid": "xfactr-sw-P30-000174", "answer": "Morisi ipo mahali pa maji.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.003685438074171543}
+{"uid": "xfactr-sw-P17-000074", "answer": "Kirusi ina patikana katika jamhuri ya Kenya.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.345907688140869}
+{"uid": "xfactr-sw-P17-000029", "answer": "Chicago Ina patikana katika jimhuri ya Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.3534711599349976}
+{"uid": "xfactr-sw-P463-000162", "answer": "Norwei ni mwanachama wa Umoja wa Mataifa.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0796588659286499}
+{"uid": "xfactr-sw-P36-000297", "answer": "Kigali. Kigali ni mji mkuu na mji mkubwa zaidi wa Rwanda.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0029656696133315563}
+{"uid": "xfactr-sw-P17-000077", "answer": "Atlanta Ina patikana katika jimhuri ya Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.2957080602645874}
+{"uid": "xfactr-sw-P17-000052", "answer": "Philadelphia, Pennsylvania Ina patikana katika jamhuri ya Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0441817082464695}
+{"uid": "xfactr-sw-P17-000090", "answer": "Thailand. (Bangkok ni mji mkuu wa nchi ya Thailand.)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.009099097922444344}
+{"uid": "xfactr-sw-P463-000247", "answer": "Peru ni mwanachama wa Shirikisho la Madola.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.01410997286438942}
+{"uid": "xfactr-sw-P103-000008", "answer": "Lugha ya asili ya Fyodor Dostoyevski ni Kirusi.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.01368198823183775}
+{"uid": "xfactr-sw-P138-000000", "answer": "jina la jumuiya ya watu wa Ujerumani waliokuja kutoka Ulaya.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.04471045732498169}
+{"uid": "xfactr-sw-P27-000001", "answer": "George Washington ni raia wa Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.03955268859863281}
+{"uid": "xfactr-sw-P103-000045", "answer": "Lugha ya asili ya Yesu ni Kiebrania.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.012440908700227737}
+{"uid": "xfactr-sw-P36-000247", "answer": "Dili. (Dili ni mji mkuu wa Timor ya Mashariki)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.005865537561476231}
+{"uid": "xfactr-sw-P39-000083", "answer": "Rais wa Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0018406781600788236}
+{"uid": "xfactr-sw-P27-000040", "answer": "Dick Cheney ni raia wa Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.022569017484784126}
+{"uid": "xfactr-sw-P101-000081", "answer": "fizikia.   Isaac Newton alifanya kazi kwenye nyanja ya fizikia.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.17612457275390625}
+{"uid": "xfactr-sw-P138-000009", "answer": "Kristo. (Kwa kuwa jina la dini hii lilitokana na jina la Yesu Kristo)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.14152921736240387}
+{"uid": "xfactr-sw-P527-000165", "answer": "kwa ukweli wa kihistoria, ukoloni na ukandamizaji.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7828419208526611}
+{"uid": "xfactr-sw-P407-000012", "answer": "Richard iliyandikwa katika Biblia.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.963794708251953}
+{"uid": "xfactr-sw-P140-000007", "answer": "Dini ya Papa Yohane Paulo II ni Katoliki.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07005494832992554}
+{"uid": "xfactr-sw-P36-000184", "answer": "Dushanbe.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.046335235238075256}
+{"uid": "xfactr-sw-P127-000068", "answer": "Wikipedia inamilikiwa na taasisi ya nje ya kibinafsi inayoitwa Wikimedia Foundation.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.15677613019943237}
+{"uid": "xfactr-sw-P36-000030", "answer": "mji mkuu wa Uajemi ni Tehran.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.034628722816705704}
+{"uid": "xfactr-sw-P36-000204", "answer": "Washington D.C. (jina la kawaida la Washington)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.7784772515296936}
+{"uid": "xfactr-sw-P17-000085", "answer": "West Virginia Ina patikana katika jamhuri ya Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.04114315286278725}
+{"uid": "xfactr-sw-P17-000134", "answer": "Nevada Ina patikana katika jamhuri ya Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.08114156126976013}
+{"uid": "xfactr-sw-P36-000102", "answer": "mji mkuu wa Venezuela ni Caracas.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.1132524311542511}
+{"uid": "xfactr-sw-P1376-000232", "answer": "Brunei. (Bandar Seri Begawan ni mji mkuu wa Brunei)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.009740388952195644}
+{"uid": "xfactr-sw-P36-000061", "answer": "mji mkuu wa Ufalme wa Muungano ni London.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.014878541231155396}
+{"uid": "xfactr-sw-P131-000630", "answer": "Saint Kitts na Nevis inapatikana katika Bahari ya Atlantiki.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.025444528087973595}
+{"uid": "xfactr-sw-P361-000276", "answer": "Jamhuri ya Dominika nisehemu ya Amerika ya Kaskazini.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.053736209869384766}
+{"uid": "xfactr-sw-P527-000036", "answer": "kama nchi yenye uhuru na serikali ya kidemokrasia.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.303878903388977}
+{"uid": "xfactr-sw-P1376-000060", "answer": "London ni mji mkuu wa Uingereza.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6444257497787476}
+{"uid": "xfactr-sw-P101-000466", "answer": "fizikia.   Kwa hivyo, sentensi inakuwa: Wilhelm Wien Anafanya ya kazi katika nyanja ya fizikia.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.05870342254638672}
+{"uid": "xfactr-sw-P131-000003", "answer": "New York inapatikana katika nchi ya Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.1662389039993286}
+{"uid": "xfactr-sw-P527-000240", "answer": "Afrika ya Kati inajumuishwa.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.002284449525177479}
+{"uid": "xfactr-sw-P1376-000000", "answer": "New York ni mji mkuu wa Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.055738940834999084}
+{"uid": "xfactr-sw-P140-000504", "answer": "Dini ya Papa Klementi XI ni Kikatoliki.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.027208127081394196}
+{"uid": "xfactr-sw-P527-000079", "answer": "kama nchi yenye uhuru na serikali ya kidemokrasia.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.303878903388977}
+{"uid": "xfactr-sw-P17-000146", "answer": "Doha Ina patikana katika jamhuri ya Qatar.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.1805848777294159}
+{"uid": "xfactr-sw-P1412-000052", "answer": "Michelangelo alikuwa anawasiliana katika maandishi yake ya autobiografia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.00016455099103040993}
+{"uid": "xfactr-sw-P1376-000089", "answer": "München ni mji mkuu wa Bavaria.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.4622690677642822}
+{"uid": "xfactr-sw-P527-000688", "answer": "Tuzo ya Nobel inajumuishwa kila mwaka.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07218397408723831}
+{"uid": "xfactr-sw-P17-000030", "answer": "Los Angeles Ina patikana katika jimhuri ya Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.011507101356983185}
+{"uid": "xfactr-sw-P36-000022", "answer": "Bangkok. (Bangkok ndio mji mkuu na mji mkubwa zaidi wa Uthai)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.04789527505636215}
+{"uid": "xfactr-sw-P527-000128", "answer": "Ulaya ya Mashariki inajumuishwa.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.029393600299954414}
+{"uid": "xfactr-sw-P106-000002", "answer": "William Shakespeare ni mshairi.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03211424499750137}
+{"uid": "xfactr-sw-P39-000038", "answer": "Andrew Johnson Anahuduma katika cheo cha Rais wa Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.10734395682811737}
+{"uid": "xfactr-sw-P937-000026", "answer": "Vincent van Gogh alikuwa anafanya kazi katika studio.", "label": 1, "label_rule": "matches", "first_token_entropy": 9.155048610409722e-05}
+{"uid": "xfactr-sw-P131-000015", "answer": "California inapatikana katika Amerika ya Kaskazini.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3183840215206146}
+{"uid": "xfactr-sw-P17-000093", "answer": "Indiana ina patikana katika jamhuri ya Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.4168566465377808}
+{"uid": "xfactr-sw-P276-000020", "answer": "Mapinduzi ya Ufaransa inapatikana (mtaa wa) Ufaransa.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.005559951066970825}
+{"uid": "xfactr-sw-P103-000317", "answer": "Lugha ya asili ya Papa Fransisko ni Kitaliano.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.013232337310910225}
+{"uid": "xfactr-sw-P1376-000164", "answer": "Astana ni mji mkuu wa Kazakhstan.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0006020318251103163}
+{"uid": "xfactr-sw-P131-000173", "answer": "Macau inapatikana katika China.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.006350170820951462}
+{"uid": "xfactr-sw-P36-000127", "answer": "Roseau. Kwa Kiingereza inaitwa Roseau.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.02595316432416439}
+{"uid": "xfactr-sw-P39-000591", "answer": "Papa Pius VIII Anahuduma katika cheo cha Papa.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.1338908076286316}
+{"uid": "xfactr-sw-P36-000354", "answer": "Bujumbura.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0028046832885593176}
+{"uid": "xfactr-sw-P361-000258", "answer": "Zuhura nisehemu ya mawe.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07800460606813431}
+{"uid": "xfactr-sw-P39-000352", "answer": "Papa Benedikto XV Anahuduma katika cheo cha Papa.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.13969653844833374}
+{"uid": "xfactr-sw-P106-000006", "answer": "Mwanasiasa", "label": 1, "label_rule": "matches", "first_token_entropy": 1.109079122543335}
+{"uid": "xfactr-sw-P361-000156", "answer": "Asia nisehemu ya kati ya Dunia.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0078295469284058}
+{"uid": "xfactr-sw-P495-000005", "answer": "Tennis iliundwa katika Uingereza.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.060251634567976}
+{"uid": "xfactr-sw-P36-000088", "answer": "Damascus. (Damascus ni mji mkuu wa Syria)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3962428569793701}
+{"uid": "xfactr-sw-P36-000027", "answer": "Roma. (Roma ndiyo mji mkuu wa Italia)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.26469525694847107}
+{"uid": "xfactr-sw-P39-000100", "answer": "Rais wa Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0193815678358078}
+{"uid": "xfactr-sw-P17-000209", "answer": "Yerevan Ina patikana katika jamhuri ya Armenia.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.007380478084087372}
+{"uid": "xfactr-sw-P19-000202", "answer": "Papa Adrian I alizaliwa 752.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06272371858358383}
+{"uid": "xfactr-sw-P407-000548", "answer": "James iliyandikwa katika Biblia.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.4671411514282227}
+{"uid": "xfactr-sw-P103-000077", "answer": "Lugha ya asili ya Marcel Proust ni Kifaransa.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.013272220268845558}
+{"uid": "xfactr-sw-P103-000003", "answer": "Lugha ya asili ya Vladimir Putin ni Kirusi.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.020353596657514572}
+{"uid": "xfactr-sw-P36-000119", "answer": "Seoul. (Seoul ni mji mkuu wa Korea Kaskazini)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.048793770372867584}
+{"uid": "xfactr-sw-P131-000060", "answer": "Kentucky inapatikana katika Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.004864474758505821}
+{"uid": "xfactr-sw-P17-000047", "answer": "Denmark. (Kopenhagen ni mji mkuu wa Denmark)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.045494113117456436}
+{"uid": "xfactr-sw-P131-000033", "answer": "Texas inapatikana katika Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.37643325328826904}
+{"uid": "xfactr-sw-P39-000034", "answer": "Rais wa Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.005799156613647938}
+{"uid": "xfactr-sw-P527-000088", "answer": "kama taifa linalojulikana kwa ujumla kwa uadilifu na uadilifu wake.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0870976448059082}
+{"uid": "xfactr-sw-P36-000002", "answer": "Tokyo. (Tokyo ndiyo mji mkuu wa Japani)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.033555768430233}
+{"uid": "xfactr-sw-P39-000451", "answer": "Papa Constantine Anahuduma katika cheo cha Papa.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.20843634009361267}
+{"uid": "xfactr-sw-P36-000183", "answer": "Bishkek. Bishkek ni mji mkuu na mji mkubwa zaidi wa Kirgizia.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.10709736496210098}
+{"uid": "xfactr-sw-P159-000158", "answer": "makao mkuu ya Shirika la Biashara Duniani ni New York.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.004513594787567854}
+{"uid": "xfactr-sw-P1376-000099", "answer": "Venezuela. (Caracas ni mji mkuu wa Venezuela)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.010901505127549171}
+{"uid": "xfactr-sw-P1376-000073", "answer": "Taiwan. (Taipei ni mji mkuu wa Taiwan)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.654551088809967}
+{"uid": "xfactr-sw-P1376-000002", "answer": "Sverige. (Sverige ni nchi ya Uswidi)", "label": 0, "label_rule": "matches", "first_token_entropy": 2.3543500900268555}
+{"uid": "xfactr-sw-P159-000045", "answer": "Washington D.C. (Washington)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7212449312210083}
+{"uid": "xfactr-sw-P140-000508", "answer": "Dini ya Papa Romanus ni Ukristo.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.032392121851444244}
+{"uid": "xfactr-sw-P101-000080", "answer": "fizikia.   Isaac Newton alifanya kazi kwenye nyanja ya fizikia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.17612457275390625}
+{"uid": "xfactr-sw-P166-000021", "answer": "Umoja wa Mataifa alitunukiwa tuzo ya Nobel ya Amani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.7252253890037537}
+{"uid": "xfactr-sw-P39-000010", "answer": "Rais wa Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.005660858936607838}
+{"uid": "xfactr-sw-P39-000249", "answer": "Papa Gregori XIII Anahuduma katika cheo cha Papa.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.12375906109809875}
+{"uid": "xfactr-sw-P39-000161", "answer": "Papa Benedikt IX Anahuduma katika cheo cha Papa.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.21770629286766052}
+{"uid": "xfactr-sw-P103-000010", "answer": "Lugha ya asili ya Charles de Gaulle ni Kifaransa.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.016378253698349}
+{"uid": "xfactr-sw-P131-000146", "answer": "Yerevan inapatikana katika Armenia.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0007014991133473814}
+{"uid": "xfactr-sw-P39-000277", "answer": "Rais wa Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.006997288204729557}
+{"uid": "xfactr-sw-P276-000012", "answer": "Vita Kuu ya Kwanza ya Dunia inapatikana (mtaa wa) Ubelgiji.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.010404625907540321}
+{"uid": "xfactr-sw-P527-000174", "answer": "Mfumo wa jua na sayari zake inajumuishwa katika mfumo wa anga.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5965763330459595}
+{"uid": "xfactr-sw-P166-000048", "answer": "Nobel la Falsafa", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2451343983411789}
+{"uid": "xfactr-sw-P140-000207", "answer": "Dini ya Papa Sixtus V ni Kikatoliki.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.02892310917377472}
+{"uid": "xfactr-sw-P361-000148", "answer": "nisehemu ya kisasi", "label": 1, "label_rule": "matches", "first_token_entropy": 2.5704801082611084}
+{"uid": "xfactr-sw-P937-000033", "answer": "Kikombe cha KGB.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8018150329589844}
+{"uid": "xfactr-sw-P20-000004", "answer": "Mtume Petro alifariki 67.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0059944638051092625}
+{"uid": "xfactr-sw-P103-000281", "answer": "Lugha ya asili ya Barack Obama ni Kireno.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.013032489456236362}
+{"uid": "xfactr-sw-P131-000046", "answer": "Beijing inapatikana katika China.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.004293934442102909}
+{"uid": "xfactr-sw-P39-000011", "answer": "Rais wa Marekani", "label": 0, "label_rule": "matches", "first_token_entropy": 0.004231296479701996}
+{"uid": "xfactr-sw-P140-000042", "answer": "Dini ya Agostino wa Hippo ni Neoplatonism.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.013674167916178703}
+{"uid": "xfactr-sw-P39-000070", "answer": "Rais wa Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0024909356143325567}
+{"uid": "xfactr-sw-P39-000335", "answer": "Papa Innocent X Anahuduma katika cheo cha Papa.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.1938580572605133}
+{"uid": "xfactr-sw-P140-000029", "answer": "Dini ya Papa Fransisko ni Ukatoliki.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.04573770612478256}
+{"uid": "xfactr-sw-P131-000095", "answer": "Kuala Lumpur inapatikana katika Malaysia.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.2061607539653778}
+{"uid": "xfactr-sw-P166-000147", "answer": "Al Gore alitunukiwa tuzo ya Nobel ya Amani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.06604408472776413}
+{"uid": "xfactr-sw-P138-000055", "answer": "Eritrea. Jina la Eritrea lilitokana na Erythraeum Mare, jina la Kigiriki la Bahari ya Shaba.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.48348861932754517}
+{"uid": "xfactr-sw-P1412-000064", "answer": "Onyesho la kazi yake ya kwanza la 1859, \"Asili ya Spishi za Binadamu na Manufaa ya Ubongo wa Mwanadamu\".", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8736538887023926}
+{"uid": "xfactr-sw-P39-000163", "answer": "Papa Paulo VI Anahuduma katika cheo cha Papa.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.13820575177669525}
+{"uid": "xfactr-sw-P527-000108", "answer": "Eurasia inajumuishwa na Asia na Uropa.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.009117490611970425}
+{"uid": "xfactr-sw-P101-000182", "answer": "Karl Marx Anafanya ya kazi kwenye nyanja ya falsafa.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6219289302825928}
+{"uid": "xfactr-sw-P361-000160", "answer": "Zohali nisehemu ya kisasi.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3106342852115631}
+{"uid": "xfactr-sw-P101-000383", "answer": "fizikia.   James Franck alifanya kazi katika nyanja ya fizikia.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.047862254083156586}
+{"uid": "xfactr-sw-P361-000283", "answer": "Amerika Kaskazini nisehemu ya nchi za Magharibi.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1939980387687683}
+{"uid": "xfactr-sw-P39-000562", "answer": "Papa Lucius III Anahuduma katika cheo cha Papa.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.2370302826166153}
+{"uid": "xfactr-sw-P131-000120", "answer": "Sankt Peterburg inapatikana katika Urusi.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.03146053105592728}
+{"uid": "xfactr-sw-P527-000176", "answer": "Ulaya ya Magharibi inajumuishwa.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03760397434234619}
+{"uid": "xfactr-sw-P17-000242", "answer": "Tibet Ina patikana katika jamhuri ya China.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.06424260139465332}
+{"uid": "xfactr-sw-P140-000372", "answer": "Dini ya Papa Aleksanda I ni Ukristo.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.027522746473550797}
+{"uid": "xfactr-sw-P17-000117", "answer": "South Carolina Ina patikana katika jamhuri ya Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.08861207962036133}
+{"uid": "xfactr-sw-P39-000005", "answer": "Rais wa Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.00596644077450037}
+{"uid": "xfactr-sw-P103-000022", "answer": "Lugha ya asili ya Miguel de Cervantes ni Kihispania.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.015159652568399906}
+{"uid": "xfactr-sw-P39-000012", "answer": "Rais wa Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0023493077605962753}
+{"uid": "xfactr-sw-P140-000214", "answer": "Dini ya Papa Yohane Paulo I ni Ukristo.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03702705353498459}
+{"uid": "xfactr-sw-P103-000035", "answer": "Lugha ya asili ya Jorge Luis Borges ni Kihispania.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.006522293668240309}
+{"uid": "xfactr-sw-P131-000147", "answer": "Moscow inapatikana katika Oblast Moscow.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.23746293783187866}
+{"uid": "xfactr-sw-P101-000156", "answer": "Michael Faraday Anafanya ya kazi kwenye nyanja ya fizikia.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.14034664630889893}
+{"uid": "xfactr-sw-P127-000517", "answer": "Wikimedia Commons inamilikiwa na jamii ya kijamii.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.004213499370962381}
+{"uid": "xfactr-sw-P527-000212", "answer": "Ulaya inajumuishwa.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.08638525009155273}
+{"uid": "xfactr-sw-P39-000284", "answer": "Papa Adrian VI Anahuduma katika cheo cha Papa.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.26390910148620605}
+{"uid": "xfactr-sw-P527-000003", "answer": "kama nchi yenye uhuru na serikali ya kidemokrasia.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.303878903388977}
+{"uid": "xfactr-sw-P527-000186", "answer": "Asia ya Mashariki inajumuishwa.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1686176210641861}
+{"uid": "xfactr-sw-P101-000069", "answer": "Euklides Anafanya ya kazi kwenye nyanja ya Misri.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07904687523841858}
+{"uid": "xfactr-sw-P937-000341", "answer": "Steven Spielberg alikuwa anafanya kazi katika filamu.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.00941383745521307}
+{"uid": "xfactr-sw-P131-000045", "answer": "Illinois inapatikana katika Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0011994533706456423}
+{"uid": "xfactr-sw-P39-000327", "answer": "Papa Benedikt XIV Anahuduma katika cheo cha Papa.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.15636759996414185}
+{"uid": "xfactr-sw-P17-000323", "answer": "Amman ina patikana katika jamhuri ya Jordan.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.13623112440109253}
+{"uid": "xfactr-sw-P361-000306", "answer": "Asia nisehemu ya kati ya Dunia.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.0078295469284058}
+{"uid": "xfactr-sw-P103-000154", "answer": "Lugha ya asili ya George Washington ni Kiingereza.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.024234384298324585}
+{"uid": "xfactr-sw-P937-000003", "answer": "Vincent van Gogh alikuwa anafanya kazi katika studio.", "label": 1, "label_rule": "matches", "first_token_entropy": 9.155048610409722e-05}
+{"uid": "xfactr-sw-P140-000119", "answer": "Dini ya Papa Yohane XXIII ni Kikatoliki.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.028077002614736557}
+{"uid": "xfactr-sw-P17-000217", "answer": "Geneva Ina patikana katika jamhuri ya Uswisi.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0027577404398471117}
+{"uid": "xfactr-sw-P407-000575", "answer": "Mario iliyandikwa katika Italia.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2266745567321777}
+{"uid": "xfactr-sw-P159-000018", "answer": "makao mkuu ya Chuo Kikuu cha York ni Toronto.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0623311921954155}
+{"uid": "xfactr-sw-P103-000000", "answer": "Lugha ya asili ya William Shakespeare ni Kiingereza.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.022117488086223602}
+{"uid": "xfactr-sw-P276-000014", "answer": "Vita Kuu ya Pili ya Dunia inapatikana (mtaa wa) Ulaya.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.01595163717865944}
+{"uid": "xfactr-sw-P140-000003", "answer": "Dini ya Gautama Buddha ni Buda.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.08531209826469421}
+{"uid": "xfactr-sw-P361-000049", "answer": "Uhindi nisehemu ya kisukari.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07429653406143188}
+{"uid": "xfactr-sw-P108-000006", "answer": "Boutros Boutros-Ghali anafanyakazi kwa Umoja wa Mataifa.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.06858379393815994}
+{"uid": "xfactr-sw-P361-000092", "answer": "Ulaya nisehemu ya magharibi.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.35066887736320496}
+{"uid": "xfactr-sw-P279-000033", "answer": "falsafa ni miongoni mwa jamii ya wanadamu", "label": 1, "label_rule": "matches", "first_token_entropy": 0.016376979649066925}
+{"uid": "xfactr-sw-P17-000021", "answer": "California Ina patikana katika jamhuri ya Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.3577505350112915}
+{"uid": "xfactr-sw-P527-000052", "answer": "kama nchi yenye uhuru na serikali ya kidemokrasia.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.303878903388977}
+{"uid": "xfactr-sw-P937-000112", "answer": "Albert Einstein alikuwa anafanya kazi katika chuo kikuu cha Zurich.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0853998214006424}
+{"uid": "xfactr-sw-P17-000158", "answer": "Hamburg Ina patikana katika jamhuri ya Ujerumani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.02691499888896942}
+{"uid": "xfactr-sw-P527-000157", "answer": "Asia ya Mashariki inajumuishwa.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1686176210641861}
+{"uid": "xfactr-sw-P166-000339", "answer": "Tuzo ya Nobel ya Falsafa", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2521023750305176}
+{"uid": "xfactr-sw-P131-000099", "answer": "Nebraska inapatikana katika Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0010455251904204488}
+{"uid": "xfactr-sw-P17-000128", "answer": "Ukraina. (Kiev ni jiji la mkoa wa Kiev, ambalo ni mji mkuu wa Ukraine)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.7097581624984741}
+{"uid": "xfactr-sw-P27-000000", "answer": "Michael Jackson ni raia wa Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.05989215523004532}
+{"uid": "xfactr-sw-P527-000318", "answer": "Mfumo wa jua na sayari zake inajumuishwa katika mfumo wa anga.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5965763330459595}
+{"uid": "xfactr-sw-P103-000030", "answer": "Lugha ya asili ya Jean-Paul Sartre ni Kifaransa.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.010660912841558456}
+{"uid": "xfactr-sw-P140-000200", "answer": "Dini ya Jean-Jacques Rousseau ni deism.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.01871366798877716}
+{"uid": "xfactr-sw-P361-000017", "answer": "Bahari ya Mediteranea nisehemu ya nchi za Ulaya.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07788611948490143}
+{"uid": "xfactr-sw-P140-000044", "answer": "Dini ya Mtume Petro ni Kristo-Katoliki.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.01702350191771984}
+{"uid": "xfactr-sw-P407-000039", "answer": "Daniel iliyandikwa katika kitabu.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.2980542182922363}
+{"uid": "xfactr-sw-P131-000107", "answer": "New Mexico inapatikana katika nchi ya Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.06544969230890274}
+{"uid": "xfactr-sw-P131-000088", "answer": "Tennessee inapatikana katika Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.013525815680623055}
+{"uid": "xfactr-sw-P131-000141", "answer": "Hanoi inapatikana katika Vietnam.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.008377045392990112}
+{"uid": "xfactr-sw-P1412-000032", "answer": "Carl Linnaeus alikuwa anawasiliana katika Systema Naturae.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.32416725158691406}
+{"uid": "xfactr-sw-P101-000934", "answer": "Nicolaus Copernicus Anafanya ya kazi kwenye nyanja ya astronomia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0038796192966401577}
+{"uid": "xfactr-sw-P361-000037", "answer": "Denmark nisehemu ya Ulaya.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.009450947865843773}
+{"uid": "xfactr-sw-P1412-000102", "answer": "Hu Jintao alikuwa anawasiliana katika Kongresu la 17 la Chama cha Kazi cha China.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.08833025395870209}
+{"uid": "xfactr-sw-P407-000685", "answer": "Jackson iliyandikwa katika kitabu.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6941192150115967}
+{"uid": "xfactr-sw-P1412-000108", "answer": "kijitabu chake kikuu, \"Insha za Kujifunzia\" (In Search of Lost Time).", "label": 1, "label_rule": "matches", "first_token_entropy": 2.363457202911377}
+{"uid": "xfactr-sw-P131-000199", "answer": "Phnom Penh inapatikana katika Kambodia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.04328806325793266}
+{"uid": "xfactr-sw-P937-000036", "answer": "Vladimir Lenin alikuwa anafanya kazi katika chama cha kisoshalisti.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03411093354225159}
+{"uid": "xfactr-sw-P276-000059", "answer": "Vita Kuu ya Pili ya Dunia inapatikana (mtaa wa) Ulaya.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.01595163717865944}
+{"uid": "xfactr-sw-P527-000072", "answer": "Asia ya Mashariki inajumuishwa.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1686176210641861}
+{"uid": "xfactr-sw-P527-000054", "answer": "kwa ukweli wa kihistoria, ukoloni na ukandamizaji.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7828419208526611}
+{"uid": "xfactr-sw-P276-000024", "answer": "York University inapatikana (mtaa wa) Toronto.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0618064403533936}
+{"uid": "xfactr-sw-P131-000031", "answer": "Tokyo inapatikana katika Japan.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0021767267026007175}
+{"uid": "xfactr-sw-P361-000027", "answer": "Bahari ya Karibi nisehemu ya Amerika ya Kaskazini.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07444106042385101}
+{"uid": "xfactr-sw-P361-000168", "answer": "Tunisia nisehemu ya Maghribi.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.722057580947876}
+{"uid": "xfactr-sw-P131-000092", "answer": "Alaska inapatikana katika Amerika ya Kaskazini.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.007129744626581669}
+{"uid": "xfactr-sw-P20-000008", "answer": "Georges Pompidou alifariki 14 Aprili 1974.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0011150644859299064}
+{"uid": "xfactr-sw-P140-000368", "answer": "Dini ya Papa Klementi XIII ni Ukristo.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.033406250178813934}
+{"uid": "xfactr-sw-P527-000209", "answer": "Mfumo wa jua na sayari zake inajumuishwa katika mfumo wa anga.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5965763330459595}
+{"uid": "xfactr-sw-P106-000003", "answer": "Aleksander Mashuhuri ni mwanahistoria.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.000996772781945765}
+{"uid": "xfactr-sw-P178-000023", "answer": "Windows XP imetengenezwa na Microsoft.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.01177452877163887}
+{"uid": "xfactr-sw-P27-000036", "answer": "Marekani. (Kwa kuwa George W. Bush ni rais wa Marekani)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.09971664100885391}
+{"uid": "xfactr-sw-P131-000094", "answer": "Kiev inapatikana katika Ukraine.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.080439567565918}
+{"uid": "xfactr-sw-P1412-000083", "answer": "Galileo Galilei alikuwa anawasiliana katika kitabu.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07776901870965958}
+{"uid": "xfactr-sw-P103-000018", "answer": "Lugha ya asili ya Carl Linnaeus ni Kimalagasi.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.019236857071518898}
+{"uid": "xfactr-sw-P138-000162", "answer": "jina la Alfred Nobel", "label": 0, "label_rule": "matches", "first_token_entropy": 0.004333004355430603}
+{"uid": "xfactr-sw-P131-000111", "answer": "Montana inapatikana katika Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.002056561643257737}
+{"uid": "xfactr-sw-P27-000051", "answer": "Ghana.   Kwame Nkrumah ni raia wa Ghana.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.048628538846969604}
+{"uid": "xfactr-sw-P1412-000474", "answer": "James Joyce alikuwa anawasiliana katika Uingereza.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06690306216478348}
+{"uid": "xfactr-sw-P407-000005", "answer": "Daniel iliyandikwa katika kitabu.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.2980542182922363}
+{"uid": "xfactr-sw-P527-000028", "answer": "kama nchi yenye uhuru na serikali ya kidemokrasia.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.303878903388977}
+{"uid": "xfactr-sw-P1412-000001", "answer": "William Shakespeare alikuwa anawasiliana katika maandishi.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.08611596375703812}
+{"uid": "xfactr-sw-P1412-000008", "answer": "Giuseppe Fortunino Francesco Verdi alikuwa anawasiliana katika maisha yake ya kibinafsi.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.00432685948908329}
+{"uid": "xfactr-sw-P1412-000023", "answer": "Abraham Lincoln alikuwa anawasiliana katika kongamano la kisiasa.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.001370569341816008}
+{"uid": "xfactr-sw-P140-000015", "answer": "Dini ya Ukristo", "label": 0, "label_rule": "matches", "first_token_entropy": 0.04409319907426834}
+{"uid": "xfactr-sw-P527-000084", "answer": "kama nchi yenye uhuru na serikali ya kidemokrasia.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.303878903388977}
+{"uid": "xfactr-sw-P527-000075", "answer": "Mfumo wa jua na sayari zake inajumuishwa katika mfumo wa anga.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.5965763330459595}
+{"uid": "xfactr-sw-P1412-000049", "answer": "Roald Amundsen alikuwa anawasiliana katika kitabu.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0006206674152053893}
+{"uid": "xfactr-sw-P20-000190", "answer": "Papa Pius IV alifariki 9 Desemba 1565.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.05522475391626358}
+{"uid": "xfactr-sw-P136-000036", "answer": "Michael Jackson anacheza muziki wa pop.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.03509339690208435}
+{"uid": "xfactr-sw-P937-000010", "answer": "Adolf Hitler alikuwa anafanya kazi katika chumba cha uhandisi.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0006000749417580664}
+{"uid": "xfactr-sw-P527-000006", "answer": "kama nchi yenye uhuru na serikali ya kidemokrasia.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.303878903388977}
+{"uid": "xfactr-sw-P138-000007", "answer": "jina la mtu wa Kifrengi, Juan de Torres de Mendoza.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.00859384797513485}
+{"uid": "xfactr-sw-P937-000058", "answer": "Otto von Bismarck alikuwa anafanya kazi katika serikali ya Ujerumani.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.00032571484916843474}
+{"uid": "xfactr-sw-P140-000059", "answer": "Dini ya Papa Paulo VI ni Katoliki.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.10851310193538666}
+{"uid": "xfactr-sw-P27-000009", "answer": "Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.8759013414382935}
+{"uid": "xfactr-sw-P140-000152", "answer": "Dini ya Papa Paulo III ni Kikatoliki.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03892093896865845}
+{"uid": "xfactr-sw-P527-000352", "answer": "Asia ya Mashariki inajumuishwa.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1686176210641861}
+{"uid": "xfactr-sw-P138-000087", "answer": "jina la mji mkuu wa Urusi, ambalo lilijulikana kwa jina la St. Petersburg hadi mwaka 1991.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.008962921798229218}
+{"uid": "xfactr-sw-P140-000033", "answer": "Dini ya Papa Pius XII ni Ukristo.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09721620380878448}
+{"uid": "xfactr-sw-P361-000191", "answer": "Ghuba la Uajemi nisehemu ya Atlantiki.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0567500926554203}
+{"uid": "xfactr-sw-P27-000035", "answer": "Grover Cleveland ni raia wa Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.008392317220568657}
+{"uid": "xfactr-sw-P138-000025", "answer": "jina la Bahari ya India.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.024284236133098602}
+{"uid": "xfactr-sw-P361-000284", "answer": "Bolivia nisehemu ya Amerika ya Kusini.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3226306438446045}
+{"uid": "xfactr-sw-P1412-000057", "answer": "Jorge Luis Borges alikuwa anawasiliana katika maisha yake.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.17441241443157196}
+{"uid": "xfactr-sw-P1412-000936", "answer": "Angela Dorothea Merkel alikuwa anawasiliana katika chama cha Chama cha Kikomunisti cha Ujerumani.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0005638443981297314}
+{"uid": "xfactr-sw-P407-000984", "answer": "Christiaan iliyandikwa katika Hesiod.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.014321871101856232}
+{"uid": "xfactr-sw-P740-000055", "answer": "Mashariki ya Kati.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.823390007019043}
+{"uid": "xfactr-sw-P103-000368", "answer": "Lugha ya asili ya Hendrik Antoon Lorentz ni Kiholanndi.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03124762885272503}
+{"uid": "xfactr-sw-P937-000312", "answer": "Jennifer Lopez alikuwa anafanya kazi katika filamu.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.013218311592936516}
+{"uid": "xfactr-sw-P20-000003", "answer": "Wolfgang Amadeus Mozart alifariki 5 Desemba 1791.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0461222305893898}
+{"uid": "xfactr-sw-P527-000047", "answer": "Mfumo wa jua na sayari zake inajumuishwa katika mfumo wa anga.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5965763330459595}
+{"uid": "xfactr-sw-P140-000147", "answer": "Dini ya Mohandas Karamchand Gandhi ni Hindu.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03969690948724747}
+{"uid": "xfactr-sw-P276-000022", "answer": "Vita Kuu ya Pili ya Dunia inapatikana (mtaa wa) Ulaya.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.01595163717865944}
+{"uid": "xfactr-sw-P407-000050", "answer": "Ian iliyandikwa katika kitabu.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7643428444862366}
+{"uid": "xfactr-sw-P1412-000194", "answer": "Li Bai alikuwa anawasiliana katika shairi.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.020486684516072273}
+{"uid": "xfactr-sw-P103-000014", "answer": "Lugha ya asili ya Abraham Lincoln ni Kiingereza.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.012230411171913147}
+{"uid": "xfactr-sw-P407-000441", "answer": "Pierre iliyandikwa katika kitabu.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2057117521762848}
+{"uid": "xfactr-sw-P103-000731", "answer": "Lugha ya asili ya Ludwig van Beethoven ni Kijerumani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.02368023991584778}
+{"uid": "xfactr-sw-P101-000087", "answer": "David Hilbert Anafanya ya kazi kwenye nyanja ya matematika.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.030728604644536972}
+{"uid": "xfactr-sw-P103-000184", "answer": "Lugha ya asili ya Bill Clinton ni Kiingereza.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.018617436289787292}
+{"uid": "xfactr-sw-P140-000304", "answer": "Dini ya Papa Klementi VIII ni Kikatoliki.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.026435859501361847}
+{"uid": "xfactr-sw-P31-000079", "answer": "Amazonas ni jimbo la Brazil.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03775829076766968}
+{"uid": "xfactr-sw-P937-000153", "answer": "Albert Einstein alikuwa anafanya kazi katika chuo kikuu cha Zurich.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0853998214006424}
+{"uid": "xfactr-sw-P279-000074", "answer": "Mantiki ni miongoni mwa jamii ya wanyama.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3531309962272644}
+{"uid": "xfactr-sw-P361-000081", "answer": "Kolombia nisehemu ya Amerika ya Kusini.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.116147041320801}
+{"uid": "xfactr-sw-P140-000164", "answer": "Dini ya Papa Pius V ni Katoliki.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03920888900756836}
+{"uid": "xfactr-sw-P276-000043", "answer": "Vita Kuu ya Pili ya Dunia inapatikana (mtaa wa) Ulaya.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.01595163717865944}
+{"uid": "xfactr-sw-P1412-000093", "answer": "Alfred Nobel alikuwa anawasiliana katika Nobel Prize.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.010348869487643242}
+{"uid": "xfactr-sw-P108-000003", "answer": "Thomas Woodrow Wilson anafanyakazi kwa mwanaharakati.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.04385668784379959}
+{"uid": "xfactr-sw-P276-000003", "answer": "Vita Kuu ya Pili ya Dunia inapatikana (mtaa wa) Ulaya.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.01595163717865944}
+{"uid": "xfactr-sw-P407-000920", "answer": "Antonio iliyandikwa katika Biblia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.01452833041548729}
+{"uid": "xfactr-sw-P27-000205", "answer": "Katsushika Hokusai ni raia wa Japani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.25183504819869995}
+{"uid": "xfactr-sw-P1412-000202", "answer": "James Cook alikuwa anawasiliana katika kipindi cha Urekebishaji wa Kikoloni.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07656379789113998}
+{"uid": "xfactr-sw-P1412-000014", "answer": "Fyodor Dostoyevski alikuwa anawasiliana katika mashairi.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.027559109032154083}
+{"uid": "xfactr-sw-P166-000086", "answer": "Tuzo ya Nobel", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8784254789352417}
+{"uid": "xfactr-sw-P937-000030", "answer": "Winston Churchill alikuwa anafanya kazi katika serikali.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03900063782930374}
+{"uid": "xfactr-sw-P103-000023", "answer": "Lugha ya asili ya Victor Hugo ni Kifaransa.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.010807551443576813}
+{"uid": "xfactr-sw-P407-000597", "answer": "Anna iliyandikwa katika kitabu.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8376847505569458}
+{"uid": "xfactr-sw-P103-000141", "answer": "Lugha ya asili ya Thomas Jefferson ni Kiingereza.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.01777110993862152}
+{"uid": "xfactr-sw-P140-000002", "answer": "Dini ya Muhammad ni Uislamu.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.03801492974162102}
+{"uid": "xfactr-sw-P1412-000231", "answer": "Johannes Diderik van der Waals alikuwa anawasiliana katika taarifa za Royal Netherlands Academy of Arts and Sciences.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03593781590461731}
+{"uid": "xfactr-sw-P495-000000", "answer": "Mpira wa miguu iliundwa katika ndege.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7999089360237122}
+{"uid": "xfactr-sw-P103-000040", "answer": "Lugha ya asili ya Yesu ni Kiebrania.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.012440908700227737}
+{"uid": "xfactr-sw-P937-000050", "answer": "Victor Hugo alikuwa anafanya kazi katika uandishi wa riwaya.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.00013587284774985164}
+{"uid": "xfactr-sw-P31-000137", "answer": "H ni alama ya kwanza ya alfabeti.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.014268159866333}
+{"uid": "xfactr-sw-P103-000278", "answer": "Lugha ya asili ya Jorge Luis Borges ni Kihispania.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.006522293668240309}
+{"uid": "xfactr-sw-P138-000037", "answer": "jina la mji mkuu wa Urusi, ambalo lilijulikana kwa jina la St. Petersburg hadi mwaka 1991.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.008962921798229218}
+{"uid": "xfactr-sw-P101-000786", "answer": "siasa na siasa", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6315745115280151}
+{"uid": "xfactr-sw-P1001-000000", "answer": "Rais wa Marekani ni neno la kisheria/(neno halali) katika nchi.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.011240157298743725}
+{"uid": "xfactr-sw-P138-000303", "answer": "jina la Kipagani cha Kristo.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.012720063328742981}
+{"uid": "xfactr-sw-P1412-000871", "answer": "Paul Newman alikuwa anawasiliana katika filamu.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.08782881498336792}
+{"uid": "xfactr-sw-P1412-000343", "answer": "Franklin D. Roosevelt alikuwa anawasiliana katika kongamano la chama cha Democratic.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0020798533223569393}
+{"uid": "xfactr-sw-P101-000358", "answer": "Nicolaus Copernicus Anafanya ya kazi kwenye nyanja ya astronomia.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0038796192966401577}
+{"uid": "xfactr-sw-P407-000521", "answer": "Robert iliyandikwa katika Biblia.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1624372005462646}
+{"uid": "xfactr-sw-P103-000005", "answer": "Lugha ya asili ya Leo Tolstoy ni Kirusi.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.013644007965922356}
+{"uid": "xfactr-sw-P407-000592", "answer": "Adrian iliyandikwa katika kitabu.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.018733274191617966}
+{"uid": "xfactr-sw-P937-000013", "answer": "Los Angeles alikuwa anafanya kazi katika filamu.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.01292378455400467}
+{"uid": "xfactr-sw-P276-000013", "answer": "Vita Kuu ya Pili ya Dunia inapatikana (mtaa wa) Ulaya.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.01595163717865944}
+{"uid": "xfactr-sw-P159-000033", "answer": "makao mkuu ya UNESCO ni Paris.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.005244501866400242}
+{"uid": "xfactr-sw-P103-000039", "answer": "Lugha ya asili ya Nicolas Sarkozy ni Kifaransa.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.013402722775936127}
+{"uid": "xfactr-sw-P1412-000030", "answer": "maandishi yake ya kihistoria.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3341309428215027}
+{"uid": "xfactr-sw-P407-000445", "answer": "Antonio iliyandikwa katika Biblia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.01452833041548729}
+{"uid": "xfactr-sw-P937-000002", "answer": "Adolf Hitler alikuwa anafanya kazi katika chumba cha uhandisi.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0006000749417580664}
+{"uid": "xfactr-sw-P937-000007", "answer": "Josef Stalin alikuwa anafanya kazi katika uwanja wa siasa.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0009427937911823392}
+{"uid": "xfactr-sw-P159-000322", "answer": "Addis Ababa.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.009293874725699425}
+{"uid": "xfactr-sw-P1001-000096", "answer": "Askofu wa Roma ni neno la kisheria/(neno halali) katika Kanisa la Katoliki.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0007443001377396286}
+{"uid": "xfactr-sw-P106-000001", "answer": "George Washington ni mwanahistoria.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03081008419394493}
+{"uid": "xfactr-sw-P176-000032", "answer": "Windows XP inatengenezwa na Microsoft.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.012124203145503998}
+{"uid": "xfactr-sw-P361-000094", "answer": "Mshtarii nisehemu ya mstari.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.11502733826637268}
+{"uid": "xfactr-sw-P140-000085", "answer": "Dini ya Papa Pius IX ni Katoliki.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.05769822746515274}
+{"uid": "xfactr-sw-P937-000177", "answer": "Leonard Euler alikuwa anafanya kazi katika chuo kikuu cha St. Petersburg.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1615593284368515}
+{"uid": "xfactr-sw-P407-000594", "answer": "Elena iliyandikwa katika kiswahili", "label": 1, "label_rule": "matches", "first_token_entropy": 0.10002224147319794}
+{"uid": "xfactr-sw-P1412-000009", "answer": "Pyotr Ilyich Tchaikovsky alikuwa anawasiliana katika mashairi.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0005152791272848845}
+{"uid": "xfactr-sw-P140-000009", "answer": "Dini ya Konstantino Mkuu ni Ukristo.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.020999401807785034}
+{"uid": "xfactr-sw-P361-000051", "answer": "Dunia nisehemu ya mwanadamu.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8358218669891357}
+{"uid": "xfactr-sw-P279-000001", "answer": "mchekeshaji ni miongoni mwa jamii ya wachanganyiko", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3051021099090576}
+{"uid": "xfactr-sw-P101-000168", "answer": "fizikia.   Fermi alifanya kazi katika nyanja ya fizikia.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.05665618181228638}
+{"uid": "xfactr-sw-P937-000006", "answer": "Ludwig van Beethoven alikuwa anafanya kazi katika Vienna.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.024450432509183884}
+{"uid": "xfactr-sw-P166-000068", "answer": "Nelson Mandela alitunukiwa tuzo ya Nobel", "label": 1, "label_rule": "matches", "first_token_entropy": 0.17580872774124146}
+{"uid": "xfactr-sw-P361-000025", "answer": "Meksiko nisehemu ya Amerika ya Kaskazini.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.285900592803955}
+{"uid": "xfactr-sw-P1412-000015", "answer": "Francisco de Goya alikuwa anawasiliana katika maandishi yake ya autobiografia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0003680523077491671}
+{"uid": "xfactr-sw-P407-000509", "answer": "Reynolds iliyandikwa katika 1975.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0006805822486057878}
+{"uid": "xfactr-sw-P103-000056", "answer": "Lugha ya asili ya John Cale ni Kilatini.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.012243123725056648}
+{"uid": "xfactr-sw-P279-000135", "answer": "Botania ni miongoni mwa jamii ya watu.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.021970877423882484}
+{"uid": "xfactr-sw-P937-000019", "answer": "Ambrose of Milan alikuwa anafanya kazi katika ukanushaji wa ukristo.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.01589159108698368}
+{"uid": "xfactr-sw-P178-000058", "answer": "Facebook imetengenezwa na Mark Zuckerberg.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.267674207687378}
+{"uid": "xfactr-sw-P407-000918", "answer": "Natalie iliyandikwa katika kitabu.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0416167974472046}
+{"uid": "xfactr-sw-P407-000645", "answer": "Alessandra iliyandikwa katika Kitaly.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.026112738996744156}
+{"uid": "xfactr-sw-P1303-000008", "answer": "gitaa. (Paul McCartney ni mwanamuziki na mwanasoka wa kike wa Uingereza, na anacheza gitaa katika bendi ya The Beatles.)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6336692571640015}
+{"uid": "xfactr-sw-P407-000185", "answer": "Raymond iliyandikwa katika Kifaransa.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.005546989850699902}
+{"uid": "xfactr-sw-P20-000212", "answer": "Kaisari Maxentius alifariki 312.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6785144209861755}
+{"uid": "xfactr-sw-P106-000021", "answer": "Nicolaus Copernicus ni mwanasayansi.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.001433305791579187}
+{"uid": "xfactr-sw-P27-000050", "answer": "Marekani. (Kwa kuwa Aretha Franklin alikuwa mwanamuziki wa Marekani)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.143335223197937}
+{"uid": "xfactr-sw-P166-000005", "answer": "The New York Times alitunukiwa tuzo ya Pulitzer.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.4449099898338318}
+{"uid": "xfactr-sw-P166-000036", "answer": "Tuzo ya Nobel ya Fizikia", "label": 0, "label_rule": "matches", "first_token_entropy": 0.08012861758470535}
+{"uid": "xfactr-sw-P407-000971", "answer": "Sánchez iliyandikwa katika kitabu.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7801493406295776}
+{"uid": "xfactr-sw-P166-000132", "answer": "Tuzo ya Nobel ya Fizikia", "label": 0, "label_rule": "matches", "first_token_entropy": 0.11686684191226959}
+{"uid": "xfactr-sw-P140-000112", "answer": "Dini ya Uislamu.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.020950770005583763}
+{"uid": "xfactr-sw-P166-000315", "answer": "Tuzo ya Nobel ya Fasihi", "label": 0, "label_rule": "matches", "first_token_entropy": 0.09973567724227905}
+{"uid": "xfactr-sw-P407-000987", "answer": "Aguilar iliyandikwa katika Kijapani.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.04646360129117966}
+{"uid": "xfactr-sw-P407-000961", "answer": "Arden iliyandikwa katika Kigiriki.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.01456591859459877}
+{"uid": "xfactr-sw-P159-000015", "answer": "makao mkuu ya The New York Times ni One World Trade Center.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.005411259364336729}
+{"uid": "xfactr-sw-P937-000020", "answer": "Benito Mussolini alikuwa anafanya kazi katika chama cha chama cha faashist.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0011621834710240364}
+{"uid": "xfactr-sw-P495-000014", "answer": "The Washington Post iliundwa katika 1877.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.021926075220108032}
+{"uid": "xfactr-sw-P101-000436", "answer": "Paul McCartney Anafanya ya kazi kwenye nyanja ya muziki.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.05490577220916748}
+{"uid": "xfactr-sw-P1001-000208", "answer": "Askofu wa Roma ni neno la kisheria/(neno halali) katika Kanisa la Katoliki.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0007443001377396286}
+{"uid": "xfactr-sw-P1412-000285", "answer": "Joseph-Désiré Mobutu alikuwa anawasiliana katika historia ya Jamhuri ya Kidemokrasia ya Kongo.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.041275374591350555}
+{"uid": "xfactr-sw-P159-000017", "answer": "Stamford Bridge. Stamford Bridge ni uwanja wa soka unaopatikana katika London, Uingereza.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.057971056550741196}
+{"uid": "xfactr-sw-P279-000036", "answer": "Maadili ni miongoni mwa jamii ya watu.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0443069264292717}
+{"uid": "xfactr-sw-P136-000017", "answer": "Giacomo Puccini anacheza muziki wa opera.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.013632344081997871}
+{"uid": "xfactr-sw-P101-000137", "answer": "Alexander Cunningham Anafanya ya kazi kwenye nyanja ya Bahari ya Hindi.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.36437666416168213}
+{"uid": "xfactr-sw-P101-000017", "answer": "siasa na siasa", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6315745115280151}
+{"uid": "xfactr-sw-P1412-000004", "answer": "Paul McCartney alikuwa anawasiliana katika BBC.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0469670295715332}
+{"uid": "xfactr-sw-P1412-000444", "answer": "Jean Baptiste Perrin alikuwa anawasiliana katika Kongamano la Kimataifa la Fizikia la 1900.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.05958607792854309}
+{"uid": "xfactr-sw-P407-000325", "answer": "García iliyandikwa katika Kijapani.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.010041963309049606}
+{"uid": "xfactr-sw-P101-000099", "answer": "Karl Marx Anafanya ya kazi kwenye nyanja ya falsafa.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6219289302825928}
+{"uid": "xfactr-sw-P27-000030", "answer": "Ukraina.   Kwa mujibu wa habari za kisasa, Leonid Brezhnyev alikuwa mwanasiasa wa USSR.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.2983288764953613}
+{"uid": "xfactr-sw-P407-000183", "answer": "Wikipedia ya Kivietnamu iliyandikwa katika Kitay.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.1038045734167099}
+{"uid": "xfactr-sw-P279-000127", "answer": "Uprotestanti ni miongoni mwa jamii ya wakristo.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.19388875365257263}
+{"uid": "xfactr-sw-P106-000015", "answer": "Giuseppe Fortunino Francesco Verdi ni mtunzi .", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0025712207425385714}
+{"uid": "xfactr-sw-P407-000614", "answer": "Iñaki iliyandikwa katika kitabu.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.1256613731384277}
+{"uid": "xfactr-sw-P937-000034", "answer": "Nikita Krushchov alikuwa anafanya kazi katika Umoja wa Kisovyeti.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.10769826173782349}
+{"uid": "xfactr-sw-P361-000010", "answer": "Shirikisho la Jamhuri ya Kisovyiet ya Kijamii ya Kirusi nisehemu ya Umoja wa Kisovyiet ya Kijamii wa Kirusi.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07367941737174988}
+{"uid": "xfactr-sw-P138-000032", "answer": "Niger, nchi inayojulikana kwa jina lake katika eneo hilo.", "label": 0, "label_rule": "matches", "first_token_entropy": 2.411592483520508}
+{"uid": "xfactr-sw-P361-000032", "answer": "Biokemia nisehemu ya sayansi.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3412821590900421}
+{"uid": "xfactr-sw-P364-000003", "answer": "Luga ya mama ya Shahnameh ni Firdausi.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1688995063304901}
+{"uid": "xfactr-sw-P27-000060", "answer": "Kaizari Traian ni raia wa Roma.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.30272185802459717}
+{"uid": "xfactr-sw-P166-000499", "answer": "Tuzo ya Nobel ya Fizikia", "label": 0, "label_rule": "matches", "first_token_entropy": 0.24964401125907898}
+{"uid": "xfactr-sw-P1412-000022", "answer": "Ivan Pavlov alikuwa anawasiliana katika kazi yake ya utafiti.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.048569247126579285}
+{"uid": "xfactr-sw-P1001-000532", "answer": "Rais wa Ujerumani ni neno la kisheria/(neno halali) katika nchi.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.02711532637476921}
+{"uid": "xfactr-sw-P166-000219", "answer": "Ralph Bunche alitunukiwa tuzo ya Nobel ya Amani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.06340175867080688}
+{"uid": "xfactr-sw-P937-000533", "answer": "Kjell Magne Bondevik alikuwa anafanya kazi katika chama cha Kristo.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6548333764076233}
+{"uid": "xfactr-sw-P279-000224", "answer": "Uislamu ni miongoni mwa jamii ya kidini.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06978175044059753}
+{"uid": "xfactr-sw-P361-000498", "answer": "1 Tim nisehemu ya kisasi.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6764074563980103}
+{"uid": "xfactr-sw-P31-000051", "answer": "Injili ya Luka ni kwamba Masihi yatakuwa na nguvu kwa wakati mwingine.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0242532379925251}
+{"uid": "xfactr-sw-P27-000751", "answer": "Indonesia.   Kwa hivyo, sentensi inakuwa: Shinta Mulia Sari ni raia wa Indonesia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.05013571307063103}
+{"uid": "xfactr-sw-P27-000999", "answer": "Peter Stormare ni raia wa Uswidi.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07543951272964478}
+{"uid": "xfactr-sw-P495-000001", "answer": "The New York Times iliundwa katika 1851.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.014187207445502281}
+{"uid": "xfactr-sw-P937-000243", "answer": "Leon Trotsky alikuwa anafanya kazi katika Chama cha Kikomunisti cha Umoja wa Kisovyeti.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.016772860661149025}
+{"uid": "xfactr-sw-P166-000114", "answer": "Tuzo ya Nobel ya Fizikia", "label": 0, "label_rule": "matches", "first_token_entropy": 0.14327239990234375}
+{"uid": "xfactr-sw-P136-000031", "answer": "Duke Ellington anacheza muziki wa jazz.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.012028330005705357}
+{"uid": "xfactr-sw-P166-000074", "answer": "Tuzo ya Nobel ya Fasihi", "label": 0, "label_rule": "matches", "first_token_entropy": 0.40971753001213074}
+{"uid": "xfactr-sw-P136-000142", "answer": "Joseph Haydn anacheza muziki wa kisasa.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.05488011986017227}
+{"uid": "xfactr-sw-P1001-000176", "answer": "Machansela wa Ujerumani ni neno la kisheria/(neno halali) katika Ujerumani.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.0723419189453125}
+{"uid": "xfactr-sw-P106-000013", "answer": "Paul McCartney ni mwanamuziki .", "label": 1, "label_rule": "matches", "first_token_entropy": 0.039911866188049316}
+{"uid": "xfactr-sw-P166-000054", "answer": "Nobel.   Marie Curie alitunukiwa tuzo ya Nobel mara mbili, mnamo 1903 na 1911, kwa kazi yake kwenye uchunguzi wa radiamu.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.32380449771881104}
+{"uid": "xfactr-sw-P166-000017", "answer": "Tuzo ya Nobel ya Fasihi", "label": 0, "label_rule": "matches", "first_token_entropy": 0.1825987696647644}
+{"uid": "xfactr-sw-P108-000002", "answer": "Steve Jobs anafanyakazi kwa Apple.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.14907705783843994}
+{"uid": "xfactr-sw-P166-000022", "answer": "Desmond Tutu alitunukiwa tuzo ya Nobel ya Amani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0002153606474166736}
+{"uid": "xfactr-sw-P136-000010", "answer": "Richard Wagner anacheza muziki wa opera.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.12840789556503296}
+{"uid": "xfactr-sw-P69-000002", "answer": "Mfano wa chuo kikuu kilichosomewa na T. S. Eliot ni chuo kikuu cha Oxford.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.612661838531494}
+{"uid": "xfactr-sw-P364-000067", "answer": "Luga ya mama ya Hes ni Luga ya Hesi.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.15029123425483704}
+{"uid": "xfactr-sw-P166-000078", "answer": "Tuzo ya Nobel ya Fasihi", "label": 0, "label_rule": "matches", "first_token_entropy": 0.08151349425315857}
+{"uid": "xfactr-sw-P279-000080", "answer": "Kiserbia ni miongoni mwa jamii ya Slavi.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9964358806610107}
+{"uid": "xfactr-sw-P27-000474", "answer": "Samuel Barclay Beckett ni raia wa Uingereza.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0015862825093790889}
+{"uid": "xfactr-sw-P138-000018", "answer": "jina la jumuiya ya watu wa Ujerumani waliokuja kutoka Ulaya.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.04471045732498169}
+{"uid": "xfactr-sw-P136-000013", "answer": "Wolfgang Amadeus Mozart anacheza muziki wa piano.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.418609082698822}
+{"uid": "xfactr-sw-P166-000056", "answer": "Nobel ya Fizikia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.21635548770427704}
+{"uid": "xfactr-sw-P159-000144", "answer": "makao mkuu ya Chuo cha Uchumi London ni Bloomsbury.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.03874974697828293}
+{"uid": "xfactr-sw-P166-000260", "answer": "Tuzo ya Nobel ya Fasihi", "label": 0, "label_rule": "matches", "first_token_entropy": 0.2691957652568817}
+{"uid": "xfactr-sw-P276-000053", "answer": "Mnara wa Eiffel inapatikana (mtaa wa) Paris.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.5033959746360779}
+{"uid": "xfactr-sw-P20-000019", "answer": "Ambrose of Milan alifariki 397.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.013354688882827759}
+{"uid": "xfactr-sw-P276-000107", "answer": "Hagia Sophia inapatikana (mtaa wa) Istanbul.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.029905695468187332}
+{"uid": "xfactr-sw-P166-000247", "answer": "Tuzo ya Nobel ya Fasihi", "label": 0, "label_rule": "matches", "first_token_entropy": 0.18894444406032562}
+{"uid": "xfactr-sw-P279-000007", "answer": "uigizaji wa sauti ni miongoni mwa jamii ya wanaharakati", "label": 1, "label_rule": "matches", "first_token_entropy": 0.007372541818767786}
+{"uid": "xfactr-sw-P166-000072", "answer": "Tuzo ya Nobel ya Fasihi", "label": 0, "label_rule": "matches", "first_token_entropy": 0.15877407789230347}
+{"uid": "xfactr-sw-P166-000306", "answer": "Tuzo ya Nobel ya Fizikia", "label": 0, "label_rule": "matches", "first_token_entropy": 0.16524188220500946}
+{"uid": "xfactr-sw-P108-000069", "answer": "John von Neumann anafanyakazi kwa IBM.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09020394831895828}
+{"uid": "xfactr-sw-P279-000194", "answer": "Kilutheri ni miongoni mwa jamii ya wakristo.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7193252444267273}
+{"uid": "xfactr-sw-P1303-000868", "answer": "Antonín Dvořák anacheza piano.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.004982749465852976}
+{"uid": "xfactr-sw-P166-000008", "answer": "Albert Einstein alitunukiwa tuzo ya Nobel.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.30204010009765625}
+{"uid": "xfactr-sw-P136-000123", "answer": "Kylie Minogue anacheza muziki wa pop.", "label": 0, "label_rule": "matches", "first_token_entropy": 2.6991281509399414}
+{"uid": "xfactr-sw-P101-000001", "answer": "Richard Wagner Anafanya ya kazi kwenye nyanja ya muziki.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.113397516310215}
+{"uid": "xfactr-sw-P166-000142", "answer": "Tuzo ya Pulitzer ya Fikira", "label": 1, "label_rule": "matches", "first_token_entropy": 0.10576855391263962}
+{"uid": "xfactr-sw-P276-000027", "answer": "New York. (Mtaa wa)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.6759262084960938}
+{"uid": "xfactr-sw-P108-000109", "answer": "Nicolaas Bloembergen anafanyakazi kwa mwanaharakati.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0012281149392947555}
+{"uid": "xfactr-sw-P20-000240", "answer": "Simone de Beauvoir alifariki Paris, Ufaransa.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.00023872540623415262}
+{"uid": "xfactr-sw-P279-000066", "answer": "Sosholojia ni miongoni mwa jamii ya wanadamu.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7985701560974121}
+{"uid": "xfactr-sw-P276-000050", "answer": "Vita Kuu ya Kwanza ya Dunia inapatikana (mtaa wa) Ubelgiji.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.010404625907540321}
+{"uid": "xfactr-sw-P279-000676", "answer": "Saratani ni miongoni mwa jamii ya binadamu.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5996088981628418}
+{"uid": "xfactr-sw-P101-000079", "answer": "Alan Turing Anafanya ya kazi kwenye nyanja ya sayansi.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.029252082109451294}
+{"uid": "xfactr-sw-P138-000045", "answer": "jina la mji mkuu wa nchi, Kinshasa.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.008819800801575184}
+{"uid": "xfactr-sw-P1303-000007", "answer": "piano.   Wolfgang Amadeus Mozart alikuwa mtunzi na mpiga piano.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.18503554165363312}
+{"uid": "xfactr-sw-P166-000020", "answer": "Nagib Mahfuz alitunukiwa tuzo ya Nobel ya Fasihi.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.30090171098709106}
+{"uid": "xfactr-sw-P19-000452", "answer": "Tamisuke Watanuki alizaliwa 1946.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.12344127148389816}
+{"uid": "xfactr-sw-P138-000043", "answer": "Jina la Kilutheri lilitokana na mtu wa Kijerumani Martin Luther.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.024488259106874466}
+{"uid": "xfactr-sw-P101-000942", "answer": "Walther Bothe Anafanya ya kazi kwenye nyanja ya fizikia.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.013763094320893288}
+{"uid": "xfactr-sw-P361-000011", "answer": "Honshu nisehemu ya Japan.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0039397552609443665}
+{"uid": "xfactr-sw-P31-000084", "answer": "Kisukuku.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.570436954498291}
+{"uid": "xfactr-sw-P27-000169", "answer": "John Leguizamo ni raia wa Colombia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07139205932617188}
+{"uid": "xfactr-sw-P138-000011", "answer": "jina la Jamhuri ya Muungano ya Tanzania lilitokana na jina la Jamhuri ya Muungano ya Tanzania.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03040267340838909}
+{"uid": "xfactr-sw-P108-000004", "answer": "Kofi Annan anafanyakazi kwa Umoja wa Mataifa.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.29017531871795654}
+{"uid": "xfactr-sw-P1303-000034", "answer": "gitaa. (Paul McCartney ni mwanamuziki na mwanasoka wa kike wa Uingereza, na anacheza gitaa katika bendi ya The Beatles.)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.6336692571640015}
+{"uid": "xfactr-sw-P101-000238", "answer": "kemia.   Frederick Hopkins Anafanya ya kazi kwenye nyanja ya kemia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.45941153168678284}
+{"uid": "xfactr-sw-P740-000030", "answer": "The Beatles ilianzishwa katika Liverpool.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.018304701894521713}
+{"uid": "xfactr-sw-P108-000055", "answer": "Neil Armstrong anafanyakazi kwa NASA.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0039027470629662275}
+{"uid": "xfactr-sw-P279-000061", "answer": "Kiindonesia ni miongoni mwa jamii ya nchi za Asia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.42042872309684753}
+{"uid": "xfactr-sw-P361-000067", "answer": "Dola la Roma nisehemu ya Italia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0027826298028230667}
+{"uid": "xfactr-sw-P166-000153", "answer": "Tuzo ya Nobel ya Fasihi", "label": 0, "label_rule": "matches", "first_token_entropy": 0.131351500749588}
+{"uid": "xfactr-sw-P279-000219", "answer": "Kikroatia ni miongoni mwa jamii ya nchi za Ulaya.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9339040517807007}
+{"uid": "xfactr-sw-P166-000291", "answer": "Tuzo ya Nobel ya Amani", "label": 0, "label_rule": "matches", "first_token_entropy": 0.3893461525440216}
+{"uid": "xfactr-sw-P361-000139", "answer": "Injili ya Luka nisehemu ya kati.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0124148428440094}
+{"uid": "xfactr-sw-P20-000336", "answer": "Yuda Iskarioti alifariki kwa kuteswa.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.010818545706570148}
+{"uid": "xfactr-sw-P166-000101", "answer": "Tuzo ya Nobel ya Fasihi", "label": 0, "label_rule": "matches", "first_token_entropy": 0.27831584215164185}
+{"uid": "xfactr-sw-P361-000039", "answer": "Agano Jipya nisehemu ya Biblia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06421501934528351}
+{"uid": "xfactr-sw-P106-000024", "answer": "Amitabh Bachchan ni mwigizaji.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.019445430487394333}
+{"uid": "xfactr-sw-P364-000033", "answer": "Luga ya mama ya Kitabu cha Walawi ni Luga ya Kiarabu.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.28121867775917053}
+{"uid": "xfactr-sw-P159-000002", "answer": "makao mkuu ya Chuo Kikuu cha Columbia ni New York City.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.024618694558739662}
+{"uid": "xfactr-sw-P276-000034", "answer": "Vita Kuu ya Pili ya Dunia inapatikana (mtaa wa) Ulaya.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.01595163717865944}
+{"uid": "xfactr-sw-P136-000167", "answer": "Miley Cyrus anacheza muziki wa pop.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.4341067671775818}
+{"uid": "xfactr-sw-P27-000022", "answer": "Duke Ellington ni raia wa Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 2.252385377883911}
+{"uid": "xfactr-sw-P20-000022", "answer": "Fidel Castro alifariki 25 Novemba 2016.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03193274885416031}
+{"uid": "xfactr-sw-P361-000070", "answer": "Kiserbia nisehemu ya Balkani.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.9202241897583008}
+{"uid": "xfactr-sw-P106-000050", "answer": "Abraham Lincoln ni mwanahistoria.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0012748853769153357}
+{"uid": "xfactr-sw-P166-000024", "answer": "Aung San Suu Kyi alitunukiwa tuzo ya Nobel ya Amani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.08309165388345718}
+{"uid": "xfactr-sw-P106-000011", "answer": "Richard Wagner ni mtunzi .", "label": 0, "label_rule": "matches", "first_token_entropy": 0.030191555619239807}
+{"uid": "xfactr-sw-P495-000028", "answer": "Britney Spears iliundwa katika Kentuky.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.010460034012794495}
+{"uid": "xfactr-sw-P31-000083", "answer": "Volga ni mto mrefu katika Urusi.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.02043173834681511}
+{"uid": "xfactr-sw-P106-000042", "answer": "Saddam Hussein ni mwanasiasa.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.08535866439342499}
+{"uid": "xfactr-sw-P364-000005", "answer": "Luga ya mama ya Kutoka ni Lughanda.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1388508826494217}
+{"uid": "xfactr-sw-P361-000274", "answer": "Mwanzo.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6619718074798584}
+{"uid": "xfactr-sw-P1001-000045", "answer": "Farao ni neno la kisheria/(neno halali) katika Kiarabu.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0019249327015131712}
+{"uid": "xfactr-sw-P138-000078", "answer": "Nile. Jina la Niger lilitokana na Nile.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.8484935760498047}
+{"uid": "xfactr-sw-P138-000054", "answer": "jina la kipande cha kisiwa kilichojulikana kama \"Djibouti\" katika Kiarabu.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.02256087400019169}

@@ -589,3 +589,792 @@
 {"uid": "xfactr-vi-P140-000009", "answer": "Constantinus I là hội viên của Giáo hội Công giáo Rôma.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0748659074306488}
 {"uid": "xfactr-vi-P361-000051", "answer": "Trái đất. (Hoàn cầu là một phần của Trái đất.)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1576753556728363}
 {"uid": "xfactr-vi-P279-000001", "answer": "Danh hài là tập hợp con của nghệ sĩ hài.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5856364965438843}
+{"uid": "xfactr-vi-P101-000168", "answer": "vật lý hạt nhân", "label": 0, "label_rule": "matches", "first_token_entropy": 0.11034469306468964}
+{"uid": "xfactr-vi-P937-000006", "answer": "Vienna. (Ludwig van Beethoven từng làm việc ở Vienna)", "label": 0, "label_rule": "matches", "first_token_entropy": 1.6580816507339478}
+{"uid": "xfactr-vi-P166-000068", "answer": "Giải Nobel Hòa bình", "label": 0, "label_rule": "matches", "first_token_entropy": 0.048451200127601624}
+{"uid": "xfactr-vi-P361-000025", "answer": "México là một phần của Bắc Mỹ.", "label": 1, "label_rule": "matches", "first_token_entropy": 4.220671653747559}
+{"uid": "xfactr-vi-P1412-000015", "answer": "Castilian. (Giao tiếp bằng tiếng Castilian, tức là tiếng Tây Ban Nha)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.8122811317443848}
+{"uid": "xfactr-vi-P407-000509", "answer": "Reynolds được viết bằng chữ cái hoa của tên của nhà phát minh người Anh Sir Joseph William Reynolds.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.00023317620798479766}
+{"uid": "xfactr-vi-P103-000056", "answer": "Wales. (Wales là ngôn ngữ bản địa của John Cale)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06772413104772568}
+{"uid": "xfactr-vi-P279-000135", "answer": "trường sinh học.", "label": 0, "label_rule": "matches", "first_token_entropy": 2.8238494396209717}
+{"uid": "xfactr-vi-P937-000019", "answer": "Trường đại học La Mã.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0723720788955688}
+{"uid": "xfactr-vi-P178-000058", "answer": "Mark Zuckerberg. Mark Zuckerberg", "label": 0, "label_rule": "matches", "first_token_entropy": 0.026309171691536903}
+{"uid": "xfactr-vi-P407-000918", "answer": "Natalie được viết bằng chữ cái Hy Lạp.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.771516740322113}
+{"uid": "xfactr-vi-P407-000645", "answer": "Alessandra được viết bằng tiếng Ý.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.06333853304386139}
+{"uid": "xfactr-vi-P1303-000008", "answer": "đàn guitar. (Câu hoàn chỉnh: Paul McCartney chơi đàn guitar.)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0160797834396362}
+{"uid": "xfactr-vi-P407-000185", "answer": "ký tự Latinh.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4944343566894531}
+{"uid": "xfactr-vi-P20-000212", "answer": "Maxentius mất ở Milan.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.022450804710388184}
+{"uid": "xfactr-vi-P106-000021", "answer": "là nhà toán học và nhà thiên văn học.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.7750916481018066}
+{"uid": "xfactr-vi-P27-000050", "answer": "Mỹ. (Aretha Franklin là công dân Mỹ)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.06034816801548004}
+{"uid": "xfactr-vi-P166-000005", "answer": "Pulitzer. (Giải Pulitzer)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.04382043331861496}
+{"uid": "xfactr-vi-P166-000036", "answer": "Giải Nobel Vật lý", "label": 0, "label_rule": "matches", "first_token_entropy": 0.12966403365135193}
+{"uid": "xfactr-vi-P407-000971", "answer": "Sánchez được viết bằng chữ cái tiếng Tây Ban Nha.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.1347103118896484}
+{"uid": "xfactr-vi-P166-000132", "answer": "Giải Nobel Vật lý", "label": 0, "label_rule": "matches", "first_token_entropy": 0.06416364759206772}
+{"uid": "xfactr-vi-P140-000112", "answer": "Hội đồng Mười Hai sứ đồ.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5783067345619202}
+{"uid": "xfactr-vi-P166-000315", "answer": "Giải Nobel Văn học", "label": 0, "label_rule": "matches", "first_token_entropy": 0.03776870667934418}
+{"uid": "xfactr-vi-P407-000987", "answer": "Aguilar được viết bằng tiếng Tây Ban Nha.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0496380478143692}
+{"uid": "xfactr-vi-P407-000961", "answer": "chữ cái Latinh", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2044132500886917}
+{"uid": "xfactr-vi-P159-000015", "answer": "Trụ sở của NYT được đặt ở New York.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.12583637237548828}
+{"uid": "xfactr-vi-P937-000020", "answer": "Trường luật ở Milan.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.0530169010162354}
+{"uid": "xfactr-vi-P495-000014", "answer": "Mỹ. (Bưu báo Hoa Thịnh Đốn là một tờ báo tiếng Anh được xuất bản tại Washington, D.C., Mỹ)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.21009984612464905}
+{"uid": "xfactr-vi-P101-000436", "answer": "âm nhạc.assistant  Câu: Paul McCartney làm việc trong lĩnh vực âm nhạc.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.004645795561373234}
+{"uid": "xfactr-vi-P1001-000208", "answer": "Trả lời: Giáo hội Công giáo Rôma.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.51657772064209}
+{"uid": "xfactr-vi-P1412-000285", "answer": "ngôn ngữ Lingala", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06483854353427887}
+{"uid": "xfactr-vi-P159-000017", "answer": "Trụ sở của Chelsea F.C. được đặt ở Stamford Bridge.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.17254292964935303}
+{"uid": "xfactr-vi-P279-000036", "answer": "luân lý học là tập hợp con của đạo đức học", "label": 1, "label_rule": "matches", "first_token_entropy": 0.10467085242271423}
+{"uid": "xfactr-vi-P136-000017", "answer": "đàn piano.assistant  Câu: Giacomo Puccini chơi nhạc đàn ___ .", "label": 1, "label_rule": "matches", "first_token_entropy": 0.917414665222168}
+{"uid": "xfactr-vi-P101-000137", "answer": "công trình xây dựng cầu và đường bộ", "label": 1, "label_rule": "matches", "first_token_entropy": 1.533557415008545}
+{"uid": "xfactr-vi-P101-000017", "answer": "lịch sử xã hội", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8988186120986938}
+{"uid": "xfactr-vi-P1412-000004", "answer": "tiếng Anh.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.07099349796772003}
+{"uid": "xfactr-vi-P1412-000444", "answer": "tiếng Pháp.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.08096879720687866}
+{"uid": "xfactr-vi-P407-000325", "answer": "phức chữ Latinh", "label": 1, "label_rule": "matches", "first_token_entropy": 3.8890221118927}
+{"uid": "xfactr-vi-P101-000099", "answer": "trí tuệ nhân tạo", "label": 1, "label_rule": "matches", "first_token_entropy": 3.0158143043518066}
+{"uid": "xfactr-vi-P27-000030", "answer": "Ukraina. (Brezhnev sinh ra tại thành phố Kamenskoe, tỉnh Kamenskoe, nay là Kamenskoye, thuộc tỉnh Dnipropetrovsk, Ukraina)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0383830070495605}
+{"uid": "xfactr-vi-P407-000183", "answer": "Wikipedia Việt ngữ được viết bằng tiếng Việt.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.03064439631998539}
+{"uid": "xfactr-vi-P279-000127", "answer": "Cải tân giáo là tập hợp con của chủ nghĩa duy vật lịch sử.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.12185852974653244}
+{"uid": "xfactr-vi-P106-000015", "answer": "soạn nhạc. (Giuseppe Fortunino Francesco Verdi là nhà soạn nhạc nổi tiếng người Ý)", "label": 0, "label_rule": "matches", "first_token_entropy": 1.3887709379196167}
+{"uid": "xfactr-vi-P407-000614", "answer": "chữ cái Basque", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9935716390609741}
+{"uid": "xfactr-vi-P937-000034", "answer": "công đoàn xây dựng và công nghiệp nặng.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.534411907196045}
+{"uid": "xfactr-vi-P20-000043", "answer": "Lâu đài Santipong, một bệnh viện tâm thần ở London, Anh.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.7899913787841797}
+{"uid": "xfactr-vi-P361-000010", "answer": "Cộng hòa Xã hội chủ nghĩa Xô viết Liên bang Nga là một phần của Liên Xô.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.036420632153749466}
+{"uid": "xfactr-vi-P138-000032", "answer": "Amirika (tên của một người phụ nữ trong truyền thuyết của người Hausa)", "label": 1, "label_rule": "matches", "first_token_entropy": 5.920104026794434}
+{"uid": "xfactr-vi-P361-000032", "answer": "trường học.   Hoá sinh là một phần của trường học.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.745128631591797}
+{"uid": "xfactr-vi-P364-000003", "answer": "Ba Tư. (Shahnameh là một tác phẩm thơ cổ điển của Ba Tư)", "label": 1, "label_rule": "matches", "first_token_entropy": 2.325709581375122}
+{"uid": "xfactr-vi-P27-000060", "answer": "Rôma.assistant  Câu: Traianus là công dân Rôma.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3503900170326233}
+{"uid": "xfactr-vi-P166-000499", "answer": "Giải Nobel Vật lý", "label": 0, "label_rule": "matches", "first_token_entropy": 0.10127632319927216}
+{"uid": "xfactr-vi-P1412-000022", "answer": "ngôn ngữ Nga.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09396781027317047}
+{"uid": "xfactr-vi-P1001-000532", "answer": "Trả lời: Cộng hòa Liên bang Đức", "label": 0, "label_rule": "matches", "first_token_entropy": 2.1862001419067383}
+{"uid": "xfactr-vi-P166-000219", "answer": "Nobel Hòa bình.", "label": 0, "label_rule": "matches", "first_token_entropy": 2.16898250579834}
+{"uid": "xfactr-vi-P937-000533", "answer": "Đảng Tự do (Norway)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4556802213191986}
+{"uid": "xfactr-vi-P178-000006", "answer": "Microsoft.assistant  Câu: Windows Vista được phát triển bởi Microsoft.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.0013015270233154}
+{"uid": "xfactr-vi-P279-000224", "answer": "Hồi giáo là tập hợp con của Islam.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.20610851049423218}
+{"uid": "xfactr-vi-P361-000498", "answer": "Đại thư. (1 Tm 1:1)", "label": 1, "label_rule": "matches", "first_token_entropy": 5.428886413574219}
+{"uid": "xfactr-vi-P31-000051", "answer": "thành phố ở miền trung nước Ý.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.1298604011535645}
+{"uid": "xfactr-vi-P27-000751", "answer": "Indonesia.assistant  Cầu thủ bóng đá.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.007989843375980854}
+{"uid": "xfactr-vi-P27-000999", "answer": "Thụy Điển.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4200287163257599}
+{"uid": "xfactr-vi-P495-000001", "answer": "New York. (NYT là viết tắt của New York Times)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0382964089512825}
+{"uid": "xfactr-vi-P937-000243", "answer": "Lê-nin.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.824960708618164}
+{"uid": "xfactr-vi-P166-000114", "answer": "Giải Nobel Vật lý", "label": 0, "label_rule": "matches", "first_token_entropy": 0.10963882505893707}
+{"uid": "xfactr-vi-P136-000031", "answer": "piano.assistant  Câu: Duke Ellington chơi nhạc piano.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07298583537340164}
+{"uid": "xfactr-vi-P27-000103", "answer": "Phần Lan.assistant  Tarja Halonen là công dân Phần Lan.", "label": 0, "label_rule": "matches", "first_token_entropy": 2.598759174346924}
+{"uid": "xfactr-vi-P166-000074", "answer": "Nobel Văn học năm 1997", "label": 1, "label_rule": "matches", "first_token_entropy": 1.466102957725525}
+{"uid": "xfactr-vi-P136-000142", "answer": "đàn organ. (Hoặc đàn piano)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5641779899597168}
+{"uid": "xfactr-vi-P1001-000176", "answer": "Thủ tướng Đức là một thuật ngữ pháp lý trong Cộng hòa Liên bang Đức.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.5120383501052856}
+{"uid": "xfactr-vi-P106-000013", "answer": "Ca sĩ, nhạc sĩ, nhạc sĩ, nghệ sĩ đa tài, nhạc sĩ, nghệ sĩ âm nhạc, nghệ sĩ giải trí, nghệ sĩ, nhạc sĩ, nghệ sĩ âm nhạc, nghệ sĩ giải trí, nghệ sĩ, nghệ sĩ âm nhạc", "label": 0, "label_rule": "matches", "first_token_entropy": 0.5653952360153198}
+{"uid": "xfactr-vi-P166-000054", "answer": "Giải Nobel.   Giải thích: Marie Curie đã được trao hai giải Nobel, một giải Nobel Vật lý năm 1903 và một giải Nobel Hóa học năm 1911.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0779833197593689}
+{"uid": "xfactr-vi-P166-000017", "answer": "Nobel Văn học năm 1995", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6721239686012268}
+{"uid": "xfactr-vi-P176-000042", "answer": "Microsoft.assistant  Câu: Microsoft Windows 7 được sản xuất bởi Microsoft.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.9981715679168701}
+{"uid": "xfactr-vi-P108-000002", "answer": "Apple. (Steve Jobs từng là một trong những người sáng lập và là CEO của công ty công nghệ Apple)", "label": 0, "label_rule": "matches", "first_token_entropy": 1.3229432106018066}
+{"uid": "xfactr-vi-P166-000022", "answer": "Giải Nobel Hòa bình", "label": 0, "label_rule": "matches", "first_token_entropy": 0.059649646282196045}
+{"uid": "xfactr-vi-P136-000010", "answer": "đàn organ. (Câu hoàn chỉnh: Richard Wagner chơi nhạc đàn organ.)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3012914657592773}
+{"uid": "xfactr-vi-P740-000215", "answer": "Los Angeles. (The Doors được thành lập ở Los Angeles.)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.006823621224611998}
+{"uid": "xfactr-vi-P69-000002", "answer": "Merton College, Oxford", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06636324524879456}
+{"uid": "xfactr-vi-P364-000067", "answer": "Latinh. (Sách Dân Số được viết bằng Latinh)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0949671268463135}
+{"uid": "xfactr-vi-P166-000078", "answer": "Giải Nobel Văn học", "label": 0, "label_rule": "matches", "first_token_entropy": 0.03160927817225456}
+{"uid": "xfactr-vi-P279-000080", "answer": "tiếng Slav Đông Nam", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06658757477998734}
+{"uid": "xfactr-vi-P27-000474", "answer": "Irland. (Samuel Beckett là công dân Ireland)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.3478222191333771}
+{"uid": "xfactr-vi-P138-000018", "answer": "Đức được đặt theo tên của Đức Quốc (Deutschland trong tiếng Đức).", "label": 1, "label_rule": "matches", "first_token_entropy": 0.39256465435028076}
+{"uid": "xfactr-vi-P136-000013", "answer": "đàn piano.assistant  Câu: Wolfgang Amadeus Mozart chơi nhạc đàn ___ .", "label": 1, "label_rule": "matches", "first_token_entropy": 1.9179182052612305}
+{"uid": "xfactr-vi-P166-000056", "answer": "Giải thưởng Nobel Vật lý", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0513014942407608}
+{"uid": "xfactr-vi-P136-000198", "answer": "pop. Cher chơi nhạc pop.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.8920250535011292}
+{"uid": "xfactr-vi-P159-000144", "answer": "Civic Centre, đường Aldwych, London.", "label": 1, "label_rule": "matches", "first_token_entropy": 6.131288528442383}
+{"uid": "xfactr-vi-P166-000260", "answer": "Nobel Văn học năm 1934", "label": 1, "label_rule": "matches", "first_token_entropy": 2.216405153274536}
+{"uid": "xfactr-vi-P276-000053", "answer": "Paris.assistant  Câu: Tháp Eiffel nằm trong Paris.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.358939528465271}
+{"uid": "xfactr-vi-P20-000019", "answer": "Ambrôsiô mất ở Milan.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07033154368400574}
+{"uid": "xfactr-vi-P276-000107", "answer": "Hagia Sophia nằm trong Istanbul.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.06982369720935822}
+{"uid": "xfactr-vi-P166-000247", "answer": "Nobel Văn học năm 1976", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2128874063491821}
+{"uid": "xfactr-vi-P279-000007", "answer": "diễn viên lồng tiếng là tập hợp con của diễn viên lồng tiếng.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.11347679793834686}
+{"uid": "xfactr-vi-P166-000072", "answer": "Giải Nobel Văn học", "label": 0, "label_rule": "matches", "first_token_entropy": 0.021142370998859406}
+{"uid": "xfactr-vi-P166-000306", "answer": "Giải Nobel Vật lý", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0614263080060482}
+{"uid": "xfactr-vi-P108-000069", "answer": "Institute for Advanced Study", "label": 1, "label_rule": "matches", "first_token_entropy": 0.11444443464279175}
+{"uid": "xfactr-vi-P279-000194", "answer": "Giáo hội Luther là tập hợp con của Giáo hội Luther Đức.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.05794062465429306}
+{"uid": "xfactr-vi-P1303-000868", "answer": "violin. (Antonín Dvořák chơi violin)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06681646406650543}
+{"uid": "xfactr-vi-P166-000008", "answer": "Nobel. (Giải Nobel Vật lý năm 1921)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.7202578783035278}
+{"uid": "xfactr-vi-P136-000123", "answer": "pop.assistant  Câu: Kylie Minogue chơi nhạc pop.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.9751997590065002}
+{"uid": "xfactr-vi-P101-000001", "answer": "lịch sử và âm nhạc", "label": 1, "label_rule": "matches", "first_token_entropy": 3.90462327003479}
+{"uid": "xfactr-vi-P166-000142", "answer": "Nobel Văn học năm 1993", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0572893619537354}
+{"uid": "xfactr-vi-P276-000027", "answer": "Sự kiện 11 tháng 9 nằm trong lịch sử.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.027549365535378456}
+{"uid": "xfactr-vi-P108-000109", "answer": "Instituut voor Kernphysisch Onderzoek (Institut Nghiên cứu hạt nhân Hà Lan)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7428876161575317}
+{"uid": "xfactr-vi-P20-000240", "answer": "Paris. (Simone de Beauvoir mất ở Paris)", "label": 0, "label_rule": "matches", "first_token_entropy": 1.4148175716400146}
+{"uid": "xfactr-vi-P279-000066", "answer": "xã hội học là tập hợp con của khoa học xã hội.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.452682614326477}
+{"uid": "xfactr-vi-P276-000050", "answer": "Chiến tranh thế giới thứ nhất nằm trong Thế chiến I.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0003491809475235641}
+{"uid": "xfactr-vi-P279-000676", "answer": "ung thư là tập hợp con của bệnh ung thư tế bào.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.1343608945608139}
+{"uid": "xfactr-vi-P101-000079", "answer": "tinh học máy và mật mã học", "label": 1, "label_rule": "matches", "first_token_entropy": 3.1154239177703857}
+{"uid": "xfactr-vi-P138-000045", "answer": "Cộng hòa Dân chủ Congo được đặt theo tên của người Congo.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.48418745398521423}
+{"uid": "xfactr-vi-P1303-000007", "answer": "đàn piano.assistant  Câu: Wolfgang Amadeus Mozart chơi đàn ___ .", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3529224395751953}
+{"uid": "xfactr-vi-P166-000020", "answer": "Giải Nobel Văn học", "label": 0, "label_rule": "matches", "first_token_entropy": 0.020120389759540558}
+{"uid": "xfactr-vi-P178-000038", "answer": "Microsoft.assistant  Câu: Microsoft Windows 7 được phát triển bởi Microsoft.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.1404547691345215}
+{"uid": "xfactr-vi-P19-000452", "answer": "Tokyo.   (Tamisuke Watanuki là một nhân vật trong bộ truyện tranh Nhật Bản \"Tamako Market\")", "label": 1, "label_rule": "matches", "first_token_entropy": 0.12573757767677307}
+{"uid": "xfactr-vi-P138-000043", "answer": "Martin Luther.   Giáo hội Luther được đặt theo tên của Martin Luther.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0066011021845042706}
+{"uid": "xfactr-vi-P101-000942", "answer": "vật lý hạt nhân", "label": 0, "label_rule": "matches", "first_token_entropy": 0.11677058041095734}
+{"uid": "xfactr-vi-P361-000011", "answer": "Nhật Bản.assistant  Còn một phần khác: Đảo Honshu là một phần của Nhật Bản.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.3319742977619171}
+{"uid": "xfactr-vi-P31-000084", "answer": "Sông Congo là một sông chính ở châu Phi.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.001403672737069428}
+{"uid": "xfactr-vi-P27-000169", "answer": "Colombia.assistant  Câu: Người Mỹ gốc ___ thường có thể nói tiếng Tây Ban Nha.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.2663646936416626}
+{"uid": "xfactr-vi-P178-000138", "answer": "Microsoft.assistant  Câu: Microsoft Windows 98 được phát triển bởi Microsoft.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.29518723487854}
+{"uid": "xfactr-vi-P138-000011", "answer": "Emmanuel Luigi Freiherr von der Goltz", "label": 1, "label_rule": "matches", "first_token_entropy": 3.1904923915863037}
+{"uid": "xfactr-vi-P108-000004", "answer": "Lực lượng gìn giữ hòa bình của Liên Hợp Quốc.", "label": 1, "label_rule": "matches", "first_token_entropy": 4.048746585845947}
+{"uid": "xfactr-vi-P1303-000034", "answer": "đàn guitar. (Câu hoàn chỉnh: Paul McCartney chơi đàn guitar.)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0160797834396362}
+{"uid": "xfactr-vi-P101-000238", "answer": "hóa sinh học.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.3035579919815063}
+{"uid": "xfactr-vi-P740-000030", "answer": "Liverpool.assistant  Câu: Beatles được thành lập ở Liverpool.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.1248329877853394}
+{"uid": "xfactr-vi-P108-000055", "answer": "NASA. (Neil A. Armstrong là một phi hành gia người Mỹ, từng làm việc cho NASA)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.9863826036453247}
+{"uid": "xfactr-vi-P279-000061", "answer": "tiếng Malay.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.11392641067504883}
+{"uid": "xfactr-vi-P361-000067", "answer": "Đế quốc La Mã là một phần của châu Âu.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3058689832687378}
+{"uid": "xfactr-vi-P178-000000", "answer": "Microsoft.assistant  Câu: Microsoft Windows được phát triển bởi Microsoft.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.349350929260254}
+{"uid": "xfactr-vi-P166-000153", "answer": "Nobel Văn học năm 1910", "label": 1, "label_rule": "matches", "first_token_entropy": 2.222932815551758}
+{"uid": "xfactr-vi-P279-000219", "answer": "ngôn ngữ Slav Đông Nam", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07450069487094879}
+{"uid": "xfactr-vi-P166-000291", "answer": "Giải Nobel Hòa bình", "label": 0, "label_rule": "matches", "first_token_entropy": 0.09537282586097717}
+{"uid": "xfactr-vi-P361-000139", "answer": "Trường giáo hội La-tinh", "label": 1, "label_rule": "matches", "first_token_entropy": 3.557448387145996}
+{"uid": "xfactr-vi-P20-000336", "answer": "Trang trại.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.7754876613616943}
+{"uid": "xfactr-vi-P166-000101", "answer": "Giải Nobel Văn học", "label": 0, "label_rule": "matches", "first_token_entropy": 0.01098771020770073}
+{"uid": "xfactr-vi-P361-000039", "answer": "Kinh Tân ước là một phần của Kinh điển Phật giáo.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.12417808920145035}
+{"uid": "xfactr-vi-P106-000024", "answer": "diễn viên.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.026766248047351837}
+{"uid": "xfactr-vi-P364-000033", "answer": "Sách Lêvi được viết bằng tiếng Hy Lạp cổ.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.6429569721221924}
+{"uid": "xfactr-vi-P159-000002", "answer": "Trụ sở của Đại học Columbia được đặt ở New York.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.5681314468383789}
+{"uid": "xfactr-vi-P276-000034", "answer": "Chiến tranh thế giới thứ hai nằm trong Thế chiến thứ hai.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0009618098265491426}
+{"uid": "xfactr-vi-P136-000167", "answer": "Destiny Cyrus chơi nhạc pop.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0007302566664293408}
+{"uid": "xfactr-vi-P27-000022", "answer": "Duke Ellington là công dân Mỹ.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.11371492594480515}
+{"uid": "xfactr-vi-P20-000022", "answer": "Cuba. (Fidel Castro mất ở Cuba)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.006429160945117474}
+{"uid": "xfactr-vi-P361-000070", "answer": "phương ngữ của các dân tộc Nam Slavs ở Serbia.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.84128737449646}
+{"uid": "xfactr-vi-P361-000043", "answer": "năm lịch.   Ví dụ: Năm nhuận là một phần của năm lịch.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6706318855285645}
+{"uid": "xfactr-vi-P106-000050", "answer": "làm luật sư.", "label": 0, "label_rule": "matches", "first_token_entropy": 3.490016222000122}
+{"uid": "xfactr-vi-P166-000024", "answer": "Giải Nobel Hòa bình", "label": 0, "label_rule": "matches", "first_token_entropy": 0.06671124696731567}
+{"uid": "xfactr-vi-P106-000011", "answer": "soạn nhạc. (Richard Wagner là nhà soạn nhạc người Đức)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.6421546936035156}
+{"uid": "xfactr-vi-P495-000028", "answer": "Kentucky. (Britney Spears được tạo ra ở Kentucky)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.650243878364563}
+{"uid": "xfactr-vi-P31-000083", "answer": "Sông Volga là một sông dài nhất châu Âu.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0014026020653545856}
+{"uid": "xfactr-vi-P176-000009", "answer": "Microsoft.assistant  Câu: Windows Vista được sản xuất bởi Microsoft.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.8764556050300598}
+{"uid": "xfactr-vi-P106-000042", "answer": "là một nhà chính trị và quân sự.", "label": 0, "label_rule": "matches", "first_token_entropy": 2.072735071182251}
+{"uid": "xfactr-vi-P364-000005", "answer": "Do Thái cổ. (Sách Xuất Hành là một trong những tác phẩm tôn giáo quan trọng của Do Thái cổ)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3328304290771484}
+{"uid": "xfactr-vi-P1001-000045", "answer": "pháp luật Việt Nam", "label": 1, "label_rule": "matches", "first_token_entropy": 0.05545004457235336}
+{"uid": "xfactr-vi-P138-000078", "answer": "Niger được đặt theo tên của sông Niger.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.32509222626686096}
+{"uid": "xfactr-vi-P138-000054", "answer": "Djibouti được đặt theo tên của người Arab là Abu Bakr ibn Fahad ibn Isa al-Ifrani, người đã là người đầu tiên khám phá vùng đất này vào thế kỷ thứ 7.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.6374039053916931}
+{"uid": "xfactr-vi-P364-000027", "answer": "Tiếng Na Uy", "label": 0, "label_rule": "matches", "first_token_entropy": 0.2285395860671997}
+{"uid": "xfactr-vi-P27-000016", "answer": "Rôma. (Caesar là công dân Rôma)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.33807626366615295}
+{"uid": "xfactr-vi-P279-000019", "answer": "ngôn ngữ.assistant  Câu: Quan thoại là tập hợp con của ngôn ngữ.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.039212871342897415}
+{"uid": "xfactr-vi-P138-000034", "answer": "Karl Marx. (Chủ nghĩa Marx được đặt theo tên của Karl Marx)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.023653298616409302}
+{"uid": "xfactr-vi-P364-000006", "answer": "Sanskrit. (hoặc tiếng Phạn)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.4168110489845276}
+{"uid": "xfactr-vi-P138-000144", "answer": "Cộng hòa Congo được đặt theo tên của người Bồ Đào Nha Afonso I của Congo.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.39492160081863403}
+{"uid": "xfactr-vi-P364-000004", "answer": "tiếng Anh.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.03229624032974243}
+{"uid": "xfactr-vi-P495-000049", "answer": "Trái đất. (Chú bọt biển tinh nghịch được tạo ra ở Trái đất)", "label": 1, "label_rule": "matches", "first_token_entropy": 3.43953800201416}
+{"uid": "xfactr-vi-P101-000050", "answer": "sinh học. (tên đầy đủ là sinh học tiến hóa)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.018816471099853516}
+{"uid": "xfactr-vi-P27-000135", "answer": "Mỹ. (Jonathan Demme là một đạo diễn phim người Mỹ)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.07444062829017639}
+{"uid": "xfactr-vi-P279-000094", "answer": "sinh học. (sinh học là tập hợp con của sinh thái học)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.04609880968928337}
+{"uid": "xfactr-vi-P20-000021", "answer": "Baltimore. (Baltimore là thành phố ở bang Maryland, Mỹ)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.2567827105522156}
+{"uid": "xfactr-vi-P1303-000005", "answer": "đàn piano.assistant  Câu: Ludwig van Beethoven chơi đàn ___ .", "label": 1, "label_rule": "matches", "first_token_entropy": 1.505307912826538}
+{"uid": "xfactr-vi-P1303-000111", "answer": "trống đàn piano.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.7033557891845703}
+{"uid": "xfactr-vi-P20-000013", "answer": "Iraq. (Saddam Hussein mất ở Iraq)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6933878660202026}
+{"uid": "xfactr-vi-P1001-000584", "answer": "Quốc huy Mexico là một thuật ngữ pháp lý trong Hiến pháp.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06063644587993622}
+{"uid": "xfactr-vi-P279-000463", "answer": "nhóm các nguyên tố hóa học.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1655583679676056}
+{"uid": "xfactr-vi-P495-000142", "answer": "Đan Mạch.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.703424334526062}
+{"uid": "xfactr-vi-P1303-000011", "answer": "đàn piano.assistant  Câu: Johannes Brahms chơi đàn ___ .", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6981780529022217}
+{"uid": "xfactr-vi-P31-000336", "answer": "đất liền ở Đông Nam Âu.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.1655075550079346}
+{"uid": "xfactr-vi-P108-000662", "answer": "Columbia University.assistant  Columbia University", "label": 1, "label_rule": "matches", "first_token_entropy": 2.0254878997802734}
+{"uid": "xfactr-vi-P106-000000", "answer": "làm thợ mỏ.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.5882632732391357}
+{"uid": "xfactr-vi-P1001-000495", "answer": "Trả lời: hệ thống chính trị của Thổ Nhĩ Kỳ", "label": 0, "label_rule": "matches", "first_token_entropy": 2.0662596225738525}
+{"uid": "xfactr-vi-P136-000014", "answer": "The Rolling Stones chơi nhạc rock.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.03095797635614872}
+{"uid": "xfactr-vi-P1001-000462", "answer": "Quốc kỳ Belarus là một thuật ngữ pháp lý trong luật pháp.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.029858499765396118}
+{"uid": "xfactr-vi-P138-000166", "answer": "Arusha được đặt theo tên của người dân địa phương, người Arusha.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.15991893410682678}
+{"uid": "xfactr-vi-P1303-000050", "answer": "Felix Mendelssohn chơi piano.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.10676272213459015}
+{"uid": "xfactr-vi-P101-000968", "answer": "lịch sử.assistant  Câu: Edward Gibbon làm việc trong lĩnh vực lịch sử.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0972951129078865}
+{"uid": "xfactr-vi-P31-000120", "answer": "thành phố.assistant  Câu: Hamburg là một thành phố.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6018518209457397}
+{"uid": "xfactr-vi-P740-000118", "answer": "California. (Apple được thành lập ở California)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4250481128692627}
+{"uid": "xfactr-vi-P136-000012", "answer": "trumpet. (Miles Davis chơi nhạc trumpet)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1234988421201706}
+{"uid": "xfactr-vi-P495-000160", "answer": "Dublin, Ireland.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.010661939159035683}
+{"uid": "xfactr-vi-P279-000176", "answer": "tia tử ngoại là tập hợp con của tia điện từ", "label": 1, "label_rule": "matches", "first_token_entropy": 0.04120483249425888}
+{"uid": "xfactr-vi-P27-000077", "answer": "Hoa Kỳ. (Bruno Mars là công dân Hoa Kỳ)", "label": 0, "label_rule": "matches", "first_token_entropy": 1.3379335403442383}
+{"uid": "xfactr-vi-P127-000052", "answer": "Microsoft sở hữu Graphics Group .", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9488329887390137}
+{"uid": "xfactr-vi-P279-000065", "answer": "bà mẹ. (bà mẹ là tập hợp con của bia)", "label": 1, "label_rule": "matches", "first_token_entropy": 5.243818283081055}
+{"uid": "xfactr-vi-P276-000229", "answer": "Thế vận hội Mùa hè 2020 nằm trong Nhật Bản.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0154969692230225}
+{"uid": "xfactr-vi-P279-000230", "answer": "kim loại.assistant  Câu: thép là tập hợp con của kim loại.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.11451823264360428}
+{"uid": "xfactr-vi-P106-000427", "answer": "nhà văn.   (Đã điền vào chỗ trống trong câu)", "label": 1, "label_rule": "matches", "first_token_entropy": 2.7307474613189697}
+{"uid": "xfactr-vi-P1001-000012", "answer": "hiến pháp Hoa Kỳ là một thuật ngữ pháp lý trong chính trị.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.2961125373840332}
+{"uid": "xfactr-vi-P159-000119", "answer": "Atlanta. (Trụ sở của CNN được đặt ở Atlanta)", "label": 0, "label_rule": "matches", "first_token_entropy": 1.3013837337493896}
+{"uid": "xfactr-vi-P136-000066", "answer": "guitar. (Bob Dylan chơi nhạc guitar)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4120155870914459}
+{"uid": "xfactr-vi-P1303-000003", "answer": "đàn organ. (Johann Sebastian Bach chơi đàn organ.)", "label": 1, "label_rule": "matches", "first_token_entropy": 2.1292526721954346}
+{"uid": "xfactr-vi-P159-000003", "answer": "Montreal. (Trụ sở của Đại học McGill được đặt ở Montreal.)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.05918671190738678}
+{"uid": "xfactr-vi-P138-000692", "answer": "Nữ hoàng Nefertiti.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.1290968656539917}
+{"uid": "xfactr-vi-P31-000150", "answer": "đường dẫn máu đến các cơ quan trong cơ thể.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5662373900413513}
+{"uid": "xfactr-vi-P27-000993", "answer": "Séc. (Theo thông tin, Pedro Yang là một người Séc)", "label": 1, "label_rule": "matches", "first_token_entropy": 2.9461629390716553}
+{"uid": "xfactr-vi-P27-000053", "answer": "Đô-na Summer là công dân Hoa Kỳ.", "label": 0, "label_rule": "matches", "first_token_entropy": 4.623203277587891}
+{"uid": "xfactr-vi-P138-000036", "answer": "Nữ hoàng Victoria của Anh.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.056581344455480576}
+{"uid": "xfactr-vi-P1001-000723", "answer": "Dân chủ nhân dân", "label": 1, "label_rule": "matches", "first_token_entropy": 5.40826416015625}
+{"uid": "xfactr-vi-P127-000394", "answer": "Peter Pan sở hữu Điền trang Neverland.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6187992691993713}
+{"uid": "xfactr-vi-P101-000220", "answer": "lập trình máy tính", "label": 1, "label_rule": "matches", "first_token_entropy": 3.2031638622283936}
+{"uid": "xfactr-vi-P159-000011", "answer": "Trụ sở của Đại học New York được đặt ở New York City.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.4511837959289551}
+{"uid": "xfactr-vi-P27-000073", "answer": "Mỹ. (Arthur Miller là một nhà viết kịch và nhà văn Mỹ)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.17676439881324768}
+{"uid": "xfactr-vi-P136-000457", "answer": "gospel. (Natalie Cole là ca sĩ thể loại nhạc gospel)", "label": 1, "label_rule": "matches", "first_token_entropy": 3.8579108715057373}
+{"uid": "xfactr-vi-P27-000017", "answer": "Justinian là công dân Byzantium.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0024712220765650272}
+{"uid": "xfactr-vi-P106-000020", "answer": "nhà triết học", "label": 0, "label_rule": "matches", "first_token_entropy": 0.33673590421676636}
+{"uid": "xfactr-vi-P136-000177", "answer": "rock và roll. (hoặc nhạc rock và roll)", "label": 0, "label_rule": "matches", "first_token_entropy": 2.015028953552246}
+{"uid": "xfactr-vi-P178-000001", "answer": "Apple.assistant  Câu: Mac OS X được phát triển bởi Apple.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.0733354091644287}
+{"uid": "xfactr-vi-P106-000218", "answer": "nhà văn.   Hastings Banda là một nhà văn người Malawi.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7951969504356384}
+{"uid": "xfactr-vi-P138-000103", "answer": "Volgograd được đặt theo tên của Volga.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.39984846115112305}
+{"uid": "xfactr-vi-P101-000484", "answer": "Vật lý hạt nhân", "label": 0, "label_rule": "matches", "first_token_entropy": 0.12668348848819733}
+{"uid": "xfactr-vi-P31-000863", "answer": "số. (Bằng tiếng Việt)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.011000469326972961}
+{"uid": "xfactr-vi-P136-000011", "answer": "rock và roll. (Beatles là một ban nhạc rock và roll nổi tiếng của Anh)", "label": 0, "label_rule": "matches", "first_token_entropy": 2.187542200088501}
+{"uid": "xfactr-vi-P1001-000890", "answer": "Trả lời: Trật tự dân sự", "label": 1, "label_rule": "matches", "first_token_entropy": 2.008397102355957}
+{"uid": "xfactr-vi-P740-000148", "answer": "New York. (The Velvet Underground được thành lập ở New York)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.021756427362561226}
+{"uid": "xfactr-vi-P108-000209", "answer": "Quỹ Nghiên cứu Quốc tế (International Research Foundation)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.48162543773651123}
+{"uid": "xfactr-vi-P159-000441", "answer": "Cairo. (Trụ sở của Lực lượng vũ trang Ai Cập được đặt ở Cairo)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.00840604119002819}
+{"uid": "xfactr-vi-P106-000285", "answer": "Diễn viên lồng tiếng và đóng thế.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.020215965807437897}
+{"uid": "xfactr-vi-P276-000016", "answer": "Diệt chủng Armenia nằm trong tội ác chiến tranh.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.14061491191387177}
+{"uid": "xfactr-vi-P27-000194", "answer": "người Mỹ. (Hoặc công dân Mỹ)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.9323610663414001}
+{"uid": "xfactr-vi-P138-000092", "answer": "Saint Nicholas. (Theo truyền thuyết, ông già Noel được đặt theo tên của Thánh Nicholas, một vị tu sĩ người Hy Lạp trong thế kỷ thứ 4.)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.46594005823135376}
+{"uid": "xfactr-vi-P136-000120", "answer": "guitar. (Stevie Wonder chơi nhạc guitar)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7956253290176392}
+{"uid": "xfactr-vi-P106-000045", "answer": "là một chính trị gia", "label": 0, "label_rule": "matches", "first_token_entropy": 0.8265433311462402}
+{"uid": "xfactr-vi-P1303-000105", "answer": "trumpet. (Louis Armstrong chơi trumpet)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.7990093231201172}
+{"uid": "xfactr-vi-P138-000936", "answer": "nhà thám hiểm người Na Uy Roald Amundsen.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.419863224029541}
+{"uid": "xfactr-vi-P138-000325", "answer": "Dodoma được đặt theo tên của Dodoma, một dân tộc sống ở khu vực này.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.019742313772439957}
+{"uid": "xfactr-vi-P106-000468", "answer": "lãnh đạo chính trị", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3016939163208008}
+{"uid": "xfactr-vi-P159-000020", "answer": "Trụ sở của Giáo hội Công giáo Rôma được đặt ở Vatican.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06748452037572861}
+{"uid": "xfactr-vi-P20-000040", "answer": "Yekaterinburg", "label": 0, "label_rule": "matches", "first_token_entropy": 2.3440940380096436}
+{"uid": "xfactr-vi-P19-000005", "answer": "Ai Cập. (Catarina thành Alexandria sinh ra ở Ai Cập)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.413216233253479}
+{"uid": "xfactr-vi-P31-000072", "answer": "hệ thống máy tính", "label": 1, "label_rule": "matches", "first_token_entropy": 2.1163012981414795}
+{"uid": "xfactr-vi-P159-000167", "answer": "Hollywood, Los Angeles, California.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.13588829338550568}
+{"uid": "xfactr-vi-P279-000082", "answer": "toán học.assistant  Câu: mĩ học là tập hợp con của toán học.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5942786931991577}
+{"uid": "xfactr-vi-P31-000115", "answer": "hòn đảo. (La Bàn là một hòn đảo.)", "label": 1, "label_rule": "matches", "first_token_entropy": 2.1403212547302246}
+{"uid": "xfactr-vi-P138-000081", "answer": "New England được đặt theo tên của Anh Quốc (England).", "label": 0, "label_rule": "matches", "first_token_entropy": 0.5511641502380371}
+{"uid": "xfactr-vi-P138-000002", "answer": "Trinidad và Tobago được đặt theo tên của Trinidad và Tobago là hai hòn đảo lớn nhất trong quần đảo này.", "label": 0, "label_rule": "matches", "first_token_entropy": 2.4746410846710205}
+{"uid": "xfactr-vi-P279-000117", "answer": "hoá học.assistant  Câu: hoá học hữu cơ là tập hợp con của hoá học.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.043068040162324905}
+{"uid": "xfactr-vi-P106-000247", "answer": "Ca sĩ. (Natalie Imbruglia là một ca sĩ người Úc)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8060835003852844}
+{"uid": "xfactr-vi-P136-000062", "answer": "saxophone. (Charlie Parker là một nhạc sĩ jazz nổi tiếng chơi saxophone)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.04875177517533302}
+{"uid": "xfactr-vi-P1303-000578", "answer": "đàn guitar.assistant  Câu: John Lennon chơi đàn guitar.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7423080205917358}
+{"uid": "xfactr-vi-P178-000009", "answer": "Microsoft.assistant  Câu: Xbox 360 được phát triển bởi Microsoft.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.1131235361099243}
+{"uid": "xfactr-vi-P1303-000719", "answer": "Victoria Wood đóng vai chính trong nhiều bộ phim hài kịch.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.12603206932544708}
+{"uid": "xfactr-vi-P136-000160", "answer": "đàn organ. (Hoặc đàn piano)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5641779899597168}
+{"uid": "xfactr-vi-P106-000016", "answer": "làm thơ và dạy học", "label": 1, "label_rule": "matches", "first_token_entropy": 3.137389659881592}
+{"uid": "xfactr-vi-P106-000537", "answer": "chính là bác sĩ", "label": 0, "label_rule": "matches", "first_token_entropy": 2.322875499725342}
+{"uid": "xfactr-vi-P136-000033", "answer": "Reba McEntire chơi nhạc country.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0026005012914538383}
+{"uid": "xfactr-vi-P27-000345", "answer": "Mỹ. (George Wendt là một diễn viên người Mỹ)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.273853063583374}
+{"uid": "xfactr-vi-P279-000062", "answer": "rừng nhiệt đới", "label": 0, "label_rule": "matches", "first_token_entropy": 0.04409953951835632}
+{"uid": "xfactr-vi-P1001-000371", "answer": "Trả lời: lịch sử", "label": 1, "label_rule": "matches", "first_token_entropy": 2.7226967811584473}
+{"uid": "xfactr-vi-P1303-000028", "answer": "đàn piano.assistant  Câu: George Gershwin chơi đàn ___ .", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3442200422286987}
+{"uid": "xfactr-vi-P108-000188", "answer": "Robert Burns Woodward làm việc cho Harvard University.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.18111354112625122}
+{"uid": "xfactr-vi-P27-000273", "answer": "Pavel Alekseyevich Čerenkov là công dân Liên Xô.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.013090858235955238}
+{"uid": "xfactr-vi-P101-000864", "answer": "trí tuệ nhân tạo", "label": 1, "label_rule": "matches", "first_token_entropy": 3.40049147605896}
+{"uid": "xfactr-vi-P101-000212", "answer": "Toán học và Vật lý", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07178707420825958}
+{"uid": "xfactr-vi-P279-000013", "answer": "MC truyền hình là tập hợp con của người.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.04139123111963272}
+{"uid": "xfactr-vi-P106-000012", "answer": "nhà thám hiểm", "label": 1, "label_rule": "matches", "first_token_entropy": 0.48760899901390076}
+{"uid": "xfactr-vi-P127-000092", "answer": "HBO sở hữu Disney Junior .", "label": 1, "label_rule": "matches", "first_token_entropy": 1.467175841331482}
+{"uid": "xfactr-vi-P276-000002", "answer": "Thế vận hội Mùa hè 1996 nằm trong Atlanta.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.6942150592803955}
+{"uid": "xfactr-vi-P101-000000", "answer": "Pirāyṭ, làm việc trong lĩnh vực buôn lậu.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.05923616513609886}
+{"uid": "xfactr-vi-P101-000139", "answer": "vật lý và hóa học", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06789487600326538}
+{"uid": "xfactr-vi-P31-000066", "answer": "thành phố ở Thụy Sĩ.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6563175320625305}
+{"uid": "xfactr-vi-P276-000001", "answer": "Thế vận hội Mùa hè 2012 nằm trong Luân Đôn.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.6005879044532776}
+{"uid": "xfactr-vi-P276-000029", "answer": "Thế vận hội Mùa hè 2016 nằm trong Rio de Janeiro.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.1135075092315674}
+{"uid": "xfactr-vi-P279-000178", "answer": "Hóa học. (Hóa học là tập hợp con của hóa lý)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.17197266221046448}
+{"uid": "xfactr-vi-P31-000036", "answer": "đảo.assistant  Còn một phần khác:   phía tây nam châu Âu.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9512777328491211}
+{"uid": "xfactr-vi-P106-000234", "answer": "Ca sĩ.assistant  Câu: Người sáng lập ra Facebook là ___ .", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8864777684211731}
+{"uid": "xfactr-vi-P27-000119", "answer": "Ba Lan.assistant  Câu: Năm 1955, cô trở thành một trong những người đầu tiên được bầu chọn vào ___ .", "label": 0, "label_rule": "matches", "first_token_entropy": 0.05310028791427612}
+{"uid": "xfactr-vi-P101-000368", "answer": "tư tưởng và chính trị", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8455232381820679}
+{"uid": "xfactr-vi-P176-000125", "answer": "Airbus. (Airbus A380 được sản xuất bởi Airbus.)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.009057754650712013}
+{"uid": "xfactr-vi-P279-000091", "answer": "rượu vang là tập hợp con của rượu.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.001603420590981841}
+{"uid": "xfactr-vi-P740-000036", "answer": "Hollywood, Los Angeles, California.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.5439590215682983}
+{"uid": "xfactr-vi-P136-000152", "answer": "Luther Vandross chơi nhạc R&B.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.12686099112033844}
+{"uid": "xfactr-vi-P27-000206", "answer": "Amenemhat I là công dân Thượng Ai Cập.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2926664352416992}
+{"uid": "xfactr-vi-P178-000014", "answer": "Microsoft.assistant  Câu: Hệ điều hành đĩa từ Microsoft được phát triển bởi Microsoft.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.9472050070762634}
+{"uid": "xfactr-vi-P279-000428", "answer": "Giao diện người dùng đồ họa là tập hợp con của giao diện người dùng.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0007773477700538933}
+{"uid": "xfactr-vi-P159-000008", "answer": "Londres. (Câu hoàn chỉnh: Trụ sở của BBC được đặt ở Londres.)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.876916766166687}
+{"uid": "xfactr-vi-P1001-000001", "answer": "quốc hội Hoa Kỳ là một thuật ngữ pháp lý trong Hiến pháp Hoa Kỳ.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.3008233308792114}
+{"uid": "xfactr-vi-P279-000423", "answer": "tập hợp các cơ tim.", "label": 1, "label_rule": "matches", "first_token_entropy": 4.285019874572754}
+{"uid": "xfactr-vi-P276-000075", "answer": "Chiến dịch Bão Sa mạc nằm trong Chiến dịch Sa mạc Vịnh.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0003468510112725198}
+{"uid": "xfactr-vi-P20-000001", "answer": "Madina. (Theo truyền thống Hồi giáo, Muhammad mất tại Medina vào năm 632 sau Công nguyên.)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.18175911903381348}
+{"uid": "xfactr-vi-P31-000700", "answer": "tỉnh ở Philippines.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.011212495155632496}
+{"uid": "xfactr-vi-P1303-000076", "answer": "violin. (Antonio Vivaldi là nhà soạn nhạc nổi tiếng người Ý, chuyên chơi và sáng tác nhạc cho violin)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0538274385035038}
+{"uid": "xfactr-vi-P495-000110", "answer": "Michigan. (The Jackson 5 được tạo ra ở Michigan)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3560900688171387}
+{"uid": "xfactr-vi-P102-000003", "answer": "Đảng Cộng sản Trung Quốc", "label": 1, "label_rule": "matches", "first_token_entropy": 0.15030759572982788}
+{"uid": "xfactr-vi-P31-000059", "answer": "tác phẩm thơ cổ nổi tiếng của Việt Nam.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.377108097076416}
+{"uid": "xfactr-vi-P1303-000468", "answer": "trumpet. (Tuy nhiên, Ella Fitzgerald là ca sĩ jazz nổi tiếng, không phải là nhạc sĩ chơi trumpet. Cô nổi tiếng với giọng hát và phong cách ca hát độc đáo.)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2152011394500732}
+{"uid": "xfactr-vi-P101-000115", "answer": "Toán học.assistant  Câu: Carl Friedrich Gauß làm việc trong lĩnh vực toán học.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1755671501159668}
+{"uid": "xfactr-vi-P19-000831", "answer": "Paris, Pháp. (Jacques Maritain sinh ra ở Paris, Pháp)", "label": 0, "label_rule": "matches", "first_token_entropy": 1.2268915176391602}
+{"uid": "xfactr-vi-P31-000095", "answer": "con sông. (Euphrate là một con sông.)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.10605497658252716}
+{"uid": "xfactr-vi-P1001-000706", "answer": "các ngôn ngữ chính thức của Trung Quốc", "label": 0, "label_rule": "matches", "first_token_entropy": 1.520216703414917}
+{"uid": "xfactr-vi-P136-000044", "answer": "đàn piano.assistant  Câu: Ludwig van Beethoven chơi nhạc đàn ___ .", "label": 1, "label_rule": "matches", "first_token_entropy": 2.0730056762695312}
+{"uid": "xfactr-vi-P108-000007", "answer": "laboratory của Pierre và Marie Curie", "label": 1, "label_rule": "matches", "first_token_entropy": 0.29739004373550415}
+{"uid": "xfactr-vi-P106-000009", "answer": "Làm thợ dệt.", "label": 1, "label_rule": "matches", "first_token_entropy": 4.086399078369141}
+{"uid": "xfactr-vi-P495-000282", "answer": "Hoa Kỳ. (Câu hỏi này có thể có nhiều câu trả lời khác nhau, nhưng theo thông tin chung, Dumbo là một bộ phim hoạt hình của Mỹ được sản xuất vào năm 1941)", "label": 0, "label_rule": "matches", "first_token_entropy": 1.66383957862854}
+{"uid": "xfactr-vi-P178-000068", "answer": "Android được phát triển bởi Google.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.026496009901165962}
+{"uid": "xfactr-vi-P108-000099", "answer": "Henry Kissinger làm việc cho chính phủ Mỹ.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.037660837173461914}
+{"uid": "xfactr-vi-P102-000107", "answer": "Đảng Katipunan", "label": 0, "label_rule": "matches", "first_token_entropy": 2.2164387702941895}
+{"uid": "xfactr-vi-P108-000639", "answer": "Dag Hammarskjöld làm việc cho Liên Hợp Quốc.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4051715135574341}
+{"uid": "xfactr-vi-P495-000449", "answer": "México. (Lucha Underground được tạo ra ở México)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7723004817962646}
+{"uid": "xfactr-vi-P276-000194", "answer": "Cộng hòa Liên bang Mỹ", "label": 1, "label_rule": "matches", "first_token_entropy": 3.5027294158935547}
+{"uid": "xfactr-vi-P1001-000345", "answer": "Trang thiết lập pháp luật", "label": 1, "label_rule": "matches", "first_token_entropy": 2.420454502105713}
+{"uid": "xfactr-vi-P159-000127", "answer": "Đường George Square.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.263495683670044}
+{"uid": "xfactr-vi-P1001-000645", "answer": "Quốc kỳ Zimbabwe là một thuật ngữ pháp lý trong Hiến pháp.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.01566959172487259}
+{"uid": "xfactr-vi-P19-000006", "answer": "Antôn thành Padova sinh ra ở Padua.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.008736887946724892}
+{"uid": "xfactr-vi-P1001-000193", "answer": "SA là một thuật ngữ pháp lý trong luật hình sự.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.47407615184783936}
+{"uid": "xfactr-vi-P279-000844", "answer": "Trả lời: các thể loại âm nhạc khác.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.3488378524780273}
+{"uid": "xfactr-vi-P1001-000684", "answer": "Quốc kỳ Na Uy là một thuật ngữ pháp lý trong Hiến pháp Na Uy.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.03380625694990158}
+{"uid": "xfactr-vi-P159-000653", "answer": "Makati. (Trụ sở của Jollibee được đặt ở Makati)", "label": 1, "label_rule": "matches", "first_token_entropy": 2.4019107818603516}
+{"uid": "xfactr-vi-P136-000052", "answer": "đàn organ. (Johann Sebastian Bach chơi nhạc đàn organ.)", "label": 1, "label_rule": "matches", "first_token_entropy": 2.488823175430298}
+{"uid": "xfactr-vi-P276-000147", "answer": "Chiến dịch Bão Sa mạc nằm trong Chiến dịch Sa mạc Vịnh.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0003468510112725198}
+{"uid": "xfactr-vi-P159-000072", "answer": "Berlin. (Trụ sở của Đảng Công nhân Đức Quốc gia Xã hội chủ nghĩa được đặt ở Berlin.)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8059847950935364}
+{"uid": "xfactr-vi-P31-000006", "answer": "thành phố.assistant  Câu: Thành phố này nằm ở trung tâm châu Âu.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.107314944267273}
+{"uid": "xfactr-vi-P31-000012", "answer": "bang của Thụy Sĩ.", "label": 0, "label_rule": "matches", "first_token_entropy": 3.9629812240600586}
+{"uid": "xfactr-vi-P1001-000120", "answer": "Trả lời: hệ thống quân chủ lập hiến", "label": 1, "label_rule": "matches", "first_token_entropy": 2.267529249191284}
+{"uid": "xfactr-vi-P279-000124", "answer": "trán. (Sọ là tập hợp con của trán.)", "label": 1, "label_rule": "matches", "first_token_entropy": 2.3953514099121094}
+{"uid": "xfactr-vi-P106-000132", "answer": "Là kinh tế học.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.020407199859619}
+{"uid": "xfactr-vi-P108-000612", "answer": "Clement Attlee làm việc cho Đảng Lao động.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4137067794799805}
+{"uid": "xfactr-vi-P102-000000", "answer": "Đảng Quốc xã.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6373666524887085}
+{"uid": "xfactr-vi-P102-000418", "answer": "Đảng Cộng sản Nam Phi", "label": 1, "label_rule": "matches", "first_token_entropy": 0.31788235902786255}
+{"uid": "xfactr-vi-P54-000760", "answer": "Sebastian Rode thi đấu cho đội Borussia Dortmund.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0008991878712549806}
+{"uid": "xfactr-vi-P102-000389", "answer": "Đảng Dân chủ tự do Đức", "label": 1, "label_rule": "matches", "first_token_entropy": 0.44944190979003906}
+{"uid": "xfactr-vi-P176-000004", "answer": "Apple.assistant  Câu: ___ là một trong những công ty công nghệ lớn nhất thế giới.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.1081827878952026}
+{"uid": "xfactr-vi-P108-000028", "answer": "Claudius Ptolemaeus làm việc cho Hoàng đế Ptolemaeus II Sôter.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.007257147692143917}
+{"uid": "xfactr-vi-P159-000181", "answer": "Viên  Trụ sở của Cơ Quan Nguyên Tử Năng Quốc Tế được đặt ở Viên.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.35075843334198}
+{"uid": "xfactr-vi-P106-000018", "answer": "Nhà soạn nhạc.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.1470973491668701}
+{"uid": "xfactr-vi-P1001-000940", "answer": "Quốc kỳ Indonesia là một thuật ngữ pháp lý trong Hiến pháp.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.021262075752019882}
+{"uid": "xfactr-vi-P31-000080", "answer": "thị trấn ở Thụy Sĩ.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1652946472167969}
+{"uid": "xfactr-vi-P276-000032", "answer": "Chiến dịch Bão Sa mạc nằm trong Chiến dịch Sa mạc Vịnh.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0003468510112725198}
+{"uid": "xfactr-vi-P178-000098", "answer": "Skype được phát triển bởi Niklas Zennström và Janus Friis.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.00034877966390922666}
+{"uid": "xfactr-vi-P31-000098", "answer": "thiết bị bay đầu tiên của Liên Xô.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4165732860565186}
+{"uid": "xfactr-vi-P69-000000", "answer": "Trường đại học Sorbonne.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.061282772570848465}
+{"uid": "xfactr-vi-P20-000010", "answer": "Madrid. (Francisco Franco mất ở Madrid)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0030265026725828648}
+{"uid": "xfactr-vi-P1001-000150", "answer": "Hiến pháp Philippines.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.6991840600967407}
+{"uid": "xfactr-vi-P31-000021", "answer": "khu vực hành chính ở Thụy Sĩ.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07821714878082275}
+{"uid": "xfactr-vi-P31-000042", "answer": "đơn vị đo khối lượng", "label": 1, "label_rule": "matches", "first_token_entropy": 2.5755209922790527}
+{"uid": "xfactr-vi-P1303-000002", "answer": "đàn piano.assistant  Câu: Franz Liszt chơi đàn ___ .", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1942079067230225}
+{"uid": "xfactr-vi-P20-000036", "answer": "Trên đảo Saint-Germain-des-Prés, Paris.", "label": 1, "label_rule": "matches", "first_token_entropy": 5.003870010375977}
+{"uid": "xfactr-vi-P20-000016", "answer": "Aachen. (Charlemagne mất ở Aachen)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.40412741899490356}
+{"uid": "xfactr-vi-P20-000029", "answer": "Vienna.assistant  Còn một câu khác: Franz Schubert mất ở tuổi ___ .", "label": 0, "label_rule": "matches", "first_token_entropy": 1.1961883306503296}
+{"uid": "xfactr-vi-P364-000157", "answer": "Ngôn ngữ gốc của Wikipedia tiếng Nga là tiếng Nga.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.014864583499729633}
+{"uid": "xfactr-vi-P1001-000131", "answer": "Cờ Hiệp chúng quốc Hoa Kỳ là một thuật ngữ pháp lý trong luật.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.8811180591583252}
+{"uid": "xfactr-vi-P495-000450", "answer": "Đan Mạch.", "label": 0, "label_rule": "matches", "first_token_entropy": 3.706287145614624}
+{"uid": "xfactr-vi-P127-000026", "answer": "Đất Thánh sở hữu Thành Vatican .", "label": 1, "label_rule": "matches", "first_token_entropy": 3.290008068084717}
+{"uid": "xfactr-vi-P19-000056", "answer": "Constantinopolis (nay là Istanbul)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.006451966241002083}
+{"uid": "xfactr-vi-P495-000055", "answer": "Truyền thuyết về Bảy viên ngọc rồng nói rằng chúng được tạo ra ở núi Kim Cương.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.643836498260498}
+{"uid": "xfactr-vi-P178-000264", "answer": "Google.assistant  Câu: Google Earth được phát triển bởi Google.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.4303607940673828}
+{"uid": "xfactr-vi-P495-000019", "answer": "California, Mỹ. (McDonald's được tạo ra ở California, Mỹ)", "label": 0, "label_rule": "matches", "first_token_entropy": 1.5273597240447998}
+{"uid": "xfactr-vi-P31-000048", "answer": "sông.   (Elbe là một sông ở Đức.)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.08694249391555786}
+{"uid": "xfactr-vi-P31-000159", "answer": "thơ ca ép.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.741014003753662}
+{"uid": "xfactr-vi-P136-000065", "answer": "R&B. (R&B là viết tắt của từ \"Rhythm and Blues\", có nghĩa là \"nhạc và blues\")", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0249359607696533}
+{"uid": "xfactr-vi-P276-000010", "answer": "Đại học Nam California nằm trong tiểu bang California.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4325692057609558}
+{"uid": "xfactr-vi-P159-000165", "answer": "Camp Nou. (Camp Nou là sân vận động của F.C. Barcelona)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.3000122904777527}
+{"uid": "xfactr-vi-P1001-000021", "answer": "Hiến pháp.   Hoặc: chính phủ.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6724767684936523}
+{"uid": "xfactr-vi-P106-000005", "answer": "Nghiên cứu và viết kịch", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0810017585754395}
+{"uid": "xfactr-vi-P31-000061", "answer": "Hoang mạc Negev là một hoang mạc.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.006982485298067331}
+{"uid": "xfactr-vi-P1303-000237", "answer": "piano. (John Field là một nhà soạn nhạc người Anh, chuyên chơi và sáng tác nhạc piano)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.08484776318073273}
+{"uid": "xfactr-vi-P106-000019", "answer": "Nhạc sĩ. (John Cage là một nhạc sĩ người Mỹ nổi tiếng với các sáng tác âm nhạc avant-garde và là một trong những người sáng lập ra âm nhạc vô định.)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3026862144470215}
+{"uid": "xfactr-vi-P495-000025", "answer": "Jamaica.assistant  Câu: Reggae được tạo ra ở Jamaica.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0012988972011953592}
+{"uid": "xfactr-vi-P495-000020", "answer": "The Simpsons được tạo ra ở Mỹ.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.2835054099559784}
+{"uid": "xfactr-vi-P159-000042", "answer": "Cambridge.assistant  Câu: Trụ sở của University of Cambridge được đặt ở Cambridge.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.05066375434398651}
+{"uid": "xfactr-vi-P1303-000302", "answer": "đàn piano.assistant  Câu: Arthur Rubinstein chơi đàn ___ .", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7862141132354736}
+{"uid": "xfactr-vi-P1001-000357", "answer": "Trả lời: ngôn ngữ pháp lý", "label": 0, "label_rule": "matches", "first_token_entropy": 2.7166519165039062}
+{"uid": "xfactr-vi-P1303-000374", "answer": "đàn piano. (Freddie Mercury chơi đàn piano)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9626102447509766}
+{"uid": "xfactr-vi-P106-000601", "answer": "diễn viên kịch và diễn viên hài", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0387745127081871}
+{"uid": "xfactr-vi-P1303-000344", "answer": "nhạc pop. Céline Dion là một ca sĩ nổi tiếng người Canada, được biết đến với những bài hát như \"My Heart Will Go On\" và \"Because You Loved Me\".", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6153345108032227}
+{"uid": "xfactr-vi-P159-000009", "answer": "Irvine. (Trụ sở chính của Đại học Nam California được đặt ở Irvine, California.)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.005872523412108421}
+{"uid": "xfactr-vi-P1001-000897", "answer": "Quốc kỳ Djibouti là một thuật ngữ pháp lý trong Hiến pháp.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.03408405929803848}
+{"uid": "xfactr-vi-P102-000002", "answer": "Bureau Chính trị của Đảng Cộng sản Trung Quốc", "label": 0, "label_rule": "matches", "first_token_entropy": 2.648956775665283}
+{"uid": "xfactr-vi-P740-000002", "answer": "Kobe, Nhật Bản.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.158992052078247}
+{"uid": "xfactr-vi-P20-000017", "answer": "Balkh, một thành phố ở Afghanistan.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.8508505821228027}
+{"uid": "xfactr-vi-P136-000110", "answer": "Lady Antebellum chơi nhạc đồng quê.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.7772647738456726}
+{"uid": "xfactr-vi-P19-000001", "answer": "Bethleem. (Theo Kinh Thánh, Chúa Giêsu sinh ra ở Bethleem, một thị trấn nhỏ ở vùng Judea, Israel.)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5030779838562012}
+{"uid": "xfactr-vi-P276-000051", "answer": "Chiến dịch Bão Sa mạc nằm trong Chiến dịch Sa mạc Vịnh.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0003468510112725198}
+{"uid": "xfactr-vi-P1001-000017", "answer": "Hiến pháp Hoa Kỳ", "label": 0, "label_rule": "matches", "first_token_entropy": 0.5307378172874451}
+{"uid": "xfactr-vi-P127-000004", "answer": "The Walt Disney Company sở hữu American Broadcasting Company .", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0052187480032444}
+{"uid": "xfactr-vi-P740-000179", "answer": "Chicago. (Kanye West được thành lập ở Chicago)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.7962163686752319}
+{"uid": "xfactr-vi-P20-000674", "answer": "Edward Howard Amstrong mất ở New York.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.6668412685394287}
+{"uid": "xfactr-vi-P159-000083", "answer": "Trụ sở của American Broadcasting Company được đặt ở New York.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.06654952466487885}
+{"uid": "xfactr-vi-P102-000015", "answer": "Đảng Cộng sản Nam Phi", "label": 1, "label_rule": "matches", "first_token_entropy": 0.05362573266029358}
+{"uid": "xfactr-vi-P159-000081", "answer": "Cairo. (Trụ sở của Đại học Al Azhar được đặt ở Cairo.)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0007500876090489328}
+{"uid": "xfactr-vi-P178-000043", "answer": "Microsoft.assistant  Câu: Microsoft Windows 95 được phát triển bởi Microsoft.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.4455164670944214}
+{"uid": "xfactr-vi-P364-000162", "answer": "Hung-ga. (Húng-ga)", "label": 1, "label_rule": "matches", "first_token_entropy": 2.8197736740112305}
+{"uid": "xfactr-vi-P31-000170", "answer": "thành phố.assistant  Câu: Thành phố Baguio nằm ở tỉnh ___ .", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4811028242111206}
+{"uid": "xfactr-vi-P1001-000002", "answer": "Hệ thống chính trị của Hoa Kỳ", "label": 0, "label_rule": "matches", "first_token_entropy": 1.7192201614379883}
+{"uid": "xfactr-vi-P31-000047", "answer": "thành phố của Thụy Sĩ.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4556231498718262}
+{"uid": "xfactr-vi-P276-000000", "answer": "Thế vận hội Mùa hè 2000 nằm trong Sydney.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.8061248660087585}
+{"uid": "xfactr-vi-P178-000046", "answer": "SQL được phát triển bởi Edgar F. Codd.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2507782578468323}
+{"uid": "xfactr-vi-P1303-000631", "answer": "Mel Collins chơi sáo.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.22833117842674255}
+{"uid": "xfactr-vi-P1001-000355", "answer": "luật học.assistant  Cử nhân là một thuật ngữ pháp lý trong luật học.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.018271174281835556}
+{"uid": "xfactr-vi-P159-000051", "answer": "Königsberg (sau này là Kaliningrad).", "label": 0, "label_rule": "matches", "first_token_entropy": 0.79510498046875}
+{"uid": "xfactr-vi-P19-000319", "answer": "New Jersey, Mỹ.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2260963916778564}
+{"uid": "xfactr-vi-P127-000159", "answer": "Alphabet Inc. sở hữu Google.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.02301664650440216}
+{"uid": "xfactr-vi-P178-000002", "answer": "Apple.assistant  Câu: Nhiều người cho rằng ___ là một trong những công nghệ di động lớn nhất thế giới.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.0694148540496826}
+{"uid": "xfactr-vi-P1303-000284", "answer": "guitar. (Brian May là một tay guitar của ban nhạc Queen)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5264633893966675}
+{"uid": "xfactr-vi-P159-000142", "answer": "New York City. (Columbia Records là một công ty thu âm lớn của Mỹ, trụ sở chính của công ty đặt tại New York City)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.07129310816526413}
+{"uid": "xfactr-vi-P127-000111", "answer": "các doanh nghiệp và cá nhân", "label": 1, "label_rule": "matches", "first_token_entropy": 0.943400502204895}
+{"uid": "xfactr-vi-P364-000016", "answer": "Tiếng Do Thái", "label": 1, "label_rule": "matches", "first_token_entropy": 0.11843640357255936}
+{"uid": "xfactr-vi-P1001-000387", "answer": "Trả lời: lịch sử", "label": 1, "label_rule": "matches", "first_token_entropy": 2.0808348655700684}
+{"uid": "xfactr-vi-P740-000100", "answer": "Amerika. (Aerosmith được thành lập ở Mỹ)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6940913796424866}
+{"uid": "xfactr-vi-P364-000085", "answer": "tiếng Anh.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.050529565662145615}
+{"uid": "xfactr-vi-P159-000070", "answer": "Miami, Florida. (Trụ sở của FIU được đặt ở Miami, Florida.)", "label": 0, "label_rule": "matches", "first_token_entropy": 1.2773765325546265}
+{"uid": "xfactr-vi-P31-000017", "answer": "địa danh ở tây nam nước Pháp.", "label": 1, "label_rule": "matches", "first_token_entropy": 5.137608051300049}
+{"uid": "xfactr-vi-P276-000143", "answer": "Tranh chấp Crimea 2014", "label": 1, "label_rule": "matches", "first_token_entropy": 2.6669039726257324}
+{"uid": "xfactr-vi-P495-000050", "answer": "Los Angeles.assistant  Câu: Guns N' Roses được tạo ra ở Los Angeles.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0026747193187475204}
+{"uid": "xfactr-vi-P276-000006", "answer": "Thế vận hội Mùa hè 1992 nằm trong Barcelona.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.2339865267276764}
+{"uid": "xfactr-vi-P364-000144", "answer": "Tiếng Tây Ban Nha.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03815362975001335}
+{"uid": "xfactr-vi-P178-000011", "answer": "Google. (Android Market sau này được đổi tên thành Google Play Store)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.8721291422843933}
+{"uid": "xfactr-vi-P495-000052", "answer": "Atlanta, Georgia. (R.E.M. được tạo ra ở Atlanta, Georgia)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2983002662658691}
+{"uid": "xfactr-vi-P276-000139", "answer": "Chiến tranh Hoa Kỳ-México nằm trong lịch sử Hoa Kỳ.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0015862935688346624}
+{"uid": "xfactr-vi-P136-000032", "answer": "Morning Musume chơi nhạc J-pop.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.05748474970459938}
+{"uid": "xfactr-vi-P69-000003", "answer": "Uppsala.assistant  Câu: Carl von Linné được đào tạo tại trường đại học Uppsala.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.026398390531539917}
+{"uid": "xfactr-vi-P102-000044", "answer": "Đảng Quốc gia Ấn Độ", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8690824508666992}
+{"uid": "xfactr-vi-P178-000040", "answer": "Microsoft.assistant  Câu: MS Office được phát triển bởi Microsoft.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.8851954340934753}
+{"uid": "xfactr-vi-P740-000408", "answer": "Anh. (The Police được thành lập ở Anh)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.008561037480831146}
+{"uid": "xfactr-vi-P1303-000058", "answer": "saxophone. (Charlie Parker là một nhạc sĩ và nghệ sĩ saxophone jazz nổi tiếng)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.21870867908000946}
+{"uid": "xfactr-vi-P740-000038", "answer": "Atlanta, Georgia, Hoa Kỳ.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.5566515922546387}
+{"uid": "xfactr-vi-P159-000842", "answer": "Sandy, Utah.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.8263564109802246}
+{"uid": "xfactr-vi-P740-000091", "answer": "New York. (Sonic Youth được thành lập ở New York)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.04843553528189659}
+{"uid": "xfactr-vi-P136-000038", "answer": "đàn piano.assistant  Câu: Benjamin Britten chơi nhạc ___ .", "label": 1, "label_rule": "matches", "first_token_entropy": 1.9440834522247314}
+{"uid": "xfactr-vi-P159-000195", "answer": "Seoul. (Trụ sở của Đại học Korea được đặt ở Seoul.)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.2221916913986206}
+{"uid": "xfactr-vi-P54-000897", "answer": "Gaël Clichy thi đấu cho đội Olympique de Marseille.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0008566828328184783}
+{"uid": "xfactr-vi-P136-000047", "answer": "đàn piano.assistant  Câu: Ludwig van Beethoven chơi nhạc đàn ___ .", "label": 1, "label_rule": "matches", "first_token_entropy": 2.0730056762695312}
+{"uid": "xfactr-vi-P31-000013", "answer": "département của Pháp.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.892385482788086}
+{"uid": "xfactr-vi-P449-000011", "answer": "CBS. (CBS là kênh truyền hình Mỹ phát sóng loạt phim sitcom này lần đầu vào năm 2005)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.8864655494689941}
+{"uid": "xfactr-vi-P740-000009", "answer": "California, Mỹ. (Netflix được thành lập ở California, Mỹ)", "label": 0, "label_rule": "matches", "first_token_entropy": 1.2012739181518555}
+{"uid": "xfactr-vi-P178-000047", "answer": "Apple.assistant  Câu: Các phiên bản đầu tiên của QuickTime được phát hành vào năm ___ .", "label": 0, "label_rule": "matches", "first_token_entropy": 0.9329793453216553}
+{"uid": "xfactr-vi-P178-000431", "answer": "Microsoft.   (Thông tin thêm: Typescript là một ngôn ngữ lập trình được phát triển bởi Microsoft, dựa trên JavaScript và được sử dụng để phát triển các ứng dụng web và ứng dụng di động.)", "label": 0, "label_rule": "matches", "first_token_entropy": 1.3043792247772217}
+{"uid": "xfactr-vi-P136-000022", "answer": "Heavy metal. (Metallica là một ban nhạc heavy metal nổi tiếng)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.768962025642395}
+{"uid": "xfactr-vi-P31-000771", "answer": "đơn vị hành chính của Ý.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.3163819313049316}
+{"uid": "xfactr-vi-P127-000256", "answer": "IMDb sở hữu Cơ sở dữ liệu điện ảnh trên Internet .", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7224310636520386}
+{"uid": "xfactr-vi-P1303-000681", "answer": "Jeff Baxter chơi guitar.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.05664895847439766}
+{"uid": "xfactr-vi-P20-000756", "answer": "Nhật Bản. (Nujabes mất ở Nhật Bản)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.16251596808433533}
+{"uid": "xfactr-vi-P495-000106", "answer": "Glen Ballard được tạo ra ở Mỹ.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.008120207116007805}
+{"uid": "xfactr-vi-P449-000717", "answer": "NTV7. (Creamy Mami được phát sóng lần đầu trên kênh NTV7)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.05929289013147354}
+{"uid": "xfactr-vi-P19-000923", "answer": "Tokyo.assistant  Trả lời (bằng tiếng Việt): Nhật Bản.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.13728180527687073}
+{"uid": "xfactr-vi-P495-000107", "answer": "Bossa nova được tạo ra ở Brazil.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.2190260887145996}
+{"uid": "xfactr-vi-P178-000026", "answer": "Microsoft.assistant  Câu: Microsoft Windows 8 được phát triển bởi Microsoft.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.084656834602356}
+{"uid": "xfactr-vi-P740-000060", "answer": "Hàn Quốc. (MBLAQ được thành lập ở Hàn Quốc)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.09720870107412338}
+{"uid": "xfactr-vi-P495-000661", "answer": "Nhật Bản.assistant  Câu trả lời khác: Nhật Bản.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.03581247478723526}
+{"uid": "xfactr-vi-P102-000049", "answer": "Indian National Congress. (Hội Quốc gia Ấn Độ)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.05192185193300247}
+{"uid": "xfactr-vi-P127-000233", "answer": "Hãng hàng không quốc gia", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9914686679840088}
+{"uid": "xfactr-vi-P495-000210", "answer": "Okinaawa. (Karate được tạo ra ở Okinaawa)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3455793857574463}
+{"uid": "xfactr-vi-P495-000105", "answer": "Đức. (Tên lửa V-2 được tạo ra ở Đức)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1917361617088318}
+{"uid": "xfactr-vi-P69-000078", "answer": "Linguistics tại Đại học Pennsylvania.", "label": 0, "label_rule": "matches", "first_token_entropy": 2.388648748397827}
+{"uid": "xfactr-vi-P364-000065", "answer": "ngôn ngữ gốc của Wikipedia tiếng Alemanni là tiếng Đức.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.04530283063650131}
+{"uid": "xfactr-vi-P495-000004", "answer": "Du hành giữa các vì sao được tạo ra ở Trái đất.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0005390510195866227}
+{"uid": "xfactr-vi-P1303-000041", "answer": "đàn piano.assistant  Câu: Rachmaninov chơi đàn ___ .", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8730448484420776}
+{"uid": "xfactr-vi-P740-000004", "answer": "Anh. (Punk rock được thành lập ở Anh)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.002359923906624317}
+{"uid": "xfactr-vi-P136-000117", "answer": "saxophone. (Ornette Coleman chơi nhạc saxophone)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0743011087179184}
+{"uid": "xfactr-vi-P495-000114", "answer": "Truyện ngắn Bố già được tạo ra ở Việt Nam.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.0025506019592285}
+{"uid": "xfactr-vi-P176-000696", "answer": "Nokia.assistant  Câu: Nokia 6681/6682 được sản xuất bởi Nokia.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0059270551428198814}
+{"uid": "xfactr-vi-P108-000852", "answer": "Max Born làm việc cho Đại học Göttingen.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3554495871067047}
+{"uid": "xfactr-vi-P69-000166", "answer": "Trường đại học Oxford.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.22887872159481049}
+{"uid": "xfactr-vi-P449-000566", "answer": "VTV1. (H.I.T là tên của một đội đặc nhiệm trong bộ phim truyền hình cùng tên)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3199188709259033}
+{"uid": "xfactr-vi-P127-000080", "answer": "Cửa hàng sở hữu CD .", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4703679084777832}
+{"uid": "xfactr-vi-P108-000246", "answer": "David Deutsch làm việc cho Đại học Oxford.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.017023764550685883}
+{"uid": "xfactr-vi-P108-000005", "answer": "Alex Ferguson làm việc cho Manchester United.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.003952269908040762}
+{"uid": "xfactr-vi-P108-000008", "answer": "Pirāyṭ, làm việc cho Hải tặc.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.08671354502439499}
+{"uid": "xfactr-vi-P54-000669", "answer": "Senegal.assistant  Cissé là một cầu thủ bóng đá người Senegal.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.012264218181371689}
+{"uid": "xfactr-vi-P176-000312", "answer": "Microsoft.assistant  Câu: Microsoft.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.8237782716751099}
+{"uid": "xfactr-vi-P495-000016", "answer": "Seattle.assistant  Câu: Pearl Jam được tạo ra ở Seattle.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2347334623336792}
+{"uid": "xfactr-vi-P20-000005", "answer": "Akenhaten mất ở khoảng năm 1350 trước Công nguyên.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7457899451255798}
+{"uid": "xfactr-vi-P495-000023", "answer": "Amerika. (Aerosmith được tạo ra ở Mỹ)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.76054447889328}
+{"uid": "xfactr-vi-P495-000267", "answer": "Pháp.assistant  Câu trả lời cần phải là một từ, nên tôi sẽ trả lời lại: Giacomo Puccini.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.1388168334960938}
+{"uid": "xfactr-vi-P495-000224", "answer": "Hoa Kỳ. (hoặc Mỹ)", "label": 0, "label_rule": "matches", "first_token_entropy": 3.035979747772217}
+{"uid": "xfactr-vi-P449-000860", "answer": "TVBS. (Sau đó được phát sóng trên kênh KBS2)", "label": 1, "label_rule": "matches", "first_token_entropy": 3.5676727294921875}
+{"uid": "xfactr-vi-P364-000062", "answer": "Italia. (Ngôn ngữ gốc của Winx Club là tiếng Italia.)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.7886680364608765}
+{"uid": "xfactr-vi-P364-000032", "answer": "Tiếng Anh.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.08946194499731064}
+{"uid": "xfactr-vi-P102-000415", "answer": "Đảng Dân chủ Xã hội Áo.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.9344863891601562}
+{"uid": "xfactr-vi-P54-000092", "answer": "Manchester United. (Hoặc có thể là Atletico Madrid, Valencia, Real Sociedad, Alavés, Aston Villa, Fulham, Real Madrid, Manchester United, Atletico Madrid, Real Sociedad, Alavés, Aston", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0058975983411073685}
+{"uid": "xfactr-vi-P364-000009", "answer": "Old Anh ngữ. (Old Anh ngữ là ngôn ngữ tiền thân của tiếng Anh hiện đại, được sử dụng từ thế kỷ 5 đến thế kỷ 11.)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.250500202178955}
+{"uid": "xfactr-vi-P495-000091", "answer": "Chicago. (Wilco được tạo ra ở Chicago)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2455532550811768}
+{"uid": "xfactr-vi-P364-000069", "answer": "Gan. (Gan là ngôn ngữ gốc của Wikipedia tiếng Gan)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0697040855884552}
+{"uid": "xfactr-vi-P176-000006", "answer": "Nintendo.assistant  Câu: Nintendo DS được sản xuất bởi Nintendo.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.7997149229049683}
+{"uid": "xfactr-vi-P108-000017", "answer": "NASA. (John Glenn là một phi hành gia Mỹ, từng làm việc cho NASA)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.9329404234886169}
+{"uid": "xfactr-vi-P19-000033", "answer": "Lucca. (Lucca là thành phố ở vùng Toscana, Ý)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.08060221374034882}
+{"uid": "xfactr-vi-P449-000403", "answer": "MBC Every 1", "label": 1, "label_rule": "matches", "first_token_entropy": 0.04275095462799072}
+{"uid": "xfactr-vi-P176-000039", "answer": "Mercedes-Benz được sản xuất bởi Daimler AG.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.002804228337481618}
+{"uid": "xfactr-vi-P740-000212", "answer": "Thành phố Seoul.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8207986354827881}
+{"uid": "xfactr-vi-P740-000010", "answer": "Amsterdam. (AFC Ajax được thành lập ở Amsterdam)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.14838209748268127}
+{"uid": "xfactr-vi-P1303-000675", "answer": "hockey trên băng.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.3329336643218994}
+{"uid": "xfactr-vi-P108-000020", "answer": "Carl von Linné làm việc cho Hoàng tử Adam Frederick của Thuringia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5573707818984985}
+{"uid": "xfactr-vi-P449-000001", "answer": "ABC. (Desperate Housewives được phát sóng lần đầu trên kênh ABC.)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9893001317977905}
+{"uid": "xfactr-vi-P740-000012", "answer": "Thiệu thị huynh đệ được thành lập ở Trung Quốc.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2388850450515747}
+{"uid": "xfactr-vi-P176-000170", "answer": "Airbus. (Airbus A350 được sản xuất bởi Airbus.)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.008453679271042347}
+{"uid": "xfactr-vi-P364-000000", "answer": "Do Thái. (Kinh Thánh của Vua James là Kinh Thánh Do Thái)", "label": 1, "label_rule": "matches", "first_token_entropy": 2.5618510246276855}
+{"uid": "xfactr-vi-P449-000852", "answer": "Truyền hình Việt Nam.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2929999828338623}
+{"uid": "xfactr-vi-P20-000076", "answer": "Coco Chanel mất ở II.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6461665630340576}
+{"uid": "xfactr-vi-P413-000091", "answer": "hậu vệ trung vệ.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.39613085985183716}
+{"uid": "xfactr-vi-P178-000015", "answer": "Microsoft.assistant  Câu: Microsoft Visual Studio được phát triển bởi Microsoft.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.5584113597869873}
+{"uid": "xfactr-vi-P364-000657", "answer": "Tamil.assistant  Câu: Wikipedia tiếng Tamil được thành lập vào năm ___ .", "label": 0, "label_rule": "matches", "first_token_entropy": 0.013945065438747406}
+{"uid": "xfactr-vi-P127-000101", "answer": "Everton FC sở hữu Sân vận động Goodison Park .", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0027292887680232525}
+{"uid": "xfactr-vi-P127-000119", "answer": "FC Barcelona sở hữu Camp Nou .", "label": 1, "label_rule": "matches", "first_token_entropy": 0.013946651481091976}
+{"uid": "xfactr-vi-P102-000029", "answer": "Bolsheviks.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.654064416885376}
+{"uid": "xfactr-vi-P176-000033", "answer": "Nintendo.assistant  Câu: Game Boy được sản xuất bởi Nintendo.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.6787580251693726}
+{"uid": "xfactr-vi-P102-000005", "answer": "Đảng Cộng sản Liên bang Xô viết.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3892405927181244}
+{"uid": "xfactr-vi-P54-000027", "answer": "Inter Milan. (Dù Eto'o từng thi đấu cho nhiều đội khác nhau, câu này có thể được hiểu là câu nói về thời điểm Eto'o thi đấu cho Inter Milan)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.225441575050354}
+{"uid": "xfactr-vi-P740-000011", "answer": "Mỹ. (CBS được thành lập ở Mỹ)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.21770533919334412}
+{"uid": "xfactr-vi-P108-000506", "answer": "Brian Conrad làm việc cho Đại học Stanford.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.05344819277524948}
+{"uid": "xfactr-vi-P740-000117", "answer": "New York. (The Strokes được thành lập ở New York)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.019197911024093628}
+{"uid": "xfactr-vi-P127-000110", "answer": "các nghệ sĩ sở hữu MTV", "label": 1, "label_rule": "matches", "first_token_entropy": 1.538088083267212}
+{"uid": "xfactr-vi-P740-000411", "answer": "Anh. (One Direction được thành lập ở Anh)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0002779803180601448}
+{"uid": "xfactr-vi-P69-000005", "answer": "Copenhagen.assistant  Câu: Niels Bohr được đào tạo tại trường đại học Copenhagen.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.28025326132774353}
+{"uid": "xfactr-vi-P19-000002", "answer": "Singapore. (Họ tên đầy đủ của ông là Harry Lee Kuan Yew, nhưng ông thường được biết đến với tên gọi Lee Kuan Yew)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.8059474229812622}
+{"uid": "xfactr-vi-P449-000714", "answer": "TV Asahi. (Chikyuu Sentai Fiveman được phát sóng lần đầu trên kênh TV Asahi)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.25177016854286194}
+{"uid": "xfactr-vi-P449-000012", "answer": "ABC. (Good Morning America được phát sóng lần đầu trên kênh ABC)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.255151629447937}
+{"uid": "xfactr-vi-P20-000990", "answer": "Giuseppe Motta mất ở 1940.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.04760231822729111}
+{"uid": "xfactr-vi-P127-000030", "answer": "Công ty truyền thông toàn cầu BBC sở hữu BBC Radio 1 .", "label": 0, "label_rule": "matches", "first_token_entropy": 0.34581977128982544}
+{"uid": "xfactr-vi-P178-000110", "answer": "G Suite được phát triển bởi Google.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.22350169718265533}
+{"uid": "xfactr-vi-P178-000156", "answer": "Google Maps. (Google Maps)", "label": 0, "label_rule": "matches", "first_token_entropy": 2.2004408836364746}
+{"uid": "xfactr-vi-P108-000289", "answer": "Trường Đại học Lyon.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8027856349945068}
+{"uid": "xfactr-vi-P1923-000537", "answer": "Đội tuyển bóng đá quốc gia Việt Nam", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3073464632034302}
+{"uid": "xfactr-vi-P449-000044", "answer": "American Idol được phát sóng lần đầu trên kênh Fox.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.03572298213839531}
+{"uid": "xfactr-vi-P176-000035", "answer": "Microsoft.assistant  Câu: Microsoft Windows 8 được sản xuất bởi Microsoft.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.9837145805358887}
+{"uid": "xfactr-vi-P449-000051", "answer": "Nickelodeon.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.11158709228038788}
+{"uid": "xfactr-vi-P127-000777", "answer": "Lenovo sở hữu Motorola.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.006002025678753853}
+{"uid": "xfactr-vi-P20-000195", "answer": "Rôma. (Justinus I mất ở Rôma)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2049742937088013}
+{"uid": "xfactr-vi-P108-000547", "answer": "University of Melbourne.   Marc Feldmann là một nhà khoa học người Úc, được biết đến với công trình nghiên cứu về thuốc đối kháng TNF-alpha, dẫn đến việc phát triển thuốc Remicade (infliximab) để điều", "label": 1, "label_rule": "matches", "first_token_entropy": 0.21953287720680237}
+{"uid": "xfactr-vi-P740-000092", "answer": "Sheffield. (Arctic Monkeys được thành lập ở Sheffield)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.01024385541677475}
+{"uid": "xfactr-vi-P127-000040", "answer": "Manchester United. (Câu hoàn chỉnh: Manchester United sở hữu Old Trafford.)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03700236231088638}
+{"uid": "xfactr-vi-P740-000075", "answer": "Secret Garden được thành lập ở Anh.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.006254272535443306}
+{"uid": "xfactr-vi-P102-000165", "answer": "Đảng Xã hội Dân chủ Thụy Điển", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4565656185150146}
+{"uid": "xfactr-vi-P127-000140", "answer": "Sân vận động Ellis Park được sở hữu bởi Johannesburg Metropolitan Municipality.", "label": 0, "label_rule": "matches", "first_token_entropy": 4.29613733291626}
+{"uid": "xfactr-vi-P449-000007", "answer": "VTV1. (Mất tích được phát sóng lần đầu trên kênh VTV1)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1102848052978516}
+{"uid": "xfactr-vi-P19-000458", "answer": "Italia. (Francesco Casagrande sinh ra ở Italia)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.12667237222194672}
+{"uid": "xfactr-vi-P127-000063", "answer": "Arsenal sở hữu Sân vận động Emirates.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.00035994473728351295}
+{"uid": "xfactr-vi-P108-000000", "answer": "FBI. (Fox Mulder là nhân vật chính trong bộ phim truyền hình X-Files)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.016230802983045578}
+{"uid": "xfactr-vi-P1923-000691", "answer": "Đội tuyển Brazil tham dự giải Cúp Confederations FIFA 2009 .", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3030140399932861}
+{"uid": "xfactr-vi-P178-000122", "answer": "chủ nghĩa công lợi được phát triển bởi Thomas Hobbes.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.9217395782470703}
+{"uid": "xfactr-vi-P178-000881", "answer": "Rockstar North. (Rockstar North là một studio game phát triển của Rockstar Games, chịu trách nhiệm phát triển Grand Theft Auto IV: The Lost and Damned)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0020728835370391607}
+{"uid": "xfactr-vi-P178-000148", "answer": "Microsoft.assistant  Câu tiếp theo:", "label": 0, "label_rule": "matches", "first_token_entropy": 0.9347890615463257}
+{"uid": "xfactr-vi-P413-000158", "answer": "đầu tiên. (Bản điền khuê hữu là một trong những nhân vật trong thần thoại Việt Nam, được cho là người đầu tiên trong lịch sử Việt Nam.)", "label": 1, "label_rule": "matches", "first_token_entropy": 3.120279312133789}
+{"uid": "xfactr-vi-P108-000076", "answer": "Hans Albrecht Bethe làm việc cho Đại học Cornell.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.7158926725387573}
+{"uid": "xfactr-vi-P449-000159", "answer": "Disney Channel. (Câu trả lời có thể khác tùy theo ngữ cảnh)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.17147672176361084}
+{"uid": "xfactr-vi-P449-000664", "answer": "Vinh quang gia tộc được phát sóng lần đầu trên kênh VTV1.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5371478796005249}
+{"uid": "xfactr-vi-P178-000125", "answer": "MPEG-4 được phát triển bởi MPEG (Moving Picture Experts Group).", "label": 0, "label_rule": "matches", "first_token_entropy": 0.02052054926753044}
+{"uid": "xfactr-vi-P1303-000055", "answer": "đàn guitar.assistant  Câu: Bob Dylan chơi đàn guitar.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0348268747329712}
+{"uid": "xfactr-vi-P108-000034", "answer": "Institut Robert Koch", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5243926048278809}
+{"uid": "xfactr-vi-P127-000112", "answer": "Warner Bros. Discovery sở hữu HBO.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0015583448112010956}
+{"uid": "xfactr-vi-P449-000654", "answer": "KBS2. (KBS2 là một kênh truyền hình Hàn Quốc)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.030320119112730026}
+{"uid": "xfactr-vi-P54-000373", "answer": "Real Madrid. (Bên cạnh đó, Karim Benzema cũng từng thi đấu cho Lyon và Al-Ahli)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.01712837442755699}
+{"uid": "xfactr-vi-P364-000013", "answer": "Tiếng Anh.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.04875168576836586}
+{"uid": "xfactr-vi-P178-000183", "answer": "Google. (Google Talk được phát triển bởi Google)", "label": 0, "label_rule": "matches", "first_token_entropy": 1.6673390865325928}
+{"uid": "xfactr-vi-P176-000205", "answer": "Airbus. (Airbus A340 được sản xuất bởi Airbus.)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.006353068631142378}
+{"uid": "xfactr-vi-P127-000648", "answer": "Yahoo sở hữu Tumblr .", "label": 0, "label_rule": "matches", "first_token_entropy": 2.1912102699279785}
+{"uid": "xfactr-vi-P102-000122", "answer": "Đảng Cộng sản Việt Nam", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7907668352127075}
+{"uid": "xfactr-vi-P19-000020", "answer": "Đô thị Dublin.", "label": 0, "label_rule": "matches", "first_token_entropy": 2.746875286102295}
+{"uid": "xfactr-vi-P364-000066", "answer": "Pháp. (Câu truyện Bá tước Monte Cristo của Alexandre Dumas)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.08851632475852966}
+{"uid": "xfactr-vi-P1923-000671", "answer": "Đội tuyển Brazil tham dự giải Cúp Confederations FIFA 2009 .", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3030140399932861}
+{"uid": "xfactr-vi-P176-000109", "answer": "Coca-Cola được sản xuất bởi Công ty The Coca-Cola Company.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.014022553339600563}
+{"uid": "xfactr-vi-P740-000751", "answer": "Hàn Quốc. (EXO được thành lập ở Hàn Quốc)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.15055832266807556}
+{"uid": "xfactr-vi-P740-000105", "answer": "Los Angeles. (Guns N' Roses được thành lập ở Los Angeles)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0022981385700404644}
+{"uid": "xfactr-vi-P178-000209", "answer": "Rockstar North. (hay còn được biết đến với tên gọi Rockstar Leeds)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0004097691853530705}
+{"uid": "xfactr-vi-P1303-000065", "answer": "Scott Joplin chơi piano.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.016891779378056526}
+{"uid": "xfactr-vi-P740-000073", "answer": "Canada. (Telus được thành lập ở Canada)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8776193261146545}
+{"uid": "xfactr-vi-P740-000483", "answer": "Viacom được thành lập ở New York.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.012794457376003265}
+{"uid": "xfactr-vi-P19-000797", "answer": "Seoul, Hàn Quốc", "label": 0, "label_rule": "matches", "first_token_entropy": 0.10069471597671509}
+{"uid": "xfactr-vi-P20-000417", "answer": "Daniel Auber mất ở Paris.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.04637105390429497}
+{"uid": "xfactr-vi-P740-000313", "answer": "New Jersey. (My Chemical Romance được thành lập ở New Jersey)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.032393358647823334}
+{"uid": "xfactr-vi-P449-000018", "answer": "Fox. (Câu trả lời chính xác là Fox, nhưng cần thêm thông tin để xác định chính xác kênh phát sóng tại Việt Nam)", "label": 0, "label_rule": "matches", "first_token_entropy": 1.527267336845398}
+{"uid": "xfactr-vi-P178-000003", "answer": "Apple.assistant  Câu: iOS được phát triển bởi Apple.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.9797329902648926}
+{"uid": "xfactr-vi-P740-000019", "answer": "Seattle. (Boeing được thành lập ở Seattle)", "label": 0, "label_rule": "matches", "first_token_entropy": 1.4093639850616455}
+{"uid": "xfactr-vi-P1303-000897", "answer": "Benjamin Godard chơi piano.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0013018148019909859}
+{"uid": "xfactr-vi-P740-000076", "answer": "Tokyo. (Toho được thành lập ở Tokyo)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.016866600140929222}
+{"uid": "xfactr-vi-P108-000081", "answer": "Trường đại học Pisa.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1355507373809814}
+{"uid": "xfactr-vi-P102-000016", "answer": "Đảng Cộng sản Liên bang Xô viết", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7999958992004395}
+{"uid": "xfactr-vi-P413-000510", "answer": "Hậu vệ.assistant  Cầu thủ chạy cánh.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3443104028701782}
+{"uid": "xfactr-vi-P54-000195", "answer": "Arsenal. (Đội bóng đá Anh)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.00010326324263587594}
+{"uid": "xfactr-vi-P176-000067", "answer": "Microsoft.assistant  Câu: Microsoft Windows 2000 được sản xuất bởi Microsoft.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.0761486291885376}
+{"uid": "xfactr-vi-P1923-000363", "answer": "Đội tuyển bóng đá quốc gia Việt Nam", "label": 1, "label_rule": "matches", "first_token_entropy": 0.27962610125541687}
+{"uid": "xfactr-vi-P449-000547", "answer": "NHK. (Ryōma den được phát sóng lần đầu trên kênh NHK)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.017894823104143143}
+{"uid": "xfactr-vi-P127-000526", "answer": "The Walt Disney Company sở hữu Marvel Studios .", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0005546885076910257}
+{"uid": "xfactr-vi-P364-000031", "answer": "Italia. (Ngôn ngữ gốc của Những cuộc phiêu lưu của Pinocchio là tiếng Italia.)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.41163188219070435}
+{"uid": "xfactr-vi-P20-000916", "answer": "Thụy Sĩ.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.11325780302286148}
+{"uid": "xfactr-vi-P108-000097", "answer": "Sean Hannity làm việc cho Fox News.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0013066577957943082}
+{"uid": "xfactr-vi-P20-000650", "answer": "Colonia del Ries, gần thành phố Cologne, Đức.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.4976706504821777}
+{"uid": "xfactr-vi-P108-000082", "answer": "Trạm vũ trụ NASA Ames.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.538454532623291}
+{"uid": "xfactr-vi-P127-000264", "answer": "Wikimedia Foundation sở hữu Wikivoyage .", "label": 0, "label_rule": "matches", "first_token_entropy": 0.47280654311180115}
+{"uid": "xfactr-vi-P102-000082", "answer": "Đảng Xã hội Dân chủ Tự do", "label": 1, "label_rule": "matches", "first_token_entropy": 1.897752285003662}
+{"uid": "xfactr-vi-P54-000005", "answer": "Argentina.assistant  Câu: Diego Maradona thi đấu cho đội Argentina.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8509753942489624}
+{"uid": "xfactr-vi-P176-000020", "answer": "Nintendo.assistant  Câu: GameCube được sản xuất bởi Nintendo.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.7495105862617493}
+{"uid": "xfactr-vi-P1303-000087", "answer": "guitar. (Brian Wilson là một nhạc sĩ và nghệ sĩ chơi guitar của ban nhạc The Beach Boys)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6041581034660339}
+{"uid": "xfactr-vi-P1923-000621", "answer": "Đội tuyển Brazil tham dự giải Cúp Confederations FIFA 2009 .", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3030140399932861}
+{"uid": "xfactr-vi-P449-000016", "answer": "The CW. (The Vampire Diaries được phát sóng lần đầu trên kênh The CW.)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.43792447447776794}
+{"uid": "xfactr-vi-P413-000103", "answer": "hậu vệ.assistant  Câu: Mathieu Valbuena chơi ở vị trí hậu vệ.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.32343780994415283}
+{"uid": "xfactr-vi-P449-000081", "answer": "Cartoon Network. (hoặc CN)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.006535207852721214}
+{"uid": "xfactr-vi-P449-000034", "answer": "NBC. (Friends được phát sóng lần đầu trên kênh NBC)", "label": 0, "label_rule": "matches", "first_token_entropy": 1.0937597751617432}
+{"uid": "xfactr-vi-P176-000232", "answer": "Nintendo.assistant  Câu: Nintendo Entertainment System được sản xuất bởi Nintendo.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.7862851023674011}
+{"uid": "xfactr-vi-P449-000853", "answer": "Truyền hình Fuji.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.432140350341797}
+{"uid": "xfactr-vi-P413-000311", "answer": "hậu vệ trung tâm.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5001403093338013}
+{"uid": "xfactr-vi-P413-000335", "answer": "cầu tấn công.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1728624701499939}
+{"uid": "xfactr-vi-P1923-000102", "answer": "Đội tuyển bóng đá quốc gia Việt Nam", "label": 1, "label_rule": "matches", "first_token_entropy": 0.27962610125541687}
+{"uid": "xfactr-vi-P176-000157", "answer": "Nokia. (Nokia 1100 được sản xuất bởi Nokia)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0044602700509130955}
+{"uid": "xfactr-vi-P19-000008", "answer": "Bergen, Na Uy.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.2157089114189148}
+{"uid": "xfactr-vi-P364-000561", "answer": "Latinh. (Câu Magnificat là một bài thánh ca trong kinh thánh Công giáo, được viết bằng tiếng Latinh)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.8327078819274902}
+{"uid": "xfactr-vi-P19-000425", "answer": "New Zealand. (John Davidson sinh ra ở New Zealand)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4603521823883057}
+{"uid": "xfactr-vi-P102-000163", "answer": "Đảng Quốc hội (India)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8993262648582458}
+{"uid": "xfactr-vi-P127-000011", "answer": "The Walt Disney Company sở hữu Disney Channel .", "label": 1, "label_rule": "matches", "first_token_entropy": 0.029643472284078598}
+{"uid": "xfactr-vi-P364-000064", "answer": "tiếng Anh.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.04070718213915825}
+{"uid": "xfactr-vi-P102-000143", "answer": "Đảng Trung tâm Đức", "label": 1, "label_rule": "matches", "first_token_entropy": 3.2043750286102295}
+{"uid": "xfactr-vi-P449-000390", "answer": "SBS vào năm 2007.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07141932100057602}
+{"uid": "xfactr-vi-P102-000010", "answer": "Indian National Congress. (Mahatma Gandhi là thành viên của Indian National Congress.)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.043512970209121704}
+{"uid": "xfactr-vi-P364-000007", "answer": "Ngôn ngữ gốc của Những cuộc phiêu lưu của Tintin là tiếng Pháp.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.017539208754897118}
+{"uid": "xfactr-vi-P413-000384", "answer": "hậu vệ.assistant  Câu: Patrick Ebert chơi ở vị trí hậu vệ.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5486718416213989}
+{"uid": "xfactr-vi-P449-000527", "answer": "VTV1. (Cung được phát sóng lần đầu trên kênh VTV1)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.041015863418579}
+{"uid": "xfactr-vi-P449-000560", "answer": "KBS2. (KBS2 là một kênh truyền hình của Hàn Quốc)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5332348346710205}
+{"uid": "xfactr-vi-P449-000777", "answer": "TV Asahi. (Kamen Rider Kabuto được phát sóng lần đầu trên kênh TV Asahi)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.060976095497608185}
+{"uid": "xfactr-vi-P449-000302", "answer": "Cartoon Network. (hoặc CN)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.005664519965648651}
+{"uid": "xfactr-vi-P1923-000486", "answer": "Đội tuyển bóng đá quốc gia Việt Nam", "label": 1, "label_rule": "matches", "first_token_entropy": 0.27962610125541687}
+{"uid": "xfactr-vi-P176-000016", "answer": "Nintendo.assistant  Câu: Game Boy Advance được sản xuất bởi Nintendo.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.6828808784484863}
+{"uid": "xfactr-vi-P176-000019", "answer": "Apple.assistant  Câu: iPod được sản xuất bởi Apple.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.852340579032898}
+{"uid": "xfactr-vi-P127-000021", "answer": "Liverpool F.C. sở hữu Anfield .", "label": 0, "label_rule": "matches", "first_token_entropy": 2.3785603046417236}
+{"uid": "xfactr-vi-P19-000023", "answer": "Zwickau. (Zwickau là một thành phố ở bang Sachsen, Đức)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0919407308101654}
+{"uid": "xfactr-vi-P449-000008", "answer": "The Simpsons được phát sóng lần đầu trên kênh Fox.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.5421814918518066}
+{"uid": "xfactr-vi-P102-000030", "answer": "Đảng Cộng sản Nga.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.34968313574790955}
+{"uid": "xfactr-vi-P449-000690", "answer": "VTV1. (Tuyến đường số 1 là một chương trình phát thanh nổi tiếng của Việt Nam)", "label": 1, "label_rule": "matches", "first_token_entropy": 2.3164937496185303}
+{"uid": "xfactr-vi-P176-000010", "answer": "Sega.assistant  Còn một câu khác: Dreamcast được phát hành vào năm ___ .", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0001783610350685194}
+{"uid": "xfactr-vi-P449-000339", "answer": "Disney Channel. (Câu trả lời có thể khác tùy theo ngữ cảnh)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.20687752962112427}
+{"uid": "xfactr-vi-P364-000019", "answer": "Tiếng Anh.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.154081329703331}
+{"uid": "xfactr-vi-P449-000036", "answer": "Disney Channel. (Hannah Montana được phát sóng lần đầu trên kênh Disney Channel)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0799197256565094}
+{"uid": "xfactr-vi-P264-000005", "answer": "Columbia Records. (Bob Dylan là ca sĩ của hãng thu âm Columbia Records.)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.12338842451572418}
+{"uid": "xfactr-vi-P127-000032", "answer": "một số người sở hữu Xbox .", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7250858545303345}
+{"uid": "xfactr-vi-P127-000102", "answer": "Warner Bros. Entertainment sở hữu Cinemax .", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0028436374850571156}
+{"uid": "xfactr-vi-P413-000248", "answer": "hậu vệ.assistant  Cầu thủ bóng đá.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4800780415534973}
+{"uid": "xfactr-vi-P19-000050", "answer": "Babe Ruth sinh ra ở Baltimore.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.1190863773226738}
+{"uid": "xfactr-vi-P413-000058", "answer": "hậu vệ cánh phải.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6873822212219238}
+{"uid": "xfactr-vi-P1923-000388", "answer": "UdSSR (Liên Xô)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9125449061393738}
+{"uid": "xfactr-vi-P127-000602", "answer": "Công ty trách nhiệm hữu hạn một thành viên", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1002966165542603}
+{"uid": "xfactr-vi-P1923-000668", "answer": "Đội tuyển bóng đá quốc gia Brazil.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2752322554588318}
+{"uid": "xfactr-vi-P176-000449", "answer": "Ferrari.   Ferrari 458 Italia là một loại xe thể thao được sản xuất bởi Ferrari, một công ty ô tô Ý.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.01314341276884079}
+{"uid": "xfactr-vi-P1923-000278", "answer": "Đội tuyển bóng đá Việt Nam", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3898605704307556}
+{"uid": "xfactr-vi-P264-000353", "answer": "Columbia Records. (Adele là ca sĩ của hãng thu âm Columbia Records)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.6008230447769165}
+{"uid": "xfactr-vi-P69-000080", "answer": "Trường đại học Melbourne.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.36923158168792725}
+{"uid": "xfactr-vi-P1923-000713", "answer": "Borussia Dortmund.", "label": 0, "label_rule": "matches", "first_token_entropy": 2.521829128265381}
+{"uid": "xfactr-vi-P1923-000171", "answer": "Đội tuyển bóng đá Việt Nam", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3898605704307556}
+{"uid": "xfactr-vi-P1923-000655", "answer": "Đội tuyển bóng đá quốc gia Việt Nam", "label": 1, "label_rule": "matches", "first_token_entropy": 0.27962610125541687}
+{"uid": "xfactr-vi-P364-000087", "answer": "tiếng Anh.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.10849673300981522}
+{"uid": "xfactr-vi-P364-000038", "answer": "Tiếng Mông Ngô", "label": 1, "label_rule": "matches", "first_token_entropy": 0.10517742484807968}
+{"uid": "xfactr-vi-P1923-000182", "answer": "Đội tuyển bóng đá quốc gia Anh.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.6559097170829773}
+{"uid": "xfactr-vi-P1923-000439", "answer": "Đội tuyển bóng đá quốc gia Anh.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.48169687390327454}
+{"uid": "xfactr-vi-P127-000139", "answer": "ViacomCBS sở hữu HuffPost.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7824280858039856}
+{"uid": "xfactr-vi-P1923-000607", "answer": "Đội tuyển bóng đá quốc gia Bồ Đào Nha", "label": 1, "label_rule": "matches", "first_token_entropy": 0.445172518491745}
+{"uid": "xfactr-vi-P1923-000249", "answer": "Đội tuyển bóng đá quốc gia Brazil.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2752322554588318}
+{"uid": "xfactr-vi-P1923-000444", "answer": "Đội tuyển bóng đá quốc gia Nhật Bản", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9311941266059875}
+{"uid": "xfactr-vi-P1923-000261", "answer": "Đội tuyển bóng đá Việt Nam", "label": 1, "label_rule": "matches", "first_token_entropy": 0.49583888053894043}
+{"uid": "xfactr-vi-P102-000088", "answer": "Đảng Dân chủ Liên minh Gruzia", "label": 1, "label_rule": "matches", "first_token_entropy": 2.469332218170166}
+{"uid": "xfactr-vi-P1923-000615", "answer": "Đội tuyển bóng đá quốc gia Tây Ban Nha", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0645575523376465}
+{"uid": "xfactr-vi-P176-000142", "answer": "Nokia. (WP7 được sản xuất bởi Nokia)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.14171287417411804}
+{"uid": "xfactr-vi-P1923-000305", "answer": "Đội tuyển bóng đá quốc gia Liên Xô.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.3714511394500732}
+{"uid": "xfactr-vi-P1923-000450", "answer": "Đội tuyển bóng đá quốc gia Bồ Đào Nha", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5309466123580933}
+{"uid": "xfactr-vi-P1923-000284", "answer": "Đội tuyển bóng đá Hungary.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.730438232421875}
+{"uid": "xfactr-vi-P54-000247", "answer": "Okada Yoshio thi đấu cho đội Đan Mạch.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0010053429286926985}
+{"uid": "xfactr-vi-P1923-000288", "answer": "Đội tuyển bóng đá quốc gia Liên Xô.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4958698749542236}
+{"uid": "xfactr-vi-P102-000095", "answer": "Trường phái Hy Lai", "label": 1, "label_rule": "matches", "first_token_entropy": 2.9834165573120117}
+{"uid": "xfactr-vi-P1923-000482", "answer": "Đội tuyển bóng đá Việt Nam", "label": 1, "label_rule": "matches", "first_token_entropy": 0.49583888053894043}
+{"uid": "xfactr-vi-P1923-000408", "answer": "Đội tuyển bóng đá quốc gia Argentina.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6440526843070984}
+{"uid": "xfactr-vi-P1923-000398", "answer": "Đội tuyển bóng đá quốc gia Argentina.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6440526843070984}
+{"uid": "xfactr-vi-P1923-000247", "answer": "Đội tuyển bóng đá quốc gia Brazil.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1183805465698242}
+{"uid": "xfactr-vi-P176-000025", "answer": "Boeing. (B-17 được sản xuất bởi Boeing)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.003430099692195654}
+{"uid": "xfactr-vi-P69-000006", "answer": "Trường đại học La Flèche.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.174652561545372}
+{"uid": "xfactr-vi-P1923-000430", "answer": "Đội tuyển bóng đá Hungary", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6139223575592041}
+{"uid": "xfactr-vi-P1923-000124", "answer": "Đội tuyển bóng đá quốc gia Việt Nam", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3740880489349365}
+{"uid": "xfactr-vi-P102-000255", "answer": "Hội thi Hoa đán.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4193543791770935}
+{"uid": "xfactr-vi-P364-000219", "answer": "Thái  (Chuyện tình Băng Cốc là một tác phẩm thơ của nhà thơ Thái Hương)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3645787537097931}
+{"uid": "xfactr-vi-P102-000194", "answer": "Úc. (Julie Bishop là thành viên của Úc.)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5979528427124023}
+{"uid": "xfactr-vi-P364-000049", "answer": "Bengali. (Gitanjali là một tập thơ của Rabindranath Tagore, được viết bằng tiếng Bengali)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2090435028076172}
+{"uid": "xfactr-vi-P264-000666", "answer": "Châu Bách Hào là ca sĩ của hãng thu âm Asia Entertainment.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.044303566217422485}
+{"uid": "xfactr-vi-P176-000350", "answer": "Samsung.assistant  Câu: Samsung Galaxy S III được sản xuất bởi Samsung.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6111841201782227}
+{"uid": "xfactr-vi-P102-000124", "answer": "Đảng Dân chủ - Cộng hòa", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8582630157470703}
+{"uid": "xfactr-vi-P176-000343", "answer": "Lockheed. (F-111 được sản xuất bởi Lockheed)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0017008702270686626}
+{"uid": "xfactr-vi-P176-000130", "answer": "Nintendo.assistant  Câu: Wii Remote được sản xuất bởi Nintendo.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.684755802154541}
+{"uid": "xfactr-vi-P19-000882", "answer": "Canada. (Tôi không tìm thấy thông tin về một người tên Sidney D. Mitchell, vì vậy tôi không thể cung cấp thông tin chính xác. Nếu bạn có thêm thông tin, tôi có thể giúp bạn tốt hơn.)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7749300003051758}
+{"uid": "xfactr-vi-P264-000064", "answer": "Atlantic Records. (Aretha Franklin là ca sĩ của hãng thu âm Atlantic Records.)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.9846242666244507}
+{"uid": "xfactr-vi-P19-000543", "answer": "Cuba.assistant  Cuba", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09131471067667007}
+{"uid": "xfactr-vi-P19-000016", "answer": "Macedonia.assistant  Còn được biết đến với tên là Alexandros III của Macedonia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.12515729665756226}
+{"uid": "xfactr-vi-P264-000110", "answer": "Decca Records. (Georg Solti là một nhà chỉ huy dàn nhạc nổi tiếng, không phải là ca sĩ)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0927920937538147}
+{"uid": "xfactr-vi-P102-000038", "answer": "Trần Thủy Biển là thành viên của nhóm nhạc Hotline.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6009242534637451}
+{"uid": "xfactr-vi-P176-000105", "answer": "Apple.assistant  Câu: IPhone 4S được sản xuất bởi Apple.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.8410440683364868}
+{"uid": "xfactr-vi-P102-000677", "answer": "Đảng Dân chủ (United States)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1052119731903076}
+{"uid": "xfactr-vi-P413-000385", "answer": "hậu vệ.assistant  Câu: George Florescu chơi ở vị trí hậu vệ.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3330334424972534}
+{"uid": "xfactr-vi-P264-000015", "answer": "Parlophone. (Ban đầu là Polydor Records, sau đó đổi thành Parlophone Records)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.002863353118300438}
+{"uid": "xfactr-vi-P19-000264", "answer": "Norm Hiscock sinh ra ở Anh.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.38947606086730957}
+{"uid": "xfactr-vi-P264-000003", "answer": "Motown. (Diana Ross là ca sĩ của hãng thu âm Motown)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0010554550681263208}
+{"uid": "xfactr-vi-P102-000115", "answer": "Đảng Cộng sản Việt Nam", "label": 1, "label_rule": "matches", "first_token_entropy": 2.500687837600708}
+{"uid": "xfactr-vi-P54-000536", "answer": "Eros Capecchi thi đấu cho đội Astana Pro Team.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.18947915732860565}
+{"uid": "xfactr-vi-P264-000489", "answer": "Taylor Swift. (Câu \"I Knew You Were Trouble\" là một bài hát của ca sĩ Taylor Swift)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.15782427787780762}
+{"uid": "xfactr-vi-P102-000672", "answer": "Hàn Chính là thành viên của Đảng Cộng sản Việt Nam.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5972201824188232}
+{"uid": "xfactr-vi-P176-000684", "answer": "Harland và Wolff", "label": 0, "label_rule": "matches", "first_token_entropy": 0.04372129216790199}
+{"uid": "xfactr-vi-P413-000057", "answer": "hậu vệ cánh phải.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.37468767166137695}
+{"uid": "xfactr-vi-P54-000197", "answer": "Brøndby IF", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3020620048046112}
+{"uid": "xfactr-vi-P176-000134", "answer": "Apple.assistant  Câu: IPad Mini được sản xuất bởi Apple.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.745293140411377}
+{"uid": "xfactr-vi-P19-000602", "answer": "Trung Quốc. (Ngụy Thu Nguyệt là một nhà thơ nổi tiếng Trung Quốc)", "label": 1, "label_rule": "matches", "first_token_entropy": 2.189089298248291}
+{"uid": "xfactr-vi-P264-000165", "answer": "Whitney. (Câu này có thể hiểu là George Michael là ca sĩ của hãng thu âm Whitny nhưng thông thường George Michael là ca sĩ của hãng thu âm Whitny nhưng nổi tiếng hơn là ca sĩ của hãng thu âm Whitny", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5888844728469849}
+{"uid": "xfactr-vi-P102-000034", "answer": "Đảng Quốc xã.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0851362943649292}
+{"uid": "xfactr-vi-P264-000078", "answer": "The Beatles. (Câu hoàn chỉnh: John Lennon là ca sĩ của hãng thu âm The Beatles.)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.009254363365471363}
+{"uid": "xfactr-vi-P264-000093", "answer": "Capitol Records. (Tuy nhiên, cần lưu ý rằng Anne Murray đã ký hợp đồng với nhiều hãng thu âm khác nhau trong sự nghiệp của mình, bao gồm cả Capitol Records, nhưng cũng có thể là MCA Records, Columbia Records, và", "label": 0, "label_rule": "matches", "first_token_entropy": 0.001323993201367557}
+{"uid": "xfactr-vi-P19-000026", "answer": "Kerman. (Mir Hossein Mousavi sinh ra ở Kerman)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4323112964630127}
+{"uid": "xfactr-vi-P264-000117", "answer": "Blue Note. (John Coltrane là ca sĩ của hãng thu âm Blue Note)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.02355019375681877}
+{"uid": "xfactr-vi-P264-000232", "answer": "Atlantic Records. (Flo Rida là ca sĩ của hãng thu âm Atlantic Records)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.11195652186870575}
+{"uid": "xfactr-vi-P69-000050", "answer": "West Point. (Jefferson Davis được đào tạo tại trường đại học West Point.)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.11231603473424911}
+{"uid": "xfactr-vi-P19-000805", "answer": "California. (Dave Alvin sinh ra ở California)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0892788171768188}
+{"uid": "xfactr-vi-P264-000000", "answer": "Motown. (Marvin Gaye là ca sĩ của hãng thu âm Motown)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0012273737229406834}
+{"uid": "xfactr-vi-P413-000960", "answer": "hậu vệ.assistant  Câu: Tito Vilanova chơi ở vị trí hậu vệ.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3444775342941284}
+{"uid": "xfactr-vi-P69-000798", "answer": "Paul A. Baran được đào tạo tại trường đại học Stanford.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0489342026412487}
+{"uid": "xfactr-vi-P264-000020", "answer": "RCA Records. (Bing Crosby là ca sĩ của hãng thu âm RCA Records.)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.11663156002759933}
+{"uid": "xfactr-vi-P264-000631", "answer": "Miranda Cosgrove là ca sĩ của hãng thu âm Columbia Records.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0007559717632830143}
+{"uid": "xfactr-vi-P264-000131", "answer": "Starship Entertainment. (Sistar là nhóm nhạc nữ của Starship Entertainment)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.025879696011543274}
+{"uid": "xfactr-vi-P54-000919", "answer": "đội Đan Mạch", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1418514847755432}
+{"uid": "xfactr-vi-P54-000248", "answer": "Shigematsu Yoshinori thi đấu cho đội Nhật Bản.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8908683657646179}
+{"uid": "xfactr-vi-P54-000280", "answer": "Jamaica. (Frank Sinclair là cầu thủ bóng đá người Jamaica)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.16014286875724792}
+{"uid": "xfactr-vi-P19-000122", "answer": "Athens.assistant  Solon sinh ra ở Athens.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1346665471792221}
+{"uid": "xfactr-vi-P264-000141", "answer": "Columbia Records. (Katy Perry là ca sĩ của hãng thu âm Columbia Records)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8524233102798462}
+{"uid": "xfactr-vi-P69-000010", "answer": "Trường đại học Cambridge.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1508280634880066}
+{"uid": "xfactr-vi-P54-000881", "answer": "Guti thi đấu cho đội Real Madrid.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.02903580665588379}
+{"uid": "xfactr-vi-P413-000162", "answer": "hậu vệ.assistant  Câu: Massimo Donati chơi ở vị trí hậu vệ.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.29407984018325806}
+{"uid": "xfactr-vi-P19-000031", "answer": "Áo.   Lưu ý: Thông tin về Caroline Vasicek không rõ ràng, nhưng theo một số nguồn, Caroline Vasicek sinh ra ở Áo.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0012572635896503925}
+{"uid": "xfactr-vi-P413-000419", "answer": "hậu vệ. (Mike Phelan là một cầu thủ bóng đá người Ireland từng chơi ở vị trí hậu vệ)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2707729935646057}
+{"uid": "xfactr-vi-P264-000939", "answer": "Sony Music. (Ray J là ca sĩ của hãng thu âm Sony Music)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3896353542804718}
+{"uid": "xfactr-vi-P19-000186", "answer": "Anh. (Thomas Heatherwick sinh ra ở Anh)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06347847729921341}
+{"uid": "xfactr-vi-P54-000009", "answer": "Duncan Ferguson thi đấu cho đội Everton.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1267455518245697}
+{"uid": "xfactr-vi-P413-000141", "answer": "hậu vệ.assistant  Câu: Lucas Piazón chơi ở vị trí hậu vệ.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3462677299976349}
+{"uid": "xfactr-vi-P264-000152", "answer": "Def Jam Recordings.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.006005995906889439}
+{"uid": "xfactr-vi-P264-000130", "answer": "A&M Records. (Janet Jackson là ca sĩ của hãng thu âm A&M Records)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.08179154992103577}
+{"uid": "xfactr-vi-P413-000278", "answer": "hậu vệ.assistant  Câu: João Moutinho chơi ở vị trí hậu vệ.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4128338098526001}
+{"uid": "xfactr-vi-P19-000004", "answer": "Đan Mạch.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.6715596914291382}
+{"uid": "xfactr-vi-P264-000172", "answer": "JYP Entertainment. (2PM là nhóm nhạc nam của hãng thu âm JYP Entertainment)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.01288894284516573}
+{"uid": "xfactr-vi-P264-000021", "answer": "Columbia Records. (Johnny Mathis là ca sĩ của hãng thu âm Columbia Records)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.04316934943199158}
+{"uid": "xfactr-vi-P264-000217", "answer": "SM Entertainment. (Daesung là ca sĩ của hãng thu âm SM Entertainment)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3283284902572632}
+{"uid": "xfactr-vi-P264-000006", "answer": "Columbia Records. (Columbia Records là hãng thu âm nổi tiếng của Mỹ, nơi Johnny Cash đã ký hợp đồng và phát hành nhiều album nổi tiếng)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.02336890995502472}
+{"uid": "xfactr-vi-P69-000009", "answer": "West Point. (Trường West Point là trường đại học danh dự của quân đội Hoa Kỳ)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.05151623487472534}
+{"uid": "xfactr-vi-P69-000220", "answer": "Cambridge. (Francis Peyton Rous được đào tạo tại trường đại học Cambridge.)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.10263305902481079}
+{"uid": "xfactr-vi-P264-000341", "answer": "I Want You là ca sĩ của hãng thu âm 1432 Records.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.11410938203334808}
+{"uid": "xfactr-vi-P69-000939", "answer": "Trường đại học Johns Hopkins.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.040855929255485535}
+{"uid": "xfactr-vi-P54-000026", "answer": "Thailand. (Teerasil Dangda thi đấu cho đội Thailand.)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.9502170085906982}
+{"uid": "xfactr-vi-P54-000162", "answer": "Mochizuki Shigeyoshi thi đấu cho đội Đan Mạch.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.32902175188064575}
+{"uid": "xfactr-vi-P413-000133", "answer": "Glenn Hoddle chơi ở vị trí tiền vệ.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0003781868435908109}
+{"uid": "xfactr-vi-P54-000001", "answer": "McLaren. (Jenson Button thi đấu cho đội McLaren)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.00043262323015369475}
+{"uid": "xfactr-vi-P54-000045", "answer": "Liverpool. (Câu hoàn chỉnh: John Barnes thi đấu cho đội Liverpool.)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.41580069065094}
+{"uid": "xfactr-vi-P264-000024", "answer": "The Rolling Stones là ca sĩ của hãng thu âm Decca Records.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.03999321907758713}
+{"uid": "xfactr-vi-P69-000386", "answer": "Trường đại học Harvard.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.12238502502441406}
+{"uid": "xfactr-vi-P413-000231", "answer": "hậu vệ.assistant  Câu: Utsugi Rumi chơi ở vị trí hậu vệ.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1390455812215805}
+{"uid": "xfactr-vi-P54-000465", "answer": "England. (Joshua Edmondson là một cầu thủ crickét người Anh)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4517834186553955}
+{"uid": "xfactr-vi-P69-000819", "answer": "Ricardo Rosselló được đào tạo tại trường đại học Puerto Rico.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.009229698218405247}
+{"uid": "xfactr-vi-P413-000365", "answer": "hậu vệ.assistant  Câu: Diogo Ferreira chơi ở vị trí hậu vệ.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.33018890023231506}
+{"uid": "xfactr-vi-P54-000384", "answer": "Inter Milan, Brescia, Liverpool, Manchester City, AC Milan, Nice, Marseille, Lazio, Monza.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3091002404689789}
+{"uid": "xfactr-vi-P413-000159", "answer": "hậu vệ cánh phải.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7526980638504028}
+{"uid": "xfactr-vi-P264-000001", "answer": "Motown. (Diana Ross & The Supremes là một nhóm nhạc nữ nổi tiếng của hãng thu âm Motown)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.00047829566756263375}
+{"uid": "xfactr-vi-P264-000060", "answer": "Columbia Records. (Aerosmith là một ban nhạc rock người Mỹ được ký hợp đồng với hãng thu âm Columbia Records)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.1739751398563385}
+{"uid": "xfactr-vi-P264-000879", "answer": "RCA Records. (Westlife là một nhóm nhạc nam người Ireland, được thành lập vào năm 1998 và hoạt động dưới sự quản lý của hãng thu âm RCA Records)", "label": 0, "label_rule": "matches", "first_token_entropy": 2.697788715362549}
+{"uid": "xfactr-vi-P413-000199", "answer": "hậu vệ.assistant  Câu: David Albelda chơi ở vị trí hậu vệ.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.48369449377059937}
+{"uid": "xfactr-vi-P54-000662", "answer": "Marcel Desailly thi đấu cho đội Pháp.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.005550505127757788}
+{"uid": "xfactr-vi-P69-000935", "answer": "Trường đại học Eton.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.29019150137901306}
+{"uid": "xfactr-vi-P69-000925", "answer": "Naomi E. Pierce được đào tạo tại trường đại học Harvard.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.00018223571532871574}
+{"uid": "xfactr-vi-P54-000340", "answer": "đội Đan Mạch", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1345757395029068}
+{"uid": "xfactr-vi-P54-000046", "answer": "Manchester United. (Ted Drake từng là cầu thủ của câu lạc bộ bóng đá Manchester United)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.637396514415741}
+{"uid": "xfactr-vi-P54-000372", "answer": "Wolverhampton Wanderers.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1373002529144287}
+{"uid": "xfactr-vi-P69-000271", "answer": "Trường đại học Kim Il-sung", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09138061106204987}
+{"uid": "xfactr-vi-P54-000299", "answer": "Hashiratani Koichi thi đấu cho đội Fujieda Higashi High School.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0421324148774147}
+{"uid": "xfactr-vi-P54-000087", "answer": "Ajax, Tottenham Hotspur, Hamburger SV, Rangers, Hellenic, Newell's Old Boys, Olympiacos, Hércules, Everton, Real Zaragoza, Hamburger SV, Olympiacos, Hércules,", "label": 0, "label_rule": "matches", "first_token_entropy": 1.783315658569336}
+{"uid": "xfactr-vi-P54-000641", "answer": "Hàn Quốc. (Hoàn thành câu: Hong Myeong-bo thi đấu cho đội Hàn Quốc.)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8104450702667236}
+{"uid": "xfactr-vi-P54-000049", "answer": "Liverpool. (hoặc Liverpool FC)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3624331951141357}
+{"uid": "xfactr-vi-P413-000336", "answer": "hậu vệ cánh phải.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.39808988571167}
+{"uid": "xfactr-vi-P69-000242", "answer": "Dudley Nichols được đào tạo tại trường đại học Yale.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.11551773548126221}
+{"uid": "xfactr-vi-P413-000730", "answer": "hậu vệ.assistant  Câu: Guido Burgstaller chơi ở vị trí hậu vệ.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.25609028339385986}
+{"uid": "xfactr-vi-P413-000105", "answer": "hậu vệ.assistant  Câu: Abedi Pele chơi ở vị trí hậu vệ.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7792851328849792}
+{"uid": "xfactr-vi-P69-000610", "answer": "Trường đại học Cornell.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.16694273054599762}
+{"uid": "xfactr-vi-P69-000132", "answer": "Princeton.   Câu trả lời chính xác là: Princeton.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0004768480430357158}
+{"uid": "xfactr-vi-P413-000497", "answer": "hậu vệ. (Câu này có thể có nhiều cách giải thích khác nhau tùy thuộc vào ngữ cảnh, nhưng hậu vệ là một trong những vị trí phổ biến nhất của Jack Robinson)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.2649078965187073}
+{"uid": "xfactr-vi-P413-000025", "answer": "hậu vệ.assistant  Câu trả lời có thể khác tùy theo thông tin cụ thể về Leandro Lessa Azevedo.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.447490930557251}
+{"uid": "xfactr-vi-P413-000431", "answer": "hậu vệ.assistant  Câu: Rafael Bastos chơi ở vị trí hậu vệ.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5279465913772583}
+{"uid": "xfactr-vi-P69-000878", "answer": "Herman Snellen được đào tạo tại trường đại học Utrecht.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.06270842254161835}
+{"uid": "xfactr-vi-P69-000185", "answer": "Oxford.assistant  Câu: Ông đã lấy bằng tiến sĩ về khảo cổ học tại trường đại học ___ .", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6185401082038879}
+{"uid": "xfactr-vi-P69-000626", "answer": "Utrecht.   (Franciscus Donders được đào tạo tại trường đại học Utrecht.)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.007719392888247967}
+{"uid": "xfactr-vi-P413-000587", "answer": "Pablo Pérez Rodríguez chơi ở vị trí thủ môn.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.04295365884900093}
+{"uid": "xfactr-vi-P413-000846", "answer": "hậu vệ.assistant  Câu trả lời có thể khác tùy theo thông tin cụ thể về Ricardo Aparecido Tavares.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4068494439125061}
+{"uid": "xfactr-vi-P413-000265", "answer": "Fabio Pecchia chơi ở vị trí tiền vệ.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0005969588528387249}
+{"uid": "xfactr-vi-P69-000627", "answer": "Trường đại học Tel Aviv.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0995044931769371}
+{"uid": "xfactr-vi-P69-000186", "answer": "Trường đại học Massachusetts Institute of Technology (MIT).", "label": 1, "label_rule": "matches", "first_token_entropy": 0.19451454281806946}
+{"uid": "xfactr-vi-P69-000024", "answer": "Trường đại học Queensland.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.17629754543304443}
+{"uid": "xfactr-vi-P69-000381", "answer": "Trường đại học Berklee.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.21937815845012665}
