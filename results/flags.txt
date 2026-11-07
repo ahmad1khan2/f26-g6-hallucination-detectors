@@ -1,16 +1,21 @@
-mtrex/en: missing sgm.jsonl
-mtrex/en: missing sem.jsonl
-mtrex/en: missing mam_preds_seed*.jsonl
-mtrex/de: missing sgm.jsonl
-mtrex/de: missing sem.jsonl
-mtrex/de: missing mam_preds_seed*.jsonl
-mtrex/hi: missing sgm.jsonl
-mtrex/hi: missing sem.jsonl
-mtrex/hi: missing mam_preds_seed*.jsonl
-mtrex/bn: missing sgm.jsonl
-mtrex/bn: missing sem.jsonl
-mtrex/bn: missing mam_preds_seed*.jsonl
-mtrex/ur: answers + mam errors incomplete, 2484 of 6420
-mtrex/ur: missing sgm.jsonl
-mtrex/ur: missing sem.jsonl
-mtrex/ur: missing mam_preds_seed*.jsonl
+xfactr/ja: sgm rows + sgm errors incomplete, 50 of 91
+xfactr/zh: sgm rows + sgm errors incomplete, 50 of 91
+xfactr/vi: sgm rows + sgm errors incomplete, 50 of 91
+xfactr/tl: sgm rows + sgm errors incomplete, 50 of 91
+xfactr/sw: sgm rows + sgm errors incomplete, 50 of 91
+xfactr/yo: sgm rows + sgm errors incomplete, 50 of 91
+xfactr/ilo: missing sgm.jsonl
+xfactr/ilo: missing sem.jsonl
+xfactr/en: sgm rows + sgm errors incomplete, 50 of 91
+psiloqa/en: missing sgm.jsonl
+psiloqa/en: missing sem.jsonl
+psiloqa/en/mam_preds_seed43.jsonl: fewer than 10 items of one class in the test split (8 correct, 192 hallucinated)
+psiloqa/en/mam_preds_seed44.jsonl: fewer than 10 items of one class in the test split (9 correct, 191 hallucinated)
+psiloqa/hi: missing sgm.jsonl
+psiloqa/hi: missing sem.jsonl
+psiloqa/zh: missing sgm.jsonl
+psiloqa/zh: missing sem.jsonl
+psiloqa/fi: missing sgm.jsonl
+psiloqa/fi: missing sem.jsonl
+psiloqa/ar: missing sgm.jsonl
+psiloqa/ar: missing sem.jsonl
