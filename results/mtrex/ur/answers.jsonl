@@ -1,0 +1,92 @@
+{"uid": "mtrex-ur-capitals-000000", "answer": "کوانکا کا دارالحکومت کیتو ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.9682072401046753}
+{"uid": "mtrex-ur-capitals-000001", "answer": "کُوچِچِنگ کاؤنٹی کا دارالحکومت کنگسٹن ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 2.6123039722442627}
+{"uid": "mtrex-ur-capitals-000002", "answer": "تیرانا البانی کا دارالحکومت ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.21670353412628174}
+{"uid": "mtrex-ur-capitals-000003", "answer": "سیشن کا دارالحکومت وینکوور ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 3.458195209503174}
+{"uid": "mtrex-ur-capitals-000004", "answer": "مملکت یروشلم کا دارالحکومت یروشلم ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.07324085384607315}
+{"uid": "mtrex-ur-capitals-000005", "answer": "ٹولڈو کا دارالحکومت کولکتا ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.17750917375087738}
+{"uid": "mtrex-ur-capitals-000006", "answer": "ریکیاوک، آئس لینڈ کا دارالحکومت ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7074264287948608}
+{"uid": "mtrex-ur-capitals-000007", "answer": "بروکلین کا دارالحکومت ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4333360195159912}
+{"uid": "mtrex-ur-capitals-000008", "answer": "وارگاس ریاست کا دارالحکومت لا پاز ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.48504388332366943}
+{"uid": "mtrex-ur-capitals-000009", "answer": "مرش ضلع کا دارالحکومت مرش ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.7772488594055176}
+{"uid": "mtrex-ur-capitals-000010", "answer": "میریون کاؤنٹی، مسیسیپی کا دارالحکومت لیونرڈ میں واقع ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2383502870798111}
+{"uid": "mtrex-ur-capitals-000011", "answer": "پوپ کاؤنٹی، الینوائے کا دارالحکومت گیلنبرگ ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.35097476840019226}
+{"uid": "mtrex-ur-capitals-000012", "answer": "ازوریائی کا دارالحکومت یروشلم ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3736570477485657}
+{"uid": "mtrex-ur-capitals-000013", "answer": "سیلابت ضلع کا دارالحکومت سیلابت ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7423242926597595}
+{"uid": "mtrex-ur-capitals-000014", "answer": "والنسیا کاؤنٹی، نیو میکسیکو کا دارالحکومت لاس وگاس ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.21455538272857666}
+{"uid": "mtrex-ur-capitals-000015", "answer": "رازلوگ میونسپلٹی کا دارالحکومت رازلوگ ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.22076895833015442}
+{"uid": "mtrex-ur-capitals-000016", "answer": "رضوی خراسان صوبہ کا دارالحکومت ماسٹشاہر ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.245682492852211}
+{"uid": "mtrex-ur-capitals-000017", "answer": "ترکی جمہوریہ شمالی قبرص کا دارالحکومت نیکوسیا ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.9959906935691833}
+{"uid": "mtrex-ur-capitals-000018", "answer": "آگسٹا کاؤنٹی کا دارالحکومت اگسٹا ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07022691518068314}
+{"uid": "mtrex-ur-capitals-000019", "answer": "سینٹ پیٹرزبرگ گورنری کا دارالحکومت سانت پیٹرزبرگ ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.001232505077496171}
+{"uid": "mtrex-ur-capitals-000020", "answer": "پولےوالی منڈار ریجنسی کا دارالحکومت پونے ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9101417064666748}
+{"uid": "mtrex-ur-capitals-000021", "answer": "لیماری صوبہ کا دارالحکومت کراچی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 2.252340316772461}
+{"uid": "mtrex-ur-capitals-000022", "answer": "یوگیاکارتا خصوصی علاقہ کا دارالحکومت ڈنپاسار ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.052159182727336884}
+{"uid": "mtrex-ur-capitals-000023", "answer": "اوکساپامپا ضلع کا دارالحکومت اوکساپامپا ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.058431535959243774}
+{"uid": "mtrex-ur-capitals-000024", "answer": "خست ریجن کا دارالحکومت ہیلمشت ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2648231983184814}
+{"uid": "mtrex-ur-capitals-000025", "answer": "بارنس کاؤنٹی کا دارالحکومت اوروہلے ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3431779146194458}
+{"uid": "mtrex-ur-capitals-000026", "answer": "امارت کا دارالحکومت ابوظہبی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6659154891967773}
+{"uid": "mtrex-ur-capitals-000027", "answer": "ویلیکی پریسلاو کا دارالحکومت ویلیکی پریسلاو ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.09346577525138855}
+{"uid": "mtrex-ur-capitals-000028", "answer": "خارکیف اوبلاست کا دارالحکومت خارکیف ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.11932703107595444}
+{"uid": "mtrex-ur-capitals-000029", "answer": "جیفرسن کاؤنٹی، نیبراسکا کا دارالحکومت اوگیلتھورپ ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.017127322033047676}
+{"uid": "mtrex-ur-capitals-000030", "answer": "باکو تھا۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.22965377569198608}
+{"uid": "mtrex-ur-capitals-000031", "answer": "اندرونی منگول خود مختار علاقہ کا دارالحکومت ہوہوٹ ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0007911470020189881}
+{"uid": "mtrex-ur-capitals-000032", "answer": "لیک کاؤنٹی، کیلیفورنیا کا دارالحکومت لیکوڈ کہلاتا ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.02419576421380043}
+{"uid": "mtrex-ur-capitals-000033", "answer": "تھرسٹن کاؤنٹی، واشنگٹن کا دارالحکومت موزینٹن ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.007390079088509083}
+{"uid": "mtrex-ur-capitals-000034", "answer": "فریڈریشیا میونسپلٹی کا دارالحکومت کولن ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.06319258362054825}
+{"uid": "mtrex-ur-capitals-000035", "answer": "کویت کا دارالحکومت کویت شہر ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03555526211857796}
+{"uid": "mtrex-ur-capitals-000036", "answer": "ماسکو ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8173559904098511}
+{"uid": "mtrex-ur-capitals-000037", "answer": "آئگا-آئی-لے-تائی کا دارالحکومت وینتھی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1908283680677414}
+{"uid": "mtrex-ur-capitals-000038", "answer": "موزمبیق کا دارالحکومت ماپوتو ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3352991044521332}
+{"uid": "mtrex-ur-capitals-000039", "answer": "فریمانٹ کاؤنٹی کا دارالحکومت وائنڈسار کہلاتا ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.46676915884017944}
+{"uid": "mtrex-ur-capitals-000040", "answer": "سیریری ضلع کا دارالحکومت سیریری ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.6072522401809692}
+{"uid": "mtrex-ur-capitals-000041", "answer": "سان میگوئل کاؤنٹی، نیو میکسیکو کا دارالحکومت لاس وگاس ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2332257628440857}
+{"uid": "mtrex-ur-capitals-000042", "answer": "توسننسکی کا دارالحکومت ہیلسنکی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.41435644030570984}
+{"uid": "mtrex-ur-capitals-000043", "answer": "بیکانیر ضلع کا دارالحکومت بیکانیر ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0758972316980362}
+{"uid": "mtrex-ur-capitals-000044", "answer": "ہینرکیمونٹ کا کینٹن کا دارالحکومت فریبورگ ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.000588366121519357}
+{"uid": "mtrex-ur-capitals-000045", "answer": "نیو ساؤتھ ویلز (آسٹریلیا) کا دارالحکومت سڈنی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.2345975637435913}
+{"uid": "mtrex-ur-capitals-000046", "answer": "منسک گورنری کا دارالحکومت منسک ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.057353563606739044}
+{"uid": "mtrex-ur-capitals-000047", "answer": "اموی کا دارالحکومت دمشق تھا۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.07024900615215302}
+{"uid": "mtrex-ur-capitals-000048", "answer": "ٹولومنے کاؤنٹی کا دارالحکومت کیمبرج ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5272392630577087}
+{"uid": "mtrex-ur-capitals-000049", "answer": "پرتھ (Perth) مغربی آسٹریلیا کا دارالحکومت ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 2.915409564971924}
+{"uid": "mtrex-ur-capitals-000050", "answer": "کاؤنٹی کارک کا دارالحکومت کاؤنٹی کارک ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09976198524236679}
+{"uid": "mtrex-ur-capitals-000051", "answer": "سنتا فی کا دارالحکومت ریکجیکسٹر، نیو ساؤتھ ویلز، آسٹریلیا ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 4.7901153564453125}
+{"uid": "mtrex-ur-capitals-000052", "answer": "نانٹری کا ضلع کا دارالحکومت ٹرنے کے ہیں۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.18317073583602905}
+{"uid": "mtrex-ur-capitals-000053", "answer": "مرزوق کا دارالحکومت بیدہ۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.23298464715480804}
+{"uid": "mtrex-ur-capitals-000054", "answer": "صوبہ بینیوینتو کا دارالحکومت کونسلے ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.012415653094649315}
+{"uid": "mtrex-ur-capitals-000055", "answer": "اپسالا کاؤنٹی کا دارالحکومت اپسالا ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.5522664189338684}
+{"uid": "mtrex-ur-capitals-000056", "answer": "تلمچ ریجن کا دارالحکومت زوگدربوں ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.46460747718811035}
+{"uid": "mtrex-ur-capitals-000057", "answer": "الامیکی کاؤنٹی کا دارالحکومت ہیڈلی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1476271152496338}
+{"uid": "mtrex-ur-capitals-000058", "answer": "ایننےپے-روہر کا دارالحکومت مانہائم کے شہر میں ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9909892082214355}
+{"uid": "mtrex-ur-capitals-000059", "answer": "ہڈسن کاؤنٹی کا دارالحکومت کینٹن کے شہر ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.00018745148554444313}
+{"uid": "mtrex-ur-capitals-000060", "answer": "گوانید کا دارالحکومت لائیزون کہلاتا ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2835719585418701}
+{"uid": "mtrex-ur-capitals-000061", "answer": "میٹھا گھاس کا دارالحکومت کولکاتا ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.017444834113121033}
+{"uid": "mtrex-ur-capitals-000062", "answer": "منی پوری کا دارالحکومت ویلور ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06062489375472069}
+{"uid": "mtrex-ur-capitals-000063", "answer": "لاس ویلاس کا دارالحکومت میناس کرسس ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.15164470672607422}
+{"uid": "mtrex-ur-capitals-000064", "answer": "نووی ٹارگ کا دارالحکومت نووی ٹارگ ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.2881678342819214}
+{"uid": "mtrex-ur-capitals-000065", "answer": "والڈشوٹ (ضلع) کا دارالحکومت والڈشوٹ ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.7155284881591797}
+{"uid": "mtrex-ur-capitals-000066", "answer": "وانس کا ضلع کا دارالحکومت وانس ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 2.621622085571289}
+{"uid": "mtrex-ur-capitals-000067", "answer": "پرٹ کاؤنٹی کا دارالحکومت پرت کے شہر ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.027776528149843216}
+{"uid": "mtrex-ur-capitals-000068", "answer": "پاوویلی کا کینٹون کا دارالحکومت لاگنو ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9441846609115601}
+{"uid": "mtrex-ur-capitals-000069", "answer": "انسباخ (ضلع) کا دارالحکومت انسباخ ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.31227385997772217}
+{"uid": "mtrex-ur-capitals-000070", "answer": "شمالی کیرولائنا کا دارالحکومت رالی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0154966339468956}
+{"uid": "mtrex-ur-capitals-000071", "answer": "رانسم کاؤنٹی کا دارالحکومت ہیڈلبروک ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.47374430298805237}
+{"uid": "mtrex-ur-capitals-000072", "answer": "کافی کاؤنٹی، الاباما کا دارالحکومت ایسٹلن ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.24542033672332764}
+{"uid": "mtrex-ur-capitals-000073", "answer": "بروکس کاؤنٹی، ٹیکساس کا دارالحکومت ایڈوائرڈ کہلاتا ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6998817920684814}
+{"uid": "mtrex-ur-capitals-000074", "answer": "سالٹ لیک سٹی، یوٹاہ کا دارالحکومت ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0006699691293761134}
+{"uid": "mtrex-ur-capitals-000075", "answer": "پیمسکوت کاؤنٹی، میزوری کا دارالحکومت ہیوڈالن ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.36255472898483276}
+{"uid": "mtrex-ur-capitals-000076", "answer": "نادیورینا ریون کا دارالحکومت پریٹوریا ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 2.8050990104675293}
+{"uid": "mtrex-ur-capitals-000077", "answer": "ہوامنگا کا دارالحکومت باماکو ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.00012086762581020594}
+{"uid": "mtrex-ur-capitals-000078", "answer": "کرزیشووٹس کا دارالحکومت کرزیشووٹس ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4585062861442566}
+{"uid": "mtrex-ur-capitals-000079", "answer": "امیرلینڈ کا دارالحکومت پریسبورگ ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06782613694667816}
+{"uid": "mtrex-ur-capitals-000080", "answer": "ہارنی کاؤنٹی کا دارالحکومت کیمبرج، ماساچوسٹس ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.00011219806037843227}
+{"uid": "mtrex-ur-capitals-000081", "answer": "مسکو ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3136345446109772}
+{"uid": "mtrex-ur-capitals-000082", "answer": "باندونگ۔", "label": 0, "label_rule": "matches", "first_token_entropy": 2.415586471557617}
+{"uid": "mtrex-ur-capitals-000083", "answer": "کاسائی-اوکسیڈینٹل کا دارالحکومت کازان ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 1.06288743019104}
+{"uid": "mtrex-ur-capitals-000084", "answer": "بیلاروس کا دارالحکومت مینسک ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.025946974754333496}
+{"uid": "mtrex-ur-capitals-000085", "answer": "کیلا پیریش کا دارالحکومت ڈھاکا ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.06977323442697525}
+{"uid": "mtrex-ur-capitals-000086", "answer": "داواؤ اورینٹل کا دارالحکومت جے پور ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6097996234893799}
+{"uid": "mtrex-ur-capitals-000087", "answer": "چین کا دارالحکومت بیجنگ ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 1.2721983194351196}
+{"uid": "mtrex-ur-capitals-000088", "answer": "جبل لبنان گورنریٹ کا دارالحکومت بیروت ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.218336284160614}
+{"uid": "mtrex-ur-capitals-000089", "answer": "گلوچسٹر کاؤنٹی، ورجینیا کا دارالحکومت گلوچسٹر ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1129242330789566}
+{"uid": "mtrex-ur-capitals-000090", "answer": "مدوگ کا دارالحکومت پلیٹیور کہلاتا ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.12109392881393433}
+{"uid": "mtrex-ur-capitals-000091", "answer": "چوواش خودمختار سوویت سوشلسٹ جمہوریہ کا دارالحکومت سیمبرا ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.22359250485897064}
