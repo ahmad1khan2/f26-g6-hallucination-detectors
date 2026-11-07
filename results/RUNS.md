@@ -12,3 +12,4 @@ One line per stage start, appended by `scripts/run_phase3.py`.
 | 2026-11-06T18:00:21 | DESKTOP-O11JBVQ (NVIDIA RTX A4000) | verify --partial | 04e20e1 |
 | 2026-11-07T00:54:19 | DESKTOP-O11JBVQ (NVIDIA RTX A4000) | verify --partial | d6ca808 |
 | 2026-11-07T02:08:47 | DESKTOP-O11JBVQ (NVIDIA RTX A4000) | verify | 3f1d66e |
+| 2026-11-07T15:51:33 | lapitopi (cpu) | verify | 92cf078 |

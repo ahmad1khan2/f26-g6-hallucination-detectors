@@ -7,16 +7,17 @@ models/
 __pycache__/
 .ipynb_checkpoints/
 
-# Claude Code local files (never track)
+# local tool files (never track)
 CLAUDE.md
 claude-notes/
 .claude/
 
-# Reports live outside the repo (Deliverables/N); only the Phase 6 report may live in report/final/
+# Report work stays outside the repo; only final files live in Deliverables/N, and the Phase 6 report in report/final/
 report/*
 !report/final/
 *.pdf
 !report/final/**/*.pdf
+!Deliverables/**/*.pdf
 
 # Phase 3: large run outputs stay on the run machine
 results/raw/

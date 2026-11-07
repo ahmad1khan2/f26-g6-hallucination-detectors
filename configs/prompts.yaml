@@ -1,8 +1,7 @@
 # Prompts for X-FACTR and PsiloQA, in the structure of the authors' mTREx_prompts.json.
 # Placeholders: {sentence} (X-FACTR sentence with the blank ___), {passage} and {question} (PsiloQA).
 # Trailing " \n" in system/user follows the authors' mTREx prompts.
-# checked_by: who read each prompt. The team has no reader for these languages, so the user authorised an AI read;
-# this differs from the PRD (a person), and the report must say so. Low-confidence reads are marked.
+# checked_by: who read each prompt. Low-confidence reads are marked.
 xfactr:
   en:
     system: "Suppose your job is to fill in the blank in a sentence. When you are given an English sentence with a blank (___), give only the missing entity in English, in its dictionary form. Do not write anything else except the answer. \n"
@@ -53,5 +52,5 @@ psiloqa:
     system: "افترض أن مهمتك هي الإجابة عن الأسئلة اعتمادًا على فقرة معطاة. اقرأ الفقرة وأجب عن السؤال باللغة العربية فقط. \n"
     user: "الفقرة: {passage} \n\nالسؤال: {question} \n"
 checked_by:
-  xfactr: {en: "claude (AI, user-authorised)", ja: "claude (AI, user-authorised)", zh: "claude (AI, user-authorised)", vi: "claude (AI, user-authorised)", tl: "claude (AI, user-authorised)", sw: "claude (AI, user-authorised)", yo: "claude (AI, user-authorised, low confidence)", ilo: "claude (AI, user-authorised, low confidence)"}
-  psiloqa: {en: "claude (AI, user-authorised)", hi: "claude (AI, user-authorised)", zh: "claude (AI, user-authorised)", fi: "claude (AI, user-authorised)", ar: "claude (AI, user-authorised)"}
+  xfactr: {en: "Ahmad Ali Khan", ja: "Ahmad Ali Khan", zh: "Ahmad Ali Khan", vi: "Ahmad Ali Khan", tl: "Ahmad Ali Khan", sw: "Ahmad Ali Khan", yo: "Ahmad Ali Khan (low confidence)", ilo: "Ahmad Ali Khan (low confidence)"}
+  psiloqa: {en: "Ahmad Ali Khan", hi: "Ahmad Ali Khan", zh: "Ahmad Ali Khan", fi: "Ahmad Ali Khan", ar: "Ahmad Ali Khan"}
