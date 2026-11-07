@@ -1,0 +1,1380 @@
+{"uid": "xfactr-ja-P37-000083", "answer": "英語です。 (基本形)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9729438424110413}
+{"uid": "xfactr-ja-P30-000413", "answer": "アジア大陸にある。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.696165919303894}
+{"uid": "xfactr-ja-P103-000065", "answer": "作家です。 (オクタヴ・ミルボーは作家である。)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.27703920006752014}
+{"uid": "xfactr-ja-P190-000013", "answer": "東京です。 (この文は、モスクワと東京は姉妹都市であるという事実を示唆しているが、姉妹都市の関係は、姉妹都市の公式の宣言や条約によって確定する", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2882050573825836}
+{"uid": "xfactr-ja-P20-000060", "answer": "毒薬です。 (カリクストゥス1世は毒薬で死んだ。)", "label": 1, "label_rule": "matches", "first_token_entropy": 4.6771559715271}
+{"uid": "xfactr-ja-P527-000035", "answer": "大陸です。 (大陸は、海に囲まれていない大きな陸地です。)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.053399376571178436}
+{"uid": "xfactr-ja-P39-000019", "answer": "アメリカ合衆国大統領", "label": 0, "label_rule": "matches", "first_token_entropy": 2.195664405822754}
+{"uid": "xfactr-ja-P530-000492", "answer": "友好関係です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09300573915243149}
+{"uid": "xfactr-ja-P39-000068", "answer": "大統領です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0063446201384067535}
+{"uid": "xfactr-ja-P190-000549", "answer": "バーゼルです。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.629150390625}
+{"uid": "xfactr-ja-P190-000125", "answer": "ウィーンです。 (プラハはウィーンと姉妹都市である)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0019515111343935132}
+{"uid": "xfactr-ja-P47-000583", "answer": "イエメンと隣接している。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.051504943519830704}
+{"uid": "xfactr-ja-P463-000251", "answer": "オーストラリア連邦", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3357097804546356}
+{"uid": "xfactr-ja-P47-000082", "answer": "マレーシア", "label": 0, "label_rule": "matches", "first_token_entropy": 0.37002235651016235}
+{"uid": "xfactr-ja-P190-000770", "answer": "サンティアゴとバルセロナは姉妹都市である。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6533136963844299}
+{"uid": "xfactr-ja-P103-000095", "answer": "作家です。 (コクトージャンはフランスの作家です)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3195061683654785}
+{"uid": "xfactr-ja-P17-000123", "answer": "チェコ共和国（チェコ）", "label": 1, "label_rule": "matches", "first_token_entropy": 0.16809946298599243}
+{"uid": "xfactr-ja-P190-000494", "answer": "チェルニャーヒウ", "label": 1, "label_rule": "matches", "first_token_entropy": 3.232137680053711}
+{"uid": "xfactr-ja-P47-000359", "answer": "トーゴーと隣接している。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.1386110931634903}
+{"uid": "xfactr-ja-P1376-000116", "answer": "カザフスタン", "label": 1, "label_rule": "matches", "first_token_entropy": 0.19896167516708374}
+{"uid": "xfactr-ja-P47-000254", "answer": "ザンビアはモザンビークと隣接している。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.07572434842586517}
+{"uid": "xfactr-ja-P47-000432", "answer": "ルーマニアとウクライナ", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0003804173902608454}
+{"uid": "xfactr-ja-P37-000027", "answer": "ベトナム語", "label": 0, "label_rule": "matches", "first_token_entropy": 0.026076626032590866}
+{"uid": "xfactr-ja-P37-000253", "answer": "スワヒリ語", "label": 0, "label_rule": "matches", "first_token_entropy": 0.07847186923027039}
+{"uid": "xfactr-ja-P190-000667", "answer": "クラクフです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.045631639659404755}
+{"uid": "xfactr-ja-P47-000413", "answer": "カザフスタン", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0832972303032875}
+{"uid": "xfactr-ja-P190-000135", "answer": "東京です。 (この文は、モスクワと東京は姉妹都市であるという事実を示唆しているが、姉妹都市の関係は、姉妹都市の公式の宣言や条約によって確定する", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2882050573825836}
+{"uid": "xfactr-ja-P47-000037", "answer": "ベルギーとスペイン", "label": 0, "label_rule": "matches", "first_token_entropy": 0.022276433184742928}
+{"uid": "xfactr-ja-P190-000637", "answer": "マニラです。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.9862167835235596}
+{"uid": "xfactr-ja-P47-000511", "answer": "テネシー州と隣接している。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5473339557647705}
+{"uid": "xfactr-ja-P1376-000079", "answer": "チラナはバグダッドの首都である。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3913850784301758}
+{"uid": "xfactr-ja-P527-000069", "answer": "国々からなる。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6178780794143677}
+{"uid": "xfactr-ja-P30-000180", "answer": "アメリカ大陸にある。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.29779052734375}
+{"uid": "xfactr-ja-P190-000996", "answer": "アムマンです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06946087628602982}
+{"uid": "xfactr-ja-P530-000472", "answer": "友好関係です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.14597788453102112}
+{"uid": "xfactr-ja-P131-000079", "answer": "インディアナポリス", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6884365081787109}
+{"uid": "xfactr-ja-P530-000645", "answer": "国交（ぎょう）", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8517891764640808}
+{"uid": "xfactr-ja-P190-000455", "answer": "シンガポールです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.22026406228542328}
+{"uid": "xfactr-ja-P30-000278", "answer": "大西洋大陸", "label": 1, "label_rule": "matches", "first_token_entropy": 2.638657331466675}
+{"uid": "xfactr-ja-P30-000107", "answer": "アフリカ大陸にある。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.004727554973214865}
+{"uid": "xfactr-ja-P530-000318", "answer": "多くの国と国交がある。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1130173206329346}
+{"uid": "xfactr-ja-P47-000074", "answer": "ネパール、インド、ブータン、ミャンマー、ラオス、モンゴル、カザフスタン、キルギス、タジキスタン、ウズベキスタン、タ", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3203487694263458}
+{"uid": "xfactr-ja-P47-000452", "answer": "マリです。 (マリとはセネガルと隣接している国です)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.007204545196145773}
+{"uid": "xfactr-ja-P937-000085", "answer": "精神分析学者です。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7304797172546387}
+{"uid": "xfactr-ja-P530-000728", "answer": "国交（くっこう）", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5586771965026855}
+{"uid": "xfactr-ja-P47-000125", "answer": "ザンビアはモザンビークと隣接している。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07572434842586517}
+{"uid": "xfactr-ja-P190-000731", "answer": "ビルバオです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6465095281600952}
+{"uid": "xfactr-ja-P463-000030", "answer": "アラブ首長国連邦", "label": 0, "label_rule": "matches", "first_token_entropy": 0.621474027633667}
+{"uid": "xfactr-ja-P47-000353", "answer": "ブラジルです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0015491978265345097}
+{"uid": "xfactr-ja-P530-000521", "answer": "友好関係です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09477018564939499}
+{"uid": "xfactr-ja-P47-000167", "answer": "南アフリカです。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.12131502479314804}
+{"uid": "xfactr-ja-P530-000070", "answer": "日本です。 (文の文脈から推測する必要がありますが、文の文脈から日本とドイツは国交があることは明らかです)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.39430615305900574}
+{"uid": "xfactr-ja-P1376-000250", "answer": "マルターズバーグ", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4957108199596405}
+{"uid": "xfactr-ja-P530-000419", "answer": "日本です。 (ノルウェイとはノルウェーです)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.623310387134552}
+{"uid": "xfactr-ja-P530-000855", "answer": "友好関係です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.12230737507343292}
+{"uid": "xfactr-ja-P530-000316", "answer": "友好関係です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09477018564939499}
+{"uid": "xfactr-ja-P47-000307", "answer": "インディアナ州です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.14058147370815277}
+{"uid": "xfactr-ja-P47-000202", "answer": "Tです。 (TはAの隣にあります)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.124044418334961}
+{"uid": "xfactr-ja-P530-000188", "answer": "国交（くっこう）", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8497507572174072}
+{"uid": "xfactr-ja-P463-000158", "answer": "カリブ海諸国", "label": 1, "label_rule": "matches", "first_token_entropy": 0.13744249939918518}
+{"uid": "xfactr-ja-P530-000763", "answer": "インドです。 (インドとは国交がある)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.020663585513830185}
+{"uid": "xfactr-ja-P530-000448", "answer": "イスラエルです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.004398399032652378}
+{"uid": "xfactr-ja-P47-000266", "answer": "タイと隣接している。", "label": 1, "label_rule": "matches", "first_token_entropy": 3.0046486854553223}
+{"uid": "xfactr-ja-P47-000405", "answer": "オーストリア、チェコスロバキア、ポーランド、スイス、フランス、ベルギー、オランダ、ルクセンブルク、ドイツ、デンマーク、ノルウェー、ス", "label": 0, "label_rule": "matches", "first_token_entropy": 0.04949318617582321}
+{"uid": "xfactr-ja-P530-000676", "answer": "パキスタンです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06564624607563019}
+{"uid": "xfactr-ja-P530-000934", "answer": "イスラエルです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.004224671982228756}
+{"uid": "xfactr-ja-P17-000484", "answer": "南米です。 (南米は、南アメリカ大陸を指す言葉です。)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3465166091918945}
+{"uid": "xfactr-ja-P530-000956", "answer": "アルゼンチンです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0779946818947792}
+{"uid": "xfactr-ja-P47-000245", "answer": "アゼルバイジャン", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5097448825836182}
+{"uid": "xfactr-ja-P530-000155", "answer": "国交（くっこう）", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8497507572174072}
+{"uid": "xfactr-ja-P47-000605", "answer": "インドネシアと隣接している。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0009782337583601475}
+{"uid": "xfactr-ja-P407-000052", "answer": "Danielは《名詞》で書かれている。", "label": 1, "label_rule": "matches", "first_token_entropy": 2.3152856826782227}
+{"uid": "xfactr-ja-P530-000203", "answer": "オーストラリア、ニュージーランド、フィジー、ソロモン諸島、バヌアツ、ナウル、トンガ、キリバス、ナウル、サモア、トケラウ、ク", "label": 0, "label_rule": "matches", "first_token_entropy": 0.007035269867628813}
+{"uid": "xfactr-ja-P530-000029", "answer": "日本です。 (日本はイタリアと国交がある)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3967368006706238}
+{"uid": "xfactr-ja-P530-000414", "answer": "イスラエルです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0018449279014021158}
+{"uid": "xfactr-ja-P190-000005", "answer": "東京です。 (ベルリンと東京は姉妹都市である)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2676020860671997}
+{"uid": "xfactr-ja-P47-000528", "answer": "スーダンと隣接している。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.025453755632042885}
+{"uid": "xfactr-ja-P37-000547", "answer": "スワヒリ語", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07847186923027039}
+{"uid": "xfactr-ja-P47-000260", "answer": "アルゼンチンと隣接している。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.011829627677798271}
+{"uid": "xfactr-ja-P530-000900", "answer": "日本です。 (日本はイタリアと国交がある)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3967368006706238}
+{"uid": "xfactr-ja-P37-000797", "answer": "英語です。 (英語は、ツバルの公用語です。)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.6153913736343384}
+{"uid": "xfactr-ja-P530-000791", "answer": "トルコです。 (トルコはキプロスと国交がある)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0017494187923148274}
+{"uid": "xfactr-ja-P190-000633", "answer": "アムリッツァル", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4526236057281494}
+{"uid": "xfactr-ja-P463-000090", "answer": "社会主義国です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2446143925189972}
+{"uid": "xfactr-ja-P39-000001", "answer": "アメリカ合衆国大統領", "label": 0, "label_rule": "matches", "first_token_entropy": 1.4357515573501587}
+{"uid": "xfactr-ja-P47-000170", "answer": "Tです。 (TはAの隣にあります)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.124044418334961}
+{"uid": "xfactr-ja-P47-000292", "answer": "ジョージア州と隣接している。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0030689379200339317}
+{"uid": "xfactr-ja-P190-000326", "answer": "シカゴです。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1798629760742188}
+{"uid": "xfactr-ja-P47-000222", "answer": "タンザニアと隣接している。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.004220174625515938}
+{"uid": "xfactr-ja-P36-000178", "answer": "アスタナです。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.04772522673010826}
+{"uid": "xfactr-ja-P530-000442", "answer": "アメリカ合衆国と国交がある。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.410214900970459}
+{"uid": "xfactr-ja-P1376-000020", "answer": "オランダの首都である。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0001186343579320237}
+{"uid": "xfactr-ja-P1376-000087", "answer": "ロシアです。 (ロシアは、ラゴスとは、ロシア語で「湖」です。)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.012657465413212776}
+{"uid": "xfactr-ja-P47-000036", "answer": "ドイツ・ネーデルラント", "label": 1, "label_rule": "matches", "first_token_entropy": 0.008912944234907627}
+{"uid": "xfactr-ja-P30-000034", "answer": "ヨーロッパ大陸にある。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0030548155773431063}
+{"uid": "xfactr-ja-P37-000193", "answer": "ポルトガル語", "label": 0, "label_rule": "matches", "first_token_entropy": 0.012042395770549774}
+{"uid": "xfactr-ja-P69-000001", "answer": "ハーバード大学です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.26272982358932495}
+{"uid": "xfactr-ja-P530-000546", "answer": "スロベニアは日本と国交がある。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.409421682357788}
+{"uid": "xfactr-ja-P937-000249", "answer": "ライプニッツは、ライプニッツは、ライプニッツは、ライプニッツは、ライプニッツは、ライプニッツは、ライプニッツは、ライプニッツは、ライプ", "label": 1, "label_rule": "matches", "first_token_entropy": 0.15985411405563354}
+{"uid": "xfactr-ja-P17-000048", "answer": "大陸に位置する。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.47236937284469604}
+{"uid": "xfactr-ja-P1376-000065", "answer": "ギリシャの首都である。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.16227996349334717}
+{"uid": "xfactr-ja-P47-000154", "answer": "南アフリカ、モザンビーク", "label": 0, "label_rule": "matches", "first_token_entropy": 0.15744271874427795}
+{"uid": "xfactr-ja-P47-000052", "answer": "CとHです。", "label": 1, "label_rule": "matches", "first_token_entropy": 2.3309507369995117}
+{"uid": "xfactr-ja-P37-000018", "answer": "イタリア語です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.026010552421212196}
+{"uid": "xfactr-ja-P17-000269", "answer": "アルゼンチンです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.007927989587187767}
+{"uid": "xfactr-ja-P530-000011", "answer": "友好関係です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09477018564939499}
+{"uid": "xfactr-ja-P530-000249", "answer": "大韓民国は日本と国交がある。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.777534008026123}
+{"uid": "xfactr-ja-P530-000906", "answer": "ロシアと国交がある。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0015231281286105514}
+{"uid": "xfactr-ja-P530-000496", "answer": "友好関係です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.12230737507343292}
+{"uid": "xfactr-ja-P1376-000070", "answer": "ベトナムの", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0017969307955354452}
+{"uid": "xfactr-ja-P530-000544", "answer": "日本です。 (トルコは日本と国交がある。)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.46813321113586426}
+{"uid": "xfactr-ja-P530-000880", "answer": "日本です。 (文の文脈から推測する必要がありますが、文の文脈から日本とロシアは国交があることは明らかです)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.43819713592529297}
+{"uid": "xfactr-ja-P37-000863", "answer": "英語です。 (基本形)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.5851285457611084}
+{"uid": "xfactr-ja-P140-000444", "answer": "カトリック教徒です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.12778522074222565}
+{"uid": "xfactr-ja-P47-000549", "answer": "モンタナ州と隣接している。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07186366617679596}
+{"uid": "xfactr-ja-P47-000435", "answer": "テキサス州", "label": 1, "label_rule": "matches", "first_token_entropy": 0.13654741644859314}
+{"uid": "xfactr-ja-P47-000336", "answer": "ラトビアと隣接している。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0750039592385292}
+{"uid": "xfactr-ja-P190-000818", "answer": "マッシリアとパリは姉妹都市である。", "label": 1, "label_rule": "matches", "first_token_entropy": 2.3751838207244873}
+{"uid": "xfactr-ja-P190-000682", "answer": "サンフランシスコ", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8181627988815308}
+{"uid": "xfactr-ja-P190-000710", "answer": "長崎市です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5509749054908752}
+{"uid": "xfactr-ja-P361-000038", "answer": "南米（）です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6854541301727295}
+{"uid": "xfactr-ja-P463-000104", "answer": "南アジアです。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.062587857246399}
+{"uid": "xfactr-ja-P463-000187", "answer": "マーカス・スチュワート", "label": 1, "label_rule": "matches", "first_token_entropy": 3.678067684173584}
+{"uid": "xfactr-ja-P17-000203", "answer": "パキスタン首都", "label": 0, "label_rule": "matches", "first_token_entropy": 0.07353951036930084}
+{"uid": "xfactr-ja-P527-000389", "answer": "西ヨーロッパは、ドイツ、フランス、イギリス、オランダ、ベルギー、オーストリア、スイス、ルクセンブルク、アイスランド、ノルウェー、デンマーク", "label": 0, "label_rule": "matches", "first_token_entropy": 0.9528365731239319}
+{"uid": "xfactr-ja-P131-000101", "answer": "コネチカット", "label": 1, "label_rule": "matches", "first_token_entropy": 1.9491996765136719}
+{"uid": "xfactr-ja-P30-000365", "answer": "大陸（アフリカ）", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5876482725143433}
+{"uid": "xfactr-ja-P136-000122", "answer": "ソウルミュージック", "label": 1, "label_rule": "matches", "first_token_entropy": 0.04807994142174721}
+{"uid": "xfactr-ja-P463-000035", "answer": "北欧の国々", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1565498113632202}
+{"uid": "xfactr-ja-P36-000042", "answer": "ジャカルタです。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.21253752708435059}
+{"uid": "xfactr-ja-P39-000483", "answer": "ドイツのカトリック教会", "label": 1, "label_rule": "matches", "first_token_entropy": 0.23382322490215302}
+{"uid": "xfactr-ja-P190-000754", "answer": "マナーマと姉妹都市である。", "label": 1, "label_rule": "matches", "first_token_entropy": 3.577974557876587}
+{"uid": "xfactr-ja-P463-000036", "answer": "ユーゴスラビア", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3963983952999115}
+{"uid": "xfactr-ja-P190-000353", "answer": "東京です。 (東京と北京は姉妹都市である)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.262654572725296}
+{"uid": "xfactr-ja-P190-000228", "answer": "コペンハーゲン", "label": 0, "label_rule": "matches", "first_token_entropy": 0.07864095270633698}
+{"uid": "xfactr-ja-P30-000160", "answer": "大西洋大陸", "label": 1, "label_rule": "matches", "first_token_entropy": 4.023823261260986}
+{"uid": "xfactr-ja-P463-000521", "answer": "オーストラリア連邦", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5130781531333923}
+{"uid": "xfactr-ja-P463-000880", "answer": "アフリカの北部", "label": 1, "label_rule": "matches", "first_token_entropy": 0.10057446360588074}
+{"uid": "xfactr-ja-P1376-000023", "answer": "チベット自治区", "label": 1, "label_rule": "matches", "first_token_entropy": 1.114990472793579}
+{"uid": "xfactr-ja-P407-000474", "answer": "ロシア語で書かれている。", "label": 0, "label_rule": "matches", "first_token_entropy": 2.2186825275421143}
+{"uid": "xfactr-ja-P37-000004", "answer": "ロシア語です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0020578596740961075}
+{"uid": "xfactr-ja-P1376-000256", "answer": "モーリシャスです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.34178563952445984}
+{"uid": "xfactr-ja-P937-000005", "answer": "教育者です。 (ジョルジュ・ポンピドゥーは教育者でした。)", "label": 1, "label_rule": "matches", "first_token_entropy": 3.429471492767334}
+{"uid": "xfactr-ja-P37-000542", "answer": "英語です。 (ガンビアの公用語は英語です。)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.6106270551681519}
+{"uid": "xfactr-ja-P527-000014", "answer": "南アメリカ大陸は12の国からなる。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3722989559173584}
+{"uid": "xfactr-ja-P138-000006", "answer": "仏教は、仏（釈迦）にちなんで名付けられた。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0005289237597025931}
+{"uid": "xfactr-ja-P103-000037", "answer": "思想家です。 (ルソーは思想家である)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06292880326509476}
+{"uid": "xfactr-ja-P131-000062", "answer": "ジェファーソンシティ", "label": 1, "label_rule": "matches", "first_token_entropy": 0.30809569358825684}
+{"uid": "xfactr-ja-P39-000373", "answer": "ローマ教皇です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.05088610202074051}
+{"uid": "xfactr-ja-P190-000056", "answer": "ウクライナの首都であるキエフと、ロシアの首都であるモスクワは姉妹都市である。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3369841575622559}
+{"uid": "xfactr-ja-P463-000458", "answer": "ポーランド人です。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2830357551574707}
+{"uid": "xfactr-ja-P106-000030", "answer": "ミュージシャンです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.022353392094373703}
+{"uid": "xfactr-ja-P30-000051", "answer": "ヨーロッパ大陸にある。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.003444955451413989}
+{"uid": "xfactr-ja-P17-000072", "answer": "西ヨーロッパ", "label": 1, "label_rule": "matches", "first_token_entropy": 0.19056186079978943}
+{"uid": "xfactr-ja-P190-000154", "answer": "マイアミです。", "label": 1, "label_rule": "matches", "first_token_entropy": 2.8380727767944336}
+{"uid": "xfactr-ja-P30-000065", "answer": "マルタ大陸", "label": 1, "label_rule": "matches", "first_token_entropy": 1.651444911956787}
+{"uid": "xfactr-ja-P407-000016", "answer": "フランス語です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.037557799369096756}
+{"uid": "xfactr-ja-P190-000002", "answer": "オレゴン州", "label": 1, "label_rule": "matches", "first_token_entropy": 2.188333749771118}
+{"uid": "xfactr-ja-P190-000029", "answer": "横浜市です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.02049706131219864}
+{"uid": "xfactr-ja-P36-000078", "answer": "ワシントンD.C.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5242915153503418}
+{"uid": "xfactr-ja-P138-000004", "answer": "コロンビア（アメリカ）", "label": 1, "label_rule": "matches", "first_token_entropy": 0.059600409120321274}
+{"uid": "xfactr-ja-P131-000047", "answer": "ハリスバーグ", "label": 1, "label_rule": "matches", "first_token_entropy": 0.010717740282416344}
+{"uid": "xfactr-ja-P30-000253", "answer": "オセアニア大陸", "label": 0, "label_rule": "matches", "first_token_entropy": 1.5067583322525024}
+{"uid": "xfactr-ja-P190-000243", "answer": "グアテマラシティ", "label": 1, "label_rule": "matches", "first_token_entropy": 0.026678010821342468}
+{"uid": "xfactr-ja-P937-000042", "answer": "政治家です。 (政治家)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6404168605804443}
+{"uid": "xfactr-ja-P30-000062", "answer": "台湾です。 (台湾は中華民国の本土です)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3531847596168518}
+{"uid": "xfactr-ja-P463-000420", "answer": "ユニオニズム", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9864026308059692}
+{"uid": "xfactr-ja-P463-000362", "answer": "中央アメリカ連邦国", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3696447014808655}
+{"uid": "xfactr-ja-P190-000083", "answer": "クラクフです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.045631639659404755}
+{"uid": "xfactr-ja-P39-000715", "answer": "アメリカ合衆国第25代大統領", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9469296932220459}
+{"uid": "xfactr-ja-P39-000004", "answer": "アメリカ大統領です。", "label": 0, "label_rule": "matches", "first_token_entropy": 1.5318031311035156}
+{"uid": "xfactr-ja-P30-000021", "answer": "南アメリカ大陸にある。", "label": 0, "label_rule": "matches", "first_token_entropy": 1.4022854566574097}
+{"uid": "xfactr-ja-P37-000420", "answer": "アラビア語", "label": 1, "label_rule": "matches", "first_token_entropy": 0.007958859205245972}
+{"uid": "xfactr-ja-P190-000279", "answer": "バーゼルです。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.629150390625}
+{"uid": "xfactr-ja-P190-000679", "answer": "パリです。 (パリはアテネと姉妹都市である)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.28437966108322144}
+{"uid": "xfactr-ja-P36-000229", "answer": "サナア。 (サナアはイエメンの首都)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.3000940680503845}
+{"uid": "xfactr-ja-P39-000032", "answer": "政治家です。 (文の意味は「政治家として政治に就いている」)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.14984628558158875}
+{"uid": "xfactr-ja-P190-000922", "answer": "アムマンです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06946087628602982}
+{"uid": "xfactr-ja-P36-000084", "answer": "チャドの首都", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5881121158599854}
+{"uid": "xfactr-ja-P190-000521", "answer": "台南市です。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.383584976196289}
+{"uid": "xfactr-ja-P407-000035", "answer": "映画です。 (映画)", "label": 1, "label_rule": "matches", "first_token_entropy": 2.187915563583374}
+{"uid": "xfactr-ja-P1376-000003", "answer": "日本の首都である。", "label": 0, "label_rule": "matches", "first_token_entropy": 1.1366856098175049}
+{"uid": "xfactr-ja-P937-000011", "answer": "ブルゴーザー", "label": 1, "label_rule": "matches", "first_token_entropy": 2.8760433197021484}
+{"uid": "xfactr-ja-P463-000106", "answer": "アフリカの国々", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0023365707602351904}
+{"uid": "xfactr-ja-P463-000068", "answer": "北ヨーロッパ", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9561622142791748}
+{"uid": "xfactr-ja-P37-000208", "answer": "ポルトガル語", "label": 0, "label_rule": "matches", "first_token_entropy": 0.058629367500543594}
+{"uid": "xfactr-ja-P37-000074", "answer": "ベラルーシ語", "label": 0, "label_rule": "matches", "first_token_entropy": 0.004264560528099537}
+{"uid": "xfactr-ja-P1376-000029", "answer": "南アフリカの", "label": 0, "label_rule": "matches", "first_token_entropy": 0.12827971577644348}
+{"uid": "xfactr-ja-P1376-000192", "answer": "モナコです。", "label": 1, "label_rule": "matches", "first_token_entropy": 2.422250270843506}
+{"uid": "xfactr-ja-P276-000031", "answer": "欧州です。 (欧州は「ヨーロッパ」のことです)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.20664158463478088}
+{"uid": "xfactr-ja-P37-000901", "answer": "ギリシャ語です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.004750232212245464}
+{"uid": "xfactr-ja-P39-000366", "answer": "ローマ教皇です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.015275398269295692}
+{"uid": "xfactr-ja-P37-000073", "answer": "ヒンディー語です。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5646640062332153}
+{"uid": "xfactr-ja-P30-000119", "answer": "アフリカ大陸にある。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.006343076471239328}
+{"uid": "xfactr-ja-P407-000011", "answer": "Danielは《名詞》で書かれている。", "label": 1, "label_rule": "matches", "first_token_entropy": 2.3152856826782227}
+{"uid": "xfactr-ja-P36-000193", "answer": "バマコーです。", "label": 0, "label_rule": "matches", "first_token_entropy": 2.1544055938720703}
+{"uid": "xfactr-ja-P131-000242", "answer": "アメリカ合衆国です。", "label": 1, "label_rule": "matches", "first_token_entropy": 2.4418561458587646}
+{"uid": "xfactr-ja-P1376-000010", "answer": "ブラジルです。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.00045034370850771666}
+{"uid": "xfactr-ja-P37-000178", "answer": "英語です。 (基本形)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.468744158744812}
+{"uid": "xfactr-ja-P138-000001", "answer": "バングラデシュ", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07375665009021759}
+{"uid": "xfactr-ja-P30-000217", "answer": "アフリカ大陸にある。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.029444612562656403}
+{"uid": "xfactr-ja-P30-000233", "answer": "アフリカ大陸にある。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.008908071555197239}
+{"uid": "xfactr-ja-P937-000047", "answer": "ロシアの鉄道技師", "label": 1, "label_rule": "matches", "first_token_entropy": 0.325082004070282}
+{"uid": "xfactr-ja-P36-000040", "answer": "バクーです。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.017906809225678444}
+{"uid": "xfactr-ja-P30-000008", "answer": "アジア大陸にある。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.02312086522579193}
+{"uid": "xfactr-ja-P36-000094", "answer": "サンティアゴです。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.1006961390376091}
+{"uid": "xfactr-ja-P30-000102", "answer": "アフリカ大陸にある。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.008002984337508678}
+{"uid": "xfactr-ja-P20-000087", "answer": "1944年1月31日", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4522051215171814}
+{"uid": "xfactr-ja-P37-000166", "answer": "フランス語です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.07013186067342758}
+{"uid": "xfactr-ja-P463-000256", "answer": "バルカン半島", "label": 1, "label_rule": "matches", "first_token_entropy": 0.020440423861145973}
+{"uid": "xfactr-ja-P103-000135", "answer": "古代ローマ人", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2091122567653656}
+{"uid": "xfactr-ja-P1376-000055", "answer": "メキシコシティは、メキシコの首都である。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.1518070548772812}
+{"uid": "xfactr-ja-P30-000314", "answer": "中央アジア大陸にある。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.5090203285217285}
+{"uid": "xfactr-ja-P30-000273", "answer": "アフリカ大陸にある。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0035840258933603764}
+{"uid": "xfactr-ja-P37-000188", "answer": "ギリシア語（ギリシャ語）", "label": 1, "label_rule": "matches", "first_token_entropy": 0.01878875494003296}
+{"uid": "xfactr-ja-P463-000037", "answer": "アジア太平洋地域のトランジット航空会社", "label": 1, "label_rule": "matches", "first_token_entropy": 4.128785133361816}
+{"uid": "xfactr-ja-P19-000969", "answer": "ドイツ人です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.031507015228271484}
+{"uid": "xfactr-ja-P37-000507", "answer": "英語です。 (基本形)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.621491551399231}
+{"uid": "xfactr-ja-P37-000737", "answer": "インドネシア語", "label": 1, "label_rule": "matches", "first_token_entropy": 0.004892564378678799}
+{"uid": "xfactr-ja-P37-000065", "answer": "スペイン語と英語", "label": 0, "label_rule": "matches", "first_token_entropy": 0.004057872109115124}
+{"uid": "xfactr-ja-P37-000174", "answer": "英語です。 (基本形)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9729438424110413}
+{"uid": "xfactr-ja-P27-000011", "answer": "サンクトペテルブルク", "label": 1, "label_rule": "matches", "first_token_entropy": 0.04143882542848587}
+{"uid": "xfactr-ja-P1412-000000", "answer": "歴史小説です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.005427698139101267}
+{"uid": "xfactr-ja-P37-000213", "answer": "スペイン語とグアラニー語", "label": 0, "label_rule": "matches", "first_token_entropy": 0.004795072600245476}
+{"uid": "xfactr-ja-P36-000038", "answer": "ベイルートです。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.22521543502807617}
+{"uid": "xfactr-ja-P131-000145", "answer": "インドの首都", "label": 0, "label_rule": "matches", "first_token_entropy": 0.03725431486964226}
+{"uid": "xfactr-ja-P140-000054", "answer": "カトリック教徒である。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09536520391702652}
+{"uid": "xfactr-ja-P1376-000011", "answer": "中華人民共和国です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.07078567147254944}
+{"uid": "xfactr-ja-P30-000015", "answer": "大陸（アジア）", "label": 0, "label_rule": "matches", "first_token_entropy": 2.3495445251464844}
+{"uid": "xfactr-ja-P1412-000006", "answer": "ロシアの政治家", "label": 1, "label_rule": "matches", "first_token_entropy": 0.04149654507637024}
+{"uid": "xfactr-ja-P30-000079", "answer": "南アメリカ大陸にある。", "label": 0, "label_rule": "matches", "first_token_entropy": 1.1728863716125488}
+{"uid": "xfactr-ja-P140-000223", "answer": "キリスト教徒です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.018584856763482094}
+{"uid": "xfactr-ja-P463-000049", "answer": "ユーロゾーンです。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3841959238052368}
+{"uid": "xfactr-ja-P463-000051", "answer": "カリブ海諸島", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1708565652370453}
+{"uid": "xfactr-ja-P36-000018", "answer": "ロンドンです。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.004783256910741329}
+{"uid": "xfactr-ja-P37-000356", "answer": "ラテン語です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2899874448776245}
+{"uid": "xfactr-ja-P140-000047", "answer": "イスラム教徒です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.13164570927619934}
+{"uid": "xfactr-ja-P37-000103", "answer": "ルーマニア語、ルーマニア語、ルーマニア語、ルーマニア語、ルーマニア語、ルーマニア語、ルーマニア語、ルーマニア語、ルーマニア語、ルーマニア語、", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0013095540925860405}
+{"uid": "xfactr-ja-P937-000027", "answer": "ドイツ民主共和国（東ドイツ）", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09073452651500702}
+{"uid": "xfactr-ja-P1412-000360", "answer": "ドイツ語の歴史", "label": 0, "label_rule": "matches", "first_token_entropy": 0.919160008430481}
+{"uid": "xfactr-ja-P30-000001", "answer": "北米大陸にある。", "label": 0, "label_rule": "matches", "first_token_entropy": 1.2499794960021973}
+{"uid": "xfactr-ja-P37-000177", "answer": "スペイン語です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0028052697889506817}
+{"uid": "xfactr-ja-P1376-000015", "answer": "フィンランドの首都である。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.059043414890766144}
+{"uid": "xfactr-ja-P361-000019", "answer": "ヨーロッパです。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0017853521276265383}
+{"uid": "xfactr-ja-P30-000239", "answer": "太平洋にある。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06167291849851608}
+{"uid": "xfactr-ja-P36-000086", "answer": "ベルリンです。 (ベルリン)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0014556336682289839}
+{"uid": "xfactr-ja-P463-000088", "answer": "コモンウェルス", "label": 1, "label_rule": "matches", "first_token_entropy": 0.22110781073570251}
+{"uid": "xfactr-ja-P463-000906", "answer": "アフリカ中央部", "label": 1, "label_rule": "matches", "first_token_entropy": 0.002580065745860338}
+{"uid": "xfactr-ja-P131-000038", "answer": "ジャクソンビル", "label": 1, "label_rule": "matches", "first_token_entropy": 0.14462873339653015}
+{"uid": "xfactr-ja-P463-000211", "answer": "アフリカです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0017260521417483687}
+{"uid": "xfactr-ja-P30-000222", "answer": "ヨーロッパ大陸にある。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.026979338377714157}
+{"uid": "xfactr-ja-P1376-000037", "answer": "イスラエルです。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0006146619562059641}
+{"uid": "xfactr-ja-P17-000105", "answer": "アメリカ合衆国中西部", "label": 0, "label_rule": "matches", "first_token_entropy": 1.8012619018554688}
+{"uid": "xfactr-ja-P30-000044", "answer": "アフリカ大陸にある。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.23176056146621704}
+{"uid": "xfactr-ja-P17-000050", "answer": "日本の首都です。", "label": 0, "label_rule": "matches", "first_token_entropy": 2.1890904903411865}
+{"uid": "xfactr-ja-P103-000013", "answer": "アメリカ大統領です。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8756386041641235}
+{"uid": "xfactr-ja-P37-000123", "answer": "キルギス語", "label": 1, "label_rule": "matches", "first_token_entropy": 0.018643025308847427}
+{"uid": "xfactr-ja-P131-000435", "answer": "アフリカ大陸", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0006741094402968884}
+{"uid": "xfactr-ja-P30-000020", "answer": "ヨーロッパ大陸にある。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.004042280372232199}
+{"uid": "xfactr-ja-P1376-000474", "answer": "イスラエルです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0006146619562059641}
+{"uid": "xfactr-ja-P36-000028", "answer": "プレトリア市です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.025520699098706245}
+{"uid": "xfactr-ja-P30-000163", "answer": "アフリカ大陸にある。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.006235677748918533}
+{"uid": "xfactr-ja-P463-000134", "answer": "アフリカ統合機構", "label": 1, "label_rule": "matches", "first_token_entropy": 0.002265356946736574}
+{"uid": "xfactr-ja-P140-000082", "answer": "カトリック教徒である。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.15815886855125427}
+{"uid": "xfactr-ja-P37-000013", "answer": "スペイン語です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0028399252332746983}
+{"uid": "xfactr-ja-P37-000742", "answer": "フランス語、ドイツ語、ルクセンブルク語", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0019239718094468117}
+{"uid": "xfactr-ja-P1376-000193", "answer": "アルジェリアの首都である。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.1865406334400177}
+{"uid": "xfactr-ja-P1376-000040", "answer": "クロアチアの", "label": 0, "label_rule": "matches", "first_token_entropy": 0.002292047254741192}
+{"uid": "xfactr-ja-P463-000224", "answer": "アフリカ大陸", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0050153182819485664}
+{"uid": "xfactr-ja-P131-000070", "answer": "ドルトムントです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.18085114657878876}
+{"uid": "xfactr-ja-P1376-000195", "answer": "トルクメニスタン", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6212571859359741}
+{"uid": "xfactr-ja-P527-000019", "answer": "南アメリカと中央アメリカ", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8454444408416748}
+{"uid": "xfactr-ja-P463-000114", "answer": "北米連邦国", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7539216876029968}
+{"uid": "xfactr-ja-P103-000110", "answer": "ローマ教皇です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.20914898812770844}
+{"uid": "xfactr-ja-P39-000025", "answer": "アメリカ合衆国大統領", "label": 0, "label_rule": "matches", "first_token_entropy": 1.0225317478179932}
+{"uid": "xfactr-ja-P37-000223", "answer": "アブハズ語", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2187522053718567}
+{"uid": "xfactr-ja-P463-000573", "answer": "ユーロゾーンです。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3841959238052368}
+{"uid": "xfactr-ja-P36-000140", "answer": "リヤドです。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.005360884591937065}
+{"uid": "xfactr-ja-P463-000407", "answer": "アフリカ大陸", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0050153182819485664}
+{"uid": "xfactr-ja-P17-000141", "answer": "地中海沿岸", "label": 1, "label_rule": "matches", "first_token_entropy": 0.018843594938516617}
+{"uid": "xfactr-ja-P30-000200", "answer": "アメリカ大陸にある。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2979764938354492}
+{"uid": "xfactr-ja-P36-000020", "answer": "ニューデリーです。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.07134269177913666}
+{"uid": "xfactr-ja-P17-000006", "answer": "アメリカ合衆国東部", "label": 0, "label_rule": "matches", "first_token_entropy": 1.3029277324676514}
+{"uid": "xfactr-ja-P140-000045", "answer": "カトリック教徒です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.14141222834587097}
+{"uid": "xfactr-ja-P463-000062", "answer": "西半球に属する", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4915330410003662}
+{"uid": "xfactr-ja-P17-000068", "answer": "イスラエルです。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0006464745383709669}
+{"uid": "xfactr-ja-P1376-000007", "answer": "アイルランドの首都である。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0002335655881324783}
+{"uid": "xfactr-ja-P937-000014", "answer": "労働者です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0005403222166933119}
+{"uid": "xfactr-ja-P30-000271", "answer": "ヨーロッパ大陸にある。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.004437007009983063}
+{"uid": "xfactr-ja-P36-000281", "answer": "オクラホマシティ", "label": 0, "label_rule": "matches", "first_token_entropy": 0.00831519067287445}
+{"uid": "xfactr-ja-P30-000174", "answer": "アフリカ大陸にある。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.008541792631149292}
+{"uid": "xfactr-ja-P17-000074", "answer": "ヨーロッパに", "label": 1, "label_rule": "matches", "first_token_entropy": 0.015248006209731102}
+{"uid": "xfactr-ja-P17-000029", "answer": "アメリカ合衆国中西部", "label": 0, "label_rule": "matches", "first_token_entropy": 1.886407732963562}
+{"uid": "xfactr-ja-P463-000162", "answer": "北欧の国々", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4182723760604858}
+{"uid": "xfactr-ja-P36-000297", "answer": "キガリです。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.7591434717178345}
+{"uid": "xfactr-ja-P17-000077", "answer": "アメリカ合衆国（米国）", "label": 0, "label_rule": "matches", "first_token_entropy": 1.6833500862121582}
+{"uid": "xfactr-ja-P17-000052", "answer": "アメリカ合衆国東部", "label": 0, "label_rule": "matches", "first_token_entropy": 1.7144110202789307}
+{"uid": "xfactr-ja-P17-000090", "answer": "ドイツ（ドイツ語）", "label": 1, "label_rule": "matches", "first_token_entropy": 0.02020857110619545}
+{"uid": "xfactr-ja-P463-000247", "answer": "南米です。 (南米は、南アメリカ大陸を指す言葉です。)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6370900869369507}
+{"uid": "xfactr-ja-P103-000008", "answer": "小説家です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.028300795704126358}
+{"uid": "xfactr-ja-P138-000000", "answer": "ドイツ大帝（ドイツ語: Deutscher Kaiser）", "label": 1, "label_rule": "matches", "first_token_entropy": 0.014885125681757927}
+{"uid": "xfactr-ja-P27-000001", "answer": "アメリカ合衆国（アメリカ）", "label": 0, "label_rule": "matches", "first_token_entropy": 1.3789358139038086}
+{"uid": "xfactr-ja-P103-000045", "answer": "キリスト教の教祖", "label": 1, "label_rule": "matches", "first_token_entropy": 0.005219410173594952}
+{"uid": "xfactr-ja-P36-000247", "answer": "デリークルー", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5715548992156982}
+{"uid": "xfactr-ja-P39-000083", "answer": "アメリカ合衆国大統領", "label": 0, "label_rule": "matches", "first_token_entropy": 1.637265920639038}
+{"uid": "xfactr-ja-P27-000040", "answer": "アメリカ合衆国出身である。", "label": 0, "label_rule": "matches", "first_token_entropy": 1.2057346105575562}
+{"uid": "xfactr-ja-P101-000081", "answer": "物理学者です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.7299928069114685}
+{"uid": "xfactr-ja-P138-000009", "answer": "キリスト（イエス・キリスト）", "label": 0, "label_rule": "matches", "first_token_entropy": 0.05017431825399399}
+{"uid": "xfactr-ja-P527-000165", "answer": "国々からなる。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6178780794143677}
+{"uid": "xfactr-ja-P407-000012", "answer": "リチャードです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09865394234657288}
+{"uid": "xfactr-ja-P140-000007", "answer": "ローマ・カトリック", "label": 1, "label_rule": "matches", "first_token_entropy": 0.04736051335930824}
+{"uid": "xfactr-ja-P36-000184", "answer": "ダルバンです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9696858525276184}
+{"uid": "xfactr-ja-P127-000068", "answer": "非営利団体", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2606413662433624}
+{"uid": "xfactr-ja-P36-000030", "answer": "テヘランです。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.012907430529594421}
+{"uid": "xfactr-ja-P36-000204", "answer": "ワシントンD.C.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.026719553396105766}
+{"uid": "xfactr-ja-P17-000085", "answer": "アメリカ合衆国東部", "label": 0, "label_rule": "matches", "first_token_entropy": 1.1252728700637817}
+{"uid": "xfactr-ja-P17-000134", "answer": "アメリカ合衆国西部", "label": 0, "label_rule": "matches", "first_token_entropy": 1.3727078437805176}
+{"uid": "xfactr-ja-P36-000102", "answer": "カラカスです。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0996355190873146}
+{"uid": "xfactr-ja-P1376-000232", "answer": "マレーシア", "label": 1, "label_rule": "matches", "first_token_entropy": 0.17953066527843475}
+{"uid": "xfactr-ja-P36-000061", "answer": "ロンドンです。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.004459734540432692}
+{"uid": "xfactr-ja-P131-000630", "answer": "バミューダ諸島", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9083563685417175}
+{"uid": "xfactr-ja-P361-000276", "answer": "中央アメリカです。 (中央アメリカ)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3957386612892151}
+{"uid": "xfactr-ja-P527-000036", "answer": "南アメリカ大陸は12の国からなる。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3722989559173584}
+{"uid": "xfactr-ja-P1376-000060", "answer": "イギリスの首都である。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.00901949591934681}
+{"uid": "xfactr-ja-P101-000466", "answer": "数学者です。 (数学者は、数学を専門としている人です。)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.244117021560669}
+{"uid": "xfactr-ja-P131-000003", "answer": "ニューヨーク市", "label": 1, "label_rule": "matches", "first_token_entropy": 0.032610852271318436}
+{"uid": "xfactr-ja-P527-000240", "answer": "国々からなる。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2380635738372803}
+{"uid": "xfactr-ja-P1376-000000", "answer": "アメリカ合衆国です。", "label": 0, "label_rule": "matches", "first_token_entropy": 1.1944299936294556}
+{"uid": "xfactr-ja-P140-000504", "answer": "カトリック教徒です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.14310984313488007}
+{"uid": "xfactr-ja-P527-000079", "answer": "南アメリカ大陸は12の国からなる。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3722989559173584}
+{"uid": "xfactr-ja-P17-000146", "answer": "カタール首都", "label": 0, "label_rule": "matches", "first_token_entropy": 1.2018768787384033}
+{"uid": "xfactr-ja-P1412-000052", "answer": "ミケランジェロ・ブオナローティ", "label": 1, "label_rule": "matches", "first_token_entropy": 0.22833871841430664}
+{"uid": "xfactr-ja-P1376-000089", "answer": "ドイツの首都である。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.002748819999396801}
+{"uid": "xfactr-ja-P527-000688", "answer": "学術分野の研究者", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5921363830566406}
+{"uid": "xfactr-ja-P17-000030", "answer": "アメリカ合衆国西部", "label": 0, "label_rule": "matches", "first_token_entropy": 2.009899616241455}
+{"uid": "xfactr-ja-P36-000022", "answer": "バンコクです。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.020164519548416138}
+{"uid": "xfactr-ja-P527-000128", "answer": "東ヨーロッパは、ポーランド、チェコ、ハンガリー、スロバキア、スロベニア、ルーマニア、ブルガリア、ベラルーシ、ウクライナ、ロシア", "label": 0, "label_rule": "matches", "first_token_entropy": 0.3584616482257843}
+{"uid": "xfactr-ja-P106-000002", "answer": "劇作家です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.578648030757904}
+{"uid": "xfactr-ja-P39-000038", "answer": "政治家です。 (文の文脈から推測)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07796208560466766}
+{"uid": "xfactr-ja-P937-000026", "answer": "画家です。 (ゴッホは画家でした。)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.16138584911823273}
+{"uid": "xfactr-ja-P131-000015", "answer": "サクラメントです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4657440781593323}
+{"uid": "xfactr-ja-P17-000093", "answer": "アメリカ合衆国中西部", "label": 0, "label_rule": "matches", "first_token_entropy": 1.346956491470337}
+{"uid": "xfactr-ja-P276-000020", "answer": "パリです。 (パリ)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0013899893965572119}
+{"uid": "xfactr-ja-P103-000317", "answer": "スペイン人です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.013455452397465706}
+{"uid": "xfactr-ja-P1376-000164", "answer": "モザンビーク", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3649516105651855}
+{"uid": "xfactr-ja-P131-000173", "answer": "中国の南端に位置する特別行政区", "label": 0, "label_rule": "matches", "first_token_entropy": 2.816772222518921}
+{"uid": "xfactr-ja-P36-000127", "answer": "サントドミンゴ", "label": 0, "label_rule": "matches", "first_token_entropy": 0.073896124958992}
+{"uid": "xfactr-ja-P39-000591", "answer": "教皇（きょうおう）", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0902584120631218}
+{"uid": "xfactr-ja-P36-000354", "answer": "ブジュンジュラ", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5949972867965698}
+{"uid": "xfactr-ja-P361-000258", "answer": "太陽系の惑星", "label": 0, "label_rule": "matches", "first_token_entropy": 0.010239986702799797}
+{"uid": "xfactr-ja-P39-000352", "answer": "教皇です。 (教皇は、カトリック教会の最高指導者です。)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.1049606204032898}
+{"uid": "xfactr-ja-P106-000006", "answer": "政治家です。 (政治家)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.012441808357834816}
+{"uid": "xfactr-ja-P361-000156", "answer": "大陸です。 (アジアは大陸の一部である。)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.08413821458816528}
+{"uid": "xfactr-ja-P495-000005", "answer": "古代エジプト", "label": 1, "label_rule": "matches", "first_token_entropy": 0.649806022644043}
+{"uid": "xfactr-ja-P36-000088", "answer": "ダマスカスです。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.09147237241268158}
+{"uid": "xfactr-ja-P36-000027", "answer": "ローマです。 (基本形)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.02069791778922081}
+{"uid": "xfactr-ja-P39-000100", "answer": "アメリカ合衆国大統領", "label": 0, "label_rule": "matches", "first_token_entropy": 2.7067711353302}
+{"uid": "xfactr-ja-P17-000209", "answer": "アルメニアの首都", "label": 0, "label_rule": "matches", "first_token_entropy": 0.007945779711008072}
+{"uid": "xfactr-ja-P19-000202", "answer": "ローマ帝国の皇帝", "label": 0, "label_rule": "matches", "first_token_entropy": 0.006735362112522125}
+{"uid": "xfactr-ja-P407-000548", "answer": "ビートルズです。", "label": 1, "label_rule": "matches", "first_token_entropy": 2.708635091781616}
+{"uid": "xfactr-ja-P103-000077", "answer": "小説家です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.024243978783488274}
+{"uid": "xfactr-ja-P103-000003", "answer": "ロシアの政治家", "label": 1, "label_rule": "matches", "first_token_entropy": 0.004137071780860424}
+{"uid": "xfactr-ja-P36-000119", "answer": "平壌です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.005028540268540382}
+{"uid": "xfactr-ja-P131-000060", "answer": "フレデリックバーキンシティ", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3557114601135254}
+{"uid": "xfactr-ja-P17-000047", "answer": "デンマークの首都", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0025857812725007534}
+{"uid": "xfactr-ja-P131-000033", "answer": "オースティンです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.005581443663686514}
+{"uid": "xfactr-ja-P39-000034", "answer": "第7代アメリカ合衆国大統領", "label": 0, "label_rule": "matches", "first_token_entropy": 3.6263933181762695}
+{"uid": "xfactr-ja-P527-000088", "answer": "南アメリカ州と北アメリカ州", "label": 0, "label_rule": "matches", "first_token_entropy": 1.1200257539749146}
+{"uid": "xfactr-ja-P36-000002", "answer": "東京です。 (東京は日本語で基本形です)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.769487202167511}
+{"uid": "xfactr-ja-P39-000451", "answer": "ローマ皇帝です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.007890968583524227}
+{"uid": "xfactr-ja-P36-000183", "answer": "ビシュケクです。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.14879216253757477}
+{"uid": "xfactr-ja-P159-000158", "answer": "ジュネーブ（スイス）", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0047165038995444775}
+{"uid": "xfactr-ja-P1376-000099", "answer": "カラカスはベネズエラの首都である。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.40410396456718445}
+{"uid": "xfactr-ja-P1376-000073", "answer": "台湾の首都である。", "label": 0, "label_rule": "matches", "first_token_entropy": 1.3324555158615112}
+{"uid": "xfactr-ja-P1376-000002", "answer": "スウェーデンです。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.025302249938249588}
+{"uid": "xfactr-ja-P159-000045", "answer": "ロンドンです。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0039224447682499886}
+{"uid": "xfactr-ja-P140-000508", "answer": "キリスト教徒です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.00494019128382206}
+{"uid": "xfactr-ja-P101-000080", "answer": "物理学者です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7299928069114685}
+{"uid": "xfactr-ja-P166-000021", "answer": "ノーベル平和賞", "label": 0, "label_rule": "matches", "first_token_entropy": 0.08359546959400177}
+{"uid": "xfactr-ja-P39-000010", "answer": "アメリカ合衆国大統領", "label": 0, "label_rule": "matches", "first_token_entropy": 1.3616180419921875}
+{"uid": "xfactr-ja-P39-000249", "answer": "ローマ教皇です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.11479571461677551}
+{"uid": "xfactr-ja-P39-000161", "answer": "教皇です。 (教皇は、カトリック教会の最高指導者です。)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.10661846399307251}
+{"uid": "xfactr-ja-P103-000010", "answer": "フランス人です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4961291551589966}
+{"uid": "xfactr-ja-P131-000146", "answer": "アルメニア首都", "label": 0, "label_rule": "matches", "first_token_entropy": 0.03808850422501564}
+{"uid": "xfactr-ja-P39-000277", "answer": "アメリカ合衆国大統領", "label": 0, "label_rule": "matches", "first_token_entropy": 1.9311528205871582}
+{"uid": "xfactr-ja-P276-000012", "answer": "ヨーロッパです。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0005141021683812141}
+{"uid": "xfactr-ja-P527-000174", "answer": "太陽、惑星、衛星、彗星、彗星の尾、彗星の核、彗星の尾の尾星、彗星の尾の尾の尾星、彗星の尾", "label": 1, "label_rule": "matches", "first_token_entropy": 0.036130599677562714}
+{"uid": "xfactr-ja-P166-000048", "answer": "ノーベル文学賞", "label": 0, "label_rule": "matches", "first_token_entropy": 0.02339525893330574}
+{"uid": "xfactr-ja-P140-000207", "answer": "キリスト者です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.01376886386424303}
+{"uid": "xfactr-ja-P361-000148", "answer": "南アメリカ大陸です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7575000524520874}
+{"uid": "xfactr-ja-P937-000033", "answer": "KGB（ソ連国家保安委員会）", "label": 1, "label_rule": "matches", "first_token_entropy": 0.02023431658744812}
+{"uid": "xfactr-ja-P20-000004", "answer": "死刑です。 (シモン・ペトロは死刑で死んだ。)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8788899183273315}
+{"uid": "xfactr-ja-P103-000281", "answer": "アメリカ合衆国の第44代大統領", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7552218437194824}
+{"uid": "xfactr-ja-P131-000046", "answer": "中国大陸（ちゅうごくたいりく）", "label": 0, "label_rule": "matches", "first_token_entropy": 1.1095213890075684}
+{"uid": "xfactr-ja-P39-000011", "answer": "政治家です。 (文の文脈から推測)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.12391732633113861}
+{"uid": "xfactr-ja-P140-000042", "answer": "キリスト者です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.00315135158598423}
+{"uid": "xfactr-ja-P39-000070", "answer": "政治家です。 (政治家)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.616141140460968}
+{"uid": "xfactr-ja-P39-000335", "answer": "ローマ教皇です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.030294964089989662}
+{"uid": "xfactr-ja-P140-000029", "answer": "キリスト者です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.10369642078876495}
+{"uid": "xfactr-ja-P131-000095", "answer": "マレーシア", "label": 0, "label_rule": "matches", "first_token_entropy": 0.34872499108314514}
+{"uid": "xfactr-ja-P166-000147", "answer": "ノーベル化学賞", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0725511834025383}
+{"uid": "xfactr-ja-P138-000055", "answer": "エリトリアは、イタリアにちなんで名付けられた。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6357851624488831}
+{"uid": "xfactr-ja-P1412-000064", "answer": "博物館ではダーウィンが話されている。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06522928178310394}
+{"uid": "xfactr-ja-P39-000163", "answer": "ポルトガル王", "label": 1, "label_rule": "matches", "first_token_entropy": 1.436214804649353}
+{"uid": "xfactr-ja-P527-000108", "answer": "ユーラシア大陸", "label": 1, "label_rule": "matches", "first_token_entropy": 0.23272567987442017}
+{"uid": "xfactr-ja-P101-000182", "answer": "経済学者です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.00816645473241806}
+{"uid": "xfactr-ja-P361-000160", "answer": "太陽系の惑星", "label": 0, "label_rule": "matches", "first_token_entropy": 0.013453147374093533}
+{"uid": "xfactr-ja-P101-000383", "answer": "歴史学者です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.004045434296131134}
+{"uid": "xfactr-ja-P361-000283", "answer": "北米 continent（コンチネント）", "label": 1, "label_rule": "matches", "first_token_entropy": 0.79132479429245}
+{"uid": "xfactr-ja-P39-000562", "answer": "ローマ王です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03441992402076721}
+{"uid": "xfactr-ja-P131-000120", "answer": "ロシア連邦の北西部", "label": 0, "label_rule": "matches", "first_token_entropy": 0.00048246514052152634}
+{"uid": "xfactr-ja-P527-000176", "answer": "西ヨーロッパは、ドイツ、フランス、イギリス、オランダ、ベルギー、オーストリア、スイス、ルクセンブルク、アイスランド、ノルウェー、デンマーク", "label": 0, "label_rule": "matches", "first_token_entropy": 0.9528365731239319}
+{"uid": "xfactr-ja-P17-000242", "answer": "中華人民共和国です。", "label": 0, "label_rule": "matches", "first_token_entropy": 2.108588695526123}
+{"uid": "xfactr-ja-P140-000372", "answer": "ロシア正教会", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2056045532226562}
+{"uid": "xfactr-ja-P17-000117", "answer": "アメリカ合衆国東部", "label": 0, "label_rule": "matches", "first_token_entropy": 1.5816186666488647}
+{"uid": "xfactr-ja-P39-000005", "answer": "アメリカ合衆国大統領", "label": 0, "label_rule": "matches", "first_token_entropy": 1.4419810771942139}
+{"uid": "xfactr-ja-P103-000022", "answer": "スペイン人です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.034447722136974335}
+{"uid": "xfactr-ja-P39-000012", "answer": "アメリカ合衆国大統領", "label": 0, "label_rule": "matches", "first_token_entropy": 1.3512663841247559}
+{"uid": "xfactr-ja-P140-000214", "answer": "ローマ・カトリック", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5190207362174988}
+{"uid": "xfactr-ja-P103-000035", "answer": "スペイン人です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.01268254965543747}
+{"uid": "xfactr-ja-P131-000147", "answer": "モスクワ市（モスクワし）", "label": 1, "label_rule": "matches", "first_token_entropy": 0.13341772556304932}
+{"uid": "xfactr-ja-P101-000156", "answer": "地質学者です。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.314215898513794}
+{"uid": "xfactr-ja-P127-000517", "answer": "非営利組織です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.13201399147510529}
+{"uid": "xfactr-ja-P527-000212", "answer": "50の国と1つの国際連邦", "label": 1, "label_rule": "matches", "first_token_entropy": 1.9493179321289062}
+{"uid": "xfactr-ja-P39-000284", "answer": "ローマ教皇です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.02830197475850582}
+{"uid": "xfactr-ja-P527-000003", "answer": "南アメリカ大陸は12の国からなる。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3722989559173584}
+{"uid": "xfactr-ja-P527-000186", "answer": "中国、朝鮮、台湾、香港、韓国、モンゴル、ベトナム、台湾、フィリピン、インドネシア、東ティモール、北朝鮮、香港、シンガポール", "label": 0, "label_rule": "matches", "first_token_entropy": 2.359384059906006}
+{"uid": "xfactr-ja-P101-000069", "answer": "哲学者です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06296227872371674}
+{"uid": "xfactr-ja-P937-000341", "answer": "映画監督で働いていた。", "label": 1, "label_rule": "matches", "first_token_entropy": 2.801941394805908}
+{"uid": "xfactr-ja-P131-000045", "answer": "スプリングフィールド", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06475310772657394}
+{"uid": "xfactr-ja-P39-000327", "answer": "ローマ教皇です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.10305534303188324}
+{"uid": "xfactr-ja-P17-000323", "answer": "ヨルダン王国", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0010011864360421896}
+{"uid": "xfactr-ja-P361-000306", "answer": "大陸です。 (アジアは大陸の一部である。)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.08413821458816528}
+{"uid": "xfactr-ja-P103-000154", "answer": "アメリカ大統領です。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8375988006591797}
+{"uid": "xfactr-ja-P937-000003", "answer": "画家です。 (ゴッホは画家でした。)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.16138584911823273}
+{"uid": "xfactr-ja-P140-000119", "answer": "カトリック教徒である。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.05661102384328842}
+{"uid": "xfactr-ja-P17-000217", "answer": "スイスの首都", "label": 0, "label_rule": "matches", "first_token_entropy": 0.013172369450330734}
+{"uid": "xfactr-ja-P407-000575", "answer": "ゲームです。 (ゲームは基本形です)", "label": 1, "label_rule": "matches", "first_token_entropy": 2.3851306438446045}
+{"uid": "xfactr-ja-P159-000018", "answer": "カナダです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.030736366286873817}
+{"uid": "xfactr-ja-P103-000000", "answer": "演劇家です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2994256019592285}
+{"uid": "xfactr-ja-P276-000014", "answer": "欧州です。 (欧州は「ヨーロッパ」のことです)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.20664158463478088}
+{"uid": "xfactr-ja-P140-000003", "answer": "仏教徒です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.00024839252000674605}
+{"uid": "xfactr-ja-P361-000049", "answer": "南アジアです。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.07863474637269974}
+{"uid": "xfactr-ja-P108-000006", "answer": "外交官です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8793938159942627}
+{"uid": "xfactr-ja-P361-000092", "answer": "大陸です。 (ヨーロッパは大陸の一部である。)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07535935938358307}
+{"uid": "xfactr-ja-P279-000033", "answer": "知識の体系の下位概念である。", "label": 1, "label_rule": "matches", "first_token_entropy": 4.287560939788818}
+{"uid": "xfactr-ja-P17-000021", "answer": "アメリカ合衆国西部", "label": 0, "label_rule": "matches", "first_token_entropy": 2.009899616241455}
+{"uid": "xfactr-ja-P527-000052", "answer": "南アメリカ大陸は12の国からなる。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3722989559173584}
+{"uid": "xfactr-ja-P937-000112", "answer": "ベルリンの物理学教授", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3264769911766052}
+{"uid": "xfactr-ja-P17-000158", "answer": "ドイツの最大の港町です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0003607431426644325}
+{"uid": "xfactr-ja-P527-000157", "answer": "中国、朝鮮、台湾、香港、韓国、モンゴル、ベトナム、台湾、フィリピン、インドネシア、東ティモール、北朝鮮、香港、シンガポール", "label": 0, "label_rule": "matches", "first_token_entropy": 2.359384059906006}
+{"uid": "xfactr-ja-P166-000339", "answer": "ノーベル文学賞", "label": 0, "label_rule": "matches", "first_token_entropy": 0.03739579766988754}
+{"uid": "xfactr-ja-P131-000099", "answer": "リンコン（リノー）", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5336186289787292}
+{"uid": "xfactr-ja-P17-000128", "answer": "ウクライナの首都", "label": 0, "label_rule": "matches", "first_token_entropy": 0.07366684079170227}
+{"uid": "xfactr-ja-P27-000000", "answer": "ミネアポリス", "label": 1, "label_rule": "matches", "first_token_entropy": 2.2635765075683594}
+{"uid": "xfactr-ja-P527-000318", "answer": "太陽、惑星、衛星、彗星、彗星の尾、彗星の核、彗星の尾の尾星、彗星の尾の尾の尾星、彗星の尾", "label": 1, "label_rule": "matches", "first_token_entropy": 0.036130599677562714}
+{"uid": "xfactr-ja-P103-000030", "answer": "哲学者である。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.23576682806015015}
+{"uid": "xfactr-ja-P140-000200", "answer": "プロテスタントです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.14052754640579224}
+{"uid": "xfactr-ja-P361-000017", "answer": "地中海はヨーロッパの一部である。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.36008191108703613}
+{"uid": "xfactr-ja-P140-000044", "answer": "キリスト教徒です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.005240560509264469}
+{"uid": "xfactr-ja-P407-000039", "answer": "Danielは《名詞》で書かれている。", "label": 1, "label_rule": "matches", "first_token_entropy": 2.3152856826782227}
+{"uid": "xfactr-ja-P131-000107", "answer": "サンタフェです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6215922832489014}
+{"uid": "xfactr-ja-P131-000088", "answer": "ナッシュビルです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.026814021170139313}
+{"uid": "xfactr-ja-P131-000141", "answer": "ベトナム北部", "label": 0, "label_rule": "matches", "first_token_entropy": 0.018832765519618988}
+{"uid": "xfactr-ja-P1412-000032", "answer": "カール・リンネ", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0819345712661743}
+{"uid": "xfactr-ja-P101-000934", "answer": "天文学者です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.16329140961170197}
+{"uid": "xfactr-ja-P361-000037", "answer": "北欧諸国（ほくおうしょこく）", "label": 0, "label_rule": "matches", "first_token_entropy": 0.8339244723320007}
+{"uid": "xfactr-ja-P1412-000102", "answer": "中国の歴史上の故事", "label": 1, "label_rule": "matches", "first_token_entropy": 3.4475231170654297}
+{"uid": "xfactr-ja-P407-000685", "answer": "映画です。 (映画)", "label": 1, "label_rule": "matches", "first_token_entropy": 2.959566831588745}
+{"uid": "xfactr-ja-P1412-000108", "answer": "マルセイユ", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7157387137413025}
+{"uid": "xfactr-ja-P131-000199", "answer": "カンボジアの首都", "label": 0, "label_rule": "matches", "first_token_entropy": 0.16053372621536255}
+{"uid": "xfactr-ja-P937-000036", "answer": "労働者です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0005403222166933119}
+{"uid": "xfactr-ja-P276-000059", "answer": "欧州です。 (欧州は「ヨーロッパ」のことです)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.20664158463478088}
+{"uid": "xfactr-ja-P527-000072", "answer": "中国、朝鮮、台湾、香港、韓国、モンゴル、ベトナム、台湾、フィリピン、インドネシア、東ティモール、北朝鮮、香港、シンガポール", "label": 0, "label_rule": "matches", "first_token_entropy": 2.359384059906006}
+{"uid": "xfactr-ja-P527-000054", "answer": "国々からなる。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6178780794143677}
+{"uid": "xfactr-ja-P276-000024", "answer": "カナダのオンタリオ州", "label": 1, "label_rule": "matches", "first_token_entropy": 0.009798222221434116}
+{"uid": "xfactr-ja-P131-000031", "answer": "東京です。assistant  答え（基本形）: 東京です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7660302519798279}
+{"uid": "xfactr-ja-P361-000027", "answer": "大西洋の海", "label": 0, "label_rule": "matches", "first_token_entropy": 0.06373552978038788}
+{"uid": "xfactr-ja-P361-000168", "answer": "アフリカです。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.013538526371121407}
+{"uid": "xfactr-ja-P131-000092", "answer": "ジュノーです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06173594668507576}
+{"uid": "xfactr-ja-P20-000008", "answer": "自殺です。 (自殺は、自分の命を絶つこと。)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.579624891281128}
+{"uid": "xfactr-ja-P140-000368", "answer": "カトリック教徒です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.13489064574241638}
+{"uid": "xfactr-ja-P527-000209", "answer": "太陽、惑星、衛星、彗星、彗星の尾、彗星の核、彗星の尾の尾星、彗星の尾の尾の尾星、彗星の尾", "label": 1, "label_rule": "matches", "first_token_entropy": 0.036130599677562714}
+{"uid": "xfactr-ja-P106-000003", "answer": "マケドニアの王", "label": 1, "label_rule": "matches", "first_token_entropy": 2.2636964321136475}
+{"uid": "xfactr-ja-P178-000023", "answer": "マイクロソフト", "label": 0, "label_rule": "matches", "first_token_entropy": 0.05129276588559151}
+{"uid": "xfactr-ja-P27-000036", "answer": "テキサス州", "label": 1, "label_rule": "matches", "first_token_entropy": 0.04108613729476929}
+{"uid": "xfactr-ja-P131-000094", "answer": "ウクライナの首都", "label": 0, "label_rule": "matches", "first_token_entropy": 0.04837585240602493}
+{"uid": "xfactr-ja-P1412-000083", "answer": "ガリレオ・ガリレイ", "label": 1, "label_rule": "matches", "first_token_entropy": 0.01950838789343834}
+{"uid": "xfactr-ja-P103-000018", "answer": "生物学者である。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6352953910827637}
+{"uid": "xfactr-ja-P138-000162", "answer": "アルベルト・ノーベル", "label": 1, "label_rule": "matches", "first_token_entropy": 0.36842042207717896}
+{"uid": "xfactr-ja-P131-000111", "answer": "ヘレナです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6542681455612183}
+{"uid": "xfactr-ja-P27-000051", "answer": "ガーナです。 (クワメ・エンクルマはガーナ出身である。)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.6932883262634277}
+{"uid": "xfactr-ja-P1412-000474", "answer": "ユダヤ人コミュニティ", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8282818794250488}
+{"uid": "xfactr-ja-P407-000005", "answer": "Danielは《名詞》で書かれている。", "label": 1, "label_rule": "matches", "first_token_entropy": 2.3152856826782227}
+{"uid": "xfactr-ja-P527-000028", "answer": "南アメリカ大陸は12の国からなる。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3722989559173584}
+{"uid": "xfactr-ja-P1412-000001", "answer": "ロンドン市内", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9276828765869141}
+{"uid": "xfactr-ja-P1412-000008", "answer": "オペラです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.043657101690769196}
+{"uid": "xfactr-ja-P1412-000023", "answer": "映画です。 (映画ではエイブラハム・リンカーンが話されている。)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.256415605545044}
+{"uid": "xfactr-ja-P140-000015", "answer": "キリスト教徒です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.012985246255993843}
+{"uid": "xfactr-ja-P527-000084", "answer": "南アメリカ大陸は12の国からなる。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3722989559173584}
+{"uid": "xfactr-ja-P527-000075", "answer": "太陽、惑星、衛星、彗星、彗星の尾、彗星の核、彗星の尾の尾星、彗星の尾の尾の尾星、彗星の尾", "label": 0, "label_rule": "matches", "first_token_entropy": 0.036130599677562714}
+{"uid": "xfactr-ja-P1412-000049", "answer": "ロアール・アムンセン", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7892358899116516}
+{"uid": "xfactr-ja-P20-000190", "answer": "ローマで死んだ。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.2779718041419983}
+{"uid": "xfactr-ja-P136-000036", "answer": "ポップス、ダンス、R&B", "label": 0, "label_rule": "matches", "first_token_entropy": 0.23556336760520935}
+{"uid": "xfactr-ja-P937-000010", "answer": "第一次世界大戦の前", "label": 1, "label_rule": "matches", "first_token_entropy": 0.29523324966430664}
+{"uid": "xfactr-ja-P527-000006", "answer": "南アメリカ大陸は12の国からなる。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3722989559173584}
+{"uid": "xfactr-ja-P138-000007", "answer": "サン・ドミンゴ", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2408982515335083}
+{"uid": "xfactr-ja-P937-000058", "answer": "ドイツの外務大臣", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5071340799331665}
+{"uid": "xfactr-ja-P140-000059", "answer": "ローマ・カトリック", "label": 1, "label_rule": "matches", "first_token_entropy": 0.051135413348674774}
+{"uid": "xfactr-ja-P27-000009", "answer": "アメリカ合衆国大統領", "label": 0, "label_rule": "matches", "first_token_entropy": 1.0910449028015137}
+{"uid": "xfactr-ja-P140-000152", "answer": "ローマ教皇です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.015506071038544178}
+{"uid": "xfactr-ja-P527-000352", "answer": "中国、朝鮮、台湾、香港、韓国、モンゴル、ベトナム、台湾、フィリピン、インドネシア、東ティモール、北朝鮮、香港、シンガポール", "label": 0, "label_rule": "matches", "first_token_entropy": 2.359384059906006}
+{"uid": "xfactr-ja-P138-000087", "answer": "ペテルブルク（ペトロールは「石油」の意味）", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0641652345657349}
+{"uid": "xfactr-ja-P140-000033", "answer": "カトリック教徒です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.17703519761562347}
+{"uid": "xfactr-ja-P361-000191", "answer": "ペルシャ湾です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.007785476744174957}
+{"uid": "xfactr-ja-P27-000035", "answer": "アメリカ合衆国オハイオ州", "label": 0, "label_rule": "matches", "first_token_entropy": 1.328988790512085}
+{"uid": "xfactr-ja-P138-000025", "answer": "インド人（インドの民）", "label": 0, "label_rule": "matches", "first_token_entropy": 0.4642677903175354}
+{"uid": "xfactr-ja-P361-000284", "answer": "南米の国です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7653600573539734}
+{"uid": "xfactr-ja-P1412-000057", "answer": "ホルヘ・ルイス・ボルヘス", "label": 1, "label_rule": "matches", "first_token_entropy": 0.10798067599534988}
+{"uid": "xfactr-ja-P1412-000936", "answer": "ドイツ語のニュース", "label": 0, "label_rule": "matches", "first_token_entropy": 0.7132349610328674}
+{"uid": "xfactr-ja-P407-000984", "answer": "キリスト教徒の教会", "label": 1, "label_rule": "matches", "first_token_entropy": 0.12995052337646484}
+{"uid": "xfactr-ja-P740-000055", "answer": "ユダヤ教です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.012317195534706116}
+{"uid": "xfactr-ja-P103-000368", "answer": "ドイツ人です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.031578171998262405}
+{"uid": "xfactr-ja-P937-000312", "answer": "ダンス教師です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.737643837928772}
+{"uid": "xfactr-ja-P20-000003", "answer": "病気です。 (病気で死んだ)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2553471028804779}
+{"uid": "xfactr-ja-P527-000047", "answer": "太陽、惑星、衛星、彗星、彗星の尾、彗星の核、彗星の尾の尾星、彗星の尾の尾の尾星、彗星の尾", "label": 1, "label_rule": "matches", "first_token_entropy": 0.036130599677562714}
+{"uid": "xfactr-ja-P140-000147", "answer": "ヒンズー教徒", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2653870582580566}
+{"uid": "xfactr-ja-P276-000022", "answer": "欧州です。 (欧州は「ヨーロッパ」のことです)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.20664158463478088}
+{"uid": "xfactr-ja-P407-000050", "answer": "イアンは《イアン》で書かれている。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7005149126052856}
+{"uid": "xfactr-ja-P1412-000194", "answer": "唐では李白が話されている。", "label": 1, "label_rule": "matches", "first_token_entropy": 2.430661678314209}
+{"uid": "xfactr-ja-P103-000014", "answer": "アメリカ大統領です。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4500787258148193}
+{"uid": "xfactr-ja-P407-000441", "answer": "ピエールです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9629725813865662}
+{"uid": "xfactr-ja-P103-000731", "answer": "作曲家です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.12395213544368744}
+{"uid": "xfactr-ja-P101-000087", "answer": "数学者です。 (ヒルベルトは数学者です)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6948699951171875}
+{"uid": "xfactr-ja-P103-000184", "answer": "アメリカ大統領です。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.9654874801635742}
+{"uid": "xfactr-ja-P140-000304", "answer": "カトリック教徒です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.13006994128227234}
+{"uid": "xfactr-ja-P31-000079", "answer": "南米最大の川です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.8273160457611084}
+{"uid": "xfactr-ja-P937-000153", "answer": "ベルリンの物理学教授", "label": 0, "label_rule": "matches", "first_token_entropy": 0.3264769911766052}
+{"uid": "xfactr-ja-P279-000074", "answer": "哲学の下位概念である。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.04054441675543785}
+{"uid": "xfactr-ja-P361-000081", "answer": "南アメリカです。 (南アメリカ)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.738135039806366}
+{"uid": "xfactr-ja-P140-000164", "answer": "カトリック教徒です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1302364617586136}
+{"uid": "xfactr-ja-P276-000043", "answer": "欧州です。 (欧州は「ヨーロッパ」のことです)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.20664158463478088}
+{"uid": "xfactr-ja-P1412-000093", "answer": "ノーベル賞", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1974141150712967}
+{"uid": "xfactr-ja-P108-000003", "answer": "政治家です。 (T・ウッドロウ・ウィルソンは政治家です。)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07036788761615753}
+{"uid": "xfactr-ja-P276-000003", "answer": "欧州です。 (欧州は「ヨーロッパ」のことです)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.20664158463478088}
+{"uid": "xfactr-ja-P407-000920", "answer": "ビリビビリ", "label": 1, "label_rule": "matches", "first_token_entropy": 3.865602731704712}
+{"uid": "xfactr-ja-P27-000205", "answer": "三浦市です。", "label": 1, "label_rule": "matches", "first_token_entropy": 4.502232074737549}
+{"uid": "xfactr-ja-P1412-000202", "answer": "映画ではジェームズ・クックが話されている。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6777572631835938}
+{"uid": "xfactr-ja-P1412-000014", "answer": "ロシア文学の代表作", "label": 1, "label_rule": "matches", "first_token_entropy": 0.11656807363033295}
+{"uid": "xfactr-ja-P166-000086", "answer": "ノーベル平和賞", "label": 0, "label_rule": "matches", "first_token_entropy": 0.04043573886156082}
+{"uid": "xfactr-ja-P937-000030", "answer": "帝国海軍の士官", "label": 1, "label_rule": "matches", "first_token_entropy": 2.845717191696167}
+{"uid": "xfactr-ja-P103-000023", "answer": "フランス人です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7190093398094177}
+{"uid": "xfactr-ja-P407-000597", "answer": "アナ  （注: アンナは女性の名前です。", "label": 1, "label_rule": "matches", "first_token_entropy": 2.9346296787261963}
+{"uid": "xfactr-ja-P103-000141", "answer": "アメリカ合衆国の第三代大統領", "label": 1, "label_rule": "matches", "first_token_entropy": 2.0197880268096924}
+{"uid": "xfactr-ja-P140-000002", "answer": "イスラム教徒", "label": 0, "label_rule": "matches", "first_token_entropy": 0.12688177824020386}
+{"uid": "xfactr-ja-P1412-000231", "answer": "ドイツ語ではファンデルワールスが話されている。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.24018248915672302}
+{"uid": "xfactr-ja-P495-000000", "answer": "アメリカ合衆国です。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5374747514724731}
+{"uid": "xfactr-ja-P103-000040", "answer": "キリスト教の教祖", "label": 1, "label_rule": "matches", "first_token_entropy": 0.005219410173594952}
+{"uid": "xfactr-ja-P937-000050", "answer": "画家です。 (文法上は「画家で」が正解です)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4267759323120117}
+{"uid": "xfactr-ja-P31-000137", "answer": "ハートです。 (ハートは心のことです)", "label": 1, "label_rule": "matches", "first_token_entropy": 6.212471008300781}
+{"uid": "xfactr-ja-P103-000278", "answer": "スペイン人です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.01268254965543747}
+{"uid": "xfactr-ja-P138-000037", "answer": "ペテルブルク（ペトロールは「石油」の意味）", "label": 0, "label_rule": "matches", "first_token_entropy": 1.0641652345657349}
+{"uid": "xfactr-ja-P101-000786", "answer": "歴史学者です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0020777808967977762}
+{"uid": "xfactr-ja-P1001-000000", "answer": "連邦大統領", "label": 1, "label_rule": "matches", "first_token_entropy": 0.015230645425617695}
+{"uid": "xfactr-ja-P138-000303", "answer": "胸部X線写真", "label": 1, "label_rule": "matches", "first_token_entropy": 1.39224374294281}
+{"uid": "xfactr-ja-P1412-000871", "answer": "映画ではPaul Newmanが話されている。", "label": 1, "label_rule": "matches", "first_token_entropy": 3.0698320865631104}
+{"uid": "xfactr-ja-P1412-000343", "answer": "フランクリン・ルーズベルト", "label": 1, "label_rule": "matches", "first_token_entropy": 0.16905030608177185}
+{"uid": "xfactr-ja-P101-000358", "answer": "天文学者です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.16329140961170197}
+{"uid": "xfactr-ja-P407-000521", "answer": "ロバートです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6754809617996216}
+{"uid": "xfactr-ja-P103-000005", "answer": "小説家です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.032280512154102325}
+{"uid": "xfactr-ja-P407-000592", "answer": "ローマ字です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9073256254196167}
+{"uid": "xfactr-ja-P937-000013", "answer": "ハリウッドで", "label": 1, "label_rule": "matches", "first_token_entropy": 0.004295269958674908}
+{"uid": "xfactr-ja-P276-000013", "answer": "欧州です。 (欧州は「ヨーロッパ」のことです)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.20664158463478088}
+{"uid": "xfactr-ja-P159-000033", "answer": "パリです。 (パリはフランスの首都です)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0030575250275433064}
+{"uid": "xfactr-ja-P103-000039", "answer": "政治家です。 (政治家は、政治に関与する人です。)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06831245124340057}
+{"uid": "xfactr-ja-P1412-000030", "answer": "フィレンツェです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7567197680473328}
+{"uid": "xfactr-ja-P407-000445", "answer": "ビリビビリ", "label": 1, "label_rule": "matches", "first_token_entropy": 3.865602731704712}
+{"uid": "xfactr-ja-P937-000002", "answer": "第一次世界大戦の前", "label": 1, "label_rule": "matches", "first_token_entropy": 0.29523324966430664}
+{"uid": "xfactr-ja-P937-000007", "answer": "ロシアの鉄道技師", "label": 1, "label_rule": "matches", "first_token_entropy": 0.325082004070282}
+{"uid": "xfactr-ja-P159-000322", "answer": "モスクワです。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.16919668018817902}
+{"uid": "xfactr-ja-P1001-000096", "answer": "カトリック教会", "label": 1, "label_rule": "matches", "first_token_entropy": 0.05244320631027222}
+{"uid": "xfactr-ja-P106-000001", "answer": "大統領です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09725074470043182}
+{"uid": "xfactr-ja-P176-000032", "answer": "マイクロソフト", "label": 0, "label_rule": "matches", "first_token_entropy": 0.11537707597017288}
+{"uid": "xfactr-ja-P361-000094", "answer": "太陽系の惑星", "label": 0, "label_rule": "matches", "first_token_entropy": 0.013946258462965488}
+{"uid": "xfactr-ja-P140-000085", "answer": "キリスト者です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.02848483994603157}
+{"uid": "xfactr-ja-P937-000177", "answer": "数学者です。 (オイラーは数学者として有名です)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7122772336006165}
+{"uid": "xfactr-ja-P407-000594", "answer": "ローマ字です。", "label": 1, "label_rule": "matches", "first_token_entropy": 3.19065260887146}
+{"uid": "xfactr-ja-P1412-000009", "answer": "ピョートル・イリイチ・チャイコフスキー", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8349761366844177}
+{"uid": "xfactr-ja-P140-000009", "answer": "キリスト教徒です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.006179381161928177}
+{"uid": "xfactr-ja-P361-000051", "answer": "太陽系の惑星系", "label": 0, "label_rule": "matches", "first_token_entropy": 0.012554699555039406}
+{"uid": "xfactr-ja-P279-000001", "answer": "演芸人（えんげいにん）", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0767719745635986}
+{"uid": "xfactr-ja-P101-000168", "answer": "物理学者です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.9279707670211792}
+{"uid": "xfactr-ja-P937-000006", "answer": "弁護士で", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0133973360061646}
+{"uid": "xfactr-ja-P166-000068", "answer": "ノーベル平和賞", "label": 0, "label_rule": "matches", "first_token_entropy": 0.029958978295326233}
+{"uid": "xfactr-ja-P361-000025", "answer": "北アメリカです。 (北アメリカ)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9133521914482117}
+{"uid": "xfactr-ja-P1412-000015", "answer": "映画ではゴヤが話されている。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4817876815795898}
+{"uid": "xfactr-ja-P407-000509", "answer": "映画「スーパーマン」", "label": 1, "label_rule": "matches", "first_token_entropy": 4.307373046875}
+{"uid": "xfactr-ja-P103-000056", "answer": "作家です。 (文法上の話者は、作家です)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.15598425269126892}
+{"uid": "xfactr-ja-P279-000135", "answer": "生物学の下位概念である。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.312727689743042}
+{"uid": "xfactr-ja-P937-000019", "answer": "教師です。 (アムブロシウスは以前教師で働いていた。)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5297534465789795}
+{"uid": "xfactr-ja-P178-000058", "answer": "マーク・ザッカーバーグ", "label": 0, "label_rule": "matches", "first_token_entropy": 0.19650262594223022}
+{"uid": "xfactr-ja-P407-000918", "answer": "ノートブックです。", "label": 1, "label_rule": "matches", "first_token_entropy": 2.5435609817504883}
+{"uid": "xfactr-ja-P407-000645", "answer": "アレッサンドラ", "label": 1, "label_rule": "matches", "first_token_entropy": 0.15526163578033447}
+{"uid": "xfactr-ja-P1303-000008", "answer": "ベースです。 (ポール・マッカートニーはベースを演奏する。)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.600711464881897}
+{"uid": "xfactr-ja-P407-000185", "answer": "映画です。 (映画)", "label": 1, "label_rule": "matches", "first_token_entropy": 2.6029491424560547}
+{"uid": "xfactr-ja-P20-000212", "answer": "毒薬です。 (マクセンティウスは毒薬で死んだ。)", "label": 1, "label_rule": "matches", "first_token_entropy": 4.013761043548584}
+{"uid": "xfactr-ja-P106-000021", "answer": "天文学者です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.1285638064146042}
+{"uid": "xfactr-ja-P27-000050", "answer": "アメリカ合衆国出身である。", "label": 0, "label_rule": "matches", "first_token_entropy": 1.1495099067687988}
+{"uid": "xfactr-ja-P166-000005", "answer": "パルミエール賞", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2940140962600708}
+{"uid": "xfactr-ja-P166-000036", "answer": "ノーベル賞", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6427386403083801}
+{"uid": "xfactr-ja-P407-000971", "answer": "スペイン語で書かれている。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.05206619203090668}
+{"uid": "xfactr-ja-P166-000132", "answer": "ノーベル文学賞", "label": 1, "label_rule": "matches", "first_token_entropy": 0.05123678222298622}
+{"uid": "xfactr-ja-P140-000112", "answer": "イスラム教徒です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.2056475281715393}
+{"uid": "xfactr-ja-P166-000315", "answer": "ノーベル文学賞", "label": 0, "label_rule": "matches", "first_token_entropy": 0.057833559811115265}
+{"uid": "xfactr-ja-P407-000987", "answer": "スペイン語です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.051801200956106186}
+{"uid": "xfactr-ja-P407-000961", "answer": "シェイクスピア", "label": 1, "label_rule": "matches", "first_token_entropy": 0.16907326877117157}
+{"uid": "xfactr-ja-P159-000015", "answer": "ニューヨーク市", "label": 0, "label_rule": "matches", "first_token_entropy": 0.008832717314362526}
+{"uid": "xfactr-ja-P937-000020", "answer": "イタリアの政治家", "label": 1, "label_rule": "matches", "first_token_entropy": 0.51752108335495}
+{"uid": "xfactr-ja-P495-000014", "answer": "1877年です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0036480501294136047}
+{"uid": "xfactr-ja-P101-000436", "answer": "ミュージシャンです。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.01793549954891205}
+{"uid": "xfactr-ja-P1001-000208", "answer": "カトリック教会", "label": 1, "label_rule": "matches", "first_token_entropy": 0.05244320631027222}
+{"uid": "xfactr-ja-P1412-000285", "answer": "聖書です。 (聖書)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.698223352432251}
+{"uid": "xfactr-ja-P159-000017", "answer": "ロンドンです。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.023178784176707268}
+{"uid": "xfactr-ja-P279-000036", "answer": "道徳学の下位概念である。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7410339713096619}
+{"uid": "xfactr-ja-P136-000017", "answer": "オペラです。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.00244852970354259}
+{"uid": "xfactr-ja-P101-000137", "answer": "歴史学者です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.003744494402781129}
+{"uid": "xfactr-ja-P101-000017", "answer": "歴史学者です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0020777808967977762}
+{"uid": "xfactr-ja-P1412-000004", "answer": "ビートルズの歴史", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3338663876056671}
+{"uid": "xfactr-ja-P1412-000444", "answer": "映画ではジャン・ペランが話されている。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.9452282190322876}
+{"uid": "xfactr-ja-P407-000325", "answer": "ガルシアです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.12320195138454437}
+{"uid": "xfactr-ja-P101-000099", "answer": "経済学者です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.00816645473241806}
+{"uid": "xfactr-ja-P27-000030", "answer": "ロシア人です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03350573778152466}
+{"uid": "xfactr-ja-P407-000183", "answer": "ベトナム語", "label": 0, "label_rule": "matches", "first_token_entropy": 0.04509531706571579}
+{"uid": "xfactr-ja-P279-000127", "answer": "キリスト教の下位概念である。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0009823002619668841}
+{"uid": "xfactr-ja-P106-000015", "answer": "作曲家です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.03177810460329056}
+{"uid": "xfactr-ja-P407-000614", "answer": "バスク語で書かれている。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.268133282661438}
+{"uid": "xfactr-ja-P937-000034", "answer": "ソビエト連邦", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9896859526634216}
+{"uid": "xfactr-ja-P20-000043", "answer": "病気で死んだ", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06337731331586838}
+{"uid": "xfactr-ja-P361-000010", "answer": "ソビエト連邦", "label": 0, "label_rule": "matches", "first_token_entropy": 0.5159640312194824}
+{"uid": "xfactr-ja-P138-000032", "answer": "ナイジェリアは、ナイジェリアの初代総督であるフランシス・ド・ラ・ラザリーにちなんで名付けられた。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.030600985512137413}
+{"uid": "xfactr-ja-P361-000032", "answer": "生物学の分野", "label": 0, "label_rule": "matches", "first_token_entropy": 0.9827945232391357}
+{"uid": "xfactr-ja-P364-000003", "answer": "ペルシャ語です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.06426358222961426}
+{"uid": "xfactr-ja-P27-000060", "answer": "ローマ（出身）", "label": 1, "label_rule": "matches", "first_token_entropy": 0.061679571866989136}
+{"uid": "xfactr-ja-P166-000499", "answer": "ノーベル化学賞", "label": 1, "label_rule": "matches", "first_token_entropy": 0.02424747496843338}
+{"uid": "xfactr-ja-P1412-000022", "answer": "ロシアの心理学者", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0760309025645256}
+{"uid": "xfactr-ja-P1001-000532", "answer": "アメリカ合衆国です。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3148157596588135}
+{"uid": "xfactr-ja-P166-000219", "answer": "ノーベル文学賞", "label": 1, "label_rule": "matches", "first_token_entropy": 0.023142946884036064}
+{"uid": "xfactr-ja-P937-000533", "answer": "ノルウェー人", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07770085334777832}
+{"uid": "xfactr-ja-P178-000006", "answer": "マイクロソフト", "label": 0, "label_rule": "matches", "first_token_entropy": 0.14700432121753693}
+{"uid": "xfactr-ja-P279-000224", "answer": "イスラム教はイスラームの下位概念である。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.032892849296331406}
+{"uid": "xfactr-ja-P361-000498", "answer": "新約聖書です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.4170537292957306}
+{"uid": "xfactr-ja-P31-000051", "answer": "新約聖書の書物", "label": 1, "label_rule": "matches", "first_token_entropy": 0.26618486642837524}
+{"uid": "xfactr-ja-P27-000999", "answer": "アメリカ合衆国です。", "label": 0, "label_rule": "matches", "first_token_entropy": 1.129023790359497}
+{"uid": "xfactr-ja-P495-000001", "answer": "1773年（旧暦の1774年）", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7045252323150635}
+{"uid": "xfactr-ja-P937-000243", "answer": "革命家です。 (トロツキーは革命家で働いていた)", "label": 1, "label_rule": "matches", "first_token_entropy": 3.217772960662842}
+{"uid": "xfactr-ja-P166-000114", "answer": "ノーベル化学賞", "label": 1, "label_rule": "matches", "first_token_entropy": 0.015674244612455368}
+{"uid": "xfactr-ja-P136-000031", "answer": "ジャズピアニスト", "label": 0, "label_rule": "matches", "first_token_entropy": 0.4106000065803528}
+{"uid": "xfactr-ja-P27-000103", "answer": "フィンランド人です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.013178732246160507}
+{"uid": "xfactr-ja-P166-000074", "answer": "ノーベル文学賞", "label": 0, "label_rule": "matches", "first_token_entropy": 0.03950073570013046}
+{"uid": "xfactr-ja-P136-000142", "answer": "クラシック音楽です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.007853482849895954}
+{"uid": "xfactr-ja-P1001-000176", "answer": "欧州連合（ユーロ圏）", "label": 1, "label_rule": "matches", "first_token_entropy": 0.151638001203537}
+{"uid": "xfactr-ja-P106-000013", "answer": "ミュージシャンです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.011810114607214928}
+{"uid": "xfactr-ja-P166-000054", "answer": "ノーベル賞", "label": 1, "label_rule": "matches", "first_token_entropy": 0.027092138305306435}
+{"uid": "xfactr-ja-P166-000017", "answer": "ノーベル化学賞", "label": 1, "label_rule": "matches", "first_token_entropy": 0.027208533138036728}
+{"uid": "xfactr-ja-P176-000042", "answer": "アメリカ合衆国です。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.108667254447937}
+{"uid": "xfactr-ja-P108-000002", "answer": "Appleの創業者です。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.9974079132080078}
+{"uid": "xfactr-ja-P166-000022", "answer": "賞です。 (文法上の文法の賞を受賞した)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3727625608444214}
+{"uid": "xfactr-ja-P136-000010", "answer": "オペラです。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.050398554652929306}
+{"uid": "xfactr-ja-P740-000215", "answer": "ロサンゼルス", "label": 0, "label_rule": "matches", "first_token_entropy": 0.16405244171619415}
+{"uid": "xfactr-ja-P69-000002", "answer": "オックスフォード大学", "label": 1, "label_rule": "matches", "first_token_entropy": 0.25025710463523865}
+{"uid": "xfactr-ja-P364-000067", "answer": "メソポタミア語", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5984600186347961}
+{"uid": "xfactr-ja-P166-000078", "answer": "ノーベル文学賞", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0506533607840538}
+{"uid": "xfactr-ja-P279-000080", "answer": "スラヴ語系", "label": 1, "label_rule": "matches", "first_token_entropy": 0.10254362970590591}
+{"uid": "xfactr-ja-P27-000474", "answer": "イングランドです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.15028750896453857}
+{"uid": "xfactr-ja-P138-000018", "answer": "ドイツ大帝（ドイツ語: Deutscher Kaiser）", "label": 1, "label_rule": "matches", "first_token_entropy": 0.014885125681757927}
+{"uid": "xfactr-ja-P136-000013", "answer": "クラシック音楽です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.004670597612857819}
+{"uid": "xfactr-ja-P166-000056", "answer": "ノーベル物理学賞", "label": 0, "label_rule": "matches", "first_token_entropy": 0.018611494451761246}
+{"uid": "xfactr-ja-P136-000198", "answer": "娯楽小説", "label": 1, "label_rule": "matches", "first_token_entropy": 0.649176299571991}
+{"uid": "xfactr-ja-P159-000144", "answer": "ロンドンです。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.015621379017829895}
+{"uid": "xfactr-ja-P166-000260", "answer": "ノーベル文学賞", "label": 0, "label_rule": "matches", "first_token_entropy": 0.009825117886066437}
+{"uid": "xfactr-ja-P276-000053", "answer": "パリです。 (パリはフランス語で、フランス語の発音に近い表記はパリィです)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0014671310782432556}
+{"uid": "xfactr-ja-P20-000019", "answer": "病気で死んだ。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4738137722015381}
+{"uid": "xfactr-ja-P276-000107", "answer": "コンスタンティノープル", "label": 1, "label_rule": "matches", "first_token_entropy": 0.029407072812318802}
+{"uid": "xfactr-ja-P166-000247", "answer": "ノーベル文学賞", "label": 0, "label_rule": "matches", "first_token_entropy": 0.041342876851558685}
+{"uid": "xfactr-ja-P279-000007", "answer": "俳優です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0017007705755531788}
+{"uid": "xfactr-ja-P166-000072", "answer": "ノーベル文学賞", "label": 0, "label_rule": "matches", "first_token_entropy": 0.043424829840660095}
+{"uid": "xfactr-ja-P166-000306", "answer": "ノーベル物理学賞", "label": 0, "label_rule": "matches", "first_token_entropy": 0.011087345890700817}
+{"uid": "xfactr-ja-P108-000069", "answer": "数学者です。 (ジョン・フォン・ノイマンは数学者です。)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3225049376487732}
+{"uid": "xfactr-ja-P279-000194", "answer": "宗教改革の下位概念である。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.12533673644065857}
+{"uid": "xfactr-ja-P1303-000868", "answer": "交響曲です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03186354786157608}
+{"uid": "xfactr-ja-P166-000008", "answer": "ノーベル物理学賞", "label": 0, "label_rule": "matches", "first_token_entropy": 0.011682109907269478}
+{"uid": "xfactr-ja-P136-000123", "answer": "ポップ・ミュージック", "label": 0, "label_rule": "matches", "first_token_entropy": 0.009501985274255276}
+{"uid": "xfactr-ja-P101-000001", "answer": "作曲家です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03941493481397629}
+{"uid": "xfactr-ja-P166-000142", "answer": "ノーベル文学賞", "label": 0, "label_rule": "matches", "first_token_entropy": 0.07613587379455566}
+{"uid": "xfactr-ja-P276-000027", "answer": "アメリカ合衆国ニューヨーク", "label": 0, "label_rule": "matches", "first_token_entropy": 0.6896957159042358}
+{"uid": "xfactr-ja-P108-000109", "answer": "俳優です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0050427112728357315}
+{"uid": "xfactr-ja-P20-000240", "answer": "病気で死んだ。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.14496445655822754}
+{"uid": "xfactr-ja-P279-000066", "answer": "社会科系の分野", "label": 1, "label_rule": "matches", "first_token_entropy": 3.097649097442627}
+{"uid": "xfactr-ja-P276-000050", "answer": "ヨーロッパです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0005141021683812141}
+{"uid": "xfactr-ja-P279-000676", "answer": "癌の下位概念である。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0019642040133476257}
+{"uid": "xfactr-ja-P101-000079", "answer": "コンピューターシステムの理論", "label": 1, "label_rule": "matches", "first_token_entropy": 0.007876420393586159}
+{"uid": "xfactr-ja-P138-000045", "answer": "コンゴ川にちなんで", "label": 0, "label_rule": "matches", "first_token_entropy": 0.017873402684926987}
+{"uid": "xfactr-ja-P1303-000007", "answer": "ピアノです。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.003900657407939434}
+{"uid": "xfactr-ja-P166-000020", "answer": "ノーベル化学賞", "label": 1, "label_rule": "matches", "first_token_entropy": 0.045644234865903854}
+{"uid": "xfactr-ja-P178-000038", "answer": "マイクロソフト", "label": 0, "label_rule": "matches", "first_token_entropy": 0.04450094699859619}
+{"uid": "xfactr-ja-P19-000452", "answer": "長岡市（ながおかし）", "label": 1, "label_rule": "matches", "first_token_entropy": 2.1726789474487305}
+{"uid": "xfactr-ja-P138-000043", "answer": "マルティン・ルター", "label": 0, "label_rule": "matches", "first_token_entropy": 0.3037474751472473}
+{"uid": "xfactr-ja-P101-000942", "answer": "銃器の設計", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0034479056484997272}
+{"uid": "xfactr-ja-P361-000011", "answer": "本州は日本列島の一部である。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.8251345157623291}
+{"uid": "xfactr-ja-P31-000084", "answer": "アフリカ大陸を横断する大きな川です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.004130777902901173}
+{"uid": "xfactr-ja-P27-000169", "answer": "アメリカ合衆国出身である。", "label": 0, "label_rule": "matches", "first_token_entropy": 1.2347781658172607}
+{"uid": "xfactr-ja-P178-000138", "answer": "マイクロソフト", "label": 0, "label_rule": "matches", "first_token_entropy": 0.051830679178237915}
+{"uid": "xfactr-ja-P138-000011", "answer": "マハマダ・ガニバの息子", "label": 1, "label_rule": "matches", "first_token_entropy": 2.7727413177490234}
+{"uid": "xfactr-ja-P108-000004", "answer": "外交官です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5002100467681885}
+{"uid": "xfactr-ja-P1303-000034", "answer": "ベースです。 (ポール・マッカートニーはベースを演奏する。)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.600711464881897}
+{"uid": "xfactr-ja-P101-000238", "answer": "歴史学者です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0033364235423505306}
+{"uid": "xfactr-ja-P740-000030", "answer": "ロンドンで結成された。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0463983416557312}
+{"uid": "xfactr-ja-P108-000055", "answer": "俳優です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.00802178867161274}
+{"uid": "xfactr-ja-P279-000061", "answer": "インドネシア語はマレー語の下位概念である。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0029890602454543114}
+{"uid": "xfactr-ja-P361-000067", "answer": "イタリア半島", "label": 1, "label_rule": "matches", "first_token_entropy": 0.01005643978714943}
+{"uid": "xfactr-ja-P178-000000", "answer": "マイクロソフト", "label": 0, "label_rule": "matches", "first_token_entropy": 0.024554315954446793}
+{"uid": "xfactr-ja-P166-000153", "answer": "ノーベル化学賞", "label": 1, "label_rule": "matches", "first_token_entropy": 0.025809932500123978}
+{"uid": "xfactr-ja-P279-000219", "answer": "スラヴ語系", "label": 1, "label_rule": "matches", "first_token_entropy": 0.02401626855134964}
+{"uid": "xfactr-ja-P166-000291", "answer": "ノーベル平和賞", "label": 0, "label_rule": "matches", "first_token_entropy": 0.026906006038188934}
+{"uid": "xfactr-ja-P361-000139", "answer": "新約聖書です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.3654385805130005}
+{"uid": "xfactr-ja-P20-000336", "answer": "十字架で死んだ。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03611154854297638}
+{"uid": "xfactr-ja-P166-000101", "answer": "ノーベル文学賞", "label": 0, "label_rule": "matches", "first_token_entropy": 0.08626368641853333}
+{"uid": "xfactr-ja-P361-000039", "answer": "旧約聖書（きゅうやくせいしょ）", "label": 0, "label_rule": "matches", "first_token_entropy": 0.05286647379398346}
+{"uid": "xfactr-ja-P106-000024", "answer": "政治家です。 (アミターブ・バッチャンはインドの政治家です)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.14586475491523743}
+{"uid": "xfactr-ja-P364-000033", "answer": "アラム語です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4936266541481018}
+{"uid": "xfactr-ja-P159-000002", "answer": "ニューヨーク市", "label": 0, "label_rule": "matches", "first_token_entropy": 0.007745739072561264}
+{"uid": "xfactr-ja-P276-000034", "answer": "欧州です。 (欧州は「ヨーロッパ」のことです)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.20664158463478088}
+{"uid": "xfactr-ja-P136-000167", "answer": "ポップ、ロック、カントリー", "label": 1, "label_rule": "matches", "first_token_entropy": 0.05583033710718155}
+{"uid": "xfactr-ja-P27-000022", "answer": "アメリカ合衆国です。", "label": 0, "label_rule": "matches", "first_token_entropy": 1.17920982837677}
+{"uid": "xfactr-ja-P20-000022", "answer": "キューバで死んだ。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.00921405665576458}
+{"uid": "xfactr-ja-P361-000070", "answer": "スラヴ語系", "label": 1, "label_rule": "matches", "first_token_entropy": 0.18879300355911255}
+{"uid": "xfactr-ja-P361-000043", "answer": "四年ごとに発生する年", "label": 1, "label_rule": "matches", "first_token_entropy": 2.875851631164551}
+{"uid": "xfactr-ja-P106-000050", "answer": "政治家です。 (政治家)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.01349780522286892}
+{"uid": "xfactr-ja-P166-000024", "answer": "ノーベル平和賞", "label": 0, "label_rule": "matches", "first_token_entropy": 0.043003395199775696}
+{"uid": "xfactr-ja-P106-000011", "answer": "作曲家です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.03510855883359909}
+{"uid": "xfactr-ja-P495-000028", "answer": "アメリカ合衆国です。", "label": 0, "label_rule": "matches", "first_token_entropy": 1.0379505157470703}
+{"uid": "xfactr-ja-P31-000083", "answer": "ロシアの主要な川です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.004116993397474289}
+{"uid": "xfactr-ja-P176-000009", "answer": "マイクロソフト", "label": 0, "label_rule": "matches", "first_token_entropy": 0.13676080107688904}
+{"uid": "xfactr-ja-P106-000042", "answer": "政治家です。 (政治家)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.09207421541213989}
+{"uid": "xfactr-ja-P364-000005", "answer": "古代エジプト語", "label": 1, "label_rule": "matches", "first_token_entropy": 0.34575819969177246}
+{"uid": "xfactr-ja-P1001-000045", "answer": "古代エジプト", "label": 0, "label_rule": "matches", "first_token_entropy": 0.6138715744018555}
+{"uid": "xfactr-ja-P138-000078", "answer": "ニジェール川にちなんで", "label": 0, "label_rule": "matches", "first_token_entropy": 0.019429214298725128}
+{"uid": "xfactr-ja-P138-000054", "answer": "ジブチはアラビア語で「七つの海」にちなんで名付けられた。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.2342214286327362}
+{"uid": "xfactr-ja-P364-000027", "answer": "オランダ語です。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3731880187988281}
+{"uid": "xfactr-ja-P27-000016", "answer": "ローマです。 (ガイウス・ユリウス・カエサルはローマ出身である。)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.024291792884469032}
+{"uid": "xfactr-ja-P279-000019", "answer": "中華語系の下位概念である。", "label": 0, "label_rule": "matches", "first_token_entropy": 1.8849878311157227}
+{"uid": "xfactr-ja-P138-000034", "answer": "カール・マルクス", "label": 0, "label_rule": "matches", "first_token_entropy": 0.017413338646292686}
+{"uid": "xfactr-ja-P364-000006", "answer": "サンスクリット語", "label": 0, "label_rule": "matches", "first_token_entropy": 0.015482085756957531}
+{"uid": "xfactr-ja-P138-000144", "answer": "コンゴ川にちなんで", "label": 0, "label_rule": "matches", "first_token_entropy": 0.01836007833480835}
+{"uid": "xfactr-ja-P364-000004", "answer": "英語です。 (ニューヨーク・タイムズの元言語は英語である。)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.5222015380859375}
+{"uid": "xfactr-ja-P495-000049", "answer": "テレビアニメです。 (テレビアニメです。)", "label": 1, "label_rule": "matches", "first_token_entropy": 2.18674373626709}
+{"uid": "xfactr-ja-P101-000050", "answer": "生物学者です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.23660092055797577}
+{"uid": "xfactr-ja-P27-000135", "answer": "アメリカ人です。 (文の文脈から推測する必要がありますが、ジョナサン・デミはアメリカの俳優です)", "label": 0, "label_rule": "matches", "first_token_entropy": 1.4182453155517578}
+{"uid": "xfactr-ja-P279-000094", "answer": "環境科学の下位概念である。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.9484424591064453}
+{"uid": "xfactr-ja-P20-000021", "answer": "病気です。 (病気です。)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1594862937927246}
+{"uid": "xfactr-ja-P1303-000005", "answer": "ピアノです。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.006168902851641178}
+{"uid": "xfactr-ja-P1303-000111", "answer": "交響曲です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03612741082906723}
+{"uid": "xfactr-ja-P20-000013", "answer": "拷問で死んだ。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7287760972976685}
+{"uid": "xfactr-ja-P1001-000584", "answer": "アステカ文明", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6733230948448181}
+{"uid": "xfactr-ja-P279-000463", "answer": "元素の下位概念である。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5653210878372192}
+{"uid": "xfactr-ja-P495-000142", "answer": "オーストリアの首都ウィーン", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2036212682724}
+{"uid": "xfactr-ja-P1303-000011", "answer": "ピアノです。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.005737343803048134}
+{"uid": "xfactr-ja-P31-000336", "answer": "島国です。 (島国は、海に囲まれた国です。)", "label": 0, "label_rule": "matches", "first_token_entropy": 1.892090082168579}
+{"uid": "xfactr-ja-P108-000662", "answer": "会社で働いている。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.344397783279419}
+{"uid": "xfactr-ja-P106-000000", "answer": "漁師です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.006618268322199583}
+{"uid": "xfactr-ja-P1001-000495", "answer": "欧州評議会", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06106748431921005}
+{"uid": "xfactr-ja-P136-000014", "answer": "ロックバンドです。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.05424671620130539}
+{"uid": "xfactr-ja-P1001-000462", "answer": "赤、白、青", "label": 1, "label_rule": "matches", "first_token_entropy": 3.697629451751709}
+{"uid": "xfactr-ja-P138-000166", "answer": "ロシア人女性のアルーシャ", "label": 0, "label_rule": "matches", "first_token_entropy": 0.7105506658554077}
+{"uid": "xfactr-ja-P1303-000050", "answer": "チェロを演奏する。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6666909456253052}
+{"uid": "xfactr-ja-P101-000968", "answer": "歴史学者です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0006696493946947157}
+{"uid": "xfactr-ja-P31-000120", "answer": "ドイツの港町です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0005440834211185575}
+{"uid": "xfactr-ja-P740-000118", "answer": "アメリカ合衆国で", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3475713729858398}
+{"uid": "xfactr-ja-P136-000012", "answer": "ジャズです。 (ジャズは、基本形です。)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.5184555649757385}
+{"uid": "xfactr-ja-P495-000160", "answer": "アイルランドです。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.012089438736438751}
+{"uid": "xfactr-ja-P279-000176", "answer": "光線の下位概念である。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6133697032928467}
+{"uid": "xfactr-ja-P27-000077", "answer": "アメリカ合衆国出身である。", "label": 0, "label_rule": "matches", "first_token_entropy": 1.3405356407165527}
+{"uid": "xfactr-ja-P127-000052", "answer": "ウォルト・ディズニー・カンパニー", "label": 0, "label_rule": "matches", "first_token_entropy": 0.007949285209178925}
+{"uid": "xfactr-ja-P279-000065", "answer": "ビールの下位概念である。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5929158926010132}
+{"uid": "xfactr-ja-P276-000229", "answer": "東京です。assistant  文: 2020年東京オリンピックの所在地は東京である。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4236721694469452}
+{"uid": "xfactr-ja-P279-000230", "answer": "金属です。 (金属は金属の下位概念である。)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3454344272613525}
+{"uid": "xfactr-ja-P106-000427", "answer": "小説家です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.005667758174240589}
+{"uid": "xfactr-ja-P1001-000012", "answer": "西洋の憲法", "label": 1, "label_rule": "matches", "first_token_entropy": 2.8046212196350098}
+{"uid": "xfactr-ja-P159-000119", "answer": "アメリカ合衆国（アメリカ）", "label": 1, "label_rule": "matches", "first_token_entropy": 1.117168664932251}
+{"uid": "xfactr-ja-P136-000066", "answer": "フォークソングです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.004489588551223278}
+{"uid": "xfactr-ja-P1303-000003", "answer": "オルガンです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2201983630657196}
+{"uid": "xfactr-ja-P159-000003", "answer": "カナダです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.01726062037050724}
+{"uid": "xfactr-ja-P138-000692", "answer": "ノフレテーテは、ノフレットにちなんで名付けられた。", "label": 1, "label_rule": "matches", "first_token_entropy": 2.524965763092041}
+{"uid": "xfactr-ja-P31-000150", "answer": "血管です。 (動脈は血管の一種で、血液を心臓から体の他の部分へ送る役割を果たします。)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.007645363453775644}
+{"uid": "xfactr-ja-P27-000053", "answer": "アメリカ人です。 (文の文脈から推測する必要がありますが、文の文脈から、サマーとドナはアメリカ人であることがわかります)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.8888635635375977}
+{"uid": "xfactr-ja-P138-000036", "answer": "クイーンビクトリア", "label": 1, "label_rule": "matches", "first_token_entropy": 0.22987811267375946}
+{"uid": "xfactr-ja-P1001-000723", "answer": "南アジアに属する。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9388465881347656}
+{"uid": "xfactr-ja-P127-000394", "answer": "ドイツ（ドイツ語）", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5129387378692627}
+{"uid": "xfactr-ja-P101-000220", "answer": "コンピューターシミュレーション", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03990364819765091}
+{"uid": "xfactr-ja-P159-000011", "answer": "マンハッタン", "label": 1, "label_rule": "matches", "first_token_entropy": 0.629141092300415}
+{"uid": "xfactr-ja-P54-000015", "answer": "NBA（NATIONAL BASKETBALL ASSOCIATION）", "label": 1, "label_rule": "matches", "first_token_entropy": 0.05763282626867294}
+{"uid": "xfactr-ja-P27-000073", "answer": "アメリカ合衆国出身である。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.9379978179931641}
+{"uid": "xfactr-ja-P136-000457", "answer": "ポップ・ロック", "label": 1, "label_rule": "matches", "first_token_entropy": 0.11791189014911652}
+{"uid": "xfactr-ja-P27-000017", "answer": "ローマ帝国の出身である。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09860977530479431}
+{"uid": "xfactr-ja-P106-000020", "answer": "歴史学者です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.011166307143867016}
+{"uid": "xfactr-ja-P136-000177", "answer": "ロックです。 (ロックは、音楽のジャンルの1つです)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.5914866924285889}
+{"uid": "xfactr-ja-P178-000001", "answer": "アップルです。 (アップルはMac OS Xの開発を手掛けている会社です)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.03066563792526722}
+{"uid": "xfactr-ja-P106-000218", "answer": "プロレスラーです。", "label": 1, "label_rule": "matches", "first_token_entropy": 3.0901501178741455}
+{"uid": "xfactr-ja-P138-000103", "answer": "ヴォルガ川", "label": 0, "label_rule": "matches", "first_token_entropy": 0.021156493574380875}
+{"uid": "xfactr-ja-P101-000484", "answer": "グラス工芸品", "label": 1, "label_rule": "matches", "first_token_entropy": 3.4864449501037598}
+{"uid": "xfactr-ja-P31-000863", "answer": "三千の数詞", "label": 1, "label_rule": "matches", "first_token_entropy": 3.3144147396087646}
+{"uid": "xfactr-ja-P136-000011", "answer": "ロックバンドです。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.05879334360361099}
+{"uid": "xfactr-ja-P1001-000890", "answer": "赤・白・金", "label": 1, "label_rule": "matches", "first_token_entropy": 3.030496120452881}
+{"uid": "xfactr-ja-P740-000148", "answer": "ニューヨーク市", "label": 0, "label_rule": "matches", "first_token_entropy": 0.00439740065485239}
+{"uid": "xfactr-ja-P108-000209", "answer": "スウェーデン人", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8389301300048828}
+{"uid": "xfactr-ja-P159-000441", "answer": "カイロです。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.09483394026756287}
+{"uid": "xfactr-ja-P106-000285", "answer": "ミュージシャンです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.013237401843070984}
+{"uid": "xfactr-ja-P276-000016", "answer": "エリヴァン（エルヴィン）", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5982329845428467}
+{"uid": "xfactr-ja-P27-000194", "answer": "アメリカ合衆国です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.9506884217262268}
+{"uid": "xfactr-ja-P138-000092", "answer": "ニコラウスです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9504615068435669}
+{"uid": "xfactr-ja-P136-000120", "answer": "ポップスです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.14802317321300507}
+{"uid": "xfactr-ja-P106-000045", "answer": "政治家です。 (政治家)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.053721554577350616}
+{"uid": "xfactr-ja-P1303-000105", "answer": "ギターです。 (サッチモはギターを演奏する。)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.14901743829250336}
+{"uid": "xfactr-ja-P138-000936", "answer": "アムンゼン", "label": 1, "label_rule": "matches", "first_token_entropy": 0.12112032622098923}
+{"uid": "xfactr-ja-P138-000325", "answer": "ドイツ語の「ドイツ語でドイツのドイツ語のドイツ語のドイツ語のドイツ語のドイツ語のドイツ語のドイツ語のドイツ語のドイツ語のドイツ", "label": 1, "label_rule": "matches", "first_token_entropy": 2.337899684906006}
+{"uid": "xfactr-ja-P106-000468", "answer": "作曲家です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9145252704620361}
+{"uid": "xfactr-ja-P159-000020", "answer": "ローマです。 (ローマはカトリック教会の本部であるため)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.02144147828221321}
+{"uid": "xfactr-ja-P20-000040", "answer": "ロシアの皇帝", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2010611891746521}
+{"uid": "xfactr-ja-P19-000005", "answer": "ロシア人です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.056286852806806564}
+{"uid": "xfactr-ja-P31-000072", "answer": "スイスの州です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.023876231163740158}
+{"uid": "xfactr-ja-P159-000167", "answer": "東京都調布市", "label": 1, "label_rule": "matches", "first_token_entropy": 0.39833584427833557}
+{"uid": "xfactr-ja-P279-000082", "answer": "美観（びかん）", "label": 1, "label_rule": "matches", "first_token_entropy": 4.258575439453125}
+{"uid": "xfactr-ja-P31-000115", "answer": "おとしんぼ座です。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.357640266418457}
+{"uid": "xfactr-ja-P138-000081", "answer": "ヨーロッパの新大陸", "label": 1, "label_rule": "matches", "first_token_entropy": 0.05051682889461517}
+{"uid": "xfactr-ja-P138-000002", "answer": "カリブ海にちなんで", "label": 1, "label_rule": "matches", "first_token_entropy": 2.387718915939331}
+{"uid": "xfactr-ja-P279-000117", "answer": "無機化学の下位概念である。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.029412947595119476}
+{"uid": "xfactr-ja-P106-000247", "answer": "シンガーソングライター", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0007097632042132318}
+{"uid": "xfactr-ja-P136-000062", "answer": "ジャズです。 (Charles Parkerはジャズのトランペット奏者です)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.636629045009613}
+{"uid": "xfactr-ja-P1303-000578", "answer": "シンガーソングライター", "label": 1, "label_rule": "matches", "first_token_entropy": 1.538489818572998}
+{"uid": "xfactr-ja-P178-000009", "answer": "Microsoftによって開発されている。", "label": 0, "label_rule": "matches", "first_token_entropy": 1.6095709800720215}
+{"uid": "xfactr-ja-P136-000160", "answer": "クラシック音楽です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.007853482849895954}
+{"uid": "xfactr-ja-P106-000016", "answer": "詩人です。 (ウェルギリウスは古代ローマの詩人です。)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.043289199471473694}
+{"uid": "xfactr-ja-P106-000537", "answer": "医者です。 (ルイージ・ガルヴァーニはイタリアの医者です。)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.3684605062007904}
+{"uid": "xfactr-ja-P136-000033", "answer": "カントリー・ミュージック", "label": 0, "label_rule": "matches", "first_token_entropy": 0.02553807944059372}
+{"uid": "xfactr-ja-P27-000345", "answer": "アメリカ合衆国です。", "label": 0, "label_rule": "matches", "first_token_entropy": 1.307983636856079}
+{"uid": "xfactr-ja-P279-000062", "answer": "森林の下位概念である。", "label": 0, "label_rule": "matches", "first_token_entropy": 1.569051742553711}
+{"uid": "xfactr-ja-P1001-000371", "answer": "日本国（にほんこく）", "label": 0, "label_rule": "matches", "first_token_entropy": 1.9339004755020142}
+{"uid": "xfactr-ja-P1303-000028", "answer": "ピアノです。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.012752478942275047}
+{"uid": "xfactr-ja-P108-000188", "answer": "俳優です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0014360619243234396}
+{"uid": "xfactr-ja-P27-000273", "answer": "ロシア人です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07996100187301636}
+{"uid": "xfactr-ja-P101-000864", "answer": "哲学者です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0217156782746315}
+{"uid": "xfactr-ja-P101-000212", "answer": "数学者です。 (レオンハルト・オイラーは数学者として有名です。)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8902294039726257}
+{"uid": "xfactr-ja-P279-000013", "answer": "司会者です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.16007214784622192}
+{"uid": "xfactr-ja-P106-000012", "answer": "作家です。 (H・M・スタンリーは作家のことです)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7818750143051147}
+{"uid": "xfactr-ja-P127-000092", "answer": "ディズニージュニアは、ウォルト・ディズニー・カンパニーに所有されている。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.11951243877410889}
+{"uid": "xfactr-ja-P276-000002", "answer": "アトランタです。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.28494712710380554}
+{"uid": "xfactr-ja-P101-000000", "answer": "精神分析家です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.9979795813560486}
+{"uid": "xfactr-ja-P101-000139", "answer": "化学者です。 (化学者は、化学の研究や実践を専門としている人です。)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9638125896453857}
+{"uid": "xfactr-ja-P31-000066", "answer": "スイスの1州です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.005240010097622871}
+{"uid": "xfactr-ja-P276-000001", "answer": "ロンドンです。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0014680665917694569}
+{"uid": "xfactr-ja-P276-000029", "answer": "リオデジャネイロ", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0012011054204776883}
+{"uid": "xfactr-ja-P279-000178", "answer": "化学の下位概念である。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.5829756259918213}
+{"uid": "xfactr-ja-P31-000036", "answer": "海峡の両側にある国", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2133123874664307}
+{"uid": "xfactr-ja-P106-000234", "answer": "歌手です。 (歌手)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.022318121045827866}
+{"uid": "xfactr-ja-P27-000119", "answer": "ポーランド人です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0030147226061671972}
+{"uid": "xfactr-ja-P101-000368", "answer": "経済学者です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.025947559624910355}
+{"uid": "xfactr-ja-P176-000125", "answer": "トレスカンザス", "label": 1, "label_rule": "matches", "first_token_entropy": 3.1922216415405273}
+{"uid": "xfactr-ja-P279-000091", "answer": "葡萄酒の", "label": 0, "label_rule": "matches", "first_token_entropy": 0.008181567303836346}
+{"uid": "xfactr-ja-P740-000036", "answer": "日本の会社で結成された。", "label": 1, "label_rule": "matches", "first_token_entropy": 6.121371746063232}
+{"uid": "xfactr-ja-P136-000152", "answer": "歴史小説です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.010494513437151909}
+{"uid": "xfactr-ja-P27-000206", "answer": "古代エジプト", "label": 0, "label_rule": "matches", "first_token_entropy": 0.6774981021881104}
+{"uid": "xfactr-ja-P178-000014", "answer": "マイクロソフト", "label": 0, "label_rule": "matches", "first_token_entropy": 0.02445301227271557}
+{"uid": "xfactr-ja-P279-000428", "answer": "グラフィカルユーザーインターフェース", "label": 0, "label_rule": "matches", "first_token_entropy": 0.24283143877983093}
+{"uid": "xfactr-ja-P159-000008", "answer": "ロンドンです。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.015600316226482391}
+{"uid": "xfactr-ja-P1001-000001", "answer": "連邦制国家です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.000544925918802619}
+{"uid": "xfactr-ja-P279-000423", "answer": "心不全の下位概念である。", "label": 1, "label_rule": "matches", "first_token_entropy": 2.9129719734191895}
+{"uid": "xfactr-ja-P276-000075", "answer": "中東です。 (中東は日本語で「湾岸危機の所在地」に該当する地域です)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03603627160191536}
+{"uid": "xfactr-ja-P27-000070", "answer": "アルゼンチン人", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0074446662329137325}
+{"uid": "xfactr-ja-P20-000001", "answer": "メッカです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.41595566272735596}
+{"uid": "xfactr-ja-P31-000700", "answer": "フィリピン最大の島", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0069478885270655155}
+{"uid": "xfactr-ja-P27-000069", "answer": "アメリカ合衆国出身である。", "label": 0, "label_rule": "matches", "first_token_entropy": 1.3567615747451782}
+{"uid": "xfactr-ja-P1303-000076", "answer": "ヴァイオリンです。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.04393497109413147}
+{"uid": "xfactr-ja-P495-000110", "answer": "アメリカ合衆国です。", "label": 0, "label_rule": "matches", "first_token_entropy": 1.4321377277374268}
+{"uid": "xfactr-ja-P102-000003", "answer": "中国共産党の第一書記", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5805079936981201}
+{"uid": "xfactr-ja-P31-000059", "answer": "うしかい座です。", "label": 1, "label_rule": "matches", "first_token_entropy": 3.1008949279785156}
+{"uid": "xfactr-ja-P1303-000468", "answer": "ピアノです。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.005072381347417831}
+{"uid": "xfactr-ja-P101-000115", "answer": "数学者です。 (カール・フリードリヒ・ガウスは数学者として有名です)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1082584857940674}
+{"uid": "xfactr-ja-P19-000831", "answer": "スペイン生まれである。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.008867323398590088}
+{"uid": "xfactr-ja-P31-000095", "answer": "エウフラテス川はメソポタミアの川である。", "label": 0, "label_rule": "matches", "first_token_entropy": 2.3158373832702637}
+{"uid": "xfactr-ja-P1001-000706", "answer": "五星紅旗です。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.9747936725616455}
+{"uid": "xfactr-ja-P136-000044", "answer": "クラシック音楽です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.005031939595937729}
+{"uid": "xfactr-ja-P108-000007", "answer": "科学者です。 (文法上の答えは「科学者」ですが、文の意味から「研究者」も正解です。)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.23546406626701355}
+{"uid": "xfactr-ja-P106-000009", "answer": "船乗りです。", "label": 1, "label_rule": "matches", "first_token_entropy": 3.219015598297119}
+{"uid": "xfactr-ja-P495-000282", "answer": "アニメです。 (Dumboは、1941年にアメリカで制作されたアニメ映画です。)", "label": 0, "label_rule": "matches", "first_token_entropy": 2.2766523361206055}
+{"uid": "xfactr-ja-P178-000068", "answer": "Googleによって開発されている。", "label": 0, "label_rule": "matches", "first_token_entropy": 1.6672897338867188}
+{"uid": "xfactr-ja-P108-000099", "answer": "外国人です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7618746757507324}
+{"uid": "xfactr-ja-P102-000107", "answer": "メンバーです。 (アギナルドはメンバーである。)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7606226801872253}
+{"uid": "xfactr-ja-P108-000639", "answer": "外交官です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.511748194694519}
+{"uid": "xfactr-ja-P276-000194", "answer": "アメリカ合衆国マサチューセッツ州", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9376518130302429}
+{"uid": "xfactr-ja-P1001-000345", "answer": "北米に属する。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7574163675308228}
+{"uid": "xfactr-ja-P159-000127", "answer": "スコットランドです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0280904620885849}
+{"uid": "xfactr-ja-P1001-000645", "answer": "赤青黄色の三色旗", "label": 1, "label_rule": "matches", "first_token_entropy": 3.4531564712524414}
+{"uid": "xfactr-ja-P19-000006", "answer": "イタリア人です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03569979593157768}
+{"uid": "xfactr-ja-P1001-000193", "answer": "ドイツ語の文学", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0733119398355484}
+{"uid": "xfactr-ja-P279-000844", "answer": "オペレッタ", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5988768339157104}
+{"uid": "xfactr-ja-P1001-000684", "answer": "北欧の国々", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2388746738433838}
+{"uid": "xfactr-ja-P159-000653", "answer": "東京です。 (注: ジョリビーは日本の企業で、東京に本社がある)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0416197776794434}
+{"uid": "xfactr-ja-P136-000052", "answer": "バロック音楽です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2070770412683487}
+{"uid": "xfactr-ja-P276-000147", "answer": "中東です。 (中東は日本語で「湾岸危機の所在地」に該当する地域です)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03603627160191536}
+{"uid": "xfactr-ja-P159-000072", "answer": "ミュンヘンです。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.01368492841720581}
+{"uid": "xfactr-ja-P31-000006", "answer": "スイスの州です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.008844869211316109}
+{"uid": "xfactr-ja-P31-000012", "answer": "中国の自治区です。", "label": 1, "label_rule": "matches", "first_token_entropy": 3.503636360168457}
+{"uid": "xfactr-ja-P1001-000120", "answer": "イスラム教です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.011066876351833344}
+{"uid": "xfactr-ja-P279-000124", "answer": "頭蓋骨の下位概念である。", "label": 0, "label_rule": "matches", "first_token_entropy": 2.0697615146636963}
+{"uid": "xfactr-ja-P106-000132", "answer": "俳優です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0010261108400300145}
+{"uid": "xfactr-ja-P108-000612", "answer": "政治家です。 (クレメント・アトリーは政治家です。)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09706197679042816}
+{"uid": "xfactr-ja-P102-000000", "answer": "ナチス党員である。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.2600768804550171}
+{"uid": "xfactr-ja-P102-000418", "answer": "南アフリカの政治家", "label": 1, "label_rule": "matches", "first_token_entropy": 0.018261747434735298}
+{"uid": "xfactr-ja-P54-000760", "answer": "ドイツ代表です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.043121472001075745}
+{"uid": "xfactr-ja-P102-000389", "answer": "ドイツ国防軍総司令官", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0231791902333498}
+{"uid": "xfactr-ja-P176-000004", "answer": "中国に生産されている。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6555460095405579}
+{"uid": "xfactr-ja-P108-000028", "answer": "古代ギリシャ", "label": 1, "label_rule": "matches", "first_token_entropy": 0.13273277878761292}
+{"uid": "xfactr-ja-P1001-000545", "answer": "アフリカです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0014292406849563122}
+{"uid": "xfactr-ja-P159-000181", "answer": "ウィーン（ウィーンはオーストリアの首都）", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0029544681310653687}
+{"uid": "xfactr-ja-P106-000018", "answer": "作曲家です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.031367696821689606}
+{"uid": "xfactr-ja-P1001-000940", "answer": "赤、白、青", "label": 1, "label_rule": "matches", "first_token_entropy": 3.118858814239502}
+{"uid": "xfactr-ja-P31-000080", "answer": "ドイツの連邦州", "label": 1, "label_rule": "matches", "first_token_entropy": 0.16543690860271454}
+{"uid": "xfactr-ja-P276-000032", "answer": "中東です。 (中東は日本語で「湾岸危機の所在地」に該当する地域です)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03603627160191536}
+{"uid": "xfactr-ja-P178-000098", "answer": "ニール・アダムスとジャニーン・シェー", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7153844833374023}
+{"uid": "xfactr-ja-P31-000098", "answer": "人工衛星です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.9623157382011414}
+{"uid": "xfactr-ja-P69-000000", "answer": "パリ大学です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0017989795887842774}
+{"uid": "xfactr-ja-P20-000010", "answer": "フランコ将軍はキューバで死んだ。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2846934795379639}
+{"uid": "xfactr-ja-P1001-000150", "answer": "議会です。 (元老院は議会に属する)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2486021518707275}
+{"uid": "xfactr-ja-P31-000021", "answer": "イタリアの1州です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.01101788692176342}
+{"uid": "xfactr-ja-P31-000042", "answer": "オーストラリアの州の一つです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.022526051849126816}
+{"uid": "xfactr-ja-P1303-000002", "answer": "ピアノです。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0035502116661518812}
+{"uid": "xfactr-ja-P20-000036", "answer": "病気で死んだ。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.13112220168113708}
+{"uid": "xfactr-ja-P20-000016", "answer": "カール1世は死んだ。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.36173784732818604}
+{"uid": "xfactr-ja-P20-000029", "answer": "病気で死んだ。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.10876942425966263}
+{"uid": "xfactr-ja-P364-000157", "answer": "英語です。 (ru.wikipedia.orgの元言語は英語である。)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8128116726875305}
+{"uid": "xfactr-ja-P1001-000131", "answer": "赤、白、青", "label": 1, "label_rule": "matches", "first_token_entropy": 2.810814142227173}
+{"uid": "xfactr-ja-P495-000450", "answer": "デンマークで作られた。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.007935146801173687}
+{"uid": "xfactr-ja-P127-000026", "answer": "バチカン市", "label": 1, "label_rule": "matches", "first_token_entropy": 0.006091578863561153}
+{"uid": "xfactr-ja-P19-000056", "answer": "スルタン・マホメッド二世はエジプト生まれである。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.26294368505477905}
+{"uid": "xfactr-ja-P495-000055", "answer": "1986年です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9497779607772827}
+{"uid": "xfactr-ja-P178-000264", "answer": "Keyhole Inc.によって開発されている。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.011236781254410744}
+{"uid": "xfactr-ja-P495-000019", "answer": "マクドナルド", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0331077575683594}
+{"uid": "xfactr-ja-P31-000048", "answer": "ドイツとチェコの国境を流れる川です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.005582538433372974}
+{"uid": "xfactr-ja-P31-000159", "answer": "パキスタンの元首相です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6307983994483948}
+{"uid": "xfactr-ja-P136-000065", "answer": "ポップスです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.08255980908870697}
+{"uid": "xfactr-ja-P276-000010", "answer": "ラゴーナビーチ", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5843665599822998}
+{"uid": "xfactr-ja-P159-000165", "answer": "カタロニア自治州の首都、バルセロナ", "label": 0, "label_rule": "matches", "first_token_entropy": 0.8297972679138184}
+{"uid": "xfactr-ja-P1001-000021", "answer": "アジアです。 (アジア)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07948455214500427}
+{"uid": "xfactr-ja-P106-000005", "answer": "劇作家です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.578648030757904}
+{"uid": "xfactr-ja-P31-000061", "answer": "砂漠です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.035987623035907745}
+{"uid": "xfactr-ja-P1303-000237", "answer": "ギターです。 (ジョン・フィールドはギターを演奏する。)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.16922608017921448}
+{"uid": "xfactr-ja-P106-000019", "answer": "俳優です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0018960910383611917}
+{"uid": "xfactr-ja-P495-000025", "answer": "ジャマイカで作られた。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.3286486864089966}
+{"uid": "xfactr-ja-P495-000020", "answer": "アニメーション", "label": 1, "label_rule": "matches", "first_token_entropy": 2.0786845684051514}
+{"uid": "xfactr-ja-P159-000042", "answer": "キャンブリッジ", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8885152339935303}
+{"uid": "xfactr-ja-P1303-000302", "answer": "ピアノを演奏する。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0064162639901041985}
+{"uid": "xfactr-ja-P1001-000357", "answer": "赤、白、青", "label": 1, "label_rule": "matches", "first_token_entropy": 3.065782070159912}
+{"uid": "xfactr-ja-P1303-000374", "answer": "ロックです。 (フレディ・マーキュリーはロックを演奏する。)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5026581287384033}
+{"uid": "xfactr-ja-P106-000601", "answer": "女優です。 (女は「むすめ」で、語尾の「っ」は省略される)", "label": 1, "label_rule": "matches", "first_token_entropy": 2.527810573577881}
+{"uid": "xfactr-ja-P1303-000344", "answer": "歌手です。 (歌手は、歌を歌う人です。)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.9635905027389526}
+{"uid": "xfactr-ja-P159-000009", "answer": "イリノイ州", "label": 1, "label_rule": "matches", "first_token_entropy": 2.172344207763672}
+{"uid": "xfactr-ja-P1001-000897", "answer": "アフリカの国々", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6082546710968018}
+{"uid": "xfactr-ja-P102-000002", "answer": "党首です。 (党首は、政党の最高責任者です。)", "label": 1, "label_rule": "matches", "first_token_entropy": 3.276108980178833}
+{"uid": "xfactr-ja-P740-000002", "answer": "1966年です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03326651081442833}
+{"uid": "xfactr-ja-P20-000017", "answer": "スコットランドで死んだ。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3608307838439941}
+{"uid": "xfactr-ja-P136-000110", "answer": "歴史小説です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.01194504089653492}
+{"uid": "xfactr-ja-P19-000001", "answer": "キリスト（イイスス・ハリストスはキリストである。）", "label": 1, "label_rule": "matches", "first_token_entropy": 0.023019352927803993}
+{"uid": "xfactr-ja-P276-000051", "answer": "中東です。 (中東は日本語で「湾岸危機の所在地」に該当する地域です)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03603627160191536}
+{"uid": "xfactr-ja-P1001-000017", "answer": "上院議員です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7673866748809814}
+{"uid": "xfactr-ja-P127-000004", "answer": "SMエンターテインメント", "label": 1, "label_rule": "matches", "first_token_entropy": 2.342580556869507}
+{"uid": "xfactr-ja-P740-000179", "answer": "フランス人芸術家グループ", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9344910383224487}
+{"uid": "xfactr-ja-P20-000674", "answer": "火事で死んだ。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8979853391647339}
+{"uid": "xfactr-ja-P159-000083", "answer": "ソウルです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.009183639660477638}
+{"uid": "xfactr-ja-P102-000015", "answer": "プロフィッショナル", "label": 1, "label_rule": "matches", "first_token_entropy": 5.4878458976745605}
+{"uid": "xfactr-ja-P159-000081", "answer": "東京です。 (アズハルは日本の企業で、東京に本社がある)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8729262351989746}
+{"uid": "xfactr-ja-P178-000043", "answer": "マイクロソフト", "label": 0, "label_rule": "matches", "first_token_entropy": 0.04247492551803589}
+{"uid": "xfactr-ja-P136-000043", "answer": "ジャズです。 (ディジー・ガレスピーはジャズのピアニストです)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.2539050579071045}
+{"uid": "xfactr-ja-P364-000162", "answer": "ハンガリー語です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.01679598167538643}
+{"uid": "xfactr-ja-P31-000170", "answer": "フィリピンの島", "label": 1, "label_rule": "matches", "first_token_entropy": 0.00264329113997519}
+{"uid": "xfactr-ja-P1001-000002", "answer": "連邦議会の上院", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0005486913723871112}
+{"uid": "xfactr-ja-P31-000047", "answer": "オーストリアの州です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0286320298910141}
+{"uid": "xfactr-ja-P276-000000", "answer": "シドニーです。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.01802743598818779}
+{"uid": "xfactr-ja-P178-000046", "answer": "日本産業規格委員会", "label": 1, "label_rule": "matches", "first_token_entropy": 2.914935827255249}
+{"uid": "xfactr-ja-P1303-000631", "answer": "ギターです。 (メル・コリンズはギターを演奏する。)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07640602439641953}
+{"uid": "xfactr-ja-P1001-000355", "answer": "学士は学位に属する。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0575892925262451}
+{"uid": "xfactr-ja-P159-000051", "answer": "ドイツです。 (オストプロイセンはドイツの旧国名)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5005826950073242}
+{"uid": "xfactr-ja-P19-000319", "answer": "アメリカ合衆国出身", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4858721494674683}
+{"uid": "xfactr-ja-P127-000159", "answer": "アメリカ合衆国です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9825378060340881}
+{"uid": "xfactr-ja-P178-000002", "answer": "アップルです。 (アップルはMac OSの開発を手掛けている会社です)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.026936577633023262}
+{"uid": "xfactr-ja-P1303-000284", "answer": "ギターです。 (ブライアン・メイはギターを演奏する。)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1677509844303131}
+{"uid": "xfactr-ja-P159-000142", "answer": "ニューヨーク市", "label": 0, "label_rule": "matches", "first_token_entropy": 0.053328681737184525}
+{"uid": "xfactr-ja-P127-000111", "answer": "ペイパルはサンフランシスコに所有されている。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2814182639122009}
+{"uid": "xfactr-ja-P364-000016", "answer": "英語です。 (LOSTはアメリカのテレビドラマです)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.6651968955993652}
+{"uid": "xfactr-ja-P740-000100", "answer": "バンドです。 (AEROSMITHはバンドで結成された。)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5879573822021484}
+{"uid": "xfactr-ja-P364-000085", "answer": "英語です。 (基本形)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.7252570986747742}
+{"uid": "xfactr-ja-P159-000070", "answer": "ジャクソンビル", "label": 1, "label_rule": "matches", "first_token_entropy": 0.25220954418182373}
+{"uid": "xfactr-ja-P364-000008", "answer": "ウラル系言語", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1458660364151}
+{"uid": "xfactr-ja-P31-000017", "answer": "フランス語圏の県", "label": 1, "label_rule": "matches", "first_token_entropy": 0.35708004236221313}
+{"uid": "xfactr-ja-P276-000143", "answer": "クリミア半島", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0053784591145813465}
+{"uid": "xfactr-ja-P495-000050", "answer": "ロックバンドです。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0746846199035645}
+{"uid": "xfactr-ja-P276-000006", "answer": "バルセロナ", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0004834115970879793}
+{"uid": "xfactr-ja-P364-000144", "answer": "英語です。 (元は英語です。)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.9504825472831726}
+{"uid": "xfactr-ja-P19-000059", "answer": "フランス人です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.42753174901008606}
+{"uid": "xfactr-ja-P178-000011", "answer": "Googleによって開発されている。", "label": 0, "label_rule": "matches", "first_token_entropy": 1.5770286321640015}
+{"uid": "xfactr-ja-P495-000052", "answer": "アメリカ合衆国です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.9923148155212402}
+{"uid": "xfactr-ja-P276-000139", "answer": "米墨戦争の所在地はアメリカ合衆国である。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.33346834778785706}
+{"uid": "xfactr-ja-P136-000032", "answer": "アイドル系のポップ", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09101921319961548}
+{"uid": "xfactr-ja-P69-000003", "answer": "カールスルネウス", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9150781035423279}
+{"uid": "xfactr-ja-P102-000044", "answer": "医者です。 (医者は、医療の専門家です。)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.226008653640747}
+{"uid": "xfactr-ja-P178-000040", "answer": "マイクロソフト", "label": 0, "label_rule": "matches", "first_token_entropy": 0.09156271815299988}
+{"uid": "xfactr-ja-P740-000408", "answer": "ロンドンで結成された。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.00879739224910736}
+{"uid": "xfactr-ja-P1303-000058", "answer": "ジャズ・サックス奏者です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.19517654180526733}
+{"uid": "xfactr-ja-P740-000038", "answer": "アメリカ合衆国です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9244081377983093}
+{"uid": "xfactr-ja-P159-000842", "answer": "アメリカ合衆国です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9506564140319824}
+{"uid": "xfactr-ja-P740-000091", "answer": "ニューヨーク市", "label": 0, "label_rule": "matches", "first_token_entropy": 0.02705666795372963}
+{"uid": "xfactr-ja-P136-000038", "answer": "クラシック音楽です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.016502084210515022}
+{"uid": "xfactr-ja-P159-000195", "answer": "ソウル市です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0009364892030134797}
+{"uid": "xfactr-ja-P54-000897", "answer": "フランス代表です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6995314359664917}
+{"uid": "xfactr-ja-P136-000047", "answer": "クラシック音楽です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.005031939595937729}
+{"uid": "xfactr-ja-P31-000013", "answer": "フランスです。 (フランス語のセーヌ＝エ＝マルヌ県です。)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.23120762407779694}
+{"uid": "xfactr-ja-P449-000011", "answer": "映画です。 (映画は「ママと恋に落ちるまでは最初に映画で放送された。）", "label": 1, "label_rule": "matches", "first_token_entropy": 1.152700424194336}
+{"uid": "xfactr-ja-P740-000009", "answer": "アメリカ合衆国です。", "label": 0, "label_rule": "matches", "first_token_entropy": 1.167465090751648}
+{"uid": "xfactr-ja-P178-000047", "answer": "クアレイ (QuickTime)", "label": 1, "label_rule": "matches", "first_token_entropy": 2.5110182762145996}
+{"uid": "xfactr-ja-P178-000431", "answer": "マイクロソフト", "label": 0, "label_rule": "matches", "first_token_entropy": 0.06902983784675598}
+{"uid": "xfactr-ja-P136-000022", "answer": "メタリカは、メタル（金属）を意味する言葉です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.891761064529419}
+{"uid": "xfactr-ja-P31-000771", "answer": "イタリア人です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3376624584197998}
+{"uid": "xfactr-ja-P127-000256", "answer": "Amazon.comに所有されている。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.735098123550415}
+{"uid": "xfactr-ja-P1303-000681", "answer": "ギターです。 (ジェフ・バクスターはギターを演奏する。)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.17093250155448914}
+{"uid": "xfactr-ja-P20-000756", "answer": "肝不全で死んだ。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5456750392913818}
+{"uid": "xfactr-ja-P495-000106", "answer": "アメリカ合衆国です。", "label": 0, "label_rule": "matches", "first_token_entropy": 1.4522916078567505}
+{"uid": "xfactr-ja-P449-000717", "answer": "テレビです。 (テレビは日本語で「テレビ」という言葉が基本形です)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.156750202178955}
+{"uid": "xfactr-ja-P19-000923", "answer": "東京市（現：東京都）", "label": 1, "label_rule": "matches", "first_token_entropy": 1.226165771484375}
+{"uid": "xfactr-ja-P495-000107", "answer": "ブラジルで作られた。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0020801411010324955}
+{"uid": "xfactr-ja-P178-000026", "answer": "マイクロソフト", "label": 0, "label_rule": "matches", "first_token_entropy": 0.04406629875302315}
+{"uid": "xfactr-ja-P740-000060", "answer": "韓国で結成された。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.5503562688827515}
+{"uid": "xfactr-ja-P495-000661", "answer": "お菓子です。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.319819450378418}
+{"uid": "xfactr-ja-P102-000049", "answer": "インド大統領", "label": 1, "label_rule": "matches", "first_token_entropy": 0.045820578932762146}
+{"uid": "xfactr-ja-P127-000233", "answer": "インドネシア政府", "label": 0, "label_rule": "matches", "first_token_entropy": 0.01758474111557007}
+{"uid": "xfactr-ja-P495-000210", "answer": "日本の伝統的武道", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9185432195663452}
+{"uid": "xfactr-ja-P495-000105", "answer": "紙です。 (A4は、ISO 216規格で定められた国際規格の紙のサイズです。)", "label": 1, "label_rule": "matches", "first_token_entropy": 3.4016361236572266}
+{"uid": "xfactr-ja-P69-000078", "answer": "ハーバード大学です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.15535059571266174}
+{"uid": "xfactr-ja-P364-000065", "answer": "フランス語です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.08021576702594757}
+{"uid": "xfactr-ja-P495-000004", "answer": "テレビです。 (スタートレックはテレビで作られた。)", "label": 1, "label_rule": "matches", "first_token_entropy": 2.4049434661865234}
+{"uid": "xfactr-ja-P1303-000041", "answer": "ピアノを演奏する。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.004220407456159592}
+{"uid": "xfactr-ja-P740-000004", "answer": "1950年代のアメリカ", "label": 1, "label_rule": "matches", "first_token_entropy": 0.172847181558609}
+{"uid": "xfactr-ja-P495-000114", "answer": "映画です。 (映画は、映像や音を記録したものを、映像や音を投射する装置で、観客に映像や音を投射して、映像や音を楽しむ娯", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3546998500823975}
+{"uid": "xfactr-ja-P176-000696", "answer": "ロシアです。 (ロシア)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.028659028932452202}
+{"uid": "xfactr-ja-P108-000852", "answer": "会社で（ボルンは会社で働いている。）", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3897461891174316}
+{"uid": "xfactr-ja-P69-000166", "answer": "オックスフォード大学", "label": 0, "label_rule": "matches", "first_token_entropy": 0.17142966389656067}
+{"uid": "xfactr-ja-P449-000566", "answer": "テレビ朝日です。", "label": 1, "label_rule": "matches", "first_token_entropy": 3.8369643688201904}
+{"uid": "xfactr-ja-P127-000080", "answer": "CDプレーヤー", "label": 1, "label_rule": "matches", "first_token_entropy": 4.266257286071777}
+{"uid": "xfactr-ja-P108-000246", "answer": "映画監督です。 (映画監督)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6620428562164307}
+{"uid": "xfactr-ja-P108-000005", "answer": "プロレスラーです。", "label": 1, "label_rule": "matches", "first_token_entropy": 4.848575592041016}
+{"uid": "xfactr-ja-P108-000008", "answer": "ウィーンで働いている。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.004563548602163792}
+{"uid": "xfactr-ja-P54-000669", "answer": "サッカー選手です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6424190402030945}
+{"uid": "xfactr-ja-P176-000312", "answer": "中国や日本などに", "label": 1, "label_rule": "matches", "first_token_entropy": 1.345428705215454}
+{"uid": "xfactr-ja-P495-000016", "answer": "フランス語です。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8650118112564087}
+{"uid": "xfactr-ja-P20-000005", "answer": "病気で死んだ。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5184149146080017}
+{"uid": "xfactr-ja-P495-000023", "answer": "アメリカ合衆国です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.7429951429367065}
+{"uid": "xfactr-ja-P495-000267", "answer": "イタリア語です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.09925220906734467}
+{"uid": "xfactr-ja-P495-000224", "answer": "マーベル・シネマティック・ユニバースはマーベル・コミックで作られた。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.004074776545166969}
+{"uid": "xfactr-ja-P449-000860", "answer": "テレビドラマです。", "label": 1, "label_rule": "matches", "first_token_entropy": 3.1077027320861816}
+{"uid": "xfactr-ja-P364-000062", "answer": "イタリア語です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.03113330714404583}
+{"uid": "xfactr-ja-P364-000032", "answer": "英語です。 (HEROESは英語で、英雄の意)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.7990003824234009}
+{"uid": "xfactr-ja-P102-000415", "answer": "会員です。 (アロイス・モックは会員である。)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8137211799621582}
+{"uid": "xfactr-ja-P54-000092", "answer": "スペイン代表です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.15211443603038788}
+{"uid": "xfactr-ja-P364-000009", "answer": "インド・ヨーロッパ語族", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6006977558135986}
+{"uid": "xfactr-ja-P495-000091", "answer": "ウィルコは、ウィルコックスで作られた。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.873842716217041}
+{"uid": "xfactr-ja-P364-000069", "answer": "ウェールズ語です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0053214868530631065}
+{"uid": "xfactr-ja-P176-000006", "answer": "中国（中国）に生産されている。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5409426093101501}
+{"uid": "xfactr-ja-P108-000017", "answer": "アメリカ合衆国大統領", "label": 1, "label_rule": "matches", "first_token_entropy": 1.828118085861206}
+{"uid": "xfactr-ja-P19-000033", "answer": "イタリア人です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.032542403787374496}
+{"uid": "xfactr-ja-P449-000403", "answer": "テレビです。 (テレビは、1950年代に初めて日本で放送された。)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6359672546386719}
+{"uid": "xfactr-ja-P176-000039", "answer": "ドイツです。assistant  文: メルセデス・ベンツはドイツに生産されている。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.016844401136040688}
+{"uid": "xfactr-ja-P495-000299", "answer": "キンニクです。", "label": 1, "label_rule": "matches", "first_token_entropy": 2.458739757537842}
+{"uid": "xfactr-ja-P740-000212", "answer": "K-POPグループです。", "label": 1, "label_rule": "matches", "first_token_entropy": 3.093379020690918}
+{"uid": "xfactr-ja-P740-000010", "answer": "アマステルダム", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5185558795928955}
+{"uid": "xfactr-ja-P1303-000675", "answer": "ピアノです。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.032015927135944366}
+{"uid": "xfactr-ja-P108-000020", "answer": "植物学者です。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6298253536224365}
+{"uid": "xfactr-ja-P449-000001", "answer": "映画です。 (映画は、映像や音を記録したもので、映像や音を映し、聴かせるものです。)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.393486738204956}
+{"uid": "xfactr-ja-P740-000012", "answer": "ロックバンドです。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.313957691192627}
+{"uid": "xfactr-ja-P19-000093", "answer": "預言者です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2373071163892746}
+{"uid": "xfactr-ja-P176-000170", "answer": "トゥールーズ（フランス）", "label": 1, "label_rule": "matches", "first_token_entropy": 2.818244218826294}
+{"uid": "xfactr-ja-P364-000000", "answer": "ギリシャ語です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.016774825751781464}
+{"uid": "xfactr-ja-P449-000852", "answer": "映画です。 (映画は、映画のことです。)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.145067572593689}
+{"uid": "xfactr-ja-P20-000076", "answer": "ガス中毒で", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6814182996749878}
+{"uid": "xfactr-ja-P413-000091", "answer": "セネガル大統領", "label": 1, "label_rule": "matches", "first_token_entropy": 0.36119890213012695}
+{"uid": "xfactr-ja-P178-000015", "answer": "マイクロソフト", "label": 0, "label_rule": "matches", "first_token_entropy": 0.18914659321308136}
+{"uid": "xfactr-ja-P364-000657", "answer": "タミル語です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.002768417587503791}
+{"uid": "xfactr-ja-P127-000101", "answer": "ニューヨーク市", "label": 1, "label_rule": "matches", "first_token_entropy": 0.778891921043396}
+{"uid": "xfactr-ja-P127-000119", "answer": "カム・ノウはカナダに所有されている。", "label": 1, "label_rule": "matches", "first_token_entropy": 2.075465202331543}
+{"uid": "xfactr-ja-P102-000029", "answer": "ソビエト連邦", "label": 1, "label_rule": "matches", "first_token_entropy": 0.646629810333252}
+{"uid": "xfactr-ja-P176-000033", "answer": "日本（に）です。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2348394393920898}
+{"uid": "xfactr-ja-P102-000005", "answer": "党員である。 (zh:约瑟夫·斯大林は党員である。)", "label": 1, "label_rule": "matches", "first_token_entropy": 2.292579412460327}
+{"uid": "xfactr-ja-P54-000027", "answer": "プロバスケットボール", "label": 1, "label_rule": "matches", "first_token_entropy": 4.658790588378906}
+{"uid": "xfactr-ja-P740-000011", "answer": "コロムビア放送", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7385358810424805}
+{"uid": "xfactr-ja-P108-000506", "answer": "作家です。 (ブライアン・コンラッドは作家です。)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.35369667410850525}
+{"uid": "xfactr-ja-P740-000117", "answer": "ロックバンドです。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8198473453521729}
+{"uid": "xfactr-ja-P127-000110", "answer": "アメリカ合衆国です。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6157686710357666}
+{"uid": "xfactr-ja-P740-000411", "answer": "ロックバンドです。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3270995616912842}
+{"uid": "xfactr-ja-P69-000005", "answer": "オックスフォード大学", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7581557035446167}
+{"uid": "xfactr-ja-P19-000002", "answer": "インドネシア生まれである。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5770796537399292}
+{"uid": "xfactr-ja-P449-000714", "answer": "テレビです。 (ファイブマンは最初にテレビで放送された。)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0971964597702026}
+{"uid": "xfactr-ja-P449-000012", "answer": "テレビです。 (テレビは、1952年に放送された。)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0522761344909668}
+{"uid": "xfactr-ja-P20-000990", "answer": "病気です。 (病気で死んだ)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.17679724097251892}
+{"uid": "xfactr-ja-P127-000030", "answer": "英国放送協会（BBC）", "label": 0, "label_rule": "matches", "first_token_entropy": 2.716904640197754}
+{"uid": "xfactr-ja-P178-000110", "answer": "Googleによって開発されている。", "label": 0, "label_rule": "matches", "first_token_entropy": 1.3129806518554688}
+{"uid": "xfactr-ja-P178-000156", "answer": "Google Search V3（GSV）", "label": 0, "label_rule": "matches", "first_token_entropy": 4.353269100189209}
+{"uid": "xfactr-ja-P1923-000537", "answer": "日本代表です。 (日本代表は2006 FIFA WORLD CUP GERMANYに参加した。)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.861864447593689}
+{"uid": "xfactr-ja-P449-000044", "answer": "テレビです。 (テレビは基本形です)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7476514577865601}
+{"uid": "xfactr-ja-P176-000035", "answer": "アメリカ合衆国です。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2308452129364014}
+{"uid": "xfactr-ja-P449-000051", "answer": "アメリカ合衆国です。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.200398325920105}
+{"uid": "xfactr-ja-P127-000777", "answer": "中国に所有されている。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1853880882263184}
+{"uid": "xfactr-ja-P20-000195", "answer": "ローマで死んだ。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.05302663892507553}
+{"uid": "xfactr-ja-P108-000547", "answer": "コンピューターソフトウェア会社", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5191564559936523}
+{"uid": "xfactr-ja-P740-000092", "answer": "イングランドです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.009179818443953991}
+{"uid": "xfactr-ja-P127-000040", "answer": "マンチェスター・ユナイテッド", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03624570742249489}
+{"uid": "xfactr-ja-P740-000075", "answer": "ロックバンドです。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1587746143341064}
+{"uid": "xfactr-ja-P102-000165", "answer": "ドイツの政治家", "label": 1, "label_rule": "matches", "first_token_entropy": 0.04753413051366806}
+{"uid": "xfactr-ja-P127-000140", "answer": "スウェーデンに", "label": 1, "label_rule": "matches", "first_token_entropy": 1.172033667564392}
+{"uid": "xfactr-ja-P449-000007", "answer": "アメリカ合衆国です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9287278056144714}
+{"uid": "xfactr-ja-P19-000458", "answer": "イタリア人です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03854334354400635}
+{"uid": "xfactr-ja-P127-000063", "answer": "アラブ首長国連邦", "label": 1, "label_rule": "matches", "first_token_entropy": 0.10138677805662155}
+{"uid": "xfactr-ja-P108-000000", "answer": "アメリカ合衆国です。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6946041584014893}
+{"uid": "xfactr-ja-P1923-000691", "answer": "日本代表チームです。", "label": 1, "label_rule": "matches", "first_token_entropy": 2.6620876789093018}
+{"uid": "xfactr-ja-P178-000122", "answer": "経験主義です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8358985185623169}
+{"uid": "xfactr-ja-P178-000881", "answer": "ロックスター・ゲームズ", "label": 1, "label_rule": "matches", "first_token_entropy": 0.905258059501648}
+{"uid": "xfactr-ja-P178-000148", "answer": "マイクロソフト", "label": 0, "label_rule": "matches", "first_token_entropy": 0.023666564375162125}
+{"uid": "xfactr-ja-P413-000158", "answer": "ゴールキーパーです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2771475315093994}
+{"uid": "xfactr-ja-P108-000076", "answer": "物理学者です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7513814568519592}
+{"uid": "xfactr-ja-P449-000159", "answer": "映画です。 (映画は、最初にキャンプ・ロックは映画で放送された。)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4806811809539795}
+{"uid": "xfactr-ja-P449-000664", "answer": "映画です。 (映画は、家門の栄光は最初に映画で放送された。)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.16628098487854}
+{"uid": "xfactr-ja-P178-000125", "answer": "国際標準化機構（ISO）と国際電気通信連合（IEC）", "label": 1, "label_rule": "matches", "first_token_entropy": 3.634091377258301}
+{"uid": "xfactr-ja-P1303-000055", "answer": "ギターです。 (ボブ・ディランはギターを演奏する)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06098242104053497}
+{"uid": "xfactr-ja-P108-000034", "answer": "数学者です。 (ロバート・コッホは数学者です。)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2956269383430481}
+{"uid": "xfactr-ja-P127-000112", "answer": "タイム・ワーナー", "label": 0, "label_rule": "matches", "first_token_entropy": 0.09486978501081467}
+{"uid": "xfactr-ja-P449-000654", "answer": "ラジオです。 (ラジオ)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.04624572768807411}
+{"uid": "xfactr-ja-P54-000373", "answer": "フランスのチーム所属である。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6695237755775452}
+{"uid": "xfactr-ja-P364-000013", "answer": "古英語です。 (古英語は、英語の起源となる言語です)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.8224446773529053}
+{"uid": "xfactr-ja-P178-000183", "answer": "Googleによって開発されている。", "label": 0, "label_rule": "matches", "first_token_entropy": 2.3155624866485596}
+{"uid": "xfactr-ja-P176-000205", "answer": "トレスカンザス", "label": 1, "label_rule": "matches", "first_token_entropy": 2.6838717460632324}
+{"uid": "xfactr-ja-P127-000648", "answer": "オーラー・コーポレーション", "label": 1, "label_rule": "matches", "first_token_entropy": 3.856546640396118}
+{"uid": "xfactr-ja-P102-000122", "answer": "ロシア人です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.16128294169902802}
+{"uid": "xfactr-ja-P19-000020", "answer": "イングランドです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.00517438305541873}
+{"uid": "xfactr-ja-P364-000066", "answer": "フランス語です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.09153604507446289}
+{"uid": "xfactr-ja-P1923-000671", "answer": "日本代表チームです。", "label": 1, "label_rule": "matches", "first_token_entropy": 2.6620876789093018}
+{"uid": "xfactr-ja-P176-000109", "answer": "アメリカ合衆国です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6216263771057129}
+{"uid": "xfactr-ja-P740-000751", "answer": "韓国で結成された。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7918980121612549}
+{"uid": "xfactr-ja-P740-000105", "answer": "ロサンゼルス", "label": 0, "label_rule": "matches", "first_token_entropy": 1.2277789115905762}
+{"uid": "xfactr-ja-P178-000209", "answer": "ロックスター・ゲームズ", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6118115186691284}
+{"uid": "xfactr-ja-P1303-000065", "answer": "ギターです。 (スコット・ジョップリンはギターを演奏する。)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.18731461465358734}
+{"uid": "xfactr-ja-P740-000073", "answer": "テラスは日本で結成された。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9129428863525391}
+{"uid": "xfactr-ja-P740-000483", "answer": "コール・サバン・エンターテインメント", "label": 1, "label_rule": "matches", "first_token_entropy": 3.590956211090088}
+{"uid": "xfactr-ja-P19-000797", "answer": "大韓民国生まれである。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.19261443614959717}
+{"uid": "xfactr-ja-P20-000417", "answer": "病気です。 (病気で死んだ)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1130208969116211}
+{"uid": "xfactr-ja-P740-000313", "answer": "アメリカ合衆国です。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0921247005462646}
+{"uid": "xfactr-ja-P449-000018", "answer": "テレビです。 (テレビは日本語で「テレビ」という言葉が基本形です)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1768333911895752}
+{"uid": "xfactr-ja-P178-000003", "answer": "アップルによって開発されている。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.051180075854063034}
+{"uid": "xfactr-ja-P740-000019", "answer": "ドイツです。 (ボーイングはドイツで結成された)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.01380733959376812}
+{"uid": "xfactr-ja-P1303-000897", "answer": "映画監督です。 (映画監督は、映画を作る仕事です。)", "label": 1, "label_rule": "matches", "first_token_entropy": 2.1308047771453857}
+{"uid": "xfactr-ja-P740-000076", "answer": "1943年です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6025481224060059}
+{"uid": "xfactr-ja-P108-000081", "answer": "イタリアです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.24193593859672546}
+{"uid": "xfactr-ja-P102-000016", "answer": "ソビエト連邦大統領", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6922798156738281}
+{"uid": "xfactr-ja-P413-000510", "answer": "右サイドバック", "label": 1, "label_rule": "matches", "first_token_entropy": 3.7821764945983887}
+{"uid": "xfactr-ja-P54-000195", "answer": "プロバスケットボール選手", "label": 1, "label_rule": "matches", "first_token_entropy": 3.6346263885498047}
+{"uid": "xfactr-ja-P176-000067", "answer": "アメリカ合衆国です。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0667815208435059}
+{"uid": "xfactr-ja-P1923-000363", "answer": "アルゼンチンです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4941364824771881}
+{"uid": "xfactr-ja-P449-000547", "answer": "テレビです。 (NHKの連続テレビ小説でした)", "label": 0, "label_rule": "matches", "first_token_entropy": 1.2534971237182617}
+{"uid": "xfactr-ja-P127-000526", "answer": "ウォルト・ディズニー・カンパニー", "label": 0, "label_rule": "matches", "first_token_entropy": 0.040836114436388016}
+{"uid": "xfactr-ja-P364-000031", "answer": "イタリア語です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.10815581679344177}
+{"uid": "xfactr-ja-P20-000916", "answer": "自殺です。 (自殺は、自分の命を絶つこと。)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6344159841537476}
+{"uid": "xfactr-ja-P108-000097", "answer": "俳優です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.002193583408370614}
+{"uid": "xfactr-ja-P20-000650", "answer": "スウェーデン王", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2581426501274109}
+{"uid": "xfactr-ja-P108-000082", "answer": "物理学者です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4248640537261963}
+{"uid": "xfactr-ja-P127-000264", "answer": "フランス語の非営利団体", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7268444895744324}
+{"uid": "xfactr-ja-P102-000082", "answer": "社会主義者です。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0007922649383545}
+{"uid": "xfactr-ja-P54-000005", "answer": "サッカークラブ", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9022416472434998}
+{"uid": "xfactr-ja-P176-000020", "answer": "ドライブレーン", "label": 1, "label_rule": "matches", "first_token_entropy": 2.2980704307556152}
+{"uid": "xfactr-ja-P1303-000087", "answer": "ギターです。 (ブライアン・ウィルソンはギターを演奏する。)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.19033628702163696}
+{"uid": "xfactr-ja-P108-000213", "answer": "哲学者です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.019702695310115814}
+{"uid": "xfactr-ja-P1923-000621", "answer": "日本代表チームです。", "label": 1, "label_rule": "matches", "first_token_entropy": 2.6620876789093018}
+{"uid": "xfactr-ja-P449-000016", "answer": "テレビです。 (テレビは、基本形です。)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.393256664276123}
+{"uid": "xfactr-ja-P413-000103", "answer": "監督です。 (マテュー・ヴァルブエナはサッカーの監督です。)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9025251865386963}
+{"uid": "xfactr-ja-P449-000081", "answer": "テレビです。 (アドベンチャー・タイムは最初にテレビで放送された。)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0404809713363647}
+{"uid": "xfactr-ja-P364-000071", "answer": "ヘブライ語です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.12811265885829926}
+{"uid": "xfactr-ja-P449-000034", "answer": "テレビです。 (フレンズは最初にテレビで放送された。)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2578792572021484}
+{"uid": "xfactr-ja-P1303-000018", "answer": "クラシック音楽のピアノ", "label": 0, "label_rule": "matches", "first_token_entropy": 0.47322797775268555}
+{"uid": "xfactr-ja-P176-000232", "answer": "バイナリーファイル", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06556995213031769}
+{"uid": "xfactr-ja-P449-000853", "answer": "テレビです。 (テレビは、1953年から放送が始まった。)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0069503784179688}
+{"uid": "xfactr-ja-P413-000311", "answer": "スペイン人監督です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09436097741127014}
+{"uid": "xfactr-ja-P413-000335", "answer": "トルコの首相", "label": 1, "label_rule": "matches", "first_token_entropy": 0.021217161789536476}
+{"uid": "xfactr-ja-P1923-000102", "answer": "アルゼンチンです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4941364824771881}
+{"uid": "xfactr-ja-P19-000008", "answer": "アメリカ合衆国生まれである。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3619143962860107}
+{"uid": "xfactr-ja-P364-000561", "answer": "ラテン語です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.09671010822057724}
+{"uid": "xfactr-ja-P19-000425", "answer": "スコットランド人です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.028794096782803535}
+{"uid": "xfactr-ja-P102-000163", "answer": "国会議員です。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.037570595741272}
+{"uid": "xfactr-ja-P127-000011", "answer": "ウォルト・ディズニー・カンパニー", "label": 0, "label_rule": "matches", "first_token_entropy": 0.016719132661819458}
+{"uid": "xfactr-ja-P364-000064", "answer": "英語です。 (基本形)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8818192481994629}
+{"uid": "xfactr-ja-P102-000143", "answer": "社会民主党員である。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.319458246231079}
+{"uid": "xfactr-ja-P449-000390", "answer": "ラジオです。 (ラジオ)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0338783822953701}
+{"uid": "xfactr-ja-P102-000010", "answer": "ガンジーはインドの独立運動家である。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.24113696813583374}
+{"uid": "xfactr-ja-P364-000007", "answer": "フランス語です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.16895659267902374}
+{"uid": "xfactr-ja-P413-000384", "answer": "ドイツ人です。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.440542221069336}
+{"uid": "xfactr-ja-P449-000527", "answer": "テレビです。 (テレビは、1953年に開始した)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9801024198532104}
+{"uid": "xfactr-ja-P449-000560", "answer": "テレビです。 (おしんは最初にテレビで放送された。)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.171113133430481}
+{"uid": "xfactr-ja-P449-000777", "answer": "テレビです。 (テレビは、1950年代に始まりましたが、仮面ライダーカブトは1971年に始まりました)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.078857421875}
+{"uid": "xfactr-ja-P449-000302", "answer": "テレビです。 (スティーブン・ユニバースは最初にテレビで放送された。)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2974200248718262}
+{"uid": "xfactr-ja-P1923-000486", "answer": "アルゼンチンです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4941364824771881}
+{"uid": "xfactr-ja-P176-000016", "answer": "日本（に）です。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3133180141448975}
+{"uid": "xfactr-ja-P176-000019", "answer": "アメリカ合衆国です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6812275648117065}
+{"uid": "xfactr-ja-P127-000021", "answer": "サッカーのスタジアム", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6638939380645752}
+{"uid": "xfactr-ja-P19-000023", "answer": "ドイツ人です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.048371993005275726}
+{"uid": "xfactr-ja-P449-000008", "answer": "テレビです。 (ザ・シンプソンズは最初にテレビで放送された。)", "label": 1, "label_rule": "matches", "first_token_entropy": 2.1437838077545166}
+{"uid": "xfactr-ja-P102-000030", "answer": "共産党員である。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03931841999292374}
+{"uid": "xfactr-ja-P449-000690", "answer": "映画です。 (映画は、最初にロードナンバーワンが放送された作品です。)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2764158248901367}
+{"uid": "xfactr-ja-P102-000191", "answer": "フランス人です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.48156943917274475}
+{"uid": "xfactr-ja-P176-000010", "answer": "ドリームキャストは日本に生産されている。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.634432315826416}
+{"uid": "xfactr-ja-P449-000339", "answer": "テレビです。 (テレビは、1951年に放送された。)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1140425205230713}
+{"uid": "xfactr-ja-P364-000019", "answer": "英語です。 (基本形)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.9399538040161133}
+{"uid": "xfactr-ja-P449-000036", "answer": "ディズニー・チャンネルです。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.6272809505462646}
+{"uid": "xfactr-ja-P264-000005", "answer": "コロムビア", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5340487957000732}
+{"uid": "xfactr-ja-P127-000032", "answer": "アメリカ合衆国です。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6198347806930542}
+{"uid": "xfactr-ja-P127-000102", "answer": "コカ・コーラ", "label": 1, "label_rule": "matches", "first_token_entropy": 2.406106472015381}
+{"uid": "xfactr-ja-P413-000248", "answer": "右翼砲手です。", "label": 1, "label_rule": "matches", "first_token_entropy": 4.479827404022217}
+{"uid": "xfactr-ja-P19-000050", "answer": "アメリカ合衆国生まれである。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3695950508117676}
+{"uid": "xfactr-ja-P413-000058", "answer": "右翼攻撃手です。", "label": 1, "label_rule": "matches", "first_token_entropy": 4.3310770988464355}
+{"uid": "xfactr-ja-P1923-000388", "answer": "ユーゴスラビア", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1333332657814026}
+{"uid": "xfactr-ja-P127-000602", "answer": "個人の所有者に", "label": 1, "label_rule": "matches", "first_token_entropy": 1.489003300666809}
+{"uid": "xfactr-ja-P1923-000668", "answer": "ブラジルです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.007507634814828634}
+{"uid": "xfactr-ja-P176-000449", "answer": "ワインです。 (イタリアはワインに有名です)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.01184628251940012}
+{"uid": "xfactr-ja-P1923-000278", "answer": "アルゼンチンです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1002701073884964}
+{"uid": "xfactr-ja-P264-000353", "answer": "コロムビア", "label": 1, "label_rule": "matches", "first_token_entropy": 1.046500325202942}
+{"uid": "xfactr-ja-P69-000080", "answer": "オックスフォード大学", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3276974558830261}
+{"uid": "xfactr-ja-P1923-000713", "answer": "バルセロナ", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3394518494606018}
+{"uid": "xfactr-ja-P1923-000171", "answer": "アルゼンチンです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1002701073884964}
+{"uid": "xfactr-ja-P1923-000655", "answer": "アルゼンチンです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4941364824771881}
+{"uid": "xfactr-ja-P364-000087", "answer": "インド・ヨーロッパ語族", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8621764183044434}
+{"uid": "xfactr-ja-P364-000038", "answer": "イタリア語です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.03361792862415314}
+{"uid": "xfactr-ja-P1923-000182", "answer": "ポーランドです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7191230058670044}
+{"uid": "xfactr-ja-P1923-000439", "answer": "ブラジルです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0063757821917533875}
+{"uid": "xfactr-ja-P127-000139", "answer": "オラーク・メディア", "label": 1, "label_rule": "matches", "first_token_entropy": 3.6507177352905273}
+{"uid": "xfactr-ja-P1923-000607", "answer": "ポルトガルです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.38039442896842957}
+{"uid": "xfactr-ja-P1923-000249", "answer": "ブラジルです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.007507634814828634}
+{"uid": "xfactr-ja-P1923-000444", "answer": "ブラジル代表です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.00496657844632864}
+{"uid": "xfactr-ja-P1923-000261", "answer": "日本代表です。 (日本代表)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6492769718170166}
+{"uid": "xfactr-ja-P102-000088", "answer": "選手である。 (ビジナ・イヴァニシヴィリは選手である。)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3418585062026978}
+{"uid": "xfactr-ja-P1923-000615", "answer": "イタリア代表です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1646593064069748}
+{"uid": "xfactr-ja-P176-000142", "answer": "マイクロソフト", "label": 0, "label_rule": "matches", "first_token_entropy": 1.3589614629745483}
+{"uid": "xfactr-ja-P1923-000305", "answer": "ドイツ代表です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.05428110063076019}
+{"uid": "xfactr-ja-P102-000479", "answer": "政治家です。 (サルバドール・アジェンデは政治家である。)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2640661597251892}
+{"uid": "xfactr-ja-P1923-000450", "answer": "フランスです。 (フランスはEURO2016に参加した。)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07031555473804474}
+{"uid": "xfactr-ja-P1923-000284", "answer": "1950 FIFAワールドカップ", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7214008569717407}
+{"uid": "xfactr-ja-P54-000247", "answer": "プロレスラーです。", "label": 1, "label_rule": "matches", "first_token_entropy": 4.261805534362793}
+{"uid": "xfactr-ja-P1923-000288", "answer": "ドイツ代表です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.012714625336229801}
+{"uid": "xfactr-ja-P102-000095", "answer": "官僚です。", "label": 1, "label_rule": "matches", "first_token_entropy": 2.376678466796875}
+{"uid": "xfactr-ja-P1923-000482", "answer": "日本代表です。 (日本代表)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6492769718170166}
+{"uid": "xfactr-ja-P1923-000408", "answer": "アルゼンチンです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06344334036111832}
+{"uid": "xfactr-ja-P1923-000398", "answer": "アルゼンチンです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06344334036111832}
+{"uid": "xfactr-ja-P1923-000247", "answer": "日本代表です。 (日本語)", "label": 1, "label_rule": "matches", "first_token_entropy": 2.4511754512786865}
+{"uid": "xfactr-ja-P176-000025", "answer": "戦闘機ではないので、戦闘機以外の飛行機です。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1273690462112427}
+{"uid": "xfactr-ja-P69-000006", "answer": "パリ大学です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.011195790022611618}
+{"uid": "xfactr-ja-P1923-000430", "answer": "ドイツ代表です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.05189037322998047}
+{"uid": "xfactr-ja-P1923-000124", "answer": "日本代表チームです。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7441937923431396}
+{"uid": "xfactr-ja-P102-000255", "answer": "党員です。 (中国共産党)", "label": 0, "label_rule": "matches", "first_token_entropy": 2.945279121398926}
+{"uid": "xfactr-ja-P102-000194", "answer": "会長です。 (会長は、会社や団体などの組織の最高責任者です。)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.018324375152588}
+{"uid": "xfactr-ja-P264-000666", "answer": "エイベックス・グループ", "label": 1, "label_rule": "matches", "first_token_entropy": 3.250361919403076}
+{"uid": "xfactr-ja-P176-000350", "answer": "韓国です。 (Samsung Galaxy S IIIは、韓国に生産されている。)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.02128473110496998}
+{"uid": "xfactr-ja-P19-000049", "answer": "チマブーエはチベット生まれである。", "label": 1, "label_rule": "matches", "first_token_entropy": 3.017982244491577}
+{"uid": "xfactr-ja-P102-000124", "answer": "アメリカ大統領です。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5185520648956299}
+{"uid": "xfactr-ja-P176-000343", "answer": "アメリカ合衆国（米国）", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9116660952568054}
+{"uid": "xfactr-ja-P176-000130", "answer": "中国に生産されている。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9383865594863892}
+{"uid": "xfactr-ja-P19-000882", "answer": "アメリカ合衆国生まれである。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.361422061920166}
+{"uid": "xfactr-ja-P264-000064", "answer": "キャピトル・レコード", "label": 1, "label_rule": "matches", "first_token_entropy": 0.273860901594162}
+{"uid": "xfactr-ja-P19-000543", "answer": "ロシア生まれである。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.051245253533124924}
+{"uid": "xfactr-ja-P19-000016", "answer": "スコットランドのインヴァースニー", "label": 1, "label_rule": "matches", "first_token_entropy": 0.28772351145744324}
+{"uid": "xfactr-ja-P264-000110", "answer": "コロムビア", "label": 1, "label_rule": "matches", "first_token_entropy": 1.416341781616211}
+{"uid": "xfactr-ja-P102-000038", "answer": "台湾の総統", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0960757732391357}
+{"uid": "xfactr-ja-P176-000105", "answer": "中国に生産されている。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6501939296722412}
+{"uid": "xfactr-ja-P102-000677", "answer": "アメリカ合衆国大統領", "label": 1, "label_rule": "matches", "first_token_entropy": 1.379435420036316}
+{"uid": "xfactr-ja-P19-000144", "answer": "アメリカ合衆国生まれである。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2308261394500732}
+{"uid": "xfactr-ja-P413-000385", "answer": "外交官です。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6990435123443604}
+{"uid": "xfactr-ja-P102-000593", "answer": "ドイツ連邦議会", "label": 1, "label_rule": "matches", "first_token_entropy": 0.04386176913976669}
+{"uid": "xfactr-ja-P264-000015", "answer": "EMIです。 (EMIは、イギリスのレコード会社です)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03881540894508362}
+{"uid": "xfactr-ja-P413-000349", "answer": "アナーキスト", "label": 1, "label_rule": "matches", "first_token_entropy": 4.116172790527344}
+{"uid": "xfactr-ja-P176-000053", "answer": "全能はアメリカに生産されている。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6306850910186768}
+{"uid": "xfactr-ja-P413-000003", "answer": "ピアノ奏者です。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.9019321203231812}
+{"uid": "xfactr-ja-P264-000003", "answer": "モータウン・レコード", "label": 0, "label_rule": "matches", "first_token_entropy": 0.1266118586063385}
+{"uid": "xfactr-ja-P54-000536", "answer": "サッカー選手です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7701489925384521}
+{"uid": "xfactr-ja-P264-000489", "answer": "アイ・ニュー・ユー・ワー・トラブルのレコード会社はEMIである。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7760002613067627}
+{"uid": "xfactr-ja-P176-000684", "answer": "日本で、または日本の造船所で", "label": 1, "label_rule": "matches", "first_token_entropy": 3.8885350227355957}
+{"uid": "xfactr-ja-P413-000057", "answer": "アシュカン・デジャガ", "label": 1, "label_rule": "matches", "first_token_entropy": 2.1043221950531006}
+{"uid": "xfactr-ja-P54-000197", "answer": "オランダ代表です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8996440172195435}
+{"uid": "xfactr-ja-P176-000134", "answer": "中国に生産されている。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4638831913471222}
+{"uid": "xfactr-ja-P19-000602", "answer": "魏の秋月", "label": 1, "label_rule": "matches", "first_token_entropy": 0.006034304387867451}
+{"uid": "xfactr-ja-P264-000165", "answer": "エピック・レコード", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1593208611011505}
+{"uid": "xfactr-ja-P264-000078", "answer": "パーロフォンです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2300090789794922}
+{"uid": "xfactr-ja-P413-000022", "answer": "右翼手（うしゅうしゅ）", "label": 1, "label_rule": "matches", "first_token_entropy": 2.5506374835968018}
+{"uid": "xfactr-ja-P264-000093", "answer": "EMI（イーエムアイ）", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07544289529323578}
+{"uid": "xfactr-ja-P19-000026", "answer": "イラクです。 (ミルホセイン・ムサビはイラク生まれである。)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.895723283290863}
+{"uid": "xfactr-ja-P264-000117", "answer": "コルトレーン・レコード", "label": 1, "label_rule": "matches", "first_token_entropy": 2.4519803524017334}
+{"uid": "xfactr-ja-P264-000232", "answer": "フローライダーのレコード会社はEMIである。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6908423900604248}
+{"uid": "xfactr-ja-P69-000050", "answer": "ハーバード大学です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.38894838094711304}
+{"uid": "xfactr-ja-P264-000000", "answer": "マーヴィン・ゲイのレコード会社はキャピトル・レコードである。", "label": 1, "label_rule": "matches", "first_token_entropy": 2.5095252990722656}
+{"uid": "xfactr-ja-P413-000960", "answer": "イタリア人です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.968142032623291}
+{"uid": "xfactr-ja-P69-000798", "answer": "カリフォルニア", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9146581292152405}
+{"uid": "xfactr-ja-P264-000020", "answer": "コロムビア", "label": 1, "label_rule": "matches", "first_token_entropy": 0.42091280221939087}
+{"uid": "xfactr-ja-P264-000631", "answer": "ユニバーサル・ミュージック", "label": 1, "label_rule": "matches", "first_token_entropy": 0.10041363537311554}
+{"uid": "xfactr-ja-P264-000131", "answer": "ロイズエンターテインメントです。", "label": 1, "label_rule": "matches", "first_token_entropy": 5.989449501037598}
+{"uid": "xfactr-ja-P54-000919", "answer": "プロ野球選手です。", "label": 1, "label_rule": "matches", "first_token_entropy": 4.890572547912598}
+{"uid": "xfactr-ja-P54-000565", "answer": "スペイン人です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.10861324518918991}
+{"uid": "xfactr-ja-P54-000248", "answer": "プロ野球選手です。", "label": 1, "label_rule": "matches", "first_token_entropy": 4.731215000152588}
+{"uid": "xfactr-ja-P54-000280", "answer": "プロバスケットボール選手", "label": 1, "label_rule": "matches", "first_token_entropy": 3.6327288150787354}
+{"uid": "xfactr-ja-P19-000122", "answer": "ギリシャ人です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.12155381590127945}
+{"uid": "xfactr-ja-P19-000634", "answer": "イタリア人です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.048029761761426926}
+{"uid": "xfactr-ja-P264-000141", "answer": "キャピトル・レコード", "label": 0, "label_rule": "matches", "first_token_entropy": 0.14997164905071259}
+{"uid": "xfactr-ja-P69-000010", "answer": "オックスフォード大学", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1336018294095993}
+{"uid": "xfactr-ja-P54-000881", "answer": "プロです。 (プロのチーム)", "label": 1, "label_rule": "matches", "first_token_entropy": 2.0290441513061523}
+{"uid": "xfactr-ja-P413-000162", "answer": "イタリア人監督", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4511988162994385}
+{"uid": "xfactr-ja-P413-000419", "answer": "キャプテンです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9543533325195312}
+{"uid": "xfactr-ja-P264-000939", "answer": "ワーナー・ブラザーズ", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07704734802246094}
+{"uid": "xfactr-ja-P54-000009", "answer": "スコットランド代表です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8479417562484741}
+{"uid": "xfactr-ja-P413-000141", "answer": "スペイン人です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.112388975918293}
+{"uid": "xfactr-ja-P264-000152", "answer": "デフ・ジャム・レコード", "label": 0, "label_rule": "matches", "first_token_entropy": 0.3780469298362732}
+{"uid": "xfactr-ja-P264-000130", "answer": "マーキュリー・レコード", "label": 1, "label_rule": "matches", "first_token_entropy": 3.1128320693969727}
+{"uid": "xfactr-ja-P413-000278", "answer": "ポジションはポジションのことです。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4014509916305542}
+{"uid": "xfactr-ja-P264-000250", "answer": "EMI（イーエムアイ）", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06438791751861572}
+{"uid": "xfactr-ja-P264-000172", "answer": "ケイダッシュです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.08057235181331635}
+{"uid": "xfactr-ja-P264-000021", "answer": "コロムビア", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9490582942962646}
+{"uid": "xfactr-ja-P264-000217", "answer": "ワーナーミュージック", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5437560081481934}
+{"uid": "xfactr-ja-P264-000006", "answer": "サン・レコード", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5965349674224854}
+{"uid": "xfactr-ja-P69-000009", "answer": "ウェスト・ポイント軍事アカデミー", "label": 1, "label_rule": "matches", "first_token_entropy": 1.529325008392334}
+{"uid": "xfactr-ja-P69-000220", "answer": "オックスフォード大学", "label": 1, "label_rule": "matches", "first_token_entropy": 0.21732237935066223}
+{"uid": "xfactr-ja-P264-000341", "answer": "アイランド・レコード", "label": 1, "label_rule": "matches", "first_token_entropy": 2.6535894870758057}
+{"uid": "xfactr-ja-P69-000939", "answer": "ハーバード大学です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09319551289081573}
+{"uid": "xfactr-ja-P264-000011", "answer": "ベルーシュン", "label": 1, "label_rule": "matches", "first_token_entropy": 2.750941276550293}
+{"uid": "xfactr-ja-P54-000026", "answer": "タイのチーム所属である。", "label": 1, "label_rule": "matches", "first_token_entropy": 4.335042476654053}
+{"uid": "xfactr-ja-P54-000162", "answer": "プロバスケットボール", "label": 1, "label_rule": "matches", "first_token_entropy": 4.819310188293457}
+{"uid": "xfactr-ja-P413-000133", "answer": "右翼です。 (右翼は政治で、保守的な立場を表す言葉です)", "label": 1, "label_rule": "matches", "first_token_entropy": 3.589306354522705}
+{"uid": "xfactr-ja-P54-000001", "answer": "F1チームです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6925981044769287}
+{"uid": "xfactr-ja-P54-000045", "answer": "プロサッカー選手です。", "label": 1, "label_rule": "matches", "first_token_entropy": 2.870316743850708}
+{"uid": "xfactr-ja-P264-000024", "answer": "ユニバーサルミュージック", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03294045478105545}
+{"uid": "xfactr-ja-P69-000386", "answer": "ハーバード大学です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06146049126982689}
+{"uid": "xfactr-ja-P413-000231", "answer": "キャプテンです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3680002689361572}
+{"uid": "xfactr-ja-P54-000465", "answer": "プロバスケットボール", "label": 1, "label_rule": "matches", "first_token_entropy": 2.907182216644287}
+{"uid": "xfactr-ja-P69-000819", "answer": "パリ大学です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8159862756729126}
+{"uid": "xfactr-ja-P413-000365", "answer": "ポジションはポジションのことです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7304400205612183}
+{"uid": "xfactr-ja-P54-000384", "answer": "イタリアンフットボール", "label": 1, "label_rule": "matches", "first_token_entropy": 0.570436954498291}
+{"uid": "xfactr-ja-P413-000159", "answer": "右サイドバック", "label": 1, "label_rule": "matches", "first_token_entropy": 4.2994232177734375}
+{"uid": "xfactr-ja-P264-000001", "answer": "モータウン・レコード", "label": 0, "label_rule": "matches", "first_token_entropy": 0.25216662883758545}
+{"uid": "xfactr-ja-P413-000199", "answer": "ゴールキーパーです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5037490129470825}
+{"uid": "xfactr-ja-P54-000662", "answer": "フランス代表です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5888645648956299}
+{"uid": "xfactr-ja-P69-000935", "answer": "オックスフォード大学", "label": 1, "label_rule": "matches", "first_token_entropy": 0.25669825077056885}
+{"uid": "xfactr-ja-P69-000925", "answer": "ハーバード大学です。", "label": 0, "label_rule": "matches", "first_token_entropy": 0.4519883096218109}
+{"uid": "xfactr-ja-P54-000340", "answer": "プロ野球選手です。", "label": 1, "label_rule": "matches", "first_token_entropy": 5.290648937225342}
+{"uid": "xfactr-ja-P54-000046", "answer": "プロバスケットボール", "label": 1, "label_rule": "matches", "first_token_entropy": 2.9458532333374023}
+{"uid": "xfactr-ja-P54-000372", "answer": "プロレスラーです。", "label": 1, "label_rule": "matches", "first_token_entropy": 4.482021331787109}
+{"uid": "xfactr-ja-P69-000271", "answer": "清華大学です。", "label": 1, "label_rule": "matches", "first_token_entropy": 2.85673189163208}
+{"uid": "xfactr-ja-P54-000299", "answer": "プロ野球選手です。", "label": 1, "label_rule": "matches", "first_token_entropy": 4.586292266845703}
+{"uid": "xfactr-ja-P54-000087", "answer": "オランダ代表です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.030796557664871216}
+{"uid": "xfactr-ja-P413-000336", "answer": "キャプテンです。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0288329124450684}
+{"uid": "xfactr-ja-P69-000242", "answer": "ハーバード大学です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.24533888697624207}
+{"uid": "xfactr-ja-P413-000730", "answer": "ドイツ人です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.20408479869365692}
+{"uid": "xfactr-ja-P413-000105", "answer": "フォワードです。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0494949035346508}
+{"uid": "xfactr-ja-P69-000132", "answer": "ハーバード大学です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1375078558921814}
+{"uid": "xfactr-ja-P413-000497", "answer": "アメリカ大統領です。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.949399471282959}
+{"uid": "xfactr-ja-P413-000025", "answer": "アルゼンチン代表", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03694246709346771}
+{"uid": "xfactr-ja-P69-000131", "answer": "オックスフォード大学", "label": 1, "label_rule": "matches", "first_token_entropy": 0.12076292932033539}
+{"uid": "xfactr-ja-P413-000030", "answer": "右半円守備手", "label": 1, "label_rule": "matches", "first_token_entropy": 5.160536766052246}
+{"uid": "xfactr-ja-P69-000139", "answer": "早稲田大学", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03139679133892059}
+{"uid": "xfactr-ja-P69-000148", "answer": "早稲田大学", "label": 1, "label_rule": "matches", "first_token_entropy": 0.010909623466432095}
+{"uid": "xfactr-ja-P69-000207", "answer": "イェール大学です。", "label": 1, "label_rule": "matches", "first_token_entropy": 1.229705810546875}
+{"uid": "xfactr-ja-P69-000828", "answer": "ハーバード大学です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9225473403930664}
+{"uid": "xfactr-ja-P69-000672", "answer": "オックスフォード大学", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3051418960094452}
+{"uid": "xfactr-ja-P69-000756", "answer": "インドのデリー大学", "label": 1, "label_rule": "matches", "first_token_entropy": 0.24839508533477783}
+{"uid": "xfactr-ja-P69-000957", "answer": "ハーバード大学です。", "label": 1, "label_rule": "matches", "first_token_entropy": 0.05456347391009331}

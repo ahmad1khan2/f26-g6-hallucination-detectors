@@ -1,0 +1,591 @@
+{"uid": "xfactr-vi-P37-000083", "answer": "ngôn ngữ chính thức của Liên minh châu Âu là tiếng Anh.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0678662359714508}
+{"uid": "xfactr-vi-P30-000413", "answer": "Jordan nằm ở Tây Á.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.03788940608501434}
+{"uid": "xfactr-vi-P103-000065", "answer": "Pháp.   (Octave Henri Marie Mirbeau là một nhà văn và nhà báo người Pháp)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03878658264875412}
+{"uid": "xfactr-vi-P190-000013", "answer": "Hà Nội. (Hà Nội là thành phố kết nghĩa của Mat-xcơ-va)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8770712614059448}
+{"uid": "xfactr-vi-P20-000060", "answer": "Rôma. (Callixtus I mất ở Rôma)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6863305568695068}
+{"uid": "xfactr-vi-P527-000035", "answer": "Bắc Mỹ bao gồm Canada và Hoa Kỳ.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.01712823286652565}
+{"uid": "xfactr-vi-P39-000019", "answer": "thủ tướng thứ 38 của Hoa Kỳ", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5787041187286377}
+{"uid": "xfactr-vi-P530-000492", "answer": "Australia có quan hệ ngoại giao với 218 quốc gia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1459822952747345}
+{"uid": "xfactr-vi-P39-000068", "answer": "thủ tướng thứ 20 của Hoa Kỳ", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7381073236465454}
+{"uid": "xfactr-vi-P190-000549", "answer": "Budapest. (Istanbul là thành phố kết nghĩa của Budapest.)", "label": 1, "label_rule": "matches", "first_token_entropy": 2.3280787467956543}
+{"uid": "xfactr-vi-P190-000125", "answer": "Bratislava. (Prague là thành phố kết nghĩa của Bratislava.)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5000683665275574}
+{"uid": "xfactr-vi-P47-000583", "answer": "Iraq, Kuwait, Qatar, Bahrain, UAE, Oman và Yemen.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.7129669785499573}
+{"uid": "xfactr-vi-P463-000251", "answer": "Quốc gia nhỏ nhất của Liên Hợp Quốc.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4918961524963379}
+{"uid": "xfactr-vi-P47-000082", "answer": "Malaysia. (Cộng hòa Singapore tiếp giáp với Malaysia.)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.1461392045021057}
+{"uid": "xfactr-vi-P190-000770", "answer": "Santiago de Chile là thành phố kết nghĩa của Lima.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7253265380859375}
+{"uid": "xfactr-vi-P103-000095", "answer": "Pháp. (Ngôn ngữ bản địa của Jean Cocteau là tiếng Pháp)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.03346244990825653}
+{"uid": "xfactr-vi-P17-000123", "answer": "Bulgaria. (Sofia là thủ đô của Bulgaria)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.6088532209396362}
+{"uid": "xfactr-vi-P190-000494", "answer": "Sofia là thành phố kết nghĩa của Plovdiv.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.17397712171077728}
+{"uid": "xfactr-vi-P47-000359", "answer": "Burkina Faso, Niger, Nigeria, Dahomey (hay còn gọi là Bénin), Togo.", "label": 0, "label_rule": "matches", "first_token_entropy": 9.544595377519727e-05}
+{"uid": "xfactr-vi-P1376-000116", "answer": "Uzbekistan.assistant  Còn một câu khác: Tashkent là thủ đô của Uzbekistan.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.03611872345209122}
+{"uid": "xfactr-vi-P47-000254", "answer": "Zambia tiếp giáp với Angola, Cộng hòa Dân chủ Congo, Tanzania, Malawi, Mozambique, Zimbabwe, Botswana, Namibia và Cộng hòa Dân chủ Congo.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.016608987003564835}
+{"uid": "xfactr-vi-P47-000432", "answer": "Ukraine, Romania, Bulgaria, Serbia, Hungary và Transnistria.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.809328019618988}
+{"uid": "xfactr-vi-P37-000027", "answer": "Tiếng Việt.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.02175246924161911}
+{"uid": "xfactr-vi-P37-000253", "answer": "Ngôn ngữ chính thức của Tanzania là tiếng Kiswahili.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09641925990581512}
+{"uid": "xfactr-vi-P190-000667", "answer": "Warszawa là thành phố kết nghĩa của Budapest.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.23700112104415894}
+{"uid": "xfactr-vi-P47-000413", "answer": "Kazakhstan, Tajikistan, Kyrgyzstan, Afghanistan và Turkmenistan.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.04348613694310188}
+{"uid": "xfactr-vi-P190-000135", "answer": "Hà Nội. (Hà Nội là thành phố kết nghĩa của Mat-xcơ-va)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8770712614059448}
+{"uid": "xfactr-vi-P47-000037", "answer": "Andorra, Áo, Bỉ, Đức, Ý, Luxembourg, Monaco, Tây Ban Nha và Thụy Sĩ.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.02729233354330063}
+{"uid": "xfactr-vi-P190-000637", "answer": "Santiago de Cuba.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.922459602355957}
+{"uid": "xfactr-vi-P47-000511", "answer": "Kentucky, Maryland, Ohio, Pennsylvania, Tây Virginia, Virginia.", "label": 0, "label_rule": "matches", "first_token_entropy": 3.759176731109619}
+{"uid": "xfactr-vi-P1376-000079", "answer": "Albania.assistant  Còn một câu khác: Thủ đô của Albania là Tirana.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.028330469503998756}
+{"uid": "xfactr-vi-P527-000069", "answer": "Bắc Phi bao gồm Ai Cập, Libya, Algérie, Maroc, Tunisia, Ma-rốc, Mauritania, Sudan, Chad, Niger, Mali, Burkina Faso, Bờ Biển Ngà, Djibouti", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0247337743639946}
+{"uid": "xfactr-vi-P30-000180", "answer": "bang Michigan, Hoa Kỳ.", "label": 1, "label_rule": "matches", "first_token_entropy": 4.708509922027588}
+{"uid": "xfactr-vi-P190-000996", "answer": "Cairo. (Tuy nhiên, có thể có nhiều thành phố khác cũng là thành phố kết nghĩa của Amman)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.15527862310409546}
+{"uid": "xfactr-vi-P530-000472", "answer": "Trung Quốc. (hoặc nhiều quốc gia khác)", "label": 1, "label_rule": "matches", "first_token_entropy": 2.3499226570129395}
+{"uid": "xfactr-vi-P131-000079", "answer": "bang Indiana. (Hoặc) tiểu bang Indiana.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.73405122756958}
+{"uid": "xfactr-vi-P530-000645", "answer": "Israel có quan hệ ngoại giao với hơn 160 quốc gia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.25161534547805786}
+{"uid": "xfactr-vi-P190-000455", "answer": "Kuala Lumpur là thành phố kết nghĩa của Hà Nội.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.062187474220991135}
+{"uid": "xfactr-vi-P30-000278", "answer": "Caribbean. (Puerto Rico nằm ở Caribbean)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.376242995262146}
+{"uid": "xfactr-vi-P30-000107", "answer": "phía Tây Bắc của lục địa châu Phi.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.07378049194812775}
+{"uid": "xfactr-vi-P530-000318", "answer": "cả thế giới.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4236071109771729}
+{"uid": "xfactr-vi-P47-000074", "answer": "Trung Quốc, Nhật Bản, Hàn Quốc, Mông Cổ, Nga, Ấn Độ, Pakistan, Afghanistan, Nepal, Bhutan, Bangladesh, Ấn Độ Dương.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06376981735229492}
+{"uid": "xfactr-vi-P47-000452", "answer": "Mauritania, Mali, Guinea, Guinea-Bissau, Gabon, Guinea Xích Đạo, Tây Sahara.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.9201054573059082}
+{"uid": "xfactr-vi-P937-000085", "answer": "Pirāyṭ, từng làm việc ở nhà máy.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.039625134319067}
+{"uid": "xfactr-vi-P530-000728", "answer": "Yemen có quan hệ ngoại giao với 153 quốc gia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.31558656692504883}
+{"uid": "xfactr-vi-P47-000125", "answer": "Zambia tiếp giáp với Angola, Cộng hòa Dân chủ Congo, Tanzania, Malawi, Mozambique, Zimbabwe, Botswana, Namibia và Cộng hòa Dân chủ Congo.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.016608987003564835}
+{"uid": "xfactr-vi-P190-000731", "answer": "Jerusalem là thành phố kết nghĩa của Paris.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.004237784072756767}
+{"uid": "xfactr-vi-P463-000030", "answer": "Cộng đồng các quốc gia Ả Rập", "label": 1, "label_rule": "matches", "first_token_entropy": 2.5064029693603516}
+{"uid": "xfactr-vi-P47-000353", "answer": "Brazil, Suriname, Venezuela và Caribbean biển.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.4879106283187866}
+{"uid": "xfactr-vi-P530-000521", "answer": "Trung Quốc. (Lưu ý: CA có thể là một số quốc gia khác, nhưng dựa trên thông tin chung, tôi sẽ trả lời như trên)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2092411518096924}
+{"uid": "xfactr-vi-P47-000167", "answer": "Botswana, Zambia, Angola và Nam Phi.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0009562140912748873}
+{"uid": "xfactr-vi-P530-000070", "answer": "các nước trên thế giới.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3001651763916016}
+{"uid": "xfactr-vi-P1376-000250", "answer": "Timor-Leste.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0009438175475224853}
+{"uid": "xfactr-vi-P530-000419", "answer": "Trung Quốc. (Hoặc nhiều quốc gia khác)", "label": 1, "label_rule": "matches", "first_token_entropy": 2.0170657634735107}
+{"uid": "xfactr-vi-P530-000855", "answer": "145 quốc gia. (Theo Wikipedia)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.445483535528183}
+{"uid": "xfactr-vi-P530-000316", "answer": "Trung Quốc. (Lưu ý: CA có thể là một số quốc gia khác, nhưng dựa trên thông tin chung, tôi sẽ trả lời như trên)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2092411518096924}
+{"uid": "xfactr-vi-P47-000307", "answer": "Indiana, Iowa, Kentucky, Michigan, Missouri, Ohio, Tennessee, Wisconsin.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.834886074066162}
+{"uid": "xfactr-vi-P47-000202", "answer": "phía Bắc. (Áo tiếp giáp với phía Bắc.)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3086477518081665}
+{"uid": "xfactr-vi-P530-000188", "answer": "Trung Quốc, Hoa Kỳ, Hàn Quốc, Philippines, Việt Nam, Singapore, Malaysia, Thái Lan, Indonesia, Campuchia, Lào, Brunei, New Zealand, Úc, Papua New Guinea, Fiji, Quần đảo Marshall", "label": 0, "label_rule": "matches", "first_token_entropy": 2.4447507858276367}
+{"uid": "xfactr-vi-P463-000158", "answer": "Đội Liên Hợp Quốc.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7885879278182983}
+{"uid": "xfactr-vi-P530-000763", "answer": "Pakistan có quan hệ ngoại giao với 160 quốc gia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.08006510883569717}
+{"uid": "xfactr-vi-P530-000448", "answer": "Syria có quan hệ ngoại giao với 178 quốc gia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03644341975450516}
+{"uid": "xfactr-vi-P47-000266", "answer": "Lào, Thái Lan, Myanmar, Lào, Việt Nam.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.0775245428085327}
+{"uid": "xfactr-vi-P47-000405", "answer": "Đệ Tam Đế Chế tiếp giáp với Trung Quốc.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6043367385864258}
+{"uid": "xfactr-vi-P530-000676", "answer": "Afghanistan có quan hệ ngoại giao với 114 quốc gia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0041904328390955925}
+{"uid": "xfactr-vi-P530-000934", "answer": "Ethiopia có quan hệ ngoại giao với 177 quốc gia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.006906714290380478}
+{"uid": "xfactr-vi-P17-000484", "answer": "Nam Mỹ.assistant  Câu: Sông Amazon nằm ở Nam Mỹ.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5628921985626221}
+{"uid": "xfactr-vi-P530-000956", "answer": "Cộng hòa Dominica", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09475548565387726}
+{"uid": "xfactr-vi-P47-000245", "answer": "Armenia, Azerbaijan, Bulgaria, Georgia, Iran, Iraq, Syria.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07022438198328018}
+{"uid": "xfactr-vi-P530-000155", "answer": "Trung Quốc, Hoa Kỳ, Hàn Quốc, Philippines, Việt Nam, Singapore, Malaysia, Thái Lan, Indonesia, Campuchia, Lào, Brunei, New Zealand, Úc, Papua New Guinea, Fiji, Quần đảo Marshall", "label": 1, "label_rule": "matches", "first_token_entropy": 2.4447507858276367}
+{"uid": "xfactr-vi-P47-000605", "answer": "Indonesia và Úc.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.028396490961313248}
+{"uid": "xfactr-vi-P407-000052", "answer": "Daniel được viết bằng tiếng Hebrew.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.10187370330095291}
+{"uid": "xfactr-vi-P530-000203", "answer": "Papua New Guinea có quan hệ ngoại giao với 104 quốc gia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.008217645809054375}
+{"uid": "xfactr-vi-P530-000029", "answer": "Việt Nam.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0373494029045105}
+{"uid": "xfactr-vi-P530-000414", "answer": "145 quốc gia. Ngoài ra, Lebanon cũng là thành viên của một số tổ chức quốc tế như Liên Hợp Quốc, Tổ chức các nước xuất khẩu dầu mỏ, Liên minh Ả Rập, Tổ chức các nước xuất khẩu dầu m", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4495745301246643}
+{"uid": "xfactr-vi-P190-000005", "answer": "Minsk. (Berlin là thành phố kết nghĩa của Minsk.)", "label": 1, "label_rule": "matches", "first_token_entropy": 2.5899648666381836}
+{"uid": "xfactr-vi-P47-000528", "answer": "Li-by-ba, Sudan, Israel, Palestine, Gaza, Jordan, Liban, Syria.", "label": 0, "label_rule": "matches", "first_token_entropy": 3.38446307182312}
+{"uid": "xfactr-vi-P37-000547", "answer": "Ngôn ngữ chính thức của Tanzania là tiếng Kiswahili.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09641925990581512}
+{"uid": "xfactr-vi-P47-000260", "answer": "Uruguay, Argentina, Paraguay, Bolivia, Peru, Colombia, Ecuador, Guyana, Suriname, Suriname, French Guiana.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.20177318155765533}
+{"uid": "xfactr-vi-P530-000900", "answer": "Việt Nam.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0373494029045105}
+{"uid": "xfactr-vi-P37-000797", "answer": "Tiếng Anh.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.08380252122879028}
+{"uid": "xfactr-vi-P530-000791", "answer": "Cộng hòa Síp có quan hệ ngoại giao với 145 quốc gia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.02415487729012966}
+{"uid": "xfactr-vi-P190-000633", "answer": "New York. (New Delhi là thành phố kết nghĩa của New York)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1764359474182129}
+{"uid": "xfactr-vi-P463-000090", "answer": "Tập đoàn 8 quốc gia.", "label": 1, "label_rule": "matches", "first_token_entropy": 5.170990943908691}
+{"uid": "xfactr-vi-P39-000001", "answer": "Thủ tướng thứ 44 của Hoa Kỳ", "label": 1, "label_rule": "matches", "first_token_entropy": 2.427802562713623}
+{"uid": "xfactr-vi-P47-000170", "answer": "phía Bắc. (Áo tiếp giáp với phía Bắc.)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3086477518081665}
+{"uid": "xfactr-vi-P47-000292", "answer": "Georgia và Nam Carolina.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.7545971870422363}
+{"uid": "xfactr-vi-P190-000326", "answer": "Hà Nội. (Hà Nội và Tokyo là thành phố kết nghĩa)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.584084153175354}
+{"uid": "xfactr-vi-P47-000222", "answer": "Tanzania, Malawi, Zambia, Zimbabwe, Botswana, Namibia và Nam Phi.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.35662350058555603}
+{"uid": "xfactr-vi-P36-000178", "answer": "Astana. (tên cũ là Nur-Sultan)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.00503916572779417}
+{"uid": "xfactr-vi-P530-000442", "answer": "Trung Quốc, Úc, New Zealand, Hoa Kỳ, Nhật Bản, Papua New Guinea, Liên Hợp Quốc, Liên minh châu Đại Dương, Liên minh các quốc gia Thái Bình Dương, Quần đảo Marshall, Quần đảo Marshall", "label": 0, "label_rule": "matches", "first_token_entropy": 0.9749354124069214}
+{"uid": "xfactr-vi-P1376-000020", "answer": "Mexico. (Am-xtec-đam là thủ đô của Mexico.)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3366025686264038}
+{"uid": "xfactr-vi-P1376-000087", "answer": "Nigeria. (Lagos là thủ đô của Nigeria.)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.26378679275512695}
+{"uid": "xfactr-vi-P47-000036", "answer": "Bỉ tiếp giáp với Đức, Hà Lan, Bỉ, Luxembourg và Pháp.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.16191452741622925}
+{"uid": "xfactr-vi-P30-000034", "answer": "Bỉ nằm ở Tây Âu.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.421951025724411}
+{"uid": "xfactr-vi-P37-000193", "answer": "Ngôn ngữ chính thức của Mozambique là tiếng Bồ Đào Nha.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.05925799161195755}
+{"uid": "xfactr-vi-P69-000001", "answer": "Princeton. (Woodrow Wilson được đào tạo tại trường đại học Princeton.)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0023662601597607136}
+{"uid": "xfactr-vi-P530-000546", "answer": "145 quốc gia. (Slovenia có quan hệ ngoại giao với 145 quốc gia)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3395684063434601}
+{"uid": "xfactr-vi-P937-000249", "answer": "Đại học Leipzig.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4188354015350342}
+{"uid": "xfactr-vi-P17-000048", "answer": "phía đông bắc Trung Quốc", "label": 0, "label_rule": "matches", "first_token_entropy": 1.9706227779388428}
+{"uid": "xfactr-vi-P1376-000065", "answer": "Greece. (Athen là thủ đô của Hy Lạp)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.6694570779800415}
+{"uid": "xfactr-vi-P47-000154", "answer": "Cộng hòa Mozambique, Cộng hòa Nam Phi và Botswana.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0025728228501975536}
+{"uid": "xfactr-vi-P47-000052", "answer": "CH tiếp giáp với C.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5916576385498047}
+{"uid": "xfactr-vi-P37-000018", "answer": "Italia. (tên chính thức của nước Ý)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5558009147644043}
+{"uid": "xfactr-vi-P17-000269", "answer": "Mexico.assistant  Câu: Sinaloa nằm ở Mexico.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0200684070587158}
+{"uid": "xfactr-vi-P530-000011", "answer": "Trung Quốc. (Lưu ý: CA có thể là một số quốc gia khác, nhưng dựa trên thông tin chung, tôi sẽ trả lời như trên)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2092411518096924}
+{"uid": "xfactr-vi-P530-000249", "answer": "Hàn Quốc có quan hệ ngoại giao với 194 quốc gia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.17650872468948364}
+{"uid": "xfactr-vi-P530-000906", "answer": "Belarus có quan hệ ngoại giao với 152 quốc gia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.008096900768578053}
+{"uid": "xfactr-vi-P530-000496", "answer": "145 quốc gia. (Theo Wikipedia)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.445483535528183}
+{"uid": "xfactr-vi-P1376-000070", "answer": "Trung Quốc. (Bắc Kinh)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7022584676742554}
+{"uid": "xfactr-vi-P530-000544", "answer": "Trung Quốc. (Câu hoàn chỉnh: Thổ Nhĩ Kỳ có quan hệ ngoại giao với Trung Quốc.)", "label": 1, "label_rule": "matches", "first_token_entropy": 2.067108392715454}
+{"uid": "xfactr-vi-P530-000880", "answer": "hơn 150 quốc gia và tổ chức quốc tế.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.39869800209999084}
+{"uid": "xfactr-vi-P37-000863", "answer": "Tiếng Anh.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.19921240210533142}
+{"uid": "xfactr-vi-P140-000444", "answer": "Trật tự Hiệp sĩ Teuton", "label": 1, "label_rule": "matches", "first_token_entropy": 2.7808620929718018}
+{"uid": "xfactr-vi-P47-000549", "answer": "Idaho tiếp giáp với Montana, Wyoming, Utah, Nevada, Oregon, Washington và Bắc Dakota.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0012498637661337852}
+{"uid": "xfactr-vi-P47-000435", "answer": "Oklahoma, Louisiana, Texas, Missouri, Tennessee, Mississippi, và Missouri.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.004255704581737518}
+{"uid": "xfactr-vi-P47-000336", "answer": "Lithuania tiếp giáp với Ba Lan, Latvia và Belarus.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.5648646354675293}
+{"uid": "xfactr-vi-P190-000818", "answer": "Marseille là thành phố kết nghĩa của Nice.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.41631025075912476}
+{"uid": "xfactr-vi-P190-000682", "answer": "Londonderry (Ireland)", "label": 1, "label_rule": "matches", "first_token_entropy": 3.5933990478515625}
+{"uid": "xfactr-vi-P190-000710", "answer": "Vancouver. (Toronto là thành phố kết nghĩa của Vancouver.)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.14871913194656372}
+{"uid": "xfactr-vi-P361-000038", "answer": "Nam Mỹ.assistant  Câu: Brasil là một phần của Nam Mỹ.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.04646536707878113}
+{"uid": "xfactr-vi-P463-000104", "answer": "Sri Lanka là thành viên của đội cricket.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6909534931182861}
+{"uid": "xfactr-vi-P463-000187", "answer": "ASEAN. (ASEAN là tổ chức của các quốc gia Đông Nam Á)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.002971904817968607}
+{"uid": "xfactr-vi-P17-000203", "answer": "Pakistan. ( Islamabad là thủ đô của Pakistan)", "label": 0, "label_rule": "matches", "first_token_entropy": 1.0704905986785889}
+{"uid": "xfactr-vi-P527-000389", "answer": "Tây Âu bao gồm Bỉ, Bồ Đào Nha, Đan Mạch, Đức, Ireland, Ý, Luxembourg, Hà Lan, Na Uy, Pháp, Tây Ban Nha và Vương quốc Anh.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.000591569987591356}
+{"uid": "xfactr-vi-P131-000101", "answer": "New England. (New Hampshire nằm trong khu vực quản lý hành chính của New England.)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6092324256896973}
+{"uid": "xfactr-vi-P30-000365", "answer": "Cộng hòa Dominica nằm ở Bắc Mỹ.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.15515106916427612}
+{"uid": "xfactr-vi-P136-000122", "answer": "guitar. (Whitney Elizabeth Houston chơi nhạc guitar.)", "label": 1, "label_rule": "matches", "first_token_entropy": 4.166828155517578}
+{"uid": "xfactr-vi-P463-000035", "answer": "Trung tâm Hợp tác Châu Âu (EU)", "label": 1, "label_rule": "matches", "first_token_entropy": 2.0854039192199707}
+{"uid": "xfactr-vi-P36-000042", "answer": "Jakarta. (hoặc có thể là Bogor, nhưng Jakarta là thủ đô chính thức)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0001329901278950274}
+{"uid": "xfactr-vi-P39-000483", "answer": "Giáo hoàng Clêmentê IX giữ chức vụ Giáo hoàng từ năm 1667 đến năm 1669.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.1214187890291214}
+{"uid": "xfactr-vi-P190-000754", "answer": "Hà Nội. (Manama là thành phố kết nghĩa của Hà Nội)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.661059856414795}
+{"uid": "xfactr-vi-P463-000036", "answer": "Cộng đồng các quốc gia độc lập (CSI)", "label": 1, "label_rule": "matches", "first_token_entropy": 2.5649454593658447}
+{"uid": "xfactr-vi-P190-000353", "answer": "Tokyo. (Bắc Kinh là thành phố kết nghĩa của Tokyo.)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.007837479934096336}
+{"uid": "xfactr-vi-P190-000228", "answer": "Helsinki là thành phố kết nghĩa của Stockholm.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.7116599082946777}
+{"uid": "xfactr-vi-P30-000160", "answer": "phía tây châu Phi.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.08677508682012558}
+{"uid": "xfactr-vi-P463-000521", "answer": "Quần đảo Solomon là thành viên của đội Pacific.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.735363483428955}
+{"uid": "xfactr-vi-P463-000880", "answer": "Cộng hòa Tuy-ni-di là thành viên của đội Liên Hợp Quốc.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0905715823173523}
+{"uid": "xfactr-vi-P1376-000023", "answer": "Thái Lan. (Bangkok là thủ đô của Thái Lan.)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.2231018990278244}
+{"uid": "xfactr-vi-P407-000474", "answer": "Tatiana được viết bằng chữ cái Kirin.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1361922323703766}
+{"uid": "xfactr-vi-P37-000004", "answer": "Ngôn ngữ chính thức của Liên bang Nga là tiếng Nga.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.025469612330198288}
+{"uid": "xfactr-vi-P1376-000256", "answer": "Gabon.assistant  Cộng hòa Gabon.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0023960291873663664}
+{"uid": "xfactr-vi-P937-000005", "answer": "Trường Đại học Bordeaux", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6696954965591431}
+{"uid": "xfactr-vi-P37-000542", "answer": "Tiếng Anh.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.15712317824363708}
+{"uid": "xfactr-vi-P527-000014", "answer": "Nam Mỹ bao gồm Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, Guyana, Paraguay, Peru, Suriname, Uruguay, Venezuela.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.018205871805548668}
+{"uid": "xfactr-vi-P138-000006", "answer": "Phật giáo được đặt theo tên của Phật Thích Ca Mâu Ni.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.08183017373085022}
+{"uid": "xfactr-vi-P103-000037", "answer": "Pháp. (Ngôn ngữ bản địa của Jean-Jacques Rousseau là tiếng Pháp)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.060013070702552795}
+{"uid": "xfactr-vi-P131-000062", "answer": "Hoa Kỳ. (Hoặc) Hoa Kỳ (theo nghĩa rộng) hoặc Hoa Kỳ (theo nghĩa hẹp)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.3124123811721802}
+{"uid": "xfactr-vi-P39-000373", "answer": "Pope Celestine IV giữ chức vụ Giáo hoàng.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.8525094985961914}
+{"uid": "xfactr-vi-P190-000056", "answer": "Kiev là thành phố kết nghĩa của Hà Nội.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.103553056716919}
+{"uid": "xfactr-vi-P463-000458", "answer": "Trung tâm Heliocentric của Liên minh Châu Âu.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.439533233642578}
+{"uid": "xfactr-vi-P106-000030", "answer": "Ca sĩ.assistant  Câu: Ông được biết đến là người phát minh ra ___ .", "label": 1, "label_rule": "matches", "first_token_entropy": 2.784468650817871}
+{"uid": "xfactr-vi-P30-000051", "answer": "Na Uy nằm ở Bắc Âu.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.027529126033186913}
+{"uid": "xfactr-vi-P17-000072", "answer": "Hoa Kỳ và Bỉ", "label": 1, "label_rule": "matches", "first_token_entropy": 3.299614429473877}
+{"uid": "xfactr-vi-P190-000154", "answer": "Buenos Aires là thành phố kết nghĩa của Paris.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5867555141448975}
+{"uid": "xfactr-vi-P30-000065", "answer": "Malaysia nằm ở Đông Nam Á.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0028826999478042126}
+{"uid": "xfactr-vi-P407-000016", "answer": "tiếng Pháp.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.013738477602601051}
+{"uid": "xfactr-vi-P190-000002", "answer": "Phnom Penh.", "label": 1, "label_rule": "matches", "first_token_entropy": 4.126776218414307}
+{"uid": "xfactr-vi-P190-000029", "answer": "Cựu Kim Sơn là thành phố kết nghĩa của Cẩm Giang.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7796229124069214}
+{"uid": "xfactr-vi-P36-000078", "answer": "Viên thành. (Viên thành là thủ đô của Áo)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.4759827256202698}
+{"uid": "xfactr-vi-P138-000004", "answer": "Hoa Kỳ được đặt theo tên của John Smith, một nhà thám hiểm người Anh.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.38714030385017395}
+{"uid": "xfactr-vi-P131-000047", "answer": "Hoa Kỳ. (Hoa Kỳ có 50 bang, trong đó có bang Pennsylvania)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.5261597633361816}
+{"uid": "xfactr-vi-P30-000253", "answer": "Tonga nằm ở châu Đại Dương.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.17626741528511047}
+{"uid": "xfactr-vi-P190-000243", "answer": "Tranghetti, Buenos Aires, Chicago, Los Angeles, Madrid, Panama, Puebla, Querétaro, Salvador, Villahermosa, và León.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.579697608947754}
+{"uid": "xfactr-vi-P937-000042", "answer": "công ty bảo hiểm nhân thọ.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.673351764678955}
+{"uid": "xfactr-vi-P30-000062", "answer": "Trung Quốc. (Cộng hòa Trung Hoa là tên gọi chính thức của Trung Quốc)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.27861353754997253}
+{"uid": "xfactr-vi-P463-000420", "answer": "FIFA. (Fédération Internationale de Football Association)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.11759254336357117}
+{"uid": "xfactr-vi-P463-000362", "answer": "Cộng đồng các quốc gia Caribbean (CARICOM)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9549353122711182}
+{"uid": "xfactr-vi-P190-000083", "answer": "Warszawa là thành phố kết nghĩa của Budapest.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.23700112104415894}
+{"uid": "xfactr-vi-P39-000715", "answer": "thủ tướng thứ 19 của Hoa Kỳ", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1293199062347412}
+{"uid": "xfactr-vi-P39-000004", "answer": "thủ tướng thứ 32 của Hoa Kỳ", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1336617469787598}
+{"uid": "xfactr-vi-P30-000021", "answer": "Nam Mỹ.assistant  Câu: Argentina nằm ở Nam Mỹ.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.42021870613098145}
+{"uid": "xfactr-vi-P37-000420", "answer": "Ngôn ngữ chính thức của Comoros là tiếng Pháp.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.040919311344623566}
+{"uid": "xfactr-vi-P190-000279", "answer": "Budapest. (Istanbul là thành phố kết nghĩa của Budapest.)", "label": 1, "label_rule": "matches", "first_token_entropy": 2.3280787467956543}
+{"uid": "xfactr-vi-P190-000679", "answer": "Athena là thành phố kết nghĩa của Paris.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5231879949569702}
+{"uid": "xfactr-vi-P36-000229", "answer": "Sana'a. (Tuy nhiên, thủ đô được công nhận là Sana'a nhưng chính phủ Yemen đã di chuyển thủ đô đến Aden vào năm 2015)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.004279939457774162}
+{"uid": "xfactr-vi-P39-000032", "answer": "thủ tướng thứ 30 của Hoa Kỳ", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9289852380752563}
+{"uid": "xfactr-vi-P190-000922", "answer": "Cairo. (Tuy nhiên, có thể có nhiều thành phố khác cũng là thành phố kết nghĩa của Amman)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.15527862310409546}
+{"uid": "xfactr-vi-P36-000084", "answer": "Hà Nội. (Hà Nội là thủ đô của Cộng hòa Xã hội Chủ nghĩa Việt Nam)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.18695682287216187}
+{"uid": "xfactr-vi-P190-000521", "answer": "Tokyo. (Đài Bắc là thành phố kết nghĩa của Tokyo)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.008821157738566399}
+{"uid": "xfactr-vi-P407-000035", "answer": "Michael được viết bằng tiếng Hy Lạp.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.08299006521701813}
+{"uid": "xfactr-vi-P1376-000003", "answer": "Nhật Bản.assistant  Câu: Thủ đô Tokyo là thủ đô của Nhật Bản.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.016869541257619858}
+{"uid": "xfactr-vi-P937-000011", "answer": "Barcelona. (Pablo Picasso từng làm việc ở Barcelona)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.772495687007904}
+{"uid": "xfactr-vi-P463-000106", "answer": "Cộng đồng các quốc gia không thuộc Liên Hợp Quốc", "label": 1, "label_rule": "matches", "first_token_entropy": 2.870138645172119}
+{"uid": "xfactr-vi-P463-000068", "answer": "NATO. (Câu hoàn chỉnh: Latvia là thành viên của đội NATO.)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.036304235458374}
+{"uid": "xfactr-vi-P37-000208", "answer": "Bồ Đào Nha.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8721110820770264}
+{"uid": "xfactr-vi-P37-000074", "answer": "Ngôn ngữ chính thức của Belarus là tiếng Belarus.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.018696432933211327}
+{"uid": "xfactr-vi-P1376-000029", "answer": "Cape Town là thủ đô của Nam Phi.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.16913878917694092}
+{"uid": "xfactr-vi-P1376-000192", "answer": "Đan Mạch.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.3836050033569336}
+{"uid": "xfactr-vi-P276-000031", "answer": "Chiến tranh thế giới thứ hai nằm trong Thế chiến thứ hai.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0009618098265491426}
+{"uid": "xfactr-vi-P37-000901", "answer": "tiếng Hy Lạp", "label": 1, "label_rule": "matches", "first_token_entropy": 0.12106122076511383}
+{"uid": "xfactr-vi-P39-000366", "answer": "Giáo hoàng Silvester II giữ chức vụ Giáo hoàng từ năm 946 đến năm 946.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.13424375653266907}
+{"uid": "xfactr-vi-P37-000073", "answer": "Hindi. (Hindi là ngôn ngữ chính thức của Ấn Độ)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.16046765446662903}
+{"uid": "xfactr-vi-P30-000119", "answer": "phía đông nam châu Phi.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.058057527989149094}
+{"uid": "xfactr-vi-P407-000011", "answer": "Daniel được viết bằng tiếng Hebrew.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.10187370330095291}
+{"uid": "xfactr-vi-P36-000193", "answer": "Bamako.assistant  Còn một câu khác: Thủ đô của Mali là Bamako.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0035996227525174618}
+{"uid": "xfactr-vi-P131-000242", "answer": "Quần đảo Svalbard nằm trong khu vực quản lý hành chính của Na Uy.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.22420504689216614}
+{"uid": "xfactr-vi-P1376-000010", "answer": "Brazil.assistant  Câu: Rio de Janeiro là thủ đô của Brazil.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.6281723976135254}
+{"uid": "xfactr-vi-P37-000178", "answer": "Malaysia có hai ngôn ngữ chính thức là tiếng Mã Lai và tiếng Anh.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.7450685501098633}
+{"uid": "xfactr-vi-P138-000001", "answer": "Bengal. (Bengal là một vùng đất lịch sử và địa lý ở Nam Á, bao gồm cả Bangladesh và bang Tây Bengal của Ấn Độ)", "label": 1, "label_rule": "matches", "first_token_entropy": 3.4368114471435547}
+{"uid": "xfactr-vi-P30-000217", "answer": "phía Đông Bắc Phi.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.19101068377494812}
+{"uid": "xfactr-vi-P30-000233", "answer": "châu Phi.assistant  Câu: Libya nằm ở châu Phi.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.5804064869880676}
+{"uid": "xfactr-vi-P937-000047", "answer": "công ty may lò ở Tbilisi.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6953139305114746}
+{"uid": "xfactr-vi-P36-000040", "answer": "Baku.assistant  Còn một câu khác: Thủ đô của Azerbaijan là Baku.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.1971864700317383}
+{"uid": "xfactr-vi-P30-000008", "answer": "Trung Quốc. (CHND Trung Hoa là tên gọi chính thức của Trung Quốc từ năm 1949 đến năm 1976)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09995162487030029}
+{"uid": "xfactr-vi-P36-000094", "answer": "Santiago.assistant  Còn một câu khác: Thủ đô của Chile là Santiago.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0587271973490715}
+{"uid": "xfactr-vi-P30-000102", "answer": "Nam Mỹ.assistant  Còn một câu khác:", "label": 0, "label_rule": "matches", "first_token_entropy": 0.11859673261642456}
+{"uid": "xfactr-vi-P20-000087", "answer": "London. (T. S. Eliot mất ở London)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.50344717502594}
+{"uid": "xfactr-vi-P37-000166", "answer": "Tiếng Pháp.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.09372088313102722}
+{"uid": "xfactr-vi-P463-000256", "answer": "Trang bị (bóng đá)", "label": 1, "label_rule": "matches", "first_token_entropy": 2.556086540222168}
+{"uid": "xfactr-vi-P103-000135", "answer": "Latin. (Virgil là nhà thơ và nhà thơ ca lớn của nền văn hóa La Mã cổ đại)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7504911422729492}
+{"uid": "xfactr-vi-P1376-000055", "answer": "Mexico. (hoặc Mexico là một cách khác)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4034201204776764}
+{"uid": "xfactr-vi-P30-000314", "answer": "Trung Á.assistant  Còn một câu khác: Kyrgyzstan nằm ở Trung Á.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.5880680084228516}
+{"uid": "xfactr-vi-P30-000273", "answer": "phía nam châu Phi.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.04682568460702896}
+{"uid": "xfactr-vi-P37-000188", "answer": "tiếng Hi Lạp", "label": 1, "label_rule": "matches", "first_token_entropy": 0.08794324845075607}
+{"uid": "xfactr-vi-P463-000037", "answer": "Áo là thành viên của đội tuyển bóng đá quốc gia Việt Nam.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.029039304703474045}
+{"uid": "xfactr-vi-P19-000969", "answer": "Jakarta, Indonesia.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0011003874242305756}
+{"uid": "xfactr-vi-P37-000507", "answer": "tiếng Anh.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.042448315769433975}
+{"uid": "xfactr-vi-P37-000737", "answer": "Bahasa Indonesia. (Ngôn ngữ chính thức của Aceh là tiếng Indonesia.)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.00792583916336298}
+{"uid": "xfactr-vi-P37-000065", "answer": "tiếng Tây Ban Nha", "label": 0, "label_rule": "matches", "first_token_entropy": 0.06044251099228859}
+{"uid": "xfactr-vi-P37-000174", "answer": "ngôn ngữ chính thức của Liên minh châu Âu là tiếng Anh.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0678662359714508}
+{"uid": "xfactr-vi-P27-000011", "answer": "Nga.assistant  Cầu trả lời (bằng tiếng Việt):", "label": 0, "label_rule": "matches", "first_token_entropy": 0.01652485691010952}
+{"uid": "xfactr-vi-P1412-000000", "answer": "Italienne. (Napoléon Bonaparte thường giao tiếp bằng tiếng Ý)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1161465644836426}
+{"uid": "xfactr-vi-P37-000213", "answer": "Ngôn ngữ chính thức của Paraguay là Tây Ban Nha.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.002243226394057274}
+{"uid": "xfactr-vi-P36-000038", "answer": "Beirut.assistant  Còn một câu khác: Thủ đô của Luxembourg là ___ .", "label": 0, "label_rule": "matches", "first_token_entropy": 0.11141256242990494}
+{"uid": "xfactr-vi-P131-000145", "answer": "Delhi nằm trong khu vực quản lý hành chính của Delhi.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.00093578000087291}
+{"uid": "xfactr-vi-P140-000054", "answer": "Trang trại Berlin", "label": 1, "label_rule": "matches", "first_token_entropy": 4.418820381164551}
+{"uid": "xfactr-vi-P1376-000011", "answer": "Trung Quốc.assistant  Câu: Bắc Kinh là thủ đô của Trung Quốc.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.37721484899520874}
+{"uid": "xfactr-vi-P30-000015", "answer": "quốc lục địa châu Á.", "label": 0, "label_rule": "matches", "first_token_entropy": 4.149953842163086}
+{"uid": "xfactr-vi-P1412-000006", "answer": "tiếng Nga.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.016572056338191032}
+{"uid": "xfactr-vi-P30-000079", "answer": "Nam Mỹ.assistant  Câu: Paraguay nằm ở Nam Mỹ.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.4017624258995056}
+{"uid": "xfactr-vi-P140-000223", "answer": "Trang thiết lập giáo hoàng", "label": 1, "label_rule": "matches", "first_token_entropy": 4.098183631896973}
+{"uid": "xfactr-vi-P463-000049", "answer": "Hi Lạp là thành viên của đội tuyển bóng đá quốc gia Việt Nam.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1858929693698883}
+{"uid": "xfactr-vi-P463-000051", "answer": "Cộng đồng quốc gia Caribbean (CARICOM)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8197078704833984}
+{"uid": "xfactr-vi-P36-000018", "answer": "Londôn.assistant  Câu trả lời ở dạng từ điển: Londôn.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7249443531036377}
+{"uid": "xfactr-vi-P37-000356", "answer": "Latinh. (hoặc tiếng Latin)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9282429218292236}
+{"uid": "xfactr-vi-P140-000047", "answer": "LHQ Liên Hợp Quốc", "label": 1, "label_rule": "matches", "first_token_entropy": 5.350491046905518}
+{"uid": "xfactr-vi-P37-000103", "answer": "tiếng Rumani", "label": 1, "label_rule": "matches", "first_token_entropy": 0.031333811581134796}
+{"uid": "xfactr-vi-P937-000027", "answer": "Bavaria từng làm việc ở Đức.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.32672119140625}
+{"uid": "xfactr-vi-P1412-000360", "answer": "ngôn ngữ Đức.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06087358295917511}
+{"uid": "xfactr-vi-P30-000001", "answer": "CA nằm ở California.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.33406400680542}
+{"uid": "xfactr-vi-P37-000177", "answer": "tiếng Tây Ban Nha", "label": 0, "label_rule": "matches", "first_token_entropy": 0.12074905633926392}
+{"uid": "xfactr-vi-P1376-000015", "answer": "Phần Lan. (Helsinki là thủ đô của Phần Lan.)", "label": 0, "label_rule": "matches", "first_token_entropy": 1.4066094160079956}
+{"uid": "xfactr-vi-P361-000019", "answer": "Trang lưng của châu Âu.", "label": 0, "label_rule": "matches", "first_token_entropy": 2.9191107749938965}
+{"uid": "xfactr-vi-P30-000239", "answer": "Trung tâm Thái Bình Dương.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.20070743560791}
+{"uid": "xfactr-vi-P36-000086", "answer": "Berlin.assistant  Còn một câu khác: Thủ đô của Hà Lan là ___ .", "label": 0, "label_rule": "matches", "first_token_entropy": 0.740314781665802}
+{"uid": "xfactr-vi-P463-000088", "answer": "Commonwealth of Nations.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.002357758581638336}
+{"uid": "xfactr-vi-P463-000906", "answer": "Cộng hòa Liên bang Nigeria, Cộng hòa Dân chủ Congo, Cộng hòa Dân chủ Congo, Ai Cập, Ghana, Kenya, Liberia, Mali, Maroc, Nigeria, Rwanda, Senegal, Seychelles, Sierra Leone, Tanzania,", "label": 1, "label_rule": "matches", "first_token_entropy": 2.5932235717773438}
+{"uid": "xfactr-vi-P131-000038", "answer": "Florida nằm trong khu vực quản lý hành chính của Hoa Kỳ.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.509300172328949}
+{"uid": "xfactr-vi-P463-000211", "answer": "Cộng đồng các quốc gia sử dụng tiếng Anh.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.1791069507598877}
+{"uid": "xfactr-vi-P30-000222", "answer": "Thành Vatican nằm ở Rome, Ý.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3277958333492279}
+{"uid": "xfactr-vi-P1376-000037", "answer": "Israel. (hoặc Palestine)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.5780701637268066}
+{"uid": "xfactr-vi-P17-000105", "answer": "bang phía tây của Hoa Kỳ.", "label": 0, "label_rule": "matches", "first_token_entropy": 5.716178894042969}
+{"uid": "xfactr-vi-P30-000044", "answer": "giày. (Áo nằm ở giày)", "label": 1, "label_rule": "matches", "first_token_entropy": 5.760991096496582}
+{"uid": "xfactr-vi-P17-000050", "answer": "Hòn đảo Honshu.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5857802033424377}
+{"uid": "xfactr-vi-P103-000013", "answer": "Tiếng Anh.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.07578844577074051}
+{"uid": "xfactr-vi-P37-000123", "answer": "Tiếng Kyrgyz.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.05596775561571121}
+{"uid": "xfactr-vi-P131-000435", "answer": "Trả lời: Ai Cập", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5032975673675537}
+{"uid": "xfactr-vi-P30-000020", "answer": "Đức nằm ở châu Âu.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.2500108480453491}
+{"uid": "xfactr-vi-P1376-000474", "answer": "Israel. (hoặc Palestine)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5780701637268066}
+{"uid": "xfactr-vi-P36-000028", "answer": "Cape Town. Tuy nhiên, thủ đô hành chính của Nam Phi là Pretoria, trong khi đó Pretoria không phải là thủ đô chính thức.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.1996219158172607}
+{"uid": "xfactr-vi-P30-000163", "answer": "phía đông nam của Cộng hòa Dân chủ Congo.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.10335426032543182}
+{"uid": "xfactr-vi-P463-000134", "answer": "Cộng hòa Trung Phi là thành viên của đội Liên Hợp Quốc.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0705636590719223}
+{"uid": "xfactr-vi-P140-000082", "answer": "Đảng Dân chủ Xã hội", "label": 1, "label_rule": "matches", "first_token_entropy": 3.468040943145752}
+{"uid": "xfactr-vi-P37-000013", "answer": "Ngôn ngữ chính thức của Tây Ban Nha là tiếng Tây Ban Nha.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.002279395004734397}
+{"uid": "xfactr-vi-P37-000742", "answer": "ngôn ngữ Luxembourg, tiếng Pháp và tiếng Đức", "label": 0, "label_rule": "matches", "first_token_entropy": 0.07929915934801102}
+{"uid": "xfactr-vi-P1376-000193", "answer": "Algérie.assistant  Còn một câu khác: Algiers là thủ đô của Algérie.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.8236320614814758}
+{"uid": "xfactr-vi-P1376-000040", "answer": "Croatia. (Zagreb là thủ đô của Croatia.)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.1934911608695984}
+{"uid": "xfactr-vi-P463-000224", "answer": "Tanzania là thành viên của đội bóng đá châu Phi.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6968718767166138}
+{"uid": "xfactr-vi-P131-000070", "answer": "Nước Đức. (Bắc Rhine-Westphalia nằm trong khu vực quản lý hành chính của nước Đức.)", "label": 0, "label_rule": "matches", "first_token_entropy": 3.5527987480163574}
+{"uid": "xfactr-vi-P1376-000195", "answer": "Tajikistan.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.08948156237602234}
+{"uid": "xfactr-vi-P527-000019", "answer": "Mỹ Latinh bao gồm Argentina, Bolivia, Bồ Đào Nha, Brazil, Chile, Colombia, Costa Rica, Cuba, Cộng hòa Dominica, Ecuador, El Salvador, Guatemala, Haiti, Honduras, México, Nicaragua, Panama, Paraguay", "label": 1, "label_rule": "matches", "first_token_entropy": 0.30319756269454956}
+{"uid": "xfactr-vi-P463-000114", "answer": "NATO. (NATO là viết tắt của North Atlantic Treaty Organization, nghĩa là Tổ chức Hiệp ước Bắc Đại Tây Dương)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.412834882736206}
+{"uid": "xfactr-vi-P103-000110", "answer": "Italian. (Italian là ngôn ngữ bản địa của Giáo hoàng Gioan Phaolô II)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0680586099624634}
+{"uid": "xfactr-vi-P39-000025", "answer": "Thứ trưởng Bộ Ngoại giao.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6784287691116333}
+{"uid": "xfactr-vi-P37-000223", "answer": "Ngôn ngữ chính thức của Abkhazia là tiếng Abkhaz.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.006294368766248226}
+{"uid": "xfactr-vi-P463-000573", "answer": "Hi Lạp là thành viên của đội tuyển bóng đá quốc gia Việt Nam.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1858929693698883}
+{"uid": "xfactr-vi-P36-000140", "answer": "Riyadh.assistant  Còn một câu khác: Thủ đô của Saudi Arabia là Riyadh.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.06046133115887642}
+{"uid": "xfactr-vi-P463-000407", "answer": "Tanzania là thành viên của đội bóng đá châu Phi.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6968718767166138}
+{"uid": "xfactr-vi-P17-000141", "answer": "phương ngữ của Hy Lạp", "label": 1, "label_rule": "matches", "first_token_entropy": 2.0677649974823}
+{"uid": "xfactr-vi-P30-000200", "answer": "Cựu Kim Sơn nằm ở tỉnh Hà Tĩnh.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.19786477088928223}
+{"uid": "xfactr-vi-P36-000020", "answer": "New Delhi.assistant  Thủ đô của Ấn Độ là New Delhi.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.017798282206058502}
+{"uid": "xfactr-vi-P17-000006", "answer": "bang Đại Tây Dương.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.9598965644836426}
+{"uid": "xfactr-vi-P140-000045", "answer": "Đồng minh của các nhà nước châu Âu.", "label": 1, "label_rule": "matches", "first_token_entropy": 4.525189399719238}
+{"uid": "xfactr-vi-P463-000062", "answer": "Hội đồng Bảo an Liên Hợp Quốc.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8298584222793579}
+{"uid": "xfactr-vi-P17-000068", "answer": "Đất Holey (Đất Thánh)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.801326334476471}
+{"uid": "xfactr-vi-P1376-000007", "answer": "Ireland. (Dublin là thủ đô của Ireland)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.003382540075108409}
+{"uid": "xfactr-vi-P937-000014", "answer": "công ty bảo hiểm.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9624840617179871}
+{"uid": "xfactr-vi-P30-000271", "answer": "phía tây bắc Thổ Nhĩ Kỳ.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.14812222123146057}
+{"uid": "xfactr-vi-P36-000281", "answer": "Oklahoma City.", "label": 0, "label_rule": "matches", "first_token_entropy": 8.813028398435563e-05}
+{"uid": "xfactr-vi-P30-000174", "answer": "Mauritius nằm ở Ấn Độ Dương.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8214409351348877}
+{"uid": "xfactr-vi-P17-000074", "answer": "phương ngữ của người Nga", "label": 1, "label_rule": "matches", "first_token_entropy": 2.4184651374816895}
+{"uid": "xfactr-vi-P17-000029", "answer": "bang Michigan, Hoa Kỳ.", "label": 0, "label_rule": "matches", "first_token_entropy": 4.708509922027588}
+{"uid": "xfactr-vi-P463-000162", "answer": "Hội đồng Bắc Âu.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6198315620422363}
+{"uid": "xfactr-vi-P36-000297", "answer": "Kigali.assistant  Còn một câu khác: Thủ đô của Rwanda là Kigali.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.02582496404647827}
+{"uid": "xfactr-vi-P17-000077", "answer": "bang Hợp chủng Hoa Kỳ.", "label": 0, "label_rule": "matches", "first_token_entropy": 3.7188634872436523}
+{"uid": "xfactr-vi-P17-000052", "answer": "bang Delaware, bang Pennsylvania, Mỹ.", "label": 0, "label_rule": "matches", "first_token_entropy": 4.753983974456787}
+{"uid": "xfactr-vi-P17-000090", "answer": "Thái Lan. (Bangkok là thủ đô của Thái Lan)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.49618998169898987}
+{"uid": "xfactr-vi-P463-000247", "answer": "Copa América. (Copa America)", "label": 1, "label_rule": "matches", "first_token_entropy": 3.3182168006896973}
+{"uid": "xfactr-vi-P103-000008", "answer": "Ngôn ngữ Nga.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.14435924589633942}
+{"uid": "xfactr-vi-P138-000000", "answer": "Đức được đặt theo tên của Đức Quốc (Deutschland trong tiếng Đức).", "label": 1, "label_rule": "matches", "first_token_entropy": 0.39256465435028076}
+{"uid": "xfactr-vi-P27-000001", "answer": "George Washington là công dân Mỹ.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.01044574286788702}
+{"uid": "xfactr-vi-P103-000045", "answer": "Aramaic. (Aramaic là ngôn ngữ bản địa của Chúa Giêsu)", "label": 1, "label_rule": "matches", "first_token_entropy": 2.8086297512054443}
+{"uid": "xfactr-vi-P36-000247", "answer": "Dili.assistant  Câu trả lời đúng: Dili.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.045523930341005325}
+{"uid": "xfactr-vi-P39-000083", "answer": "Nhiệm Tổng thống thứ 15 của Hoa Kỳ.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2614037990570068}
+{"uid": "xfactr-vi-P27-000040", "answer": "Mỹ. (Câu hoàn chỉnh: Dick Cheney là công dân Mỹ.)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.09986402839422226}
+{"uid": "xfactr-vi-P101-000081", "answer": "vật lý và toán học", "label": 0, "label_rule": "matches", "first_token_entropy": 0.10602138936519623}
+{"uid": "xfactr-vi-P138-000009", "answer": "Christ. (Theo truyền thống, tên của Chúa Giê-su Kitô trong tiếng Hy Lạp là \"Christos\", có nghĩa là \"Người được thánh hóa\" hoặc \"Người được chọn\".)", "label": 0, "label_rule": "matches", "first_token_entropy": 2.299525260925293}
+{"uid": "xfactr-vi-P527-000165", "answer": "Bắc Phi bao gồm Ai Cập, Libya, Algérie, Maroc, Tunisia, Ma-rốc, Mauritania, Sudan, Chad, Niger, Mali, Burkina Faso, Bờ Biển Ngà, Djibouti", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0247337743639946}
+{"uid": "xfactr-vi-P407-000012", "answer": "Richard được viết bằng tiếng Anh.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.07373236864805222}
+{"uid": "xfactr-vi-P140-000007", "answer": "Giáo hội Công giáo Rôma", "label": 0, "label_rule": "matches", "first_token_entropy": 0.6326602697372437}
+{"uid": "xfactr-vi-P36-000184", "answer": "Dushanbe.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.07640843838453293}
+{"uid": "xfactr-vi-P127-000068", "answer": "Wikipedia là một dự án trực tuyến đa ngôn ngữ, miễn phí và mở, cung cấp thông tin và kiến thức đa dạng về nhiều chủ đề.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1262098550796509}
+{"uid": "xfactr-vi-P36-000030", "answer": "Tehran.assistant  Còn một câu khác: Thủ đô của Iran là Tehran.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.04360947757959366}
+{"uid": "xfactr-vi-P36-000204", "answer": "Washington D.C. (Viện Chính phủ)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8393139839172363}
+{"uid": "xfactr-vi-P17-000085", "answer": "Hoa Kỳ. (Hoa Kỳ là một quốc gia nằm ở Bắc Mỹ)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.12145442515611649}
+{"uid": "xfactr-vi-P17-000134", "answer": "bang phía tây của Hoa Kỳ.", "label": 0, "label_rule": "matches", "first_token_entropy": 4.31583309173584}
+{"uid": "xfactr-vi-P36-000102", "answer": "Caracas.assistant  Venezuela.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.00035703505272977054}
+{"uid": "xfactr-vi-P1376-000232", "answer": "Brunei.assistant  Còn một câu khác: Brunei là một quốc gia nhỏ nằm ở Đông Nam Á.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0009884433820843697}
+{"uid": "xfactr-vi-P36-000061", "answer": "Londôn.assistant  Còn một câu khác: Thủ đô của Việt Nam là ___ .", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8352514505386353}
+{"uid": "xfactr-vi-P131-000630", "answer": "Saint Kitts và Nevis nằm trong khu vực quản lý hành chính của Liên minh Antigua và Barbuda.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0927167534828186}
+{"uid": "xfactr-vi-P361-000276", "answer": "Cộng hòa Dominica là một phần của Hispaniola.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09307919442653656}
+{"uid": "xfactr-vi-P527-000036", "answer": "Nam Mỹ bao gồm Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, Guyana, Paraguay, Peru, Suriname, Uruguay, Venezuela.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.018205871805548668}
+{"uid": "xfactr-vi-P1376-000060", "answer": "Anh. (Luân Đôn là thủ đô của Anh)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0004685711464844644}
+{"uid": "xfactr-vi-P101-000466", "answer": "vật lý.assistant  Câu: Wilhelm Wien làm việc trong lĩnh vực vật lý.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.05708141624927521}
+{"uid": "xfactr-vi-P131-000003", "answer": "bang New York. (hoặc là thành phố New York)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8854819536209106}
+{"uid": "xfactr-vi-P527-000240", "answer": "Trung Phi bao gồm 55 quốc gia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.019139613956212997}
+{"uid": "xfactr-vi-P1376-000000", "answer": "Hoa Kỳ. (NYC là viết tắt của New York City)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.02391301840543747}
+{"uid": "xfactr-vi-P140-000504", "answer": "Trường đại học La Salle.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.2981700897216797}
+{"uid": "xfactr-vi-P527-000079", "answer": "Nam Mỹ bao gồm Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, Guyana, Paraguay, Peru, Suriname, Uruguay, Venezuela.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.018205871805548668}
+{"uid": "xfactr-vi-P17-000146", "answer": "Qatar.assistant  Cairo nằm ở Ai Cập.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.010132886469364166}
+{"uid": "xfactr-vi-P1412-000052", "answer": "Italia. (Michelangelo là một nghệ sĩ người Italia)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.42712005972862244}
+{"uid": "xfactr-vi-P1376-000089", "answer": "Đức. (Munich là thủ đô của Đức.)", "label": 1, "label_rule": "matches", "first_token_entropy": 2.57975435256958}
+{"uid": "xfactr-vi-P527-000688", "answer": "Giải Nobel bao gồm giải thưởng về Vật lý, Hóa học, Y học, Văn học, Hòa bình và Kinh tế.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0022943243384361267}
+{"uid": "xfactr-vi-P17-000030", "answer": "bang bờ biển Thái Bình Dương của Hoa Kỳ.", "label": 0, "label_rule": "matches", "first_token_entropy": 3.5962085723876953}
+{"uid": "xfactr-vi-P36-000022", "answer": "Bang Cốc (Bangkok)", "label": 0, "label_rule": "matches", "first_token_entropy": 4.278555870056152}
+{"uid": "xfactr-vi-P527-000128", "answer": "Đông Âu bao gồm Ba Lan, Bungari, Cộng hòa Séc, Đức, Hungary, Hy Lạp, Litva, Luxembourg, Malta, Hà Lan, Na Uy, Ba Lan, Bồ Đào Nha, România,", "label": 1, "label_rule": "matches", "first_token_entropy": 0.007253783289343119}
+{"uid": "xfactr-vi-P106-000002", "answer": "Nghiên cứu và viết kịch", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0810017585754395}
+{"uid": "xfactr-vi-P39-000038", "answer": "thủ tướng thứ 17 của Hoa Kỳ", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3065766096115112}
+{"uid": "xfactr-vi-P937-000026", "answer": "Trường đào tạo nghệ thuật Académie des Beaux-Arts ở Brussels.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.370728015899658}
+{"uid": "xfactr-vi-P131-000015", "answer": "Cà Mau.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.0405869483947754}
+{"uid": "xfactr-vi-P17-000093", "answer": "bang Hoa Kỳ. (Hoặc) bang miền Tây Hoa Kỳ.", "label": 0, "label_rule": "matches", "first_token_entropy": 4.853981971740723}
+{"uid": "xfactr-vi-P276-000020", "answer": "Cách mạng Pháp nằm trong lịch sử thế giới.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.020025532692670822}
+{"uid": "xfactr-vi-P103-000317", "answer": "Latin. (Latin là ngôn ngữ bản địa của Giáo hoàng Phan-xi-cô)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0673742294311523}
+{"uid": "xfactr-vi-P1376-000164", "answer": "Kazakhstan.assistant  Còn một câu khác: Astana là thủ đô của Kazakhstan.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.033645227551460266}
+{"uid": "xfactr-vi-P131-000173", "answer": "Trung Quốc. (Lưu ý: Ma Cao là một đặc khu hành chính của Trung Quốc)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.38438090682029724}
+{"uid": "xfactr-vi-P36-000127", "answer": "Santo Domingo.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.3298996686935425}
+{"uid": "xfactr-vi-P39-000591", "answer": "Giáo hoàng Piô VIII giữ chức vụ Giáo hoàng từ năm 1829 đến năm 1830.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.20532739162445068}
+{"uid": "xfactr-vi-P36-000354", "answer": "Bujumbura.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.011350464075803757}
+{"uid": "xfactr-vi-P361-000258", "answer": "hệ Mặt Trời.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.19612962007522583}
+{"uid": "xfactr-vi-P39-000352", "answer": "Giáo hoàng Biển Đức XV giữ chức vụ Giáo hoàng từ năm 1644 đến năm 1655.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.11830849945545197}
+{"uid": "xfactr-vi-P106-000006", "answer": "Diễn viên và chính trị gia", "label": 0, "label_rule": "matches", "first_token_entropy": 0.014449640177190304}
+{"uid": "xfactr-vi-P361-000156", "answer": "Trái Đất.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.30130356550216675}
+{"uid": "xfactr-vi-P495-000005", "answer": "Anh. Quần vợt được tạo ra ở Anh.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.002074815798550844}
+{"uid": "xfactr-vi-P36-000088", "answer": "Damascus.assistant  Còn một câu khác: Thủ đô của Syria là Damascus.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.8426320552825928}
+{"uid": "xfactr-vi-P36-000027", "answer": "Rôma. (Hoặc Roma)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.7530752420425415}
+{"uid": "xfactr-vi-P39-000100", "answer": "thủ tướng thứ 12 của Hoa Kỳ", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6392558813095093}
+{"uid": "xfactr-vi-P17-000209", "answer": "Armenia. (Yerevan là thủ đô của Armenia)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.07568170875310898}
+{"uid": "xfactr-vi-P19-000202", "answer": "Adrian I sinh ra ở Ravenna.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0309199970215559}
+{"uid": "xfactr-vi-P407-000548", "answer": "James được viết bằng tiếng Anh.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.055006805807352066}
+{"uid": "xfactr-vi-P103-000077", "answer": "Tiếng Pháp.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.029642220586538315}
+{"uid": "xfactr-vi-P103-000003", "answer": "Ngôn ngữ bản địa của Vladimir Vladimirovich Putin là tiếng Nga.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.4206030070781708}
+{"uid": "xfactr-vi-P36-000119", "answer": "Phnom Pênh.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.951561212539673}
+{"uid": "xfactr-vi-P131-000060", "answer": "Kentucky nằm trong khu vực quản lý hành chính của Hoa Kỳ.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0028530224226415157}
+{"uid": "xfactr-vi-P17-000047", "answer": "Đan Mạch.", "label": 0, "label_rule": "matches", "first_token_entropy": 3.2428040504455566}
+{"uid": "xfactr-vi-P131-000033", "answer": "Hoa Kỳ. (Hoa Kỳ có 50 bang, trong đó có bang Texas)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.2164115011692047}
+{"uid": "xfactr-vi-P39-000034", "answer": "thủ tướng thứ 25 của Hoa Kỳ", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9201714992523193}
+{"uid": "xfactr-vi-P527-000088", "answer": "Châu Mỹ bao gồm Bắc Mỹ, Trung Mỹ và Nam Mỹ.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.002957338932901621}
+{"uid": "xfactr-vi-P36-000002", "answer": "Tokyo.assistant  Còn một câu khác: Thủ đô của Việt Nam là ___ .", "label": 0, "label_rule": "matches", "first_token_entropy": 0.008135704323649406}
+{"uid": "xfactr-vi-P39-000451", "answer": "Constantine giữ chức vụ Hoàng đế La Mã.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03372962772846222}
+{"uid": "xfactr-vi-P36-000183", "answer": "Bishkek.assistant  Còn một câu khác: Thủ đô của Kyrgyzstan là Bishkek.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.020913688465952873}
+{"uid": "xfactr-vi-P159-000158", "answer": "Geneva, Thụy Sĩ.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0004795579006895423}
+{"uid": "xfactr-vi-P1376-000099", "answer": "Venezuela.assistant  Venezuela.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.03158554434776306}
+{"uid": "xfactr-vi-P1376-000073", "answer": "Đài Loan. (Đài Loan chính thức được gọi là Trung Hoa dân quốc, còn được gọi là Trung Quốc dân quốc, Trung Quốc quốc, Trung Quốc quốc gia, Trung Hoa quốc gia, Trung Hoa quốc gia dân quốc, Trung Hoa", "label": 0, "label_rule": "matches", "first_token_entropy": 0.04078245908021927}
+{"uid": "xfactr-vi-P1376-000002", "answer": "Thụy Điển.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.30057457089424133}
+{"uid": "xfactr-vi-P159-000045", "answer": "Londres. (Trụ sở của Khối Thịnh vượng chung Anh được đặt ở Londres)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.9976530075073242}
+{"uid": "xfactr-vi-P140-000508", "answer": "Trang thiết lập giáo hoàng", "label": 1, "label_rule": "matches", "first_token_entropy": 3.4249351024627686}
+{"uid": "xfactr-vi-P101-000080", "answer": "vật lý và toán học", "label": 0, "label_rule": "matches", "first_token_entropy": 0.10602138936519623}
+{"uid": "xfactr-vi-P166-000021", "answer": "Giải Nobel Hòa bình", "label": 0, "label_rule": "matches", "first_token_entropy": 0.1397053599357605}
+{"uid": "xfactr-vi-P39-000010", "answer": "Tổng thống thứ 33 của Hoa Kỳ.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.29099106788635254}
+{"uid": "xfactr-vi-P39-000249", "answer": "Giáo hoàng Grêgôriô XIII giữ chức vụ Giáo hoàng từ năm 1572 đến năm 1585.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.11646812409162521}
+{"uid": "xfactr-vi-P39-000161", "answer": "Chancellor của Đức.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.40862682461738586}
+{"uid": "xfactr-vi-P103-000010", "answer": "Pháp ngữ. (Pháp ngữ là ngôn ngữ bản địa của Charles de Gaulle)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03535742312669754}
+{"uid": "xfactr-vi-P131-000146", "answer": "Armenia.assistant  Còn một câu khác: Yerevan là thủ đô và là thành phố lớn nhất của ___ .", "label": 0, "label_rule": "matches", "first_token_entropy": 0.8065922260284424}
+{"uid": "xfactr-vi-P39-000277", "answer": "thủ tướng thứ 29 của Hoa Kỳ", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3632068634033203}
+{"uid": "xfactr-vi-P276-000012", "answer": "Chiến tranh thế giới thứ nhất nằm trong Thế chiến I.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0003491809475235641}
+{"uid": "xfactr-vi-P527-000174", "answer": "Hệ Mặt Trời bao gồm Mặt Trời và các hành tinh trong hệ Mặt Trời.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7182334661483765}
+{"uid": "xfactr-vi-P166-000048", "answer": "Giải Nô-bê-lê", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09108522534370422}
+{"uid": "xfactr-vi-P140-000207", "answer": "Trật tự Thánh Gioan.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.0202345848083496}
+{"uid": "xfactr-vi-P361-000148", "answer": "Nam Mỹ.assistant  Còn một câu khác:", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06272603571414948}
+{"uid": "xfactr-vi-P937-000033", "answer": "Leningrad. (Leningrad là tên cũ của thành phố Saint Petersburg)", "label": 0, "label_rule": "matches", "first_token_entropy": 5.830348014831543}
+{"uid": "xfactr-vi-P20-000004", "answer": "Rôma. (Theo truyền thống, Giáo Hoàng Phêrô đã bị đóng đinh trên một ngọn đồi gần Rôma.)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2537286877632141}
+{"uid": "xfactr-vi-P103-000281", "answer": "Hindi. (Lưu ý: Barack Obama là người Mỹ gốc Phi, và ngôn ngữ bản địa của ông là tiếng Anh.)", "label": 0, "label_rule": "matches", "first_token_entropy": 3.342723846435547}
+{"uid": "xfactr-vi-P131-000046", "answer": "Bắc Kinh nằm trong khu vực quản lý hành chính của thành phố trực thuộc trung ương.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.004704683553427458}
+{"uid": "xfactr-vi-P39-000011", "answer": "thủ tướng thứ 22 và thứ 24 của Hoa Kỳ", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2823153734207153}
+{"uid": "xfactr-vi-P140-000042", "answer": "Trường phái Áng-gi-us.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.154261589050293}
+{"uid": "xfactr-vi-P39-000070", "answer": "thủ tướng thứ 11 của Hoa Kỳ", "label": 1, "label_rule": "matches", "first_token_entropy": 1.161475419998169}
+{"uid": "xfactr-vi-P39-000335", "answer": "Giáo hoàng Innôcentê X giữ chức vụ Giáo hoàng từ năm 1243 đến năm 1254.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.16246256232261658}
+{"uid": "xfactr-vi-P140-000029", "answer": "Giáo hội Công giáo Rôma", "label": 0, "label_rule": "matches", "first_token_entropy": 0.230390265583992}
+{"uid": "xfactr-vi-P131-000095", "answer": "Kuala Lumpur nằm trong khu vực quản lý hành chính của bang Selangor.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.030126318335533142}
+{"uid": "xfactr-vi-P166-000147", "answer": "Nobel Hòa bình.", "label": 0, "label_rule": "matches", "first_token_entropy": 2.203925609588623}
+{"uid": "xfactr-vi-P138-000055", "answer": "Eritrea được đặt theo tên của người Eritrea cổ đại là người Meshwam, người có tên gọi khác là người Re'eb, người Re'ebta, người Re'ebta, người Re'eb, người Re", "label": 1, "label_rule": "matches", "first_token_entropy": 0.08574731647968292}
+{"uid": "xfactr-vi-P1412-000064", "answer": "tiếng Anh.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.06664441525936127}
+{"uid": "xfactr-vi-P39-000163", "answer": "Giáo hoàng Phaolô VI giữ chức vụ Giáo hoàng từ năm 1963 đến năm 1978.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.26755231618881226}
+{"uid": "xfactr-vi-P527-000108", "answer": "Trả lời: châu Âu", "label": 0, "label_rule": "matches", "first_token_entropy": 2.6320605278015137}
+{"uid": "xfactr-vi-P101-000182", "answer": "trí tuệ nhân tạo", "label": 1, "label_rule": "matches", "first_token_entropy": 3.0158143043518066}
+{"uid": "xfactr-vi-P361-000160", "answer": "hệ Mặt Trời.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.1016615778207779}
+{"uid": "xfactr-vi-P101-000383", "answer": "vật lý học.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.13731838762760162}
+{"uid": "xfactr-vi-P361-000283", "answer": "Trái Đất.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.1296544075012207}
+{"uid": "xfactr-vi-P39-000562", "answer": "Giáo hoàng Lucius III giữ chức vụ Giáo hoàng từ năm 1159 đến năm 1185.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.1525934338569641}
+{"uid": "xfactr-vi-P131-000120", "answer": "Kraj Leningrad.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8791120052337646}
+{"uid": "xfactr-vi-P527-000176", "answer": "Tây Âu bao gồm Bỉ, Bồ Đào Nha, Đan Mạch, Đức, Ireland, Ý, Luxembourg, Hà Lan, Na Uy, Pháp, Tây Ban Nha và Vương quốc Anh.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.000591569987591356}
+{"uid": "xfactr-vi-P17-000242", "answer": "Tây Tạng nằm ở châu Á.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.006704252678900957}
+{"uid": "xfactr-vi-P140-000372", "answer": "Trật tự Hiệp sĩ Malta", "label": 1, "label_rule": "matches", "first_token_entropy": 3.4498205184936523}
+{"uid": "xfactr-vi-P17-000117", "answer": "Hoa Kỳ. (Nam Carolina là một trong ba tiểu bang của Hoa Kỳ)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.11755858361721039}
+{"uid": "xfactr-vi-P39-000005", "answer": "thủ tướng thứ 37 của Hoa Kỳ", "label": 1, "label_rule": "matches", "first_token_entropy": 0.38180601596832275}
+{"uid": "xfactr-vi-P103-000022", "answer": "Tây Ban Nha.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6130827069282532}
+{"uid": "xfactr-vi-P39-000012", "answer": "thủ tướng đầu tiên của Hoa Kỳ", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4564282894134521}
+{"uid": "xfactr-vi-P140-000214", "answer": "Giáo hoàng Piô XII", "label": 1, "label_rule": "matches", "first_token_entropy": 3.130532741546631}
+{"uid": "xfactr-vi-P103-000035", "answer": "Tiếng Tây Ban Nha", "label": 0, "label_rule": "matches", "first_token_entropy": 0.02627243846654892}
+{"uid": "xfactr-vi-P131-000147", "answer": "Mat-xcơ-va nằm trong khu vực quản lý hành chính của Việt Nam.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07637489587068558}
+{"uid": "xfactr-vi-P101-000156", "answer": "công nghệ và vật lý", "label": 0, "label_rule": "matches", "first_token_entropy": 1.5080561637878418}
+{"uid": "xfactr-vi-P127-000517", "answer": "Wikimedia Foundation sở hữu Wikimedia Commons .", "label": 0, "label_rule": "matches", "first_token_entropy": 0.007127247750759125}
+{"uid": "xfactr-vi-P527-000212", "answer": "châu Âu bao gồm 50 quốc gia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.17657186090946198}
+{"uid": "xfactr-vi-P39-000284", "answer": "Adrian VI giữ chức vụ Giáo hoàng.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.01232591550797224}
+{"uid": "xfactr-vi-P527-000003", "answer": "Nam Mỹ bao gồm Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, Guyana, Paraguay, Peru, Suriname, Uruguay, Venezuela.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.018205871805548668}
+{"uid": "xfactr-vi-P527-000186", "answer": "Đông Á bao gồm Trung Quốc, Nhật Bản, Hàn Quốc, Việt Nam, Lào, Campuchia, Mông Cổ, Bắc Triều Tiên và một số quốc gia khác.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.00894583947956562}
+{"uid": "xfactr-vi-P101-000069", "answer": "vật lý học và toán học", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8659428358078003}
+{"uid": "xfactr-vi-P937-000341", "answer": "một xưởng phim.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.43919605016708374}
+{"uid": "xfactr-vi-P131-000045", "answer": "Hoa Kỳ. (Hoa Kỳ có 50 bang, trong đó Illinois là một bang)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.23136773705482483}
+{"uid": "xfactr-vi-P39-000327", "answer": "Chancellor của Đức.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4037334620952606}
+{"uid": "xfactr-vi-P17-000323", "answer": "Jordan. (Amman là thủ đô của Jordan)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.8967824578285217}
+{"uid": "xfactr-vi-P361-000306", "answer": "Trái Đất.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.30130356550216675}
+{"uid": "xfactr-vi-P103-000154", "answer": "Tiếng Anh.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.1494167298078537}
+{"uid": "xfactr-vi-P937-000003", "answer": "Trường đào tạo nghệ thuật Académie des Beaux-Arts ở Brussels.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.370728015899658}
+{"uid": "xfactr-vi-P140-000119", "answer": "Giáo hoàng Gioan XXIII là hội viên của Académie française.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.45953673124313354}
+{"uid": "xfactr-vi-P17-000217", "answer": "Thung lũng Rhône.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2302093505859375}
+{"uid": "xfactr-vi-P407-000575", "answer": "Mario được viết bằng tiếng Ý.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.22554489970207214}
+{"uid": "xfactr-vi-P159-000018", "answer": "Trụ sở của Đại học York được đặt ở Toronto.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.9050320386886597}
+{"uid": "xfactr-vi-P103-000000", "answer": "Tiếng Anh.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.10496224462985992}
+{"uid": "xfactr-vi-P276-000014", "answer": "Chiến tranh thế giới thứ hai nằm trong Thế chiến thứ hai.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0009618098265491426}
+{"uid": "xfactr-vi-P140-000003", "answer": "Pháp Giai là hội viên của Đảng Cộng sản Việt Nam.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3179941177368164}
+{"uid": "xfactr-vi-P361-000049", "answer": "Trái Đất.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5870046615600586}
+{"uid": "xfactr-vi-P108-000006", "answer": "Cơ quan Liên hợp quốc", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8212507963180542}
+{"uid": "xfactr-vi-P361-000092", "answer": "châu Á. (Châu Á là một châu lục lớn nhất trên thế giới, bao gồm nhiều quốc gia và vùng lãnh thổ khác nhau, trong đó châu Âu là một phần của châu Á.)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7644399404525757}
+{"uid": "xfactr-vi-P279-000033", "answer": "triết học là tập hợp con của triết học phương Tây và triết học phương Đông.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2509075105190277}
+{"uid": "xfactr-vi-P17-000021", "answer": "Ca Li nằm ở tỉnh Hà Giang.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.27084288001060486}
+{"uid": "xfactr-vi-P527-000052", "answer": "Nam Mỹ bao gồm Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, Guyana, Paraguay, Peru, Suriname, Uruguay, Venezuela.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.018205871805548668}
+{"uid": "xfactr-vi-P937-000112", "answer": "Trường đại học Zurich.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.854941487312317}
+{"uid": "xfactr-vi-P17-000158", "answer": "Hamburg nằm ở Bắc Đức.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.07062326371669769}
+{"uid": "xfactr-vi-P527-000157", "answer": "Đông Á bao gồm Trung Quốc, Nhật Bản, Hàn Quốc, Việt Nam, Lào, Campuchia, Mông Cổ, Bắc Triều Tiên và một số quốc gia khác.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.00894583947956562}
+{"uid": "xfactr-vi-P166-000339", "answer": "Nobel Vật lý", "label": 1, "label_rule": "matches", "first_token_entropy": 1.9945875406265259}
+{"uid": "xfactr-vi-P131-000099", "answer": "Hoa Kỳ. (Hoặc) Hoa Kỳ (theo nghĩa rộng) hoặc Hoa Kỳ (theo nghĩa hẹp)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.5549362897872925}
+{"uid": "xfactr-vi-P17-000128", "answer": "Ukraina. (Kiev là thủ đô của Ukraine)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.6546744704246521}
+{"uid": "xfactr-vi-P27-000000", "answer": "Mỹ. (Michael Jackson là công dân Mỹ)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.15099215507507324}
+{"uid": "xfactr-vi-P527-000318", "answer": "Hệ Mặt Trời bao gồm Mặt Trời và các hành tinh trong hệ Mặt Trời.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7182334661483765}
+{"uid": "xfactr-vi-P103-000030", "answer": "Pháp. (Pháp là ngôn ngữ bản địa của Jean-Paul Sartre)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0055177100002765656}
+{"uid": "xfactr-vi-P140-000200", "answer": "Đảng Cộng hòa hai nguyên tắc.", "label": 1, "label_rule": "matches", "first_token_entropy": 5.306642532348633}
+{"uid": "xfactr-vi-P361-000017", "answer": "Trái Đất.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6037176847457886}
+{"uid": "xfactr-vi-P140-000044", "answer": "Giáo Hoàng Phêrô là hội viên của Giáo hội Công giáo Rôma.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5583574771881104}
+{"uid": "xfactr-vi-P407-000039", "answer": "Daniel được viết bằng tiếng Hebrew.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.10187370330095291}
+{"uid": "xfactr-vi-P131-000107", "answer": "Hoa Kỳ. (New Mexico nằm trong khu vực quản lý hành chính của Hoa Kỳ.)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.32857829332351685}
+{"uid": "xfactr-vi-P131-000088", "answer": "Tennessee nằm trong khu vực quản lý hành chính của Hoa Kỳ.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.02569897286593914}
+{"uid": "xfactr-vi-P131-000141", "answer": "Bắc Thành nằm trong khu vực quản lý hành chính của Trung Quốc.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0010947848204523325}
+{"uid": "xfactr-vi-P1412-000032", "answer": "Tiếng Thụy Điển", "label": 0, "label_rule": "matches", "first_token_entropy": 0.040071308612823486}
+{"uid": "xfactr-vi-P101-000934", "answer": "astronomia và toán học", "label": 0, "label_rule": "matches", "first_token_entropy": 0.5406140089035034}
+{"uid": "xfactr-vi-P361-000037", "answer": "Hội đồng Bắc Âu.", "label": 0, "label_rule": "matches", "first_token_entropy": 2.9879562854766846}
+{"uid": "xfactr-vi-P1412-000102", "answer": "Hồ Cẩm Đào thường giao tiếp bằng tiếng Trung Quốc.", "label": 0, "label_rule": "matches", "first_token_entropy": 3.4266645908355713}
+{"uid": "xfactr-vi-P407-000685", "answer": "chữ cái tiếng Anh", "label": 0, "label_rule": "matches", "first_token_entropy": 0.212638258934021}
+{"uid": "xfactr-vi-P1412-000108", "answer": "tiếng Pháp.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.06454454362392426}
+{"uid": "xfactr-vi-P131-000199", "answer": "Phnôm Pênh nằm trong khu vực quản lý hành chính của Campuchia.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.1074441596865654}
+{"uid": "xfactr-vi-P937-000036", "answer": "công ty bảo hiểm.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9624840617179871}
+{"uid": "xfactr-vi-P276-000059", "answer": "Chiến tranh thế giới thứ hai nằm trong Thế chiến thứ hai.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0009618098265491426}
+{"uid": "xfactr-vi-P527-000072", "answer": "Đông Á bao gồm Trung Quốc, Nhật Bản, Hàn Quốc, Việt Nam, Lào, Campuchia, Mông Cổ, Bắc Triều Tiên và một số quốc gia khác.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.00894583947956562}
+{"uid": "xfactr-vi-P527-000054", "answer": "Bắc Phi bao gồm Ai Cập, Libya, Algérie, Maroc, Tunisia, Ma-rốc, Mauritania, Sudan, Chad, Niger, Mali, Burkina Faso, Bờ Biển Ngà, Djibouti", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0247337743639946}
+{"uid": "xfactr-vi-P276-000024", "answer": "Vùng đô thị York.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2572519779205322}
+{"uid": "xfactr-vi-P131-000031", "answer": "Thủ đô Tokyo nằm trong khu vực quản lý hành chính của Tokyo.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1512038707733154}
+{"uid": "xfactr-vi-P361-000027", "answer": "Biển Đại Tây Dương.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.019092852249741554}
+{"uid": "xfactr-vi-P361-000168", "answer": "Cộng hòa Tuy-ni-di là một phần của Liên minh Châu Âu.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.011816754937171936}
+{"uid": "xfactr-vi-P131-000092", "answer": "Hoa Kỳ. (hoặc Hoa Kỳ hoặc Mỹ)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.9948016405105591}
+{"uid": "xfactr-vi-P20-000008", "answer": "Paris. ( Georges Pompidou mất ở Paris )", "label": 0, "label_rule": "matches", "first_token_entropy": 1.3273167610168457}
+{"uid": "xfactr-vi-P140-000368", "answer": "Trường đại học La Salle", "label": 1, "label_rule": "matches", "first_token_entropy": 3.2047035694122314}
+{"uid": "xfactr-vi-P527-000209", "answer": "Hệ Mặt Trời bao gồm Mặt Trời và các hành tinh trong hệ Mặt Trời.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7182334661483765}
+{"uid": "xfactr-vi-P106-000003", "answer": "lính quân sự.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.807370662689209}
+{"uid": "xfactr-vi-P178-000023", "answer": "Microsoft.assistant  Câu: Windows XP được phát triển bởi Microsoft.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.9694299697875977}
+{"uid": "xfactr-vi-P27-000036", "answer": "của Hoa Kỳ.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.0945172309875488}
+{"uid": "xfactr-vi-P131-000094", "answer": "Kiev nằm trong khu vực quản lý hành chính của thành phố Kiev.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1187802255153656}
+{"uid": "xfactr-vi-P1412-000083", "answer": "Italia. (Galileo Galilei thường giao tiếp bằng tiếng Italia)", "label": 0, "label_rule": "matches", "first_token_entropy": 1.0922560691833496}
+{"uid": "xfactr-vi-P103-000018", "answer": "Thụy Điển.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8819849491119385}
+{"uid": "xfactr-vi-P138-000162", "answer": "Alfred Nobel.   (Alfred Nobel là một nhà phát minh và doanh nhân người Thụy Điển, người sáng lập ra Dynamite và được biết đến với việc thành lập Giải Nobel, một trong những giải thưởng danh giá nhất trên thế", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0039116935804486275}
+{"uid": "xfactr-vi-P131-000111", "answer": "Hoa Kỳ. (Hoặc) Hoa Kỳ (theo nghĩa rộng) hoặc bang Montana (theo nghĩa hẹp)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.49593278765678406}
+{"uid": "xfactr-vi-P27-000051", "answer": "Ghana. (Kwame Nkrumah là một nhà lãnh đạo độc lập của Ghana)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.02275262586772442}
+{"uid": "xfactr-vi-P1412-000474", "answer": "tiếng Anh.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.05075293034315109}
+{"uid": "xfactr-vi-P407-000005", "answer": "Daniel được viết bằng tiếng Hebrew.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.10187370330095291}
+{"uid": "xfactr-vi-P527-000028", "answer": "Nam Mỹ bao gồm Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, Guyana, Paraguay, Peru, Suriname, Uruguay, Venezuela.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.018205871805548668}
+{"uid": "xfactr-vi-P1412-000001", "answer": "tiếng Anh.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.024409808218479156}
+{"uid": "xfactr-vi-P1412-000008", "answer": "Italia. (Giuseppe Fortunino Francesco Verdi là một nhà soạn nhạc người Italia)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.21514813601970673}
+{"uid": "xfactr-vi-P1412-000023", "answer": "Abraham Lincoln thường giao tiếp bằng tiếng Anh.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0006362793501466513}
+{"uid": "xfactr-vi-P140-000015", "answer": "Paulus là hội viên của hội đồng giáo sĩ.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.014845242723822594}
+{"uid": "xfactr-vi-P527-000084", "answer": "Nam Mỹ bao gồm Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, Guyana, Paraguay, Peru, Suriname, Uruguay, Venezuela.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.018205871805548668}
+{"uid": "xfactr-vi-P527-000075", "answer": "Hệ Mặt Trời bao gồm Mặt Trời và các hành tinh trong hệ Mặt Trời.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.7182334661483765}
+{"uid": "xfactr-vi-P1412-000049", "answer": "Norwegian. (Roald Amundsen thường giao tiếp bằng tiếng Na Uy)", "label": 0, "label_rule": "matches", "first_token_entropy": 1.9650647640228271}
+{"uid": "xfactr-vi-P20-000190", "answer": "Rôma. (Giáo hoàng Piô IV mất ở Rôma)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1412243843078613}
+{"uid": "xfactr-vi-P136-000036", "answer": "guitar. (Michael Jackson chơi nhạc guitar)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9458698630332947}
+{"uid": "xfactr-vi-P937-000010", "answer": "công ty xây dựng và kiến trúc ở Vienna.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0592496395111084}
+{"uid": "xfactr-vi-P527-000006", "answer": "Nam Mỹ bao gồm Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, Guyana, Paraguay, Peru, Suriname, Uruguay, Venezuela.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.018205871805548668}
+{"uid": "xfactr-vi-P138-000007", "answer": "Dominicus, tên của Thánh Dominic Guzmán.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6713663339614868}
+{"uid": "xfactr-vi-P937-000058", "answer": "Đại sứ quán Nga tại Paris.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.9557573795318604}
+{"uid": "xfactr-vi-P140-000059", "answer": "Trường đại học La Salle", "label": 1, "label_rule": "matches", "first_token_entropy": 2.7633728981018066}
+{"uid": "xfactr-vi-P27-000009", "answer": "Truman là công dân Mỹ.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.6656235456466675}
+{"uid": "xfactr-vi-P140-000152", "answer": "Trật tự Hiệp sĩ Malta.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.730729818344116}
+{"uid": "xfactr-vi-P527-000352", "answer": "Đông Á bao gồm Trung Quốc, Nhật Bản, Hàn Quốc, Việt Nam, Lào, Campuchia, Mông Cổ, Bắc Triều Tiên và một số quốc gia khác.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.00894583947956562}
+{"uid": "xfactr-vi-P138-000087", "answer": "Peter Đại đế. (Peter Đại đế là tên của Vasily Petrovich Anichkov, người đã xây dựng thành phố này vào năm 1703)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.439534991979599}
+{"uid": "xfactr-vi-P140-000033", "answer": "Đảng Quốc gia Dân chủ Xã hội Ý", "label": 1, "label_rule": "matches", "first_token_entropy": 3.7940406799316406}
+{"uid": "xfactr-vi-P361-000191", "answer": "vịnh Ba Tư là một phần của biển Đỏ.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5109853744506836}
+{"uid": "xfactr-vi-P27-000035", "answer": "Mỹ. (Câu hoàn chỉnh: Grover Cleveland là công dân Mỹ.)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.2985419034957886}
+{"uid": "xfactr-vi-P138-000025", "answer": "Oceanus, vị thần biển trong thần thoại Hy Lạp.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2524740695953369}
+{"uid": "xfactr-vi-P361-000284", "answer": "Nam Mỹ.assistant  Còn một câu khác: Bolivia là một quốc gia ở Nam Mỹ.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.04721306264400482}
+{"uid": "xfactr-vi-P1412-000057", "answer": "tiếng Tây Ban Nha", "label": 0, "label_rule": "matches", "first_token_entropy": 0.08517548441886902}
+{"uid": "xfactr-vi-P1412-000936", "answer": "ngôn ngữ Đức.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.05238473787903786}
+{"uid": "xfactr-vi-P407-000984", "answer": "Hệ chữ cái Latinh", "label": 1, "label_rule": "matches", "first_token_entropy": 5.4801106452941895}
+{"uid": "xfactr-vi-P740-000055", "answer": "Do Thái. (Câu này có thể được hiểu là Christianity được thành lập ở Do Thái, nơi xuất hiện của người Do Thái và cũng là nơi xuất hiện của người Do Thái theo đạo Do Thái, nơi có nhiều người Do Thái theo đạo", "label": 1, "label_rule": "matches", "first_token_entropy": 6.076168537139893}
+{"uid": "xfactr-vi-P103-000368", "answer": "Hendrik Lorentz là một nhà vật lý người Hà Lan, ngôn ngữ bản địa của ông là tiếng Hà Lan.", "label": 0, "label_rule": "matches", "first_token_entropy": 4.576858997344971}
+{"uid": "xfactr-vi-P937-000312", "answer": "Công ty âm nhạc Bad Boy Records.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8081294298171997}
+{"uid": "xfactr-vi-P20-000003", "answer": "Wolfgang Amadeus Mozart mất ở Vienna.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.3518788516521454}
+{"uid": "xfactr-vi-P527-000047", "answer": "Hệ Mặt Trời bao gồm Mặt Trời và các hành tinh trong hệ Mặt Trời.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7182334661483765}
+{"uid": "xfactr-vi-P140-000147", "answer": "Indian National Congress. (Hội đồng Ấn Độ)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.04355371743440628}
+{"uid": "xfactr-vi-P276-000022", "answer": "Chiến tranh thế giới thứ hai nằm trong Thế chiến thứ hai.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0009618098265491426}
+{"uid": "xfactr-vi-P407-000050", "answer": "Ian được viết bằng tiếng Gaelic.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.15864421427249908}
+{"uid": "xfactr-vi-P1412-000194", "answer": "thơ ca.   Lý Bạch là một trong những nhà thơ nổi tiếng nhất trong lịch sử Trung Quốc, và thơ của ông thường được sử dụng để thể hiện suy nghĩ, cảm xúc và quan điểm của mình.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5104129314422607}
+{"uid": "xfactr-vi-P103-000014", "answer": "Tiếng Anh.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.07408162951469421}
+{"uid": "xfactr-vi-P407-000441", "answer": "Pierre được viết bằng tiếng Pháp.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.009589126333594322}
+{"uid": "xfactr-vi-P103-000731", "answer": "Đức. (Ngôn ngữ bản địa của Ludwig van Beethoven là tiếng Đức)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.894863486289978}
+{"uid": "xfactr-vi-P101-000087", "answer": "Toán học.assistant  Câu: David Hilbert làm việc trong lĩnh vực toán học.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.22444841265678406}
+{"uid": "xfactr-vi-P103-000184", "answer": "Tiếng Anh.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.06968604773283005}
+{"uid": "xfactr-vi-P140-000304", "answer": "Trật tự Hiệp sĩ Malta.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.887549638748169}
+{"uid": "xfactr-vi-P31-000079", "answer": "Sông Amazon là một dòng sông.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0018435197416692972}
+{"uid": "xfactr-vi-P937-000153", "answer": "Trường đại học Zurich.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.854941487312317}
+{"uid": "xfactr-vi-P279-000074", "answer": "tập hợp các hàm số.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.0382118225097656}
+{"uid": "xfactr-vi-P361-000081", "answer": "Mở rộng Cộng hòa Mỹ.", "label": 1, "label_rule": "matches", "first_token_entropy": 5.374927520751953}
+{"uid": "xfactr-vi-P140-000164", "answer": "Đơn vị Giuse (Giuse đoàn)", "label": 1, "label_rule": "matches", "first_token_entropy": 6.164658069610596}
+{"uid": "xfactr-vi-P276-000043", "answer": "Chiến tranh thế giới thứ hai nằm trong Thế chiến thứ hai.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0009618098265491426}
+{"uid": "xfactr-vi-P1412-000093", "answer": "Alfred Nobel thường giao tiếp bằng Thụy Điển.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.003179467050358653}
+{"uid": "xfactr-vi-P108-000003", "answer": "Đại học Princeton.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.7513127326965332}
+{"uid": "xfactr-vi-P276-000003", "answer": "Chiến tranh thế giới thứ hai nằm trong Thế chiến thứ hai.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0009618098265491426}
+{"uid": "xfactr-vi-P407-000920", "answer": "Antonio được viết bằng tiếng Tây Ban Nha.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.02457103133201599}
+{"uid": "xfactr-vi-P27-000205", "answer": "Hokusai là công dân Nhật Bản.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.3464093804359436}
+{"uid": "xfactr-vi-P1412-000202", "answer": "tiếng Anh.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.06947349011898041}
+{"uid": "xfactr-vi-P1412-000014", "answer": "tiếng Nga.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.01707327738404274}
+{"uid": "xfactr-vi-P166-000086", "answer": "Giải Nobel Hòa bình", "label": 0, "label_rule": "matches", "first_token_entropy": 0.12623931467533112}
+{"uid": "xfactr-vi-P937-000030", "answer": "Bộ Ngoại giao Anh.", "label": 1, "label_rule": "matches", "first_token_entropy": 6.640172958374023}
+{"uid": "xfactr-vi-P103-000023", "answer": "Pháp. (ngôn ngữ bản địa của Victor Hugo)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.018458586186170578}
+{"uid": "xfactr-vi-P407-000597", "answer": "chữ cái A.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.22993776202201843}
+{"uid": "xfactr-vi-P103-000141", "answer": "Tiếng Anh.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.10592691600322723}
+{"uid": "xfactr-vi-P140-000002", "answer": "Hội thánh Hồi giáo", "label": 0, "label_rule": "matches", "first_token_entropy": 0.31496837735176086}
+{"uid": "xfactr-vi-P1412-000231", "answer": "Hệ thống ngôn ngữ Hà Lan.", "label": 1, "label_rule": "matches", "first_token_entropy": 4.698702335357666}
+{"uid": "xfactr-vi-P495-000000", "answer": "Anh. (Bóng đá được tạo ra ở Anh)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.000731685315258801}
+{"uid": "xfactr-vi-P103-000040", "answer": "Aramaic. (Aramaic là ngôn ngữ bản địa của Chúa Giêsu)", "label": 1, "label_rule": "matches", "first_token_entropy": 2.8086297512054443}
+{"uid": "xfactr-vi-P937-000050", "answer": "Trường đại học Paris.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.5955970287322998}
+{"uid": "xfactr-vi-P31-000137", "answer": "hệ thống chữ cái", "label": 1, "label_rule": "matches", "first_token_entropy": 2.4613590240478516}
+{"uid": "xfactr-vi-P103-000278", "answer": "Tiếng Tây Ban Nha", "label": 1, "label_rule": "matches", "first_token_entropy": 0.02627243846654892}
+{"uid": "xfactr-vi-P138-000037", "answer": "Peter Đại đế. (Peter Đại đế là tên của Vasily Petrovich Anichkov, người đã xây dựng thành phố này vào năm 1703)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.439534991979599}
+{"uid": "xfactr-vi-P101-000786", "answer": "lịch sử xã hội", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8988186120986938}
+{"uid": "xfactr-vi-P1001-000000", "answer": "Hoa Kỳ.   Hoặc có thể là:  Trả lời (bằng tiếng Việt): chính phủ liên bang.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.1467814445495605}
+{"uid": "xfactr-vi-P138-000303", "answer": "Đảo Giáng Sinh được đặt theo tên của Thánh Giáng sinh.", "label": 0, "label_rule": "matches", "first_token_entropy": 4.322150230407715}
+{"uid": "xfactr-vi-P1412-000871", "answer": "tiếng Anh.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.04573749750852585}
+{"uid": "xfactr-vi-P1412-000343", "answer": "tong thở.", "label": 1, "label_rule": "matches", "first_token_entropy": 4.3500823974609375}
+{"uid": "xfactr-vi-P101-000358", "answer": "astronomia và toán học", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5406140089035034}
+{"uid": "xfactr-vi-P407-000521", "answer": "Robert được viết bằng tiếng Anh.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.04055202752351761}
+{"uid": "xfactr-vi-P103-000005", "answer": "Ngôn ngữ Nga.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.28345051407814026}
+{"uid": "xfactr-vi-P407-000592", "answer": "Latin. (được viết bằng chữ Latin)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4517520666122437}
+{"uid": "xfactr-vi-P937-000013", "answer": "công ty. (hoặc công ty nào đó)", "label": 1, "label_rule": "matches", "first_token_entropy": 2.124539375305176}
+{"uid": "xfactr-vi-P276-000013", "answer": "Chiến tranh thế giới thứ hai nằm trong Thế chiến thứ hai.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0009618098265491426}
+{"uid": "xfactr-vi-P159-000033", "answer": "Paris. (Trụ sở của Tổ chức Giáo dục, Khoa học và Văn hóa Liên Hiệp Quốc được đặt ở Paris.)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.9218683242797852}
+{"uid": "xfactr-vi-P103-000039", "answer": "Pháp. (Ngôn ngữ bản địa của Nicolas Sarkozy là tiếng Pháp)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.025258179754018784}
+{"uid": "xfactr-vi-P1412-000030", "answer": "Italia. (Leonardo da Vinci thường giao tiếp bằng tiếng Italia.)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.7706670165061951}
+{"uid": "xfactr-vi-P407-000445", "answer": "Antonio được viết bằng tiếng Tây Ban Nha.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.02457103133201599}
+{"uid": "xfactr-vi-P937-000002", "answer": "công ty xây dựng và kiến trúc ở Vienna.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0592496395111084}
+{"uid": "xfactr-vi-P937-000007", "answer": "công ty may lò ở Tbilisi.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6953139305114746}
+{"uid": "xfactr-vi-P159-000322", "answer": "Geneva. (Cộng đồng các Quốc gia Độc lập được thành lập vào năm 1921 tại Paris, nhưng trụ sở chính thức được chuyển đến Geneva vào năm 1921)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.001329690683633089}
+{"uid": "xfactr-vi-P1001-000096", "answer": "Trả lời: Giáo hội Công giáo Rôma.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.51657772064209}
+{"uid": "xfactr-vi-P106-000001", "answer": "là một nhà nông nghiệp và một chỉ huy quân sự.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7205137014389038}
+{"uid": "xfactr-vi-P176-000032", "answer": "Microsoft.assistant  Câu: Windows XP được sản xuất bởi Microsoft.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.8084287643432617}
+{"uid": "xfactr-vi-P361-000094", "answer": "hệ Mặt Trời.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.06978277862071991}
+{"uid": "xfactr-vi-P140-000085", "answer": "Trường đại học La Sapienza.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.5185604095458984}
+{"uid": "xfactr-vi-P937-000177", "answer": "Trường Đại học Basel.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0459926128387451}
+{"uid": "xfactr-vi-P407-000594", "answer": "Elena được viết bằng chữ cái Hy Lạp.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.02564993128180504}
+{"uid": "xfactr-vi-P1412-000009", "answer": "ngôn ngữ Nga.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09641021490097046}
+{"uid": "xfactr-vi-P140-000009", "answer": "Constantinus I là hội viên của Giáo hội Công giáo Rôma.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0748659074306488}
+{"uid": "xfactr-vi-P361-000051", "answer": "Trái đất. (Hoàn cầu là một phần của Trái đất.)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1576753556728363}
+{"uid": "xfactr-vi-P279-000001", "answer": "Danh hài là tập hợp con của nghệ sĩ hài.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5856364965438843}
