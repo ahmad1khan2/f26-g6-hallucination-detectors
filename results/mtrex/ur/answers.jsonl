@@ -6042,3 +6042,379 @@
 {"uid": "mtrex-ur-official_language-001761", "answer": "تویہمپی کی سرکاری زبان انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 3.016101837158203}
 {"uid": "mtrex-ur-official_language-001762", "answer": "فرانسیسی شاہی افواج کی سرکاری زبان فرانسیسی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.07585960626602173}
 {"uid": "mtrex-ur-official_language-001763", "answer": "مشرقی تیمور کی سرکاری زبان داری کے ساتھ ساتھ انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07069654762744904}
+{"uid": "mtrex-ur-official_language-001764", "answer": "فری زون کی سرکاری زبان ڈچ ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2461901605129242}
+{"uid": "mtrex-ur-official_language-001765", "answer": "پیئرنے کی سرکاری زبان فرانسیسی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.2159600555896759}
+{"uid": "mtrex-ur-official_language-001766", "answer": "کیولُ کی سرکاری زبان انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 1.733315348625183}
+{"uid": "mtrex-ur-official_language-001767", "answer": "روسی زبان ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.042012304067611694}
+{"uid": "mtrex-ur-official_language-001768", "answer": "ویلورب کی سرکاری زبان انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.05348923057317734}
+{"uid": "mtrex-ur-official_language-001769", "answer": "ایلیس کی سرکاری زبان فرانسیسی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6147684454917908}
+{"uid": "mtrex-ur-official_language-001770", "answer": "جنوبی افریقی کی سرکاری زبان انگریزی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.055219702422618866}
+{"uid": "mtrex-ur-official_language-001771", "answer": "اطالیہ کی سرکاری زبان اطالوی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 1.780517816543579}
+{"uid": "mtrex-ur-official_language-001772", "answer": "اکدیائی کی سرکاری زبان اکدیائی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 1.07000732421875}
+{"uid": "mtrex-ur-official_language-001773", "answer": "کارٹھج کی سرکاری زبان ہسپانوی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2517375946044922}
+{"uid": "mtrex-ur-official_language-001774", "answer": "بازل-لینڈشافت کی سرکاری زبان جرمن ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 2.4618892669677734}
+{"uid": "mtrex-ur-official_language-001775", "answer": "سماٹان جزائر کی سرکاری زبان ہسپانوی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1530202329158783}
+{"uid": "mtrex-ur-official_language-001776", "answer": "موناکوئی کی سرکاری زبان موناکو زبان ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03235393390059471}
+{"uid": "mtrex-ur-official_language-001777", "answer": "جیمز کا سرکاری زبان انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.15170928835868835}
+{"uid": "mtrex-ur-official_language-001778", "answer": "والینسیا کی سرکاری زبان کاتالان اور ہسپانوی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.93732088804245}
+{"uid": "mtrex-ur-official_language-001779", "answer": "اردو ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03036455437541008}
+{"uid": "mtrex-ur-official_language-001780", "answer": "دہومی کی سرکاری زبان بنگالی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6924787163734436}
+{"uid": "mtrex-ur-official_language-001781", "answer": "اوورٹورنیا میونسپلٹی کی سرکاری زبان انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.32763779163360596}
+{"uid": "mtrex-ur-official_language-001782", "answer": "سربیا کی سرکاری زبان سربیائی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 2.009068489074707}
+{"uid": "mtrex-ur-official_language-001783", "answer": "بوسنیائی زبان بوسنیا اور ہرزیگوینا کی سرکاری زبان ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.03279915452003479}
+{"uid": "mtrex-ur-official_language-001784", "answer": "لاطینی زبان ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.36052289605140686}
+{"uid": "mtrex-ur-official_language-001785", "answer": "مونٹی نیگرو کی سرکاری زبان ہسپانوی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.04022310674190521}
+{"uid": "mtrex-ur-official_language-001786", "answer": "آئیوریائی کی سرکاری زبان فرانسیسی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.08637714385986328}
+{"uid": "mtrex-ur-official_language-001787", "answer": "انسٹی ٹیوٹ ڈی اسٹڈیز کیٹالانز کی سرکاری زبان فرانسیسی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0012102576438337564}
+{"uid": "mtrex-ur-official_language-001788", "answer": "کیوسٹینڈل کی سرکاری زبان انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.15299521386623383}
+{"uid": "mtrex-ur-official_language-001789", "answer": "کاپنگ میونسپلٹی کی سرکاری زبان ہولینڈی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9322422742843628}
+{"uid": "mtrex-ur-official_language-001790", "answer": "پیلاویسی کی سرکاری زبان بیلاروسی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.12971529364585876}
+{"uid": "mtrex-ur-official_language-001791", "answer": "ایم پی آر کی سرکاری زبان انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.08284339308738708}
+{"uid": "mtrex-ur-official_language-001792", "answer": "مالا میونسپلٹی کی سرکاری زبان مالاگاسی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0183595418930054}
+{"uid": "mtrex-ur-official_language-001793", "answer": "ڈچ کیریبین کی سرکاری زبان ڈچ ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0008116778917610645}
+{"uid": "mtrex-ur-official_language-001794", "answer": "یو اے ای کی سرکاری زبان انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07720443606376648}
+{"uid": "mtrex-ur-official_language-001795", "answer": "بغلان صوبہ کی سرکاری زبان پشتو ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09120863676071167}
+{"uid": "mtrex-ur-official_language-001796", "answer": "لاہیٹی کی سرکاری زبان فرانسیسی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.023985277861356735}
+{"uid": "mtrex-ur-official_language-001797", "answer": "مغربی کیپ صوبہ کی سرکاری زبان افریکانز ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06540563702583313}
+{"uid": "mtrex-ur-official_language-001798", "answer": "امریکی ساموا میں انگریزی سرکاری زبان ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.09834156185388565}
+{"uid": "mtrex-ur-official_language-001799", "answer": "امریکیائی کی سرکاری زبان انگریزی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.35377398133277893}
+{"uid": "mtrex-ur-official_language-001800", "answer": "کیتھالان", "label": 1, "label_rule": "matches", "first_token_entropy": 2.5717225074768066}
+{"uid": "mtrex-ur-official_language-001801", "answer": "مالے میں مالایالم زبان کو سرکاری زبان کا درجہ حاصل ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 2.869478225708008}
+{"uid": "mtrex-ur-official_language-001802", "answer": "کیمرون کی سرکاری زبان انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2266029119491577}
+{"uid": "mtrex-ur-official_language-001803", "answer": "یورپی خلائی ایجنسی کی سرکاری زبان انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0527084581553936}
+{"uid": "mtrex-ur-official_language-001804", "answer": "چاڈ کی سرکاری زبان فرانسیسی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.5477467775344849}
+{"uid": "mtrex-ur-official_language-001805", "answer": "سان مارینو کی سرکاری زبان اطالوی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.14243115484714508}
+{"uid": "mtrex-ur-official_language-001806", "answer": "قبرص کی سرکاری زبان یونانی اور ترکی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.002914558630436659}
+{"uid": "mtrex-ur-official_language-001807", "answer": "لکسیلے میونسپلٹی کی سرکاری زبان فرانسیسی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8101154565811157}
+{"uid": "mtrex-ur-official_language-001808", "answer": "این ڈی ایچ کی سرکاری زبان انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1466432511806488}
+{"uid": "mtrex-ur-official_language-001809", "answer": "لائبیریا کی سرکاری زبان انگریزی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.04578232020139694}
+{"uid": "mtrex-ur-official_language-001810", "answer": "برونڈی کی سرکاری زبان فرانسیسی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.4903409481048584}
+{"uid": "mtrex-ur-official_language-001811", "answer": "جوؤسکیلا کا سرکاری زبان ہسپانوی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4784862995147705}
+{"uid": "mtrex-ur-official_language-001812", "answer": "والون جنوبی کی سرکاری زبان انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.08837859332561493}
+{"uid": "mtrex-ur-official_language-001813", "answer": "قرغیز زبان کرغیز جمہوریہ کی سرکاری زبان ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.16935023665428162}
+{"uid": "mtrex-ur-official_language-001814", "answer": "موزمبیق کی سرکاری زبان پرتگیزی اور پرتگیزی پرتگیزی اور پرتگیزی اور پرتگیزی اور پرتگیزی اور پرتگیزی اور پ", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6861738562583923}
+{"uid": "mtrex-ur-official_language-001815", "answer": "سیرا لیون کی سرکاری زبان ہسپانوی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4038132429122925}
+{"uid": "mtrex-ur-official_language-001816", "answer": "الٹائی کرائی کی سرکاری زبان منگولیائی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3716098666191101}
+{"uid": "mtrex-ur-official_language-001817", "answer": "سوی کی سرکاری زبان ڈچ ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6817886233329773}
+{"uid": "mtrex-ur-official_language-001818", "answer": "برطانوی کالونی کی سرکاری زبان انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.44167229533195496}
+{"uid": "mtrex-ur-official_language-001819", "answer": "سینٹ بارتھیلیمی کی سرکاری زبان فرانسیسی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0035069624427706003}
+{"uid": "mtrex-ur-official_language-001820", "answer": "ایمہریکی سرکاری زبان انگریزی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 3.450320243835449}
+{"uid": "mtrex-ur-official_language-001821", "answer": "مغربی کریک کی سرکاری زبان انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07931064814329147}
+{"uid": "mtrex-ur-official_language-001822", "answer": "داغستانی کی سرکاری زبان داغستانی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.004640720784664154}
+{"uid": "mtrex-ur-official_language-001823", "answer": "ماری ایل کی سرکاری زبان فرانسیسی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7550911903381348}
+{"uid": "mtrex-ur-official_language-001824", "answer": "لُہانکا کی سرکاری زبان پرتگیزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4531571865081787}
+{"uid": "mtrex-ur-official_language-001825", "answer": "ہٹولا کی سرکاری زبان ہسپانوی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0011131352512165904}
+{"uid": "mtrex-ur-official_language-001826", "answer": "سلووینی زبان سلووینیا کی سرکاری زبان ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.03343657776713371}
+{"uid": "mtrex-ur-official_language-001827", "answer": "خنتی-مانسی زبان خانتی-مانسی خود مختار اوکرگ کی سرکاری زبان ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 2.0491621494293213}
+{"uid": "mtrex-ur-official_language-001828", "answer": "اودمُرت خودمختار سوویت سوشلسٹ جمہوریہ کی سرکاری زبان ازبک زبان تھی۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09762106835842133}
+{"uid": "mtrex-ur-official_language-001829", "answer": "سکلن کی سرکاری زبان کینیڈین انگلش ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 3.6197192668914795}
+{"uid": "mtrex-ur-official_language-001830", "answer": "ویلنسیانا کی سرکاری زبان کتالانی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.36834922432899475}
+{"uid": "mtrex-ur-official_language-001831", "answer": "یالتا کی سرکاری زبان ترک ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5258702635765076}
+{"uid": "mtrex-ur-official_language-001832", "answer": "کشمیر کی سرکاری زبان اردو ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.027722856029868126}
+{"uid": "mtrex-ur-official_language-001833", "answer": "پرتگیزی۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1553194671869278}
+{"uid": "mtrex-ur-official_language-001834", "answer": "ہندوستانی ہندی", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0004922846565023065}
+{"uid": "mtrex-ur-official_language-001835", "answer": "سوئٹزرلینڈ میں تین سرکاری زباناں ہیں: جرمن، فرانسیسی اور اطالوی۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6514144539833069}
+{"uid": "mtrex-ur-official_language-001836", "answer": "ٹرانسوال ریپبلک کی سرکاری زبان انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.05715581402182579}
+{"uid": "mtrex-ur-official_language-001837", "answer": "گیانا کی سرکاری زبان انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6463656425476074}
+{"uid": "mtrex-ur-official_language-001838", "answer": "ہوکیپوداس کی سرکاری زبان انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0003238808421883732}
+{"uid": "mtrex-ur-official_language-001839", "answer": "ہوئٹینن کی سرکاری زبان فنش زبان ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0005656107678078115}
+{"uid": "mtrex-ur-official_language-001840", "answer": "سری لنکا میں سنسکرت، تامل، تیلگو، تیلگو، تامل، انگریزی اور بنگالی کے علاوہ ہورہی�", "label": 1, "label_rule": "matches", "first_token_entropy": 2.0013513565063477}
+{"uid": "mtrex-ur-official_language-001841", "answer": "لاریس کی سرکاری زبان یونانی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6690820455551147}
+{"uid": "mtrex-ur-official_language-001842", "answer": "فرانسیسی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.07399779558181763}
+{"uid": "mtrex-ur-official_language-001843", "answer": "ویئی کی سرکاری زبان انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.04922589287161827}
+{"uid": "mtrex-ur-official_language-001844", "answer": "NFB کی سرکاری زبان انگریزی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.023691194131970406}
+{"uid": "mtrex-ur-official_language-001845", "answer": "برسلز-کیپیٹل ریجن کی سرکاری زبان فرانسیسی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.3597886562347412}
+{"uid": "mtrex-ur-official_language-001846", "answer": "اردو ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.011121421121060848}
+{"uid": "mtrex-ur-official_language-001847", "answer": "یامال-نینٹس خود مختار ضلع کی سرکاری زبان یامال-نینٹس زبان ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5543985366821289}
+{"uid": "mtrex-ur-official_language-001848", "answer": "ساوائے کی سرکاری زبان انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 1.9776053428649902}
+{"uid": "mtrex-ur-official_language-001849", "answer": "چوکوتکا کی سرکاری زبان روسی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.21153463423252106}
+{"uid": "mtrex-ur-official_language-001850", "answer": "انٹیلیس کی سرکاری زبان انگریزی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.17667056620121002}
+{"uid": "mtrex-ur-official_language-001851", "answer": "ازبک کی سرکاری زبان ازبک ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.004992891103029251}
+{"uid": "mtrex-ur-official_language-001852", "answer": "ہرجدالن میونسپلٹی کی سرکاری زبان انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0019529212731868029}
+{"uid": "mtrex-ur-official_language-001853", "answer": "مہاراشٹر کی سرکاری زبان مراٹھی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.341358482837677}
+{"uid": "mtrex-ur-official_language-001854", "answer": "اومیå میونسپلٹی کی سرکاری زبان جرمن ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7148587703704834}
+{"uid": "mtrex-ur-official_language-001855", "answer": "توسنیمی کی سرکاری زبان توگا ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7577626705169678}
+{"uid": "mtrex-ur-official_language-001856", "answer": "مقدونین زبان ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 4.12208366394043}
+{"uid": "mtrex-ur-official_language-001857", "answer": "ہرجاوالتا کی سرکاری زبان ہندی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0005480559775605798}
+{"uid": "mtrex-ur-official_language-001858", "answer": "میکلی کی سرکاری زبان انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6696999669075012}
+{"uid": "mtrex-ur-official_language-001859", "answer": "نیڈر لینڈز اینٹیلیس کی سرکاری زبان ڈچ ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 1.1332193613052368}
+{"uid": "mtrex-ur-official_language-001860", "answer": "ڈینش زبان ڈینش کے دارالحکومت کوبنہ میں سرکاری زبان ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0024391429033130407}
+{"uid": "mtrex-ur-official_language-001861", "answer": "سنگاپور کی سرکاری زبان انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06043048948049545}
+{"uid": "mtrex-ur-official_language-001862", "answer": "موردویا کی سرکاری زبان فرانسیسی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 2.305767297744751}
+{"uid": "mtrex-ur-official_language-001863", "answer": "روسی زبان ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.16939599812030792}
+{"uid": "mtrex-ur-official_language-001864", "answer": "خِیوہ کی سرکاری زبان ترکمانی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 6.547718524932861}
+{"uid": "mtrex-ur-official_language-001865", "answer": "اردو ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.05295637622475624}
+{"uid": "mtrex-ur-official_language-001866", "answer": "برمودی کی سرکاری زبان انگریزی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.143910750746727}
+{"uid": "mtrex-ur-official_language-001867", "answer": "ایفرنی کی سرکاری زبان ڈچ ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6803903579711914}
+{"uid": "mtrex-ur-official_language-001868", "answer": "اردو ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.012150658294558525}
+{"uid": "mtrex-ur-official_language-001869", "answer": "توالواری کی سرکاری زبان انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 2.7235119342803955}
+{"uid": "mtrex-ur-official_language-001870", "answer": "اردو ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.010795840062201023}
+{"uid": "mtrex-ur-official_language-001871", "answer": "بلازہر کی سرکاری زبان سربیائی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.14533108472824097}
+{"uid": "mtrex-ur-official_language-001872", "answer": "والا کی سرکاری زبان انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.26272082328796387}
+{"uid": "mtrex-ur-official_language-001873", "answer": "سسمä کی سرکاری زبان سنسکرت ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 2.5148119926452637}
+{"uid": "mtrex-ur-official_language-001874", "answer": "سیرینیسما کی سرکاری زبان پرتگالی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3352286219596863}
+{"uid": "mtrex-ur-official_language-001875", "answer": "لوہانسک عوامی جمہوریہ کی سرکاری زبان روسی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8379212617874146}
+{"uid": "mtrex-ur-official_language-001876", "answer": "نستولہ کی سرکاری زبان انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.544204592704773}
+{"uid": "mtrex-ur-official_language-001877", "answer": "ڈونیٹسک میونسپلٹی کی سرکاری زبان روسی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.005433261394500732}
+{"uid": "mtrex-ur-official_language-001878", "answer": "روویو، ٹیسینو کی سرکاری زبان روویو ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 2.576003074645996}
+{"uid": "mtrex-ur-official_language-001879", "answer": "انڈیانا کی سرکاری زبان انگریزی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.004087340552359819}
+{"uid": "mtrex-ur-official_language-001880", "answer": "مہاراشٹر میں دو سرکاری زباناں ہیں: مراٹھی اور انگریزی۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.37931138277053833}
+{"uid": "mtrex-ur-official_language-001881", "answer": "کیلیفورنیا کی سرکاری زبان انگریزی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0073068225756287575}
+{"uid": "mtrex-ur-official_language-001882", "answer": "ٹائیپالساری کی سرکاری زبان تائیوانی میں ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7775852680206299}
+{"uid": "mtrex-ur-official_language-001883", "answer": "کینیڈا کے انگریزی میں", "label": 1, "label_rule": "matches", "first_token_entropy": 2.2699484825134277}
+{"uid": "mtrex-ur-official_language-001884", "answer": "ہنگری زبان ہنگریوں کی سرکاری زبان ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 5.3578303777612746e-05}
+{"uid": "mtrex-ur-official_language-001885", "answer": "بالی کا سرکاری زبان ہندی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2284379005432129}
+{"uid": "mtrex-ur-official_language-001886", "answer": "بنگلہ دیش کی سرکاری زبان بنگالی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0277361199259758}
+{"uid": "mtrex-ur-official_language-001887", "answer": "ایلکینٹے کی سرکاری زبان ہسپانوی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.15876170992851257}
+{"uid": "mtrex-ur-official_language-001888", "answer": "مشرقی رومی سلطنت کی سرکاری زبان یونانی تھی۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.02903878316283226}
+{"uid": "mtrex-ur-official_language-001889", "answer": "سیبو کی سرکاری زبان ہسپانوی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06360045820474625}
+{"uid": "mtrex-ur-official_language-001890", "answer": "سربو-مونٹی نیگرو کی سرکاری زبان سربو ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6590566635131836}
+{"uid": "mtrex-ur-official_language-001891", "answer": "کوسوو کے دو سرکاری زبانوں میں سربو کروشیائی اور البانوی شامل ہیں۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.07142423093318939}
+{"uid": "mtrex-ur-official_language-001892", "answer": "البانیہ کی سرکاری زبان البانیہ ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.29448649287223816}
+{"uid": "mtrex-ur-official_language-001893", "answer": "ابخاز زبان ابخازستان کی سرکاری زبان ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.341397762298584}
+{"uid": "mtrex-ur-official_language-001894", "answer": "سینٹ پیئر کی سرکاری زبان فرانسیسی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.004467781633138657}
+{"uid": "mtrex-ur-official_language-001895", "answer": "ملیتوپول کی سرکاری زبان سلووین ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 2.5453717708587646}
+{"uid": "mtrex-ur-official_language-001896", "answer": "سی اے کے سرکاری زبان انگریزی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 2.5534610748291016}
+{"uid": "mtrex-ur-official_language-001897", "answer": "منین کی سرکاری زبان منین ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.12634876370429993}
+{"uid": "mtrex-ur-official_language-001898", "answer": "ویسان اکیڈمی آف آرٹس اینڈ لیٹرز کی سرکاری زبان انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1600834131240845}
+{"uid": "mtrex-ur-official_language-001899", "answer": "پی ایم آر کی سرکاری زبان انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3942590355873108}
+{"uid": "mtrex-ur-official_language-001900", "answer": "کورسہولم کی سرکاری زبان ڈنمارک کی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6000289916992188}
+{"uid": "mtrex-ur-official_language-001901", "answer": "پرتگالی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 2.8198161125183105}
+{"uid": "mtrex-ur-official_language-001902", "answer": "گریناڈا کی سرکاری زبان انگریزی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.1562490016222}
+{"uid": "mtrex-ur-official_language-001903", "answer": "پاکستان کی سرکاری زبان اردو ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8890503644943237}
+{"uid": "mtrex-ur-official_language-001904", "answer": "مالدیپ کی سرکاری زبان ڈیویشی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5603599548339844}
+{"uid": "mtrex-ur-official_language-001905", "answer": "انگلینڈ کی سرکاری زبان انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6269949674606323}
+{"uid": "mtrex-ur-official_language-001906", "answer": "کوموروس کی سرکاری زبان کوموریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5578765273094177}
+{"uid": "mtrex-ur-official_language-001907", "answer": "توجو کی جمہوریہ کی سرکاری زبان پرتگیزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 2.683260679244995}
+{"uid": "mtrex-ur-official_language-001908", "answer": "تیسرا رائخ کی سرکاری زبان جرمن ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3606817722320557}
+{"uid": "mtrex-ur-official_language-001909", "answer": "واؤڈ کی سرکاری زبان انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4866855144500732}
+{"uid": "mtrex-ur-official_language-001910", "answer": "رومی سلطنت کی سرکاری زبان لاطینی تھی۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.037833262234926224}
+{"uid": "mtrex-ur-official_language-001911", "answer": "فریسیا کی سرکاری زبان فرانسیسی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1446305811405182}
+{"uid": "mtrex-ur-official_language-001912", "answer": "ریخسکومیساریٹ ماسکوین کی سرکاری زبان روسی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 1.6611477136611938}
+{"uid": "mtrex-ur-official_language-001913", "answer": "کیوٹو پریفیکچر کی سرکاری زبان جاپانی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.34291282296180725}
+{"uid": "mtrex-ur-official_language-001914", "answer": "کیراوا کی سرکاری زبان کیراوا ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.05342532694339752}
+{"uid": "mtrex-ur-official_language-001915", "answer": "برینڈو کی سرکاری زبان ہسپانوی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.833501935005188}
+{"uid": "mtrex-ur-official_language-001916", "answer": "اردو ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.01354384608566761}
+{"uid": "mtrex-ur-official_language-001917", "answer": "پیسیفک الائنس کے سرکاری زبانوں میں انگریزی اور فرانسیسی شامل ہیں۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.15912368893623352}
+{"uid": "mtrex-ur-official_language-001918", "answer": "کینیڈا کی سرکاری زبان انگریزی اور فرانسیسی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.04442918673157692}
+{"uid": "mtrex-ur-official_language-001919", "answer": "بینلوکس کی سرکاری زبان ہولینڈی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6819102764129639}
+{"uid": "mtrex-ur-official_language-001920", "answer": "ہوائی ثقافت کی سرکاری زبان ہواوہیلو ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0010407062945887446}
+{"uid": "mtrex-ur-official_language-001921", "answer": "جمہوریہ ڈیموکریٹک کانگو کی سرکاری زبان فرانسیسی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.00895407609641552}
+{"uid": "mtrex-ur-official_language-001922", "answer": "فن لینڈ کی سرکاری زبان فن لینڈش ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2803485095500946}
+{"uid": "mtrex-ur-official_language-001923", "answer": "اونٹاریو کی سرکاری زبان انگریزی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.004207877442240715}
+{"uid": "mtrex-ur-official_language-001924", "answer": "فرانسیسی-آرمینیائی کی سرکاری زبان فرانسیسی اور آرمینیائی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.29041653871536255}
+{"uid": "mtrex-ur-official_language-001925", "answer": "بین الاقوامی اولمپک کمیٹی کی سرکاری زبان انگریزی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.03059322200715542}
+{"uid": "mtrex-ur-official_language-001926", "answer": "گروماٹیکی کی سرکاری زبان گروماٹیکی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2004448175430298}
+{"uid": "mtrex-ur-official_language-001927", "answer": "ایگل کی سرکاری زبان انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.852246105670929}
+{"uid": "mtrex-ur-official_language-001928", "answer": "اردو ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.014826975762844086}
+{"uid": "mtrex-ur-official_language-001929", "answer": "تگلیاتی کی سرکاری زبان انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 3.7530927658081055}
+{"uid": "mtrex-ur-official_language-001930", "answer": "فیروئی جزائر کی سرکاری زبان انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.20528458058834076}
+{"uid": "mtrex-ur-official_language-001931", "answer": "اردو اور انگریزی ہیں۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.018265925347805023}
+{"uid": "mtrex-ur-official_language-001932", "answer": "کالییکس کی سرکاری زبان انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3041493892669678}
+{"uid": "mtrex-ur-official_language-001933", "answer": "مستصاری کی سرکاری زبان عربی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 1.108973503112793}
+{"uid": "mtrex-ur-official_language-001934", "answer": "جنیوا کی سرکاری زبان فرانسیسی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.4172111749649048}
+{"uid": "mtrex-ur-official_language-001935", "answer": "ترکمن کی سرکاری زبان ترکمن زبان ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.42120641469955444}
+{"uid": "mtrex-ur-official_language-001936", "answer": "ڈینش زبان ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.007054077927023172}
+{"uid": "mtrex-ur-official_language-001937", "answer": "سنتا ایزابل کی سرکاری زبان ہسپانوی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 3.871685028076172}
+{"uid": "mtrex-ur-official_language-001938", "answer": "گریٹ ڈکٹی آف فلینڈریس کی سرکاری زبان انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.004541884176433086}
+{"uid": "mtrex-ur-official_language-001939", "answer": "مندرن چینی (官話)", "label": 0, "label_rule": "matches", "first_token_entropy": 4.152151107788086}
+{"uid": "mtrex-ur-official_language-001940", "answer": "لاوس کی سرکاری زبان لاوانی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.6634645462036133}
+{"uid": "mtrex-ur-official_language-001941", "answer": "چین کی سرکاری زبان چینی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 2.0783112049102783}
+{"uid": "mtrex-ur-official_language-001942", "answer": "سی آئی ای کی سرکاری زبان انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.10333846509456635}
+{"uid": "mtrex-ur-official_language-001943", "answer": "دари (داري) افغانستان کے نیمروز صوبے کی سرکاری زبان ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 2.7465808391571045}
+{"uid": "mtrex-ur-official_language-001944", "answer": "یونانی آرتھوڈوکس چرچ کی سرکاری زبان یونانی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.08211338520050049}
+{"uid": "mtrex-ur-official_language-001945", "answer": "کیف کی سرکاری زبان عربی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.05482369661331177}
+{"uid": "mtrex-ur-official_language-001946", "answer": "لیم لینڈ کی سرکاری زبان ڈچ ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.14160344004631042}
+{"uid": "mtrex-ur-official_language-001947", "answer": "مشرقی کلیمانتان کی سرکاری زبان جاوی میں ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2060084044933319}
+{"uid": "mtrex-ur-official_language-001948", "answer": "پرووانسل کی سرکاری زبان انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.10851705074310303}
+{"uid": "mtrex-ur-official_language-001949", "answer": "اسپینیش ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 1.9724994897842407}
+{"uid": "mtrex-ur-official_language-001950", "answer": "سورسیلے میونسپلٹی کی سرکاری زبان فرانسیسی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4462791085243225}
+{"uid": "mtrex-ur-official_language-001951", "answer": "والنسیا کی سرکاری زبان کتالان اور کاتالان-والنسیا ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.24698689579963684}
+{"uid": "mtrex-ur-official_language-001952", "answer": "ہاپرانڈا میونسپلٹی کی سرکاری زبان ہسپانوی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.00037452628021128476}
+{"uid": "mtrex-ur-official_language-001953", "answer": "چیخبرس کی سرکاری زبان چیخبرس زبان ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 4.373722076416016}
+{"uid": "mtrex-ur-official_language-001954", "answer": "مسسیسیپی کی سرکاری زبان انگریزی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.7818834781646729}
+{"uid": "mtrex-ur-official_language-001955", "answer": "بنگلہ", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09727540612220764}
+{"uid": "mtrex-ur-official_language-001956", "answer": "یوکرینی سوشلسٹ سوویت جمہوریہ کی سرکاری زبان یوکرینی تھی۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.05482546612620354}
+{"uid": "mtrex-ur-official_language-001957", "answer": "لائیکسا کی سرکاری زبان لائیکسا میں بولی جانے والی زبان ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.21674205362796783}
+{"uid": "mtrex-ur-official_language-001958", "answer": "فنیش میں Finnish ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 2.757546901702881}
+{"uid": "mtrex-ur-official_language-001959", "answer": "ڈاری (ڈاری)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.05515073612332344}
+{"uid": "mtrex-ur-official_language-001960", "answer": "کاباردینو-بالکار جمہوریہ کی سرکاری زبان کاباردین اور بالکار زبان ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.5066287517547607}
+{"uid": "mtrex-ur-official_language-001961", "answer": "انعام کی سرکاری زبان اردو ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.19343873858451843}
+{"uid": "mtrex-ur-official_language-001962", "answer": "بیلاروس ایس ایس آر کی سرکاری زبان بیلاروسی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.015334518626332283}
+{"uid": "mtrex-ur-official_language-001963", "answer": "مغربی فریسیان کی سرکاری زبان نیدرلینڈی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.15754231810569763}
+{"uid": "mtrex-ur-official_language-001964", "answer": "بولیویا کی سرکاری زبان اسپینی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.05004829913377762}
+{"uid": "mtrex-ur-official_language-001965", "answer": "آذربائیجانی زبان سوویت آذربائیجان کی سرکاری زبان تھی۔", "label": 0, "label_rule": "matches", "first_token_entropy": 1.004164218902588}
+{"uid": "mtrex-ur-official_language-001966", "answer": "راومو کی سرکاری زبان انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3653101921081543}
+{"uid": "mtrex-ur-official_language-001967", "answer": "لوزان کی سرکاری زبان فرانسیسی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.012967974878847599}
+{"uid": "mtrex-ur-official_language-001968", "answer": "دایکندی کی سرکاری زبان ہولانی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7116563320159912}
+{"uid": "mtrex-ur-official_language-001969", "answer": "چیک کی سرکاری زبان چیک زبان ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.07281020283699036}
+{"uid": "mtrex-ur-official_language-001970", "answer": "متحدہ میکسیکن ریاستیں کے 31 ریاستوں میں سے 22 میں ہسپانوی زبان کو سرکاری زبان کا درج�", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0182531476020813}
+{"uid": "mtrex-ur-official_language-001971", "answer": "مالدیپ جزائر کی سرکاری زبان ڈیویشی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3855913281440735}
+{"uid": "mtrex-ur-official_language-001972", "answer": "بی ایم یو کی سرکاری زبان انگریزی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.9269323348999023}
+{"uid": "mtrex-ur-official_language-001973", "answer": "عراق کی سرکاری زبان عربی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0033874004147946835}
+{"uid": "mtrex-ur-official_language-001974", "answer": "راوینا کا سرکاری زبان ہسپانوی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5673155188560486}
+{"uid": "mtrex-ur-official_language-001975", "answer": "سالاہتی کی سرکاری زبان بنگالی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 2.4936718940734863}
+{"uid": "mtrex-ur-official_language-001976", "answer": "ماری ایل جمہوریہ کی سرکاری زبان فرانسیسی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.6999367475509644}
+{"uid": "mtrex-ur-official_language-001977", "answer": "سکیلا کا سرکاری زبان بنگالی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5019104480743408}
+{"uid": "mtrex-ur-official_language-001978", "answer": "لکسمبرگ کے تین سرکاری زبانوں میں سے ایک فرانسیسی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.16007402539253235}
+{"uid": "mtrex-ur-official_language-001979", "answer": "ایسپرانتو کی سرکاری زبان نہیں ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.21477901935577393}
+{"uid": "mtrex-ur-official_language-001980", "answer": "ایسٹونین زبان ایسٹونیا کی سرکاری زبان ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.12600068747997284}
+{"uid": "mtrex-ur-official_language-001981", "answer": "یامالو-نینٹس خود مختار اوکرگ کی سرکاری زبان یامالو-نینٹس ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.9039579033851624}
+{"uid": "mtrex-ur-official_language-001982", "answer": "کورک کی سرکاری زبان کردی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3083415925502777}
+{"uid": "mtrex-ur-official_language-001983", "answer": "کاہواوا کی سرکاری زبان ہسپانوی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 3.5483803749084473}
+{"uid": "mtrex-ur-official_language-001984", "answer": "بلغاریہ کی آرتھوڈوکس چرچ کی سرکاری زبان بلغاریہ ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2648208439350128}
+{"uid": "mtrex-ur-official_language-001985", "answer": "صربی زبان صربیا کی سرکاری زبان ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.5127634406089783}
+{"uid": "mtrex-ur-official_language-001986", "answer": "اسپرانٹو ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8240572214126587}
+{"uid": "mtrex-ur-official_language-001987", "answer": "سینٹ مارٹن کی سرکاری زبان ہسپانوی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0010806925129145384}
+{"uid": "mtrex-ur-official_language-001988", "answer": "ویلز کی سرکاری زبان ویلز زبان ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6479963064193726}
+{"uid": "mtrex-ur-official_language-001989", "answer": "اپلینڈز-برو میونسپلٹی کی سرکاری زبان انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.021534916013479233}
+{"uid": "mtrex-ur-official_language-001990", "answer": "سربیا کی سرکاری زبان ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 4.167625427246094}
+{"uid": "mtrex-ur-official_language-001991", "answer": "افغانستان کی سرکاری زبان پشتو ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8946174383163452}
+{"uid": "mtrex-ur-official_language-001992", "answer": "لیسوتھو کی سرکاری زبان سسوتو ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.040259089320898056}
+{"uid": "mtrex-ur-official_language-001993", "answer": "جامبی کی سرکاری زبان پرتگیزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.24506738781929016}
+{"uid": "mtrex-ur-official_language-001994", "answer": "اردو ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.01063314825296402}
+{"uid": "mtrex-ur-official_language-001995", "answer": "لاپنلا کا سرکاری زبان ہندی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.23440870642662048}
+{"uid": "mtrex-ur-official_language-001996", "answer": "سلووینیائی زبان سلووینیا کی سرکاری زبان ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.028060585260391235}
+{"uid": "mtrex-ur-official_language-001997", "answer": "فلورینٹائن کی سرکاری زبان مالٹی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1613323837518692}
+{"uid": "mtrex-ur-official_language-001998", "answer": "چوواش زبان چوواش کی سرکاری زبان ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.20145520567893982}
+{"uid": "mtrex-ur-official_language-001999", "answer": "روسی زبان ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.037605125457048416}
+{"uid": "mtrex-ur-official_language-002000", "answer": "تالیلت کی سرکاری زبان عربی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8094899654388428}
+{"uid": "mtrex-ur-official_language-002001", "answer": "اردو ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.012408481910824776}
+{"uid": "mtrex-ur-official_language-002002", "answer": "آئی ایس او کی سرکاری زبان انگریزی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.031789910048246384}
+{"uid": "mtrex-ur-official_language-002003", "answer": "اوڈیا ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0017394265159964561}
+{"uid": "mtrex-ur-official_language-002004", "answer": "سوی کرسپینش زبان ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4769223630428314}
+{"uid": "mtrex-ur-official_language-002005", "answer": "اسکالینڈی زبان اسکالینڈ کا سرکاری زبان ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5213451981544495}
+{"uid": "mtrex-ur-official_language-002006", "answer": "کاؤنٹی کارک کی سرکاری زبان ویلش ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.08129466325044632}
+{"uid": "mtrex-ur-official_language-002007", "answer": "نافاروہ کی سرکاری زبان کاتالان ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3976062536239624}
+{"uid": "mtrex-ur-official_language-002008", "answer": "روسی زبان ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.02943277359008789}
+{"uid": "mtrex-ur-official_language-002009", "answer": "شمالی سوماترا کی سرکاری زبان بنگکہلوہ۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.04813092201948166}
+{"uid": "mtrex-ur-official_language-002010", "answer": "مغربی جارجیائی کی سرکاری زبان جارجیائی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.040373217314481735}
+{"uid": "mtrex-ur-official_language-002011", "answer": "ورجینیا کا سرکاری زبان انگریزی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.14896181225776672}
+{"uid": "mtrex-ur-official_language-002012", "answer": "ہیمینکیرو کی سرکاری زبان فنلینڈ کا ایک حصہ ہونے کی وجہ سے فنش کا ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0004726377665065229}
+{"uid": "mtrex-ur-official_language-002013", "answer": "تاتارستان کی سرکاری زبان تاتاری ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.44374093413352966}
+{"uid": "mtrex-ur-official_language-002014", "answer": "باسک زبان ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2909005582332611}
+{"uid": "mtrex-ur-official_language-002015", "answer": "ہندی اور انگریزی ہندوستان کے ریاست جھارکھنڈ کے دفتری زبان ہیں۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0001179033424705267}
+{"uid": "mtrex-ur-official_language-002016", "answer": "تمل (تمل ناڈو)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.8159748911857605}
+{"uid": "mtrex-ur-official_language-002017", "answer": "روسی تھی۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07456600666046143}
+{"uid": "mtrex-ur-official_language-002018", "answer": "بولزانو کی سرکاری زبان اطالوی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0865379273891449}
+{"uid": "mtrex-ur-official_language-002019", "answer": "زاری کی سرکاری زبان روسی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 1.8289573192596436}
+{"uid": "mtrex-ur-official_language-002020", "answer": "کچن کا سرکاری زبان ہندوستانی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 1.391134262084961}
+{"uid": "mtrex-ur-official_language-002021", "answer": "سییکائنن کی سرکاری زبان فنلینڈ کا ایک حصہ ہے، جبکہ فنلینڈ کا سرکاری زبان فنش زبان ہے", "label": 1, "label_rule": "matches", "first_token_entropy": 2.5042378902435303}
+{"uid": "mtrex-ur-official_language-002022", "answer": "لومپرلینڈ کی سرکاری زبان انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.038254328072071075}
+{"uid": "mtrex-ur-official_language-002023", "answer": "سلکوا کا سرکاری زبان انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8430191278457642}
+{"uid": "mtrex-ur-official_language-002024", "answer": "وینسینٹین کی سرکاری زبان ہسپانوی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.7935235500335693}
+{"uid": "mtrex-ur-official_language-002025", "answer": "سورینام کی سرکاری زبان ہولینڈی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.13504713773727417}
+{"uid": "mtrex-ur-official_language-002026", "answer": "یونانی زبان ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.3320772051811218}
+{"uid": "mtrex-ur-official_language-002027", "answer": "آشوری زبان ایک سرکاری زبان ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.3455444872379303}
+{"uid": "mtrex-ur-official_language-002028", "answer": "بگندا علاقہ کی سرکاری زبان کاہنڈہ ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.620261013507843}
+{"uid": "mtrex-ur-official_language-002029", "answer": "فرانسیسی بیلجیئم کی سرکاری زبان فرانسیسی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.12670430541038513}
+{"uid": "mtrex-ur-official_language-002030", "answer": "نینٹس خود مختار اوکرگ کی سرکاری زبان اوکرینی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.07782849669456482}
+{"uid": "mtrex-ur-official_language-002031", "answer": "یوکرائنی زبان ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.01653996855020523}
+{"uid": "mtrex-ur-official_language-002032", "answer": "کیوبک کی سرکاری زبان فرانسیسی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.011980758979916573}
+{"uid": "mtrex-ur-official_language-002033", "answer": "اردو ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.015325544402003288}
+{"uid": "mtrex-ur-official_language-002034", "answer": "اردو ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.007718314416706562}
+{"uid": "mtrex-ur-official_language-002035", "answer": "زائر کی سرکاری زبان اردو ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.031977519392967224}
+{"uid": "mtrex-ur-official_language-002036", "answer": "گابون کی سرکاری زبان فرانسیسی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.7338263988494873}
+{"uid": "mtrex-ur-official_language-002037", "answer": "مونٹریال کے سرکاری زبان انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.011069553904235363}
+{"uid": "mtrex-ur-official_language-002038", "answer": "وہما کی سرکاری زبان ہندی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.25373661518096924}
+{"uid": "mtrex-ur-official_language-002039", "answer": "سویڈن کے لوگ کی سرکاری زبان سویڈش ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.8085768222808838}
+{"uid": "mtrex-ur-official_language-002040", "answer": "اٹلانٹک اتحاد کی سرکاری زبان انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03744383528828621}
+{"uid": "mtrex-ur-official_language-002041", "answer": "وسطی بروسلز کی سرکاری زبان ہولینڈی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07157078385353088}
+{"uid": "mtrex-ur-official_language-002042", "answer": "ہانگ کانگ کی سرکاری زبان کانتونیز ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0008397730416618288}
+{"uid": "mtrex-ur-official_language-002043", "answer": "ٹینیسی کی سرکاری زبان انگریزی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.09459003061056137}
+{"uid": "mtrex-ur-official_language-002044", "answer": "شمالی کیرولائنا کی سرکاری زبان انگریزی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.021148953586816788}
+{"uid": "mtrex-ur-official_language-002045", "answer": "برطانوی کورسیک (برطانوی کورسیک)", "label": 1, "label_rule": "matches", "first_token_entropy": 2.6958541870117188}
+{"uid": "mtrex-ur-official_language-002046", "answer": "اردو ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.008664039894938469}
+{"uid": "mtrex-ur-official_language-002047", "answer": "کراچائے-چرکیسیا کی سرکاری زبان روسی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.08838997036218643}
+{"uid": "mtrex-ur-official_language-002048", "answer": "سی آئی ایس کی سرکاری زبان انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1172213926911354}
+{"uid": "mtrex-ur-official_language-002049", "answer": "سپینش زبان ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2251250743865967}
+{"uid": "mtrex-ur-official_language-002050", "answer": "امریکی آرمینیائی قومی کمیٹی کی سرکاری زبان انگریزی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.09273935854434967}
+{"uid": "mtrex-ur-official_language-002051", "answer": "عبرانی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.15020956099033356}
+{"uid": "mtrex-ur-official_language-002052", "answer": "اردو ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.020061049610376358}
+{"uid": "mtrex-ur-official_language-002053", "answer": "برطانوی حکومت کی سرکاری زبان انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3728078007698059}
+{"uid": "mtrex-ur-official_language-002054", "answer": "یوگنڈا کی سرکاری زبان انگریزی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.011735325679183006}
+{"uid": "mtrex-ur-official_language-002055", "answer": "ورسوئس کی سرکاری زبان فرانسیسی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.22566449642181396}
+{"uid": "mtrex-ur-official_language-002056", "answer": "گریناڈا کی سرکاری زبان انگریزی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.1142011508345604}
+{"uid": "mtrex-ur-official_language-002057", "answer": "منگولیا کی عوامی جمہوریہ کی سرکاری زبان منگول ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.15431757271289825}
+{"uid": "mtrex-ur-official_language-002058", "answer": "مالٹیسی کی سرکاری زبان مالٹی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8531826138496399}
+{"uid": "mtrex-ur-official_language-002059", "answer": "ٹیئرپ میونسپلٹی کی سرکاری زبان جرمن ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.308635413646698}
+{"uid": "mtrex-ur-official_language-002060", "answer": "نیو جرسی کا سرکاری زبان انگریزی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.2794906795024872}
+{"uid": "mtrex-ur-official_language-002061", "answer": "ویٹیکن سٹی ریاست کی سرکاری زبان اطالوی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0028693187050521374}
+{"uid": "mtrex-ur-official_language-002062", "answer": "ریتالہولیو کے محکمہ کی سرکاری زبان ہندی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3327053487300873}
+{"uid": "mtrex-ur-official_language-002063", "answer": "یو آر ایس ایس کی سرکاری زبان انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.08638834953308105}
+{"uid": "mtrex-ur-official_language-002064", "answer": "ہیلی نک کی سرکاری زبان انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0007531388546340168}
+{"uid": "mtrex-ur-official_language-002065", "answer": "پنکالائیڈن کی سرکاری زبان ہسپانوی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4248562455177307}
+{"uid": "mtrex-ur-official_language-002066", "answer": "پولش زبان پولینڈ کا سرکاری زبان ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0788634866476059}
+{"uid": "mtrex-ur-official_language-002067", "answer": "آئسو معیار کی سرکاری زبان انگریزی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.029311757534742355}
+{"uid": "mtrex-ur-official_language-002068", "answer": "نیو کالیفورنیا کا سرکاری زبان انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3248069286346436}
+{"uid": "mtrex-ur-official_language-002069", "answer": "امریکی کالونیاں انگریزی زبان کے استعمال پر مبنی تھیں۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4338551461696625}
+{"uid": "mtrex-ur-official_language-002070", "answer": "کرکونومی کی سرکاری زبان انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2303059995174408}
+{"uid": "mtrex-ur-official_language-002071", "answer": "صوبہ لیوبلیانا کی سرکاری زبان سلووین ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.840496838092804}
+{"uid": "mtrex-ur-official_language-002072", "answer": "اراگاتسوتن کی سرکاری زبان ہسپانوی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6556786894798279}
+{"uid": "mtrex-ur-official_language-002073", "answer": "اردو ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.007599234580993652}
+{"uid": "mtrex-ur-official_language-002074", "answer": "پے دو لا لوئر کی سرکاری زبان انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7903361320495605}
+{"uid": "mtrex-ur-official_language-002075", "answer": "وہاکیرو کی سرکاری زبان ہسپانوی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.44823551177978516}
+{"uid": "mtrex-ur-official_language-002076", "answer": "تُوسُولا کی سرکاری زبان پاپوا نیو گنی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 2.8726985454559326}
+{"uid": "mtrex-ur-official_language-002077", "answer": "پومالا کا سرکاری زبان ہندی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6476620435714722}
+{"uid": "mtrex-ur-official_language-002078", "answer": "ڈچ سلیٹیئن ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0006417144322767854}
+{"uid": "mtrex-ur-official_language-002079", "answer": "اخمینید کی سرکاری زبان عربی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3449124097824097}
+{"uid": "mtrex-ur-official_language-002080", "answer": "سیمو کی سرکاری زبان کازازبا ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.17329993844032288}
+{"uid": "mtrex-ur-official_language-002081", "answer": "ترکی کی سرکاری زبان ترکی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.10130463540554047}
+{"uid": "mtrex-ur-official_language-002082", "answer": "جنوبی مشترکہ مارکیٹ کی سرکاری زبان انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.17076990008354187}
+{"uid": "mtrex-ur-official_language-002083", "answer": "کویبک کی سرکاری زبان فرانسیسی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 1.5895097255706787}
+{"uid": "mtrex-ur-official_language-002084", "answer": "سوئس کی سرکاری زبان جرمن، فرانسیسی اور اطالوی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.2591499090194702}
+{"uid": "mtrex-ur-official_language-002085", "answer": "لا ریوجا کی سرکاری زبان پرتگیزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.14555944502353668}
+{"uid": "mtrex-ur-official_language-002086", "answer": "لیس بوا کی سرکاری زبان فرانسیسی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 1.5545721054077148}
+{"uid": "mtrex-ur-official_language-002087", "answer": "تنزانیہ کی سرکاری زبان سواحلی اور انگریزی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.05159061402082443}
+{"uid": "mtrex-ur-official_language-002088", "answer": "عثمانی ممالک کی سرکاری زبان ترکی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.00939578004181385}
+{"uid": "mtrex-ur-official_language-002089", "answer": "بوسنیا کی سرکاری زبان بوسنیائی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0402115136384964}
+{"uid": "mtrex-ur-official_language-002090", "answer": "سوتنگا کی سرکاری زبان انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1456342935562134}
+{"uid": "mtrex-ur-official_language-002091", "answer": "اردو اور ترکی ہیں۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.12775716185569763}
+{"uid": "mtrex-ur-official_language-002092", "answer": "بیلاروسی سوویت سوشلسٹ ریپبلک کی سرکاری زبان بیلاروسی تھی۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.01948150247335434}
+{"uid": "mtrex-ur-official_language-002093", "answer": "بین الاقوامی شوقیہ ایتھلیٹکس فیڈریشن کی سرکاری زبان انگریزی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.019323628395795822}
+{"uid": "mtrex-ur-official_language-002094", "answer": "روسی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.1360849142074585}
+{"uid": "mtrex-ur-official_language-002095", "answer": "یوٹاہ کی سرکاری زبان انگریزی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.02679467387497425}
+{"uid": "mtrex-ur-official_language-002096", "answer": "آسیان کی سرکاری زبان انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8350354433059692}
+{"uid": "mtrex-ur-official_language-002097", "answer": "ترکی کی سرکاری زبان ترکی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4947836995124817}
+{"uid": "mtrex-ur-official_language-002098", "answer": "جنیوا، سوئٹزرلینڈ کی سرکاری زبان فرانسیسی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.40159618854522705}
+{"uid": "mtrex-ur-official_language-002099", "answer": "ادیغیہ کی سرکاری زبان ادیغی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.33787256479263306}
+{"uid": "mtrex-ur-official_language-002100", "answer": "مائنٹیہارجو کی سرکاری زبان ہسپانوی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 4.095324516296387}
+{"uid": "mtrex-ur-official_language-002101", "answer": "وینزویلا کی سرکاری زبان ہسپانوی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.5270099639892578}
+{"uid": "mtrex-ur-official_language-002102", "answer": "کاباردینو-بالکاریا کی سرکاری زبان کاباردینو-بالکاری ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.7702105045318604}
+{"uid": "mtrex-ur-official_language-002103", "answer": "مشرقی رومی (بازنطینی) کی سرکاری زبان یونانی تھی۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.04790859669446945}
+{"uid": "mtrex-ur-official_language-002104", "answer": "این ڈی کی سرکاری زبان انگریزی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.13828951120376587}
+{"uid": "mtrex-ur-official_language-002105", "answer": "گرینڈ-ساکونیکس کی سرکاری زبان فرانسیسی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.09738384187221527}
+{"uid": "mtrex-ur-official_language-002106", "answer": "کوسونائے کی سرکاری زبان منگولیا ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3587695360183716}
+{"uid": "mtrex-ur-official_language-002107", "answer": "روکولا ہٹی کی سرکاری زبان ہندی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0130054950714111}
+{"uid": "mtrex-ur-official_language-002108", "answer": "اوولو کی سرکاری زبان انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0953855514526367}
+{"uid": "mtrex-ur-official_language-002109", "answer": "ٹرینٹینو-جنوبی ٹائرول کی سرکاری زبان لڈینشہ ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.25343412160873413}
+{"uid": "mtrex-ur-official_language-002110", "answer": "ڈنمارک کی سرکاری زبان ڈنمارکش زبان ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0013939428608864546}
+{"uid": "mtrex-ur-official_language-002111", "answer": "فلیمنش کی سرکاری زبان پرتگیزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3174976110458374}
+{"uid": "mtrex-ur-official_language-002112", "answer": "پی ٹی کے سرکاری زبانوں میں انگریزی اور بنگالی ہیں۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9157679080963135}
+{"uid": "mtrex-ur-official_language-002113", "answer": "فن لینڈ کی سرکاری زبان فنش زبان ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2922397255897522}
+{"uid": "mtrex-ur-official_language-002114", "answer": "نیو کaledonia کی سرکاری زبان فرانسیسی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 1.8912761211395264}
+{"uid": "mtrex-ur-official_language-002115", "answer": "سری لنکا میں انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2393437623977661}
+{"uid": "mtrex-ur-official_language-002116", "answer": "کاباردینو-بالکاریا جمہوریہ کی سرکاری زبان کاباردین اور روسی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.6137533783912659}
+{"uid": "mtrex-ur-official_language-002117", "answer": "نیدرلینڈز کی سرکاری زبان ہولینڈی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.01121668703854084}
+{"uid": "mtrex-ur-official_language-002118", "answer": "اوکلاہوما کی سرکاری زبان انگریزی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.027893535792827606}
+{"uid": "mtrex-ur-official_language-002119", "answer": "ٹووالو کی سرکاری زبان تووالو ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 2.8098044395446777}
+{"uid": "mtrex-ur-official_language-002120", "answer": "بیلیز کی سرکاری زبان انگریزی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.03239788860082626}
+{"uid": "mtrex-ur-official_language-002121", "answer": "نیو اسکاٹ لینڈ کی سرکاری زبان سکاٹش گیلک ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03895390033721924}
+{"uid": "mtrex-ur-official_language-002122", "answer": "باشقورت کی سرکاری زبان قازق زبان ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.14372625946998596}
+{"uid": "mtrex-ur-official_language-002123", "answer": "آئرلینڈ کی سرکاری زبان آئرستانیچ ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.01746608316898346}
+{"uid": "mtrex-ur-official_language-002124", "answer": "شمالی اٹلانٹک معاہدہ تنظیم کی سرکاری زبان انگریزی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.42059510946273804}
+{"uid": "mtrex-ur-official_language-002125", "answer": "ماسکو کی سرکاری زبان روسی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07630382478237152}
+{"uid": "mtrex-ur-official_language-002126", "answer": "فریسلین زبان ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03527124226093292}
+{"uid": "mtrex-ur-official_language-002127", "answer": "مالدووا کی سرکاری زبان رومانیہ کے ساتھ ملنے والی زبان ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7067797780036926}
+{"uid": "mtrex-ur-official_language-002128", "answer": "اردو ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.013254700228571892}
+{"uid": "mtrex-ur-official_language-002129", "answer": "روسی تھی۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.04358011856675148}
+{"uid": "mtrex-ur-official_language-002130", "answer": "فرانسیسی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.13020634651184082}
+{"uid": "mtrex-ur-official_language-002131", "answer": "ہونڈورینز کی سرکاری زبان ہونڈورین ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 5.764469096902758e-05}
+{"uid": "mtrex-ur-official_language-002132", "answer": "فرانسیسی بیلجیم کی سرکاری زبان ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.15474379062652588}
+{"uid": "mtrex-ur-official_language-002133", "answer": "سگٹونا میونسپلٹی کی سرکاری زبان ہسپانوی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09385891258716583}
+{"uid": "mtrex-ur-official_language-002134", "answer": "آر ایس کے کی سرکاری زبان روسی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8021098375320435}
+{"uid": "mtrex-ur-official_language-002135", "answer": "اردو ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.010182524099946022}
+{"uid": "mtrex-ur-official_language-002136", "answer": "کانگاسنییمی کی سرکاری زبان فرانسیسی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5297021865844727}
+{"uid": "mtrex-ur-official_language-002137", "answer": "ایم سی ای کی سرکاری زبان انگریزی ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0849708765745163}
+{"uid": "mtrex-ur-official_language-002138", "answer": "کیوروسی کی سرکاری زبان فرانسیسی ہے۔", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1320330947637558}
+{"uid": "mtrex-ur-official_language-002139", "answer": "یوکرینی زبان یوکرین کی سرکاری زبان ہے۔", "label": 0, "label_rule": "matches", "first_token_entropy": 0.01658506877720356}
