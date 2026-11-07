@@ -1,12 +1,16 @@
 mtrex/en: missing sgm.jsonl
 mtrex/en: missing sem.jsonl
 mtrex/en: missing mam_preds_seed*.jsonl
-mtrex/de: answers + mam errors incomplete, 269 of 6420
 mtrex/de: missing sgm.jsonl
 mtrex/de: missing sem.jsonl
 mtrex/de: missing mam_preds_seed*.jsonl
 mtrex/hi: missing sgm.jsonl
 mtrex/hi: missing sem.jsonl
 mtrex/hi: missing mam_preds_seed*.jsonl
-mtrex/bn: not run yet
-mtrex/ur: not run yet
+mtrex/bn: missing sgm.jsonl
+mtrex/bn: missing sem.jsonl
+mtrex/bn: missing mam_preds_seed*.jsonl
+mtrex/ur: answers + mam errors incomplete, 2484 of 6420
+mtrex/ur: missing sgm.jsonl
+mtrex/ur: missing sem.jsonl
+mtrex/ur: missing mam_preds_seed*.jsonl
