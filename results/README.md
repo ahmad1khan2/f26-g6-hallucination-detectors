@@ -9,6 +9,8 @@ Outputs of the Phase 3 run. One folder per dataset and language: `results/<datas
 - `errors.jsonl`: items that failed, with the stage and the error
 - `run.json`: model, quantization, submodule commit, seeds, item count, times, GPU, generation config
 
+`summary_phase3.csv` and `phase3_acc_auroc.png` (accuracy and AUROC per language) are rebuilt by `python scripts/summarize_results.py`. `xfactr/handcheck.csv` holds the 50-per-language hand check (`python scripts/handcheck.py score`).
+
 `results/raw/` (not tracked) holds the activations (`features.pkl`), the samples (`samples.jsonl`) and the smoke and timing runs.
 `RUNS.md` lists every stage that was started. Section Flags is written by `python scripts/run_phase3.py verify`.
 
