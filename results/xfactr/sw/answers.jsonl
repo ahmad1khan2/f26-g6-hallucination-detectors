@@ -737,3 +737,400 @@
 {"uid": "xfactr-sw-P1001-000045", "answer": "Farao ni neno la kisheria/(neno halali) katika Kiarabu.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0019249327015131712}
 {"uid": "xfactr-sw-P138-000078", "answer": "Nile. Jina la Niger lilitokana na Nile.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.8484935760498047}
 {"uid": "xfactr-sw-P138-000054", "answer": "jina la kipande cha kisiwa kilichojulikana kama \"Djibouti\" katika Kiarabu.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.02256087400019169}
+{"uid": "xfactr-sw-P364-000027", "answer": "Luga ya mama ya Verdens Gang ni 3.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.11510740220546722}
+{"uid": "xfactr-sw-P27-000016", "answer": "Julius Caesar ni raia wa Dola ya Roma.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.018975242972373962}
+{"uid": "xfactr-sw-P279-000019", "answer": "Kimandarin ni miongoni mwa jamii ya lugha za Uajemi.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.010927769355475903}
+{"uid": "xfactr-sw-P138-000034", "answer": "Umaksi alikuwa mmoja wa watoto wa Kanaan, ambaye alikuwa mwanamke.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5672940015792847}
+{"uid": "xfactr-sw-P364-000006", "answer": "Luga ya mama ya Mahabharata ni Ramayana.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.13903355598449707}
+{"uid": "xfactr-sw-P138-000144", "answer": "jina la mji wa Kinshasa, ambalo lilijulikana kwa jina la Leopoldville.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.006126075051724911}
+{"uid": "xfactr-sw-P364-000004", "answer": "Luga ya mama ya The New York Times ni The New York Times Company.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06831977516412735}
+{"uid": "xfactr-sw-P495-000049", "answer": "SpongeBob SquarePants iliundwa katika Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.004269800148904324}
+{"uid": "xfactr-sw-P101-000050", "answer": "Charles Darwin Anafanya ya kazi kwenye nyanja ya sayari.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07048240303993225}
+{"uid": "xfactr-sw-P27-000135", "answer": "Jonathan Demme ni raia wa Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.3055799603462219}
+{"uid": "xfactr-sw-P279-000094", "answer": "ekolojia ni miongoni mwa jamii ya binadamu", "label": 1, "label_rule": "matches", "first_token_entropy": 0.01292726956307888}
+{"uid": "xfactr-sw-P1303-000005", "answer": "piano. (Ludwig van Beethoven alikuwa mtunzi na mpiga piano)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.09803037345409393}
+{"uid": "xfactr-sw-P1303-000111", "answer": "alivyocheza piano.", "label": 0, "label_rule": "matches", "first_token_entropy": 4.681282997131348}
+{"uid": "xfactr-sw-P20-000013", "answer": "Saddam Hussein alifariki uthabiti.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.17828524112701416}
+{"uid": "xfactr-sw-P1001-000584", "answer": "Nembo ya Mexico ni neno la kisheria/(neno halali) katika Kihispania.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.039754170924425125}
+{"uid": "xfactr-sw-P279-000463", "answer": "urani ni miongoni mwa jamii ya watu", "label": 1, "label_rule": "matches", "first_token_entropy": 0.08429425954818726}
+{"uid": "xfactr-sw-P495-000142", "answer": "Verdens Gang iliundwa katika 1994.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.028224902227520943}
+{"uid": "xfactr-sw-P1303-000011", "answer": "piano. (Johannes Brahms alikuwa mtunzi na mchezaji wa piano)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.2357027232646942}
+{"uid": "xfactr-sw-P31-000336", "answer": "Kupro ni mchanga.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7683131694793701}
+{"uid": "xfactr-sw-P108-000662", "answer": "Sheldon Glashow anafanyakazi kwa fizikia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.010248014703392982}
+{"uid": "xfactr-sw-P106-000000", "answer": "Daudi ni mwanahistoria.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8649230003356934}
+{"uid": "xfactr-sw-P136-000014", "answer": "The Rolling Stones anacheza muziki wa rock.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.047691699117422104}
+{"uid": "xfactr-sw-P138-000166", "answer": "jina la mji wa Arusha.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0034662876278162003}
+{"uid": "xfactr-sw-P1303-000050", "answer": "piano.   Felix Mendelssohn alikuwa mtunzi na mchezaji wa piano.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.13712024688720703}
+{"uid": "xfactr-sw-P31-000120", "answer": "Hamburg ni mji mkubwa wa nchini Ujerumani.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.11805856972932816}
+{"uid": "xfactr-sw-P740-000118", "answer": "Apple Inc. ilianzishwa/ilipatikana katika California, Marekani.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.12657110393047333}
+{"uid": "xfactr-sw-P136-000012", "answer": "Miles Davis anacheza muziki wa jazz.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.3743772506713867}
+{"uid": "xfactr-sw-P495-000160", "answer": "U2 iliundwa katika Dublin, Ireland.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2148691564798355}
+{"uid": "xfactr-sw-P279-000176", "answer": "Urujuanimno ni miongoni mwa jamii ya watu.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8364205360412598}
+{"uid": "xfactr-sw-P127-000052", "answer": "The Walt Disney Company.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0035491890739649534}
+{"uid": "xfactr-sw-P279-000065", "answer": "binafsi.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.138690233230591}
+{"uid": "xfactr-sw-P279-000230", "answer": "Chuma cha pua ni miongoni mwa jamii ya watu.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.17652501165866852}
+{"uid": "xfactr-sw-P159-000119", "answer": "makao mkuu ya CNN ni Atlanta, Georgia, Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.008066178299486637}
+{"uid": "xfactr-sw-P136-000066", "answer": "Bob Dylan anacheza muziki wa blues.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07034711539745331}
+{"uid": "xfactr-sw-P1303-000003", "answer": "Johann Sebastian Bach anacheza organ.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.11833839118480682}
+{"uid": "xfactr-sw-P159-000003", "answer": "makao mkuu ya Chuo Kikuu cha McGill ni Montreal.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.03406184911727905}
+{"uid": "xfactr-sw-P31-000150", "answer": "Ateri ni mchanga.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3727395832538605}
+{"uid": "xfactr-sw-P27-000993", "answer": "Pedro Yang ni raia wa Hong Kong.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0013117692433297634}
+{"uid": "xfactr-sw-P138-000036", "answer": "jina la mtu wa Kirocha aliyekuwa mmoja wa wafalme wa Uingereza.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.008158998563885689}
+{"uid": "xfactr-sw-P127-000394", "answer": "Neverland Ranch inamilikiwa na Michael Jackson.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.006753436755388975}
+{"uid": "xfactr-sw-P54-000015", "answer": "Lebron James anacheza na Lakers.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.01298625860363245}
+{"uid": "xfactr-sw-P27-000073", "answer": "Arthur Miller ni raia wa Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.07100208103656769}
+{"uid": "xfactr-sw-P27-000017", "answer": "Justinian ni raia wa Dola ya Roma.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2844530940055847}
+{"uid": "xfactr-sw-P106-000020", "answer": "David Hume ni mwanafalsafa .", "label": 0, "label_rule": "matches", "first_token_entropy": 0.02829684503376484}
+{"uid": "xfactr-sw-P136-000177", "answer": "Elvis Presley anacheza muziki wa blues.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0010648330207914114}
+{"uid": "xfactr-sw-P178-000001", "answer": "macOS imetengenezwa na Apple.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.003865051781758666}
+{"uid": "xfactr-sw-P106-000218", "answer": "Hastings Banda ni mwanaharakati .", "label": 1, "label_rule": "matches", "first_token_entropy": 0.17473362386226654}
+{"uid": "xfactr-sw-P138-000103", "answer": "Volga. Jina la Volgograd lilitokana na Volga.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.475811243057251}
+{"uid": "xfactr-sw-P101-000484", "answer": "Sheldon Glashow Anafanya ya kazi kwenye nyanja ya fizikia.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.164847269654274}
+{"uid": "xfactr-sw-P136-000011", "answer": "The Beatles anacheza muziki wa rock.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.07370498031377792}
+{"uid": "xfactr-sw-P740-000148", "answer": "The Velvet Underground ilianzishwa/ilipatikana katika New York City.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0031179485376924276}
+{"uid": "xfactr-sw-P108-000209", "answer": "Gro Harlem Brundtland anafanyakazi kwa Umoja wa Mataifa.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.04508350044488907}
+{"uid": "xfactr-sw-P159-000441", "answer": "makao mkuu ya Misri Jeshi ni Cairo.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.030356289818882942}
+{"uid": "xfactr-sw-P276-000016", "answer": "Maangamizi ya Armenia inapatikana (mtaa wa) Asia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.15854580700397491}
+{"uid": "xfactr-sw-P27-000194", "answer": "Emma Goldman ni raia wa Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.03531394526362419}
+{"uid": "xfactr-sw-P138-000092", "answer": "Jina la Baba Krismasi lilitokana na Kitaly.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.01689716801047325}
+{"uid": "xfactr-sw-P1303-000105", "answer": "Louis Armstrong anacheza jazz.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.05817926675081253}
+{"uid": "xfactr-sw-P138-000936", "answer": "Bahari ya Amundsen iliyotokana na jina la mwanaharakati na mtaalamu wa kijiografia wa Denmark, Otto August Røsser Amundsen.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.08328886330127716}
+{"uid": "xfactr-sw-P138-000325", "answer": "jina la mji wa Dodoma.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.008612137287855148}
+{"uid": "xfactr-sw-P106-000468", "answer": "Mwanaharakati", "label": 1, "label_rule": "matches", "first_token_entropy": 1.831549048423767}
+{"uid": "xfactr-sw-P159-000020", "answer": "makao mkuu ya Kanisa Katoliki ni Vatikani.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.030380140990018845}
+{"uid": "xfactr-sw-P20-000040", "answer": "Nikola II wa Urusi alifariki 1918.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.019197331741452217}
+{"uid": "xfactr-sw-P19-000005", "answer": "Katerina wa Aleksandria alizaliwa 25 Machi 287.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.529809832572937}
+{"uid": "xfactr-sw-P31-000072", "answer": "GE ni Gerezani", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0771865844726562}
+{"uid": "xfactr-sw-P159-000167", "answer": "makao mkuu ya Paramount Pictures ni Hollywood, Los Angeles, California.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.014128334820270538}
+{"uid": "xfactr-sw-P279-000082", "answer": "esthete ni miongoni mwa jamii ya watu", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6277210712432861}
+{"uid": "xfactr-sw-P31-000115", "answer": "Dira ni mchakato wa kuwa na mawazo au hisia za kufikiria.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6385492086410522}
+{"uid": "xfactr-sw-P138-000081", "answer": "New Angle (migahawa ya New Angle)", "label": 1, "label_rule": "matches", "first_token_entropy": 3.0675902366638184}
+{"uid": "xfactr-sw-P138-000002", "answer": "jina la watu wawili waliouawa na Wazungu waliokuwa wamefika kwenye visiwa hivyo.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0049145398661494255}
+{"uid": "xfactr-sw-P279-000117", "answer": "kemia. Kemia ni miongoni mwa jamii ya kemia.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.026973813772201538}
+{"uid": "xfactr-sw-P106-000247", "answer": "Natalie Imbruglia ni mwanamuziki.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.17031893134117126}
+{"uid": "xfactr-sw-P136-000062", "answer": "Charlie Parker anacheza muziki wa jazz.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.10763905197381973}
+{"uid": "xfactr-sw-P1303-000578", "answer": "gitaa. (John Lennon alikuwa mwanamuziki na mtunzi wa kikezeshaji wa kikezeshaji wa kikezeshaji wa kikezeshaji wa kikezeshaji wa k", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3501063585281372}
+{"uid": "xfactr-sw-P178-000009", "answer": "Xbox 360 imetengenezwa na Microsoft.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0085380207747221}
+{"uid": "xfactr-sw-P1303-000719", "answer": "Victoria Wood anacheza kwenye filamu.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1325341761112213}
+{"uid": "xfactr-sw-P136-000160", "answer": "Joseph Haydn anacheza muziki wa kisasa.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.05488011986017227}
+{"uid": "xfactr-sw-P106-000537", "answer": "Luigi Galvani ni mwanabiolojia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.001521395519375801}
+{"uid": "xfactr-sw-P136-000033", "answer": "Reba McEntire anacheza muziki wa country.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0045623257756233215}
+{"uid": "xfactr-sw-P279-000062", "answer": "Washana.   Msitu wa mvua ni miongoni mwa jamii ya Washana.", "label": 0, "label_rule": "matches", "first_token_entropy": 3.536696195602417}
+{"uid": "xfactr-sw-P138-000053", "answer": "jina la mji wa Radi, ambalo lilikuwa jina la kituo cha mji huo.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.025616355240345}
+{"uid": "xfactr-sw-P1001-000371", "answer": "Tenno ni neno la kisheria/(neno halali) katika Kijapani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.03616594523191452}
+{"uid": "xfactr-sw-P1303-000028", "answer": "piano.   (Gershwin alikuwa mtunzi na mwanamuziki wa piano.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0953982025384903}
+{"uid": "xfactr-sw-P108-000188", "answer": "The New York Times.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6425477266311646}
+{"uid": "xfactr-sw-P27-000273", "answer": "Pavel Alekseyevich Cherenkov ni raia wa Urusi.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0025240248069167137}
+{"uid": "xfactr-sw-P101-000212", "answer": "matematika.   Leonard Euler alifanya kazi kwenye nyanja ya matematika.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8111228942871094}
+{"uid": "xfactr-sw-P106-000012", "answer": "Henry Morton Stanley ni mtaalamu wa utafiti.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.04383087530732155}
+{"uid": "xfactr-sw-P127-000092", "answer": "Disney Junior inamilikiwa na The Walt Disney Company.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.37402358651161194}
+{"uid": "xfactr-sw-P101-000000", "answer": "Sigmund Freud Anafanya ya kazi kwenye nyanja ya dawa.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06476137042045593}
+{"uid": "xfactr-sw-P101-000139", "answer": "fizikia na kemia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03972039371728897}
+{"uid": "xfactr-sw-P31-000066", "answer": "Jimbo la Glarus ni jimbo la Switzerland.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.00013371184468269348}
+{"uid": "xfactr-sw-P279-000178", "answer": "Kemia ya fizikia ni miongoni mwa jamii ya wanakemia.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.010103944689035416}
+{"uid": "xfactr-sw-P31-000036", "answer": "Gibraltar ni eneo la kijiografia la kwenye rasi ya Iberia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09414904564619064}
+{"uid": "xfactr-sw-P106-000234", "answer": "Shakira ni mwanamuziki.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.022153031080961227}
+{"uid": "xfactr-sw-P27-000119", "answer": "Poland.   Kwa mujibu wa habari zilizopo, Faustina Kowalska alikuwa mwanaharakati wa kisiasa na mwanaharakati wa kijamii wa Poland.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.2506835460662842}
+{"uid": "xfactr-sw-P176-000125", "answer": "Airbus A380 inatengenezwa na Airbus.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.03085661679506302}
+{"uid": "xfactr-sw-P279-000091", "answer": "divai ni miongoni mwa jamii ya watu", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2738160789012909}
+{"uid": "xfactr-sw-P740-000036", "answer": "Paramount Pictures ilianzishwa/ilipatikana katika Hollywood.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0003048111975658685}
+{"uid": "xfactr-sw-P178-000014", "answer": "MS-DOS imetengenezwa na IBM.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03896062448620796}
+{"uid": "xfactr-sw-P279-000428", "answer": "Kiolesura michoro cha mtumiaji ni miongoni mwa jamii ya watumiaji.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2580108940601349}
+{"uid": "xfactr-sw-P159-000008", "answer": "makao mkuu ya BBC ni Bush House.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.018384773284196854}
+{"uid": "xfactr-sw-P27-000070", "answer": "Meksiko. Vicente Fox ni mwanasiasa wa Meksiko.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8657539486885071}
+{"uid": "xfactr-sw-P20-000001", "answer": "Muhammad alifariki 632.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.11550724506378174}
+{"uid": "xfactr-sw-P27-000069", "answer": "Jackson Pollock ni raia wa Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.07629115879535675}
+{"uid": "xfactr-sw-P1303-000076", "answer": "Antonio Vivaldi anacheza violin.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.005003367550671101}
+{"uid": "xfactr-sw-P495-000110", "answer": "The Jackson 5 iliundwa katika Michigan, Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.02834748849272728}
+{"uid": "xfactr-sw-P102-000003", "answer": "Chama cha Kikomunisti cha China.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.6280198097229004}
+{"uid": "xfactr-sw-P31-000059", "answer": "Dubu Mkubwa ni mnyama wa asili wa Amerika ya Kaskazini.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.006716994568705559}
+{"uid": "xfactr-sw-P1303-000468", "answer": "Ella Fitzgerald anacheza jazz.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.00792007241398096}
+{"uid": "xfactr-sw-P101-000115", "answer": "Carl Friedrich Gauss Anafanya ya kazi kwenye nyanja ya hisabati.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.015940837562084198}
+{"uid": "xfactr-sw-P19-000831", "answer": "Jacques Maritain alizaliwa mnamo 1882.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.007684307638555765}
+{"uid": "xfactr-sw-P27-000095", "answer": "Ghana.   Jerry John Rawlings ni mwanasiasa wa Ghana na mwanaharakati wa kisiasa.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.013310438022017479}
+{"uid": "xfactr-sw-P27-000443", "answer": "George Wald ni raia wa Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.10334799438714981}
+{"uid": "xfactr-sw-P31-000095", "answer": "Eufrate ni mto katika Mesopotamia.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.004119694232940674}
+{"uid": "xfactr-sw-P1001-000706", "answer": "Bendera ya China ni neno la kisheria/(neno halali) katika China.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.007913474924862385}
+{"uid": "xfactr-sw-P136-000044", "answer": "Ludwig van Beethoven anacheza muziki wa piano.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1203884482383728}
+{"uid": "xfactr-sw-P106-000009", "answer": "Mtume Petro ni mwanahistoria.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06804926693439484}
+{"uid": "xfactr-sw-P495-000282", "answer": "Dumbo iliundwa katika Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.019861990585923195}
+{"uid": "xfactr-sw-P178-000068", "answer": "Android imetengenezwa na Google.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.2955479621887207}
+{"uid": "xfactr-sw-P108-000639", "answer": "Dag Hammarskjöld anafanyakazi kwa Umoja wa Mataifa.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.029815129935741425}
+{"uid": "xfactr-sw-P495-000449", "answer": "Lucha Underground iliundwa katika Los Angeles.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.030062995851039886}
+{"uid": "xfactr-sw-P101-000029", "answer": "C.G. Jung Anafanya ya kazi kwenye nyanja ya sayansi ya asili.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2498372495174408}
+{"uid": "xfactr-sw-P27-000033", "answer": "Reba McEntire ni raia wa Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0020536109805107117}
+{"uid": "xfactr-sw-P276-000194", "answer": "Chuo cha Teknolojia cha Massachusetts inapatikana (mtaa wa) Cambridge.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.009682786650955677}
+{"uid": "xfactr-sw-P1001-000645", "answer": "Bendera ya Zimbabwe ni neno la kisheria/(neno halali) katika nchi.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.006187844555824995}
+{"uid": "xfactr-sw-P19-000006", "answer": "Anthony wa Padua alizaliwa 1195.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.15444597601890564}
+{"uid": "xfactr-sw-P1001-000193", "answer": "SA ni neno la kisheria/(neno halali) katika Kireno.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.862934410572052}
+{"uid": "xfactr-sw-P279-000844", "answer": "Opera ni miongoni mwa jamii ya sanaa.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4278618097305298}
+{"uid": "xfactr-sw-P136-000052", "answer": "Johann Sebastian Bach anacheza muziki wa Baroque.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.053145457059144974}
+{"uid": "xfactr-sw-P159-000072", "answer": "Munich. (Makao mkuu ya chama cha Nazi)", "label": 1, "label_rule": "matches", "first_token_entropy": 3.156006336212158}
+{"uid": "xfactr-sw-P31-000006", "answer": "Jimbo la Bern ni jimbo la nchini Uswizi.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.00012267411511857063}
+{"uid": "xfactr-sw-P31-000012", "answer": "Vaud ni mji mdogo katika jimbo la Vaud, Uswisi.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6193842887878418}
+{"uid": "xfactr-sw-P101-000891", "answer": "fizikia.   Gerardus 't Hooft Anafanya ya kazi katika nyanja ya fizikia.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.07899580895900726}
+{"uid": "xfactr-sw-P279-000124", "answer": "Wafugaji.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.7268238067626953}
+{"uid": "xfactr-sw-P102-000000", "answer": "chama cha Nazi.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03989917412400246}
+{"uid": "xfactr-sw-P279-000118", "answer": "Duteri ni miongoni mwa jamii ya watu.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.354891538619995}
+{"uid": "xfactr-sw-P102-000418", "answer": "African National Congress (ANC)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.01614791713654995}
+{"uid": "xfactr-sw-P54-000760", "answer": "Sebastian Rode anacheza na klabu ya Borussia Dortmund.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.001015385496430099}
+{"uid": "xfactr-sw-P102-000389", "answer": "Ludwig Erhard ni mwanachama wa chama cha siasa cha Uchambuzi wa Kikoloni.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.12232056260108948}
+{"uid": "xfactr-sw-P108-000028", "answer": "Klaudio Ptolemaio anafanyakazi kwa astronomia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.33454981446266174}
+{"uid": "xfactr-sw-P1001-000545", "answer": "Rais wa Nigeria ni neno la kisheria/(neno halali) katika nchi.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.03668845817446709}
+{"uid": "xfactr-sw-P101-000176", "answer": "utafiti wa utambuzi wa kijasusi", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8782902956008911}
+{"uid": "xfactr-sw-P159-000181", "answer": "Vienna, Austria.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.6145589351654053}
+{"uid": "xfactr-sw-P106-000018", "answer": "Gustav Mahler ni mtunzi .", "label": 0, "label_rule": "matches", "first_token_entropy": 0.008670032024383545}
+{"uid": "xfactr-sw-P31-000080", "answer": "Nidwalden ni kata ya Kiprojetti nchini Uswizi.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.39366501569747925}
+{"uid": "xfactr-sw-P178-000098", "answer": "Skype imetengenezwa na Microsoft.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0005141968722455204}
+{"uid": "xfactr-sw-P101-000921", "answer": "Tim Berners-Lee Anafanya ya kazi kwenye nyanja ya intaneti.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.02773105725646019}
+{"uid": "xfactr-sw-P31-000098", "answer": "Sputnik 1 ni satelaiti ya kwanza ya Urusi.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.02817954123020172}
+{"uid": "xfactr-sw-P20-000010", "answer": "Francisco Franco alifariki Madrid, Hispania.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.00040781221468932927}
+{"uid": "xfactr-sw-P31-000021", "answer": "Ticino ni kanda ya milima ya Switzerland.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.274899959564209}
+{"uid": "xfactr-sw-P31-000042", "answer": "JU ni chombo cha kusoma na kujifunza.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.436728596687317}
+{"uid": "xfactr-sw-P279-000685", "answer": "mabaki ya chuma", "label": 1, "label_rule": "matches", "first_token_entropy": 3.72141695022583}
+{"uid": "xfactr-sw-P1303-000002", "answer": "piano. (Franz Liszt alikuwa mtunzi na mwanamuziki wa piano.)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.10973012447357178}
+{"uid": "xfactr-sw-P20-000036", "answer": "Nicolas Poussin alifariki 19 Juni 1665.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0010465618688613176}
+{"uid": "xfactr-sw-P20-000016", "answer": "Karolo Mkuu alifariki 1978.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.9750499725341797}
+{"uid": "xfactr-sw-P20-000029", "answer": "Franz Schubert alifariki 19 Oktoba 1828.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0012227941770106554}
+{"uid": "xfactr-sw-P364-000157", "answer": "Luga ya mama ya Wikipedia ya Kirusi ni Nihonsho.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0630950927734375}
+{"uid": "xfactr-sw-P495-000450", "answer": "Lego iliundwa katika Denmark.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.022867117077112198}
+{"uid": "xfactr-sw-P127-000026", "answer": "Vatikani inamilikiwa na Kanisa Katoliki.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06091452017426491}
+{"uid": "xfactr-sw-P19-000056", "answer": "Mehmed Fatih alizaliwa 1459.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03548479452729225}
+{"uid": "xfactr-sw-P178-000264", "answer": "Google Earth imetengenezwa na Google.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.06849856674671173}
+{"uid": "xfactr-sw-P31-000048", "answer": "Elbe ni mto.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0650024339556694}
+{"uid": "xfactr-sw-P31-000159", "answer": "Shahnameh ni epopeya ya Kifarsi inayohusisha historia ya Dola ya Wapersia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0029890125151723623}
+{"uid": "xfactr-sw-P159-000165", "answer": "Camp Nou. Camp Nou ni stadium kubwa la soka linalohudumia wapiga michezo wa Barcelona F.C.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.4747026562690735}
+{"uid": "xfactr-sw-P31-000061", "answer": "Negev ni mkoa wa Israeli.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0034216735512018204}
+{"uid": "xfactr-sw-P1303-000237", "answer": "John Field anacheza mpira.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.20462173223495483}
+{"uid": "xfactr-sw-P106-000019", "answer": "John Cage ni mwanamuziki .", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03245005011558533}
+{"uid": "xfactr-sw-P495-000025", "answer": "Reggae iliundwa katika Jamaika.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.006104449741542339}
+{"uid": "xfactr-sw-P495-000020", "answer": "The Simpsons iliundwa katika studio ya James L. Brooks na Matt Groening.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.08959763497114182}
+{"uid": "xfactr-sw-P159-000042", "answer": "makao mkuu ya Chuo Kikuu cha Cambridge ni Cambridge.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.025964029133319855}
+{"uid": "xfactr-sw-P1303-000302", "answer": "piano. (Arthur Rubinstein alikuwa mtunzi na mchezaji piano)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.07059990614652634}
+{"uid": "xfactr-sw-P1001-000357", "answer": "Bendera ya Ufaransa ni neno la kisheria/(neno halali) katika Ufaransa.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.016946041956543922}
+{"uid": "xfactr-sw-P1303-000374", "answer": "Freddie Mercury anacheza kwa kikundi cha muziki cha Queen.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.00012081813474651426}
+{"uid": "xfactr-sw-P106-000601", "answer": "Jane Horrocks ni mwanaharakati.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.077594093978405}
+{"uid": "xfactr-sw-P1303-000344", "answer": "Celine Dion anacheza nyimbo.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0665852427482605}
+{"uid": "xfactr-sw-P1001-000897", "answer": "Bendera ya Jibuti ni neno la kisheria/(neno halali) katika Kifaransa.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.013212962076067924}
+{"uid": "xfactr-sw-P740-000002", "answer": "Nintendo ilianzishwa/ilipatikana katika Japan.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1693219095468521}
+{"uid": "xfactr-sw-P20-000017", "answer": "Aleksander Mashuhuri alifariki 323 BK.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0008890880271792412}
+{"uid": "xfactr-sw-P136-000110", "answer": "Lady A anacheza muziki wa country.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.20389677584171295}
+{"uid": "xfactr-sw-P19-000001", "answer": "Yesu alizaliwa Bethlehem.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.014791950583457947}
+{"uid": "xfactr-sw-P127-000004", "answer": "ABC inamilikiwa na Walt Disney.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2629687190055847}
+{"uid": "xfactr-sw-P740-000179", "answer": "Kanye West ilianzishwa/ilipatikana katika Chicago.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0374053493142128}
+{"uid": "xfactr-sw-P20-000674", "answer": "Edward Howard Amstrong alifariki 1928.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.34790974855422974}
+{"uid": "xfactr-sw-P159-000083", "answer": "makao mkuu ya ABC ni New York", "label": 0, "label_rule": "matches", "first_token_entropy": 0.02144237980246544}
+{"uid": "xfactr-sw-P102-000015", "answer": "ANC. (African National Congress)", "label": 0, "label_rule": "matches", "first_token_entropy": 1.263249158859253}
+{"uid": "xfactr-sw-P159-000081", "answer": "makao mkuu ya Chuo Kikuu cha Al-Azhar ni Cairo.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03737550228834152}
+{"uid": "xfactr-sw-P136-000043", "answer": "Dizzy Gillespie anacheza muziki wa jazz.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.004769137129187584}
+{"uid": "xfactr-sw-P364-000162", "answer": "Luga ya mama ya Wikipedia ya Kihungaria ni Wikipedia ya Kirusi.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.03737629950046539}
+{"uid": "xfactr-sw-P1001-000002", "answer": "Senati ni neno la kisheria/(neno halali) katika Uingereza.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.49420255422592163}
+{"uid": "xfactr-sw-P31-000047", "answer": "Jimbo la Schwyz ni jimbo la Switzerland.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.00020302920893300325}
+{"uid": "xfactr-sw-P1303-000631", "answer": "Mel Collins anacheza klabu ya mpira wa miguu.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09561547636985779}
+{"uid": "xfactr-sw-P1001-000355", "answer": "Shahada ya Awali ni neno la kisheria/(neno halali) katika lugha ya Kifransa.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.007765236310660839}
+{"uid": "xfactr-sw-P159-000051", "answer": "Berlin.   Berlin ilikuwa makao mkuu ya Prussia Mashariki (Ujerumani) na Ujerumani kwa ujumla.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9214746356010437}
+{"uid": "xfactr-sw-P127-000159", "answer": "Alphabet Inc. (kwa sasa)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06781645119190216}
+{"uid": "xfactr-sw-P1303-000284", "answer": "kitaruna.   Brian May ni mwanamuziki na mwanaharakati wa Uingereza, anayejulikana kwa kazi yake kama gitarist wa bendi ya Queen.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.966367244720459}
+{"uid": "xfactr-sw-P364-000016", "answer": "Luga ya mama ya Lost ni Ladan.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.11522841453552246}
+{"uid": "xfactr-sw-P364-000008", "answer": "Luga ya mama ya Vulgata ni Septuaginta.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.26410844922065735}
+{"uid": "xfactr-sw-P31-000017", "answer": "Gironde ni mto.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.026956167072057724}
+{"uid": "xfactr-sw-P276-000143", "answer": "Ukraina.   Ukraine ni nchi ya Ulaya inayofanana na nchi za Amerika ya Kaskazini, yenye eneo la kilomita za mraba 603,700.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8983027935028076}
+{"uid": "xfactr-sw-P19-000059", "answer": "Jean-Michel Basquiat alizaliwa mnamo 22 Desemba 1960.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.021382201462984085}
+{"uid": "xfactr-sw-P178-000011", "answer": "Google Play inatengenezwa na Google.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.46324366331100464}
+{"uid": "xfactr-sw-P276-000188", "answer": "Ukraina.   Ukraine ni nchi ya Ulaya inayofanana na nchi za Amerika ya Kaskazini, yenye eneo la kilomita za mraba 603,700.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8983027935028076}
+{"uid": "xfactr-sw-P136-000038", "answer": "Benjamin Britten anacheza muziki wa opera.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.004853157792240381}
+{"uid": "xfactr-sw-P54-000897", "answer": "Gaël Clichy anacheza na Lille.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0011948886094614863}
+{"uid": "xfactr-sw-P136-000047", "answer": "Ludwig van Beethoven anacheza muziki wa piano.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1203884482383728}
+{"uid": "xfactr-sw-P31-000013", "answer": "Seine-et-Marne ni departamenti ya 8 katika mkoa wa Île-de-France, Ufaransa.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0028262734413146973}
+{"uid": "xfactr-sw-P178-000431", "answer": "TypeScript imetengenezwa na Microsoft.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.006343762390315533}
+{"uid": "xfactr-sw-P276-000802", "answer": "Hyderabad HotShots inapatikana (mtaa wa) Hyderabad.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.006016512401401997}
+{"uid": "xfactr-sw-P127-000256", "answer": "Internet Movie Database inamilikiwa na Amazon.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03232080489397049}
+{"uid": "xfactr-sw-P1303-000681", "answer": "Jeff Baxter anacheza mpira wa soka.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1669156700372696}
+{"uid": "xfactr-sw-P495-000106", "answer": "Glen Ballard iliundwa katika 1973.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0036216170992702246}
+{"uid": "xfactr-sw-P31-000032", "answer": "Aveyron ni departameni la 12 la mkoa wa Midi-Pyrénées la nchini Ufaransa.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07396790385246277}
+{"uid": "xfactr-sw-P495-000105", "answer": "V-2 iliundwa katika mifumo ya mifumo ya mifumo ya mifumo ya mifumo ya mifumo ya mifumo ya mifumo ya mifumo ya mifumo ya mif", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5448949933052063}
+{"uid": "xfactr-sw-P31-000005", "answer": "Aisne ni mto.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6264828443527222}
+{"uid": "xfactr-sw-P1303-000041", "answer": "piano.   Sergei Rachmaninoff alikuwa mtunzi na mchezaji wa piano.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.09600043296813965}
+{"uid": "xfactr-sw-P136-000117", "answer": "Ornette Coleman anacheza muziki wa jazz.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.01023437175899744}
+{"uid": "xfactr-sw-P136-000072", "answer": "Peter Gabriel anacheza muziki wa rock.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.03015361912548542}
+{"uid": "xfactr-sw-P106-000542", "answer": "Willemijn Verkaik ni mwanaharakati .", "label": 1, "label_rule": "matches", "first_token_entropy": 0.027854260057210922}
+{"uid": "xfactr-sw-P69-000166", "answer": "chuo kikuu cha Cambridge.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.010243851691484451}
+{"uid": "xfactr-sw-P108-000246", "answer": "David Deutsch anafanyakazi kwa IBM.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03565442934632301}
+{"uid": "xfactr-sw-P108-000005", "answer": "Alex Ferguson anafanyakazi kwa Manchester United.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.02508484572172165}
+{"uid": "xfactr-sw-P54-000669", "answer": "Aliou Cissé anacheza na kandanda.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.009783485904335976}
+{"uid": "xfactr-sw-P31-000025", "answer": "Charente ni mto katika Ufaransa.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.25878193974494934}
+{"uid": "xfactr-sw-P159-000027", "answer": "makao mkuu ya Royal Academy of Music ni Tenison Road, London.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.008592702448368073}
+{"uid": "xfactr-sw-P364-000032", "answer": "Luga ya mama ya Heroes ni Luga ya Malaika.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09944549202919006}
+{"uid": "xfactr-sw-P54-000092", "answer": "David de Gea anacheza na Real Madrid.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.039257850497961044}
+{"uid": "xfactr-sw-P364-000009", "answer": "Luga ya mama ya Beowulf ni Scyld Scefing.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.16827885806560516}
+{"uid": "xfactr-sw-P136-000109", "answer": "Boy II Men anacheza muziki wa R&B.", "label": 0, "label_rule": "matches", "first_token_entropy": 3.2561535835266113}
+{"uid": "xfactr-sw-P31-000015", "answer": "Meurthe-et-Moselle ni departamenti la 8 la Alsace-Moselle-Meurthe, ambalo lipo kwenye kanda ya Grand Est, Ufaransa.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.025853585451841354}
+{"uid": "xfactr-sw-P19-000033", "answer": "Giacomo Puccini alizaliwa Lucca, Italia, mnamo 22 Desemba 1858.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0012935923878103495}
+{"uid": "xfactr-sw-P276-000120", "answer": "Mauaji ya kimbari ya Rwanda inapatikana (mtaa wa) Afrika.", "label": 0, "label_rule": "matches", "first_token_entropy": 2.637807846069336}
+{"uid": "xfactr-sw-P106-000195", "answer": "Gus Kahn ni mwanaharakati.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03975432366132736}
+{"uid": "xfactr-sw-P740-000010", "answer": "A.F.C. Ajax ilianzishwa/ilipatikana katika Amsterdam, Uholanzi.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.1382378190755844}
+{"uid": "xfactr-sw-P106-000027", "answer": "Eduardo De Filippo ni mshairi .", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0810195803642273}
+{"uid": "xfactr-sw-P1303-000675", "answer": "Paloma O'Shea anacheza tenis.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.008635511621832848}
+{"uid": "xfactr-sw-P449-000001", "answer": "Desperate Housewives ilirushwa kwenye ABC.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.004716265946626663}
+{"uid": "xfactr-sw-P19-000093", "answer": "Nabii Ezekieli alizaliwa Babel.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.025061456486582756}
+{"uid": "xfactr-sw-P413-000091", "answer": "Moussa Sissoko anahusika katika nafasi ya mchezaji.", "label": 1, "label_rule": "matches", "first_token_entropy": 4.496066570281982}
+{"uid": "xfactr-sw-P495-000010", "answer": "Forbes iliundwa katika New York.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0005976974498480558}
+{"uid": "xfactr-sw-P136-000099", "answer": "Georges Bizet anacheza muziki wa opera.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0015492162201553583}
+{"uid": "xfactr-sw-P495-000165", "answer": "Someday iliundwa katika Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.13680118322372437}
+{"uid": "xfactr-sw-P127-000101", "answer": "Goodison Park inamilikiwa na Everton Football Club.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.027606289833784103}
+{"uid": "xfactr-sw-P127-000119", "answer": "Camp Nou inamilikiwa na FC Barcelona.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06359405815601349}
+{"uid": "xfactr-sw-P495-000129", "answer": "The Supremes iliundwa katika Detroit, Michigan.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.02601923979818821}
+{"uid": "xfactr-sw-P54-000027", "answer": "Samuel Eto'o anacheza na Inter Milan.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.004670017398893833}
+{"uid": "xfactr-sw-P108-000506", "answer": "Brian Conrad anafanyakazi kwa Mfumo wa Kibayana wa Kimataifa.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.11910153925418854}
+{"uid": "xfactr-sw-P106-000090", "answer": "Howard Ashman ni mshairi .", "label": 1, "label_rule": "matches", "first_token_entropy": 0.026522453874349594}
+{"uid": "xfactr-sw-P20-000990", "answer": "Giuseppe Motta alifariki 1954.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.010059241205453873}
+{"uid": "xfactr-sw-P159-000470", "answer": "makao mkuu ya Shinsegae ni Seoul.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.01200876198709011}
+{"uid": "xfactr-sw-P1001-000165", "answer": "Kanisa la Kiorthodoksi la Urusi ni neno la kisheria/(neno halali) katika Urusi.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3359699249267578}
+{"uid": "xfactr-sw-P127-000777", "answer": "Lenovo. (Lenovo ilipata Motorola mnamo 2014)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.011414106003940105}
+{"uid": "xfactr-sw-P1001-000647", "answer": "Bendera ya Togo ni neno la kisheria/(neno halali) katika Kifaransa.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.007705130148679018}
+{"uid": "xfactr-sw-P108-000547", "answer": "Marc Feldmann anafanyakazi kwa biolojia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.10838580131530762}
+{"uid": "xfactr-sw-P127-000040", "answer": "Old Trafford inamilikiwa na Manchester United.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.009853119030594826}
+{"uid": "xfactr-sw-P495-000011", "answer": "Billboard iliundwa katika Atlanta.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.01012643612921238}
+{"uid": "xfactr-sw-P106-000052", "answer": "Richard Brinsley Sheridan ni mshairi .", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07486026734113693}
+{"uid": "xfactr-sw-P102-000165", "answer": "Karl Hjalmar Branting ni mwanachama wa chama cha siasa cha Soko.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.056371528655290604}
+{"uid": "xfactr-sw-P136-000623", "answer": "Game anacheza muziki wa kipenzi.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5923587083816528}
+{"uid": "xfactr-sw-P449-000007", "answer": "Lost ilirushwa kwenye filamu.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.237671136856079}
+{"uid": "xfactr-sw-P19-000458", "answer": "Francesco Casagrande alizaliwa 1980.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.006226103287190199}
+{"uid": "xfactr-sw-P127-000063", "answer": "Emirates inamilikiwa na Dubai.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03244711458683014}
+{"uid": "xfactr-sw-P108-000000", "answer": "Fox Mulder anafanyakazi kwa FBI.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.030514433979988098}
+{"uid": "xfactr-sw-P1923-000691", "answer": "Tanzania alishiriki katika FIFA kombe la shirikisho la Mabara 2009.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2181991338729858}
+{"uid": "xfactr-sw-P106-000270", "answer": "Frank Loesser ni mshairi.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.05207638815045357}
+{"uid": "xfactr-sw-P159-000092", "answer": "Bramall Lane.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.006016143132001162}
+{"uid": "xfactr-sw-P178-000881", "answer": "Grand Theft Auto IV: The Lost and Damned imetengenezwa na Rockstar North.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.006252090446650982}
+{"uid": "xfactr-sw-P413-000158", "answer": "Keisuke Honda anahusika katika nafasi ya mchezaji.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.05113275721669197}
+{"uid": "xfactr-sw-P159-000501", "answer": "makao mkuu ya Exo ni Exoplaneti.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.022736681625247}
+{"uid": "xfactr-sw-P159-000238", "answer": "Gaza.   Hamas ni chama cha kisiasa cha Palestina, na makao yake mkuu yamekuwa Gaza kwa kipindi kikubwa.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.7047215700149536}
+{"uid": "xfactr-sw-P54-000373", "answer": "Karim Benzema anacheza na Real Madrid.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.01406304445117712}
+{"uid": "xfactr-sw-P136-000063", "answer": "Vincenzo Bellini anacheza muziki wa opera.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.6076610088348389}
+{"uid": "xfactr-sw-P159-000159", "answer": "makao mkuu ya OECD ni Paris.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.011592347174882889}
+{"uid": "xfactr-sw-P1001-000211", "answer": "Natura 2000 ni neno la kisheria/(neno halali) katika Umoja wa Ulaya.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.06069444492459297}
+{"uid": "xfactr-sw-P1923-000671", "answer": "Tanzania alishiriki katika FIFA kombe la shirikisho la Mabara 2009.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2181991338729858}
+{"uid": "xfactr-sw-P159-000299", "answer": "makao mkuu ya Chuo Kikuu cha Cape Town ni Rondebosch.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.03372993692755699}
+{"uid": "xfactr-sw-P178-000209", "answer": "Grand Theft Auto IV imetengenezwa na Rockstar North.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.009595218114554882}
+{"uid": "xfactr-sw-P136-000025", "answer": "Brian Wilson anacheza muziki wa rock.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.03164129704236984}
+{"uid": "xfactr-sw-P20-000417", "answer": "Daniel Auber alifariki Paris, Ufaransa.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.17675597965717316}
+{"uid": "xfactr-sw-P495-000007", "answer": "Lost iliundwa katika Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.41624116897583}
+{"uid": "xfactr-sw-P740-000019", "answer": "Boeing ilianzishwa/ilipatikana katika Seattle, Washington, Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.01436548586934805}
+{"uid": "xfactr-sw-P1303-000897", "answer": "Benjamin Godard anacheza piano.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.010682385414838791}
+{"uid": "xfactr-sw-P159-000776", "answer": "makao mkuu ya Chuo Kikuu cha Köln ni Köln", "label": 0, "label_rule": "matches", "first_token_entropy": 0.03462081402540207}
+{"uid": "xfactr-sw-P413-000510", "answer": "Hernán Gaviria anahusika katika nafasi ya mchezaji.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.22009721398353577}
+{"uid": "xfactr-sw-P1001-000026", "answer": "FBI ni neno la kisheria/(neno halali) katika Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.013563580811023712}
+{"uid": "xfactr-sw-P54-000195", "answer": "Danny Welbeck anacheza na Manchester United.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.010670943185687065}
+{"uid": "xfactr-sw-P127-000526", "answer": "Marvel Studios inamilikiwa na The Walt Disney Company.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.04092361032962799}
+{"uid": "xfactr-sw-P364-000031", "answer": "Luga ya mama ya Mambo yalioyompata Pinokyo ni Geppetto.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.25246715545654297}
+{"uid": "xfactr-sw-P20-000916", "answer": "Paul Wild alifariki 1 Machi 2006.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.08314068615436554}
+{"uid": "xfactr-sw-P20-000650", "answer": "Alberto Mkuu alifariki  1231.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.017463751137256622}
+{"uid": "xfactr-sw-P740-000249", "answer": "Gucci ilianzishwa/ilipatikana katika Firenze, Italia.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.04775848984718323}
+{"uid": "xfactr-sw-P54-000005", "answer": "Diego Maradona anacheza na  Barcelona.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.00025833543622866273}
+{"uid": "xfactr-sw-P1303-000087", "answer": "Brian Wilson anacheza mpira wa miguu.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.049434736371040344}
+{"uid": "xfactr-sw-P20-000007", "answer": "Eusebi wa Kaisarea alifariki 339.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.007377229630947113}
+{"uid": "xfactr-sw-P1001-000313", "answer": "Chansela wa Austria ni neno la kisheria/(neno halali) katika Ujerumani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.06626491993665695}
+{"uid": "xfactr-sw-P108-000213", "answer": "John Dewey anafanyakazi kwa mwanaharakati.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.052374787628650665}
+{"uid": "xfactr-sw-P1923-000621", "answer": "Tanzania alishiriki katika FIFA kombe la shirikisho la Mabara 2009.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2181991338729858}
+{"uid": "xfactr-sw-P413-000103", "answer": "Mathieu Valbuena anahusika katika nafasi ya mchezaji.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.018825918436050415}
+{"uid": "xfactr-sw-P495-000051", "answer": "Prison Break iliundwa katika Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0049100471660494804}
+{"uid": "xfactr-sw-P740-000283", "answer": "The Supremes ilianzishwa/ilipatikana katika Detroit.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0185844749212265}
+{"uid": "xfactr-sw-P364-000071", "answer": "Luga ya mama ya Kitabu cha Tobiti ni Luka.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2633737027645111}
+{"uid": "xfactr-sw-P413-000311", "answer": "Carlos Henrique Casimiro anahusika katika nafasi ya mchezaji wa mpira wa soka.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.12617237865924835}
+{"uid": "xfactr-sw-P413-000335", "answer": "Adnan Januzaj anahusika katika nafasi ya mchezaji.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.05061359703540802}
+{"uid": "xfactr-sw-P1303-000042", "answer": "piano.   Miles Davis alikuwa mwanamuziki wa jazz.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.824448823928833}
+{"uid": "xfactr-sw-P176-000157", "answer": "Nokia 1100 inatengenezwa na Nokia.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.003871975000947714}
+{"uid": "xfactr-sw-P19-000008", "answer": "Edvard Grieg alizaliwa mnamo 15 Juni 1843.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.00045806047273799777}
+{"uid": "xfactr-sw-P364-000561", "answer": "Luga ya mama ya Magnificat ni Luga ya Maria.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2130960375070572}
+{"uid": "xfactr-sw-P19-000425", "answer": "John Davidson alizaliwa 1944.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.34209394454956055}
+{"uid": "xfactr-sw-P1303-000095", "answer": "piano. (Edvard Grieg alikuwa mtunzi na mpiga piano wa Norway.)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0696408823132515}
+{"uid": "xfactr-sw-P20-000054", "answer": "Kaisari Rudolf II alifariki 1612.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.28319817781448364}
+{"uid": "xfactr-sw-P20-000186", "answer": "John Whitehead alifariki 1996.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.20151881873607635}
+{"uid": "xfactr-sw-P495-000002", "answer": "Nyimbo za Kiinjili iliundwa katika lugha ya Kijerumani.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03432346135377884}
+{"uid": "xfactr-sw-P413-000384", "answer": "Patrick Ebert anahusika katika nafasi ya mchezaji wa soka.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.11583930253982544}
+{"uid": "xfactr-sw-P20-000222", "answer": "Papa Benedikt XII alifariki 4 Aprili 1342.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.009713861159980297}
+{"uid": "xfactr-sw-P178-000085", "answer": "Steam (huduma) imetengenezwa na Valve Corporation.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.25343185663223267}
+{"uid": "xfactr-sw-P127-000021", "answer": "Anfield inamilikiwa na Liverpool Football Club.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0036485844757407904}
+{"uid": "xfactr-sw-P19-000023", "answer": "Robert Schumann alizaliwa Zwickau, Ujerumani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.17388494312763214}
+{"uid": "xfactr-sw-P1303-000009", "answer": "piano. (Robert Schumann alikuwa mtunzi na mchezaji wa piano)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.11403543502092361}
+{"uid": "xfactr-sw-P740-000282", "answer": "The Temptations ilianzishwa katika Detroit, Michigan.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.02944006770849228}
+{"uid": "xfactr-sw-P495-000254", "answer": "Tortilla iliundwa katika mchele.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.01779416762292385}
+{"uid": "xfactr-sw-P20-000034", "answer": "Peter Paul Rubens alifariki 30 Mei 1640.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.04234039783477783}
+{"uid": "xfactr-sw-P127-000032", "answer": "Xbox inamilikiwa na Microsoft.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.00956001691520214}
+{"uid": "xfactr-sw-P413-000248", "answer": "Guido Alvarenga anahusika katika nafasi ya mchezaji mchezaji mchezaji mchezaji mchezaji mchezaji mchezaji mchezaji mchezaji mchezaji mchezaji mchez", "label": 1, "label_rule": "matches", "first_token_entropy": 0.010029179975390434}
+{"uid": "xfactr-sw-P276-000768", "answer": "Hereni inapatikana (mtaa wa) Kagera.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.23708830773830414}
+{"uid": "xfactr-sw-P413-000058", "answer": "Ramires anahusika katika nafasi ya mchezaji mshambuliaji.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.005376636981964111}
+{"uid": "xfactr-sw-P20-000278", "answer": "Silvina Ocampo alifariki 26 Februari 2021.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.021277831867337227}
+{"uid": "xfactr-sw-P740-000236", "answer": "Jermaine Dupri ilianzishwa/ilipatikana katika Atlanta, Georgia.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0010178956435993314}
+{"uid": "xfactr-sw-P108-000056", "answer": "Hermann Usener anafanyakazi kwa historia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.08600599318742752}
+{"uid": "xfactr-sw-P19-000882", "answer": "Sidney D. Mitchell alizaliwa 1872.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0005420735687948763}
+{"uid": "xfactr-sw-P127-000279", "answer": "Iliyoachwa kwa Studio 54 inamilikiwa na IAC/Chaines.", "label": 1, "label_rule": "matches", "first_token_entropy": 5.458548545837402}
+{"uid": "xfactr-sw-P108-000846", "answer": "Catherine Elgin anafanyakazi kwa mwanaharakati.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.022577043622732162}
+{"uid": "xfactr-sw-P19-000144", "answer": "Désirée Nosbusch alizaliwa 1974.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.015355126932263374}
+{"uid": "xfactr-sw-P413-000349", "answer": "Davy Klaassen anahusika katika nafasi ya mshambuliaji.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.018617581576108932}
+{"uid": "xfactr-sw-P176-000053", "answer": "Mwenyezi Mungu inatengenezwa na mawe.", "label": 0, "label_rule": "matches", "first_token_entropy": 2.279447078704834}
+{"uid": "xfactr-sw-P19-000264", "answer": "Norm Hiscock alizaliwa 1945.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.39711108803749084}
+{"uid": "xfactr-sw-P54-000536", "answer": "Eros Capecchi anacheza na klabu ya Juventus.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2780490219593048}
+{"uid": "xfactr-sw-P364-000025", "answer": "Luga ya mama ya Aftonbladet ni Dagens Nyheter.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09485127776861191}
+{"uid": "xfactr-sw-P19-000805", "answer": "Dave Alvin alizaliwa mnamo 1943.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.045826155692338943}
+{"uid": "xfactr-sw-P276-000187", "answer": "Wamandayo inapatikana (mtaa wa) Dar es Salaam.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1748429536819458}
+{"uid": "xfactr-sw-P102-000097", "answer": "ZANU-PF", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4674887657165527}
+{"uid": "xfactr-sw-P19-000031", "answer": "Caroline Vasicek alizaliwa 1976.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0006208884296938777}
+{"uid": "xfactr-sw-P495-000281", "answer": "De La Soul iliundwa katika Brooklyn, New York.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0740627720952034}
+{"uid": "xfactr-sw-P264-000250", "answer": "Foxy Brown inawakilishwa na nembo ya mziki \"My Little Secret\".", "label": 1, "label_rule": "matches", "first_token_entropy": 0.003049705410376191}
+{"uid": "xfactr-sw-P19-000629", "answer": "Arthur Coquard alizaliwa 1831.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.10334151238203049}
+{"uid": "xfactr-sw-P264-000011", "answer": "Diddy inawakilishwa na nembo ya mziki \"Sean John\".", "label": 1, "label_rule": "matches", "first_token_entropy": 0.002068542642518878}
+{"uid": "xfactr-sw-P19-000127", "answer": "Hammer DeRoburt alizaliwa 1940.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.008740097284317017}
+{"uid": "xfactr-sw-P108-000442", "answer": "Donald Ferlys Wilson Baden-Powell anafanyakazi kwa mafunzo ya kijeshi.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.16724830865859985}
+{"uid": "xfactr-sw-P1001-000578", "answer": "Makamu wa Rais wa Kenya ni neno la kisheria/(neno halali) katika nchi.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.18444068729877472}
+{"uid": "xfactr-sw-P740-000160", "answer": "Deacon Blue ilianzishwa/ilipatikana katika Glasgow.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0032732398249208927}
+{"uid": "xfactr-sw-P1001-000265", "answer": "Maharaja ni neno la kisheria/(neno halali) katika lugha ya Kihindi.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0027389300521463156}
+{"uid": "xfactr-sw-P54-000465", "answer": "Joshua Edmondson anacheza na kriketi.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0012100632302463055}
+{"uid": "xfactr-sw-P1001-000558", "answer": "Rais wa Jamhuri ya Kenya ni neno la kisheria/(neno halali) katika nchi.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.01479707658290863}
+{"uid": "xfactr-sw-P264-000038", "answer": "Dr. Dre inawakilishwa na nembo ya muziki.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.10774093866348267}
+{"uid": "xfactr-sw-P740-000781", "answer": "Sixx A M ilianzishwa/ilipatikana katika Hollywood.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.015167959034442902}
+{"uid": "xfactr-sw-P127-000512", "answer": "Palm, Inc. inamilikiwa na TCL.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.005433323793113232}
+{"uid": "xfactr-sw-P127-000037", "answer": "Compaq inamilikiwa na HP.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0004420446348376572}
+{"uid": "xfactr-sw-P69-000935", "answer": "chuo kikuu cha Cambridge.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.009137053973972797}
+{"uid": "xfactr-sw-P69-000925", "answer": "chuo kikuu cha Harvard.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.015080959536135197}
+{"uid": "xfactr-sw-P19-000783", "answer": "Jakob Piil alizaliwa 1901.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.030179468914866447}
+{"uid": "xfactr-sw-P495-000130", "answer": "American Pie iliundwa katika Marekani.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.013232464902102947}
+{"uid": "xfactr-sw-P19-000965", "answer": "Andreas Kunz alizaliwa 1922.", "label": 1, "label_rule": "matches", "first_token_entropy": 7.706346514169127e-05}
+{"uid": "xfactr-sw-P740-000201", "answer": "The Jackson 5 ilianzishwa/ilipatikana katika Gary, Indiana.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.02785707823932171}
+{"uid": "xfactr-sw-P69-000610", "answer": "chuo kikuu cha Amsterdam.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.007783304899930954}
+{"uid": "xfactr-sw-P740-000738", "answer": "Chelsea Grin ilianzishwa/ilipatikana katika 2007.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03410779684782028}
+{"uid": "xfactr-sw-P127-000227", "answer": "Hoteli Hilton inamilikiwa na Hilton Worldwide.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0017974989023059607}
+{"uid": "xfactr-sw-P176-000323", "answer": "Mercedes-Benz 300 inatengenezwa na Mercedes-Benz.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0022631585597991943}
+{"uid": "xfactr-sw-P69-000131", "answer": "Edward Thorndike alisomea katika chuo kikuu cha Harvard.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.06383289396762848}
+{"uid": "xfactr-sw-P19-000237", "answer": "Uwe-Jens Mey alizaliwa 1962.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0488213375210762}
+{"uid": "xfactr-sw-P102-000349", "answer": "Chama cha siasa cha Chama cha Wapinzani (CCM)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03480366989970207}
+{"uid": "xfactr-sw-P108-000573", "answer": "Alyssa A. Goodman anafanyakazi kwa mwanaharakati.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.052524417638778687}
+{"uid": "xfactr-sw-P495-000323", "answer": "Horcas iliundwa katika Argentina.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.22062760591506958}
+{"uid": "xfactr-sw-P19-000474", "answer": "Victor Pastor alizaliwa 1970.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0004847748205065727}
+{"uid": "xfactr-sw-P495-000652", "answer": "The Morey Amsterdam Show iliundwa katika New York.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.04881981015205383}
+{"uid": "xfactr-sw-P413-000587", "answer": "Pablo Pérez Rodríguez anahusika katika nafasi ya mchezaji.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07808668911457062}
+{"uid": "xfactr-sw-P19-000696", "answer": "Émile Peynot alizaliwa 1831.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.001481921412050724}
+{"uid": "xfactr-sw-P19-000570", "answer": "Chun Wei Cheung alizaliwa Hong Kong.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03596366196870804}
+{"uid": "xfactr-sw-P19-000282", "answer": "Alfred Capus alizaliwa 1878.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.017934899777173996}
+{"uid": "xfactr-sw-P19-000105", "answer": "Harry Harding alizaliwa 1944.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.29526329040527344}
+{"uid": "xfactr-sw-P740-000659", "answer": "Control Machete ilianzishwa/ilipatikana katika Nairobi.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.005834137089550495}
+{"uid": "xfactr-sw-P276-000333", "answer": "Kiburu inapatikana (mtaa wa) Kiburu.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.1454975605010986}
+{"uid": "xfactr-sw-P264-000380", "answer": "T-Pain inawakilishwa na nembo ya mziki \"3 Words\".", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3411160707473755}
+{"uid": "xfactr-sw-P276-000185", "answer": "Old Faithful Inn inapatikana (mtaa wa) Wyoming.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.031636402010917664}
+{"uid": "xfactr-sw-P413-000981", "answer": "kutengeneza filamu", "label": 1, "label_rule": "matches", "first_token_entropy": 2.3101565837860107}
+{"uid": "xfactr-sw-P69-000627", "answer": "Eran Segal alisomea katika chuo kikuu cha Tel Aviv.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.040119469165802}
+{"uid": "xfactr-sw-P276-000258", "answer": "Kimalay ya Larantuka inapatikana (mtaa wa) Larantuka.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.5798431634902954}
+{"uid": "xfactr-sw-P108-000494", "answer": "Arthur Lee Loeb anafanyakazi kwa mwanaharakati.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.13354088366031647}
+{"uid": "xfactr-sw-P108-000098", "answer": "William Alfred anafanyakazi kwa mwanaharakati.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8061090707778931}
+{"uid": "xfactr-sw-P102-000396", "answer": "Arno Breitmeyer ni mwanachama wa chama cha siasa cha CDU.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.05185906961560249}
+{"uid": "xfactr-sw-P495-000619", "answer": "Diario de la Marina iliundwa katika 1966.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.020046547055244446}
+{"uid": "xfactr-sw-P69-000024", "answer": "Karen Richardson alisomea katika chuo kikuu cha Harvard.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07829725742340088}
+{"uid": "xfactr-sw-P740-000328", "answer": "Joan Franka ilianzishwa/ilipatikana katika 1967.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.011663535609841347}
+{"uid": "xfactr-sw-P54-000907", "answer": "Neal Walk anacheza na New York Knicks.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5114191770553589}
+{"uid": "xfactr-sw-P495-000445", "answer": "Mr Bones iliundwa katika 2005.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.47747665643692017}
+{"uid": "xfactr-sw-P102-000659", "answer": "chama cha siasa cha Fremskritt", "label": 1, "label_rule": "matches", "first_token_entropy": 0.01456576120108366}
+{"uid": "xfactr-sw-P413-000696", "answer": "Simeon Mulama anahusika katika nafasi ya Mwanaharakati.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.9389848709106445}
+{"uid": "xfactr-sw-P102-000997", "answer": "Chama cha siasa cha CCM.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06787322461605072}
+{"uid": "xfactr-sw-P102-000286", "answer": "Anders Björck ni mwanachama wa chama cha siasa cha Moderata Samlingspartiet.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.00023273061378858984}
+{"uid": "xfactr-sw-P276-000360", "answer": "Old Faithful Lodge inapatikana (mtaa wa) Wyoming.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.038865018635988235}
+{"uid": "xfactr-sw-P449-000266", "answer": "Hope & Faith ilirushwa kwenye TV One.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.16233065724372864}

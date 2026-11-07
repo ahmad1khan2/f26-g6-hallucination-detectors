@@ -1,0 +1,856 @@
+{"uid": "xfactr-yo-P37-000083", "answer": "Èdè iṣẹ́  Ìṣọ̀kan Europe ni Latin.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.008371353149414}
+{"uid": "xfactr-yo-P30-000413", "answer": "Nínú Jọ́rdánì wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.107818126678467}
+{"uid": "xfactr-yo-P103-000065", "answer": "Èdè abínibí Octave Henri Marie Mirbeau ni ọ̀kan.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0737327337265015}
+{"uid": "xfactr-yo-P190-000013", "answer": "Mọsko àti ìyàwó jẹ́ ìlu méjì tí ó wà lẹ̀gbẹ́ ara wọn.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5796645879745483}
+{"uid": "xfactr-yo-P20-000060", "answer": "Pope Callixtus I kú ní 223.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.24368761479854584}
+{"uid": "xfactr-yo-P527-000035", "answer": "Gẹ̀ẹ́sì.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.2995240688323975}
+{"uid": "xfactr-yo-P39-000019", "answer": "Gerald Ford ní ipò Amẹ́ríkà.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4031047821044922}
+{"uid": "xfactr-yo-P530-000492", "answer": "Austrálíà ní ìbáṣepọ̀ tí kò fàyègba ìjà pẹ̀lu ọ̀ra.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4595375955104828}
+{"uid": "xfactr-yo-P39-000068", "answer": "Gbólóhùn: James A. Garfield ní ipò Àmeríka.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.28537458181381226}
+{"uid": "xfactr-yo-P190-000549", "answer": "Istanbul àti Konstantinople jẹ́ ìlu méjì tí ó wà lẹ̀gbẹ́ ara wọn.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.10629129409790039}
+{"uid": "xfactr-yo-P190-000125", "answer": "Prague àti Vienna jẹ́ ìlu méjì tí ó wà lẹ̀gbẹ́ ara wọn.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09689188003540039}
+{"uid": "xfactr-yo-P47-000583", "answer": "Sáúdí Arábíà pa ààlà pẹlu ẹ̀yin.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5349849462509155}
+{"uid": "xfactr-yo-P463-000251", "answer": "Tufala jẹ́ ọmọ ẹgbẹ́.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.035151958465576}
+{"uid": "xfactr-yo-P47-000082", "answer": "Gbólóhùn: Singapore pa ààlà pẹlu ọ̀run.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.05801104009151459}
+{"uid": "xfactr-yo-P190-000770", "answer": "Santiago àti Chile jẹ́ ìlu méjì tí ó wà lẹ̀gbẹ́ ara wọn.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07434256374835968}
+{"uid": "xfactr-yo-P103-000095", "answer": "Èdè abínibí Jean Cocteau ni ẹ̀dẹ̀ Yorùbá.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0400546789169312}
+{"uid": "xfactr-yo-P17-000123", "answer": "Nínú ẹ̀yin òrí ẹ̀yin òrí ni Sofia wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.6819281578063965}
+{"uid": "xfactr-yo-P190-000494", "answer": "Gbólóhùn: Sofia àti Barcelona jẹ́ ìlu méjì tí ó wà lẹ̀gbẹ́ ara wọn.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2672223448753357}
+{"uid": "xfactr-yo-P47-000359", "answer": "Gbólóhùn: Benin pa ààlà pẹlu ẹ̀yin.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.13146217167377472}
+{"uid": "xfactr-yo-P1376-000116", "answer": "Tashkent ni olú-ìlú Uzbekistan.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.061869822442531586}
+{"uid": "xfactr-yo-P47-000254", "answer": "Sámbíà pa ààlà pẹlu ẹ̀yin.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.109055757522583}
+{"uid": "xfactr-yo-P47-000432", "answer": "Móldófà pa ààlà pẹlu ẹ̀yin.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2268226146697998}
+{"uid": "xfactr-yo-P37-000027", "answer": "Èdè iṣẹ́  fiẹtnám ni ẹ̀dá.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.48368459939956665}
+{"uid": "xfactr-yo-P37-000253", "answer": "Èdè iṣẹ́ tànsáníà ni Yorùbá.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5370591282844543}
+{"uid": "xfactr-yo-P190-000667", "answer": "Gbólóhùn: Warsaw àti Kraków jẹ́ ìlu méjì tí ó wà lẹ̀gbẹ́ ara wọn.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1369817703962326}
+{"uid": "xfactr-yo-P47-000413", "answer": "Afghánisitán pa àlàfo pẹlu òrí.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.1378464698791504}
+{"uid": "xfactr-yo-P190-000135", "answer": "Mọsko àti ìyàwó jẹ́ ìlu méjì tí ó wà lẹ̀gbẹ́ ara wọn.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5796645879745483}
+{"uid": "xfactr-yo-P47-000037", "answer": "Gbólóhùn: Faranse pa ààlà pẹlu ẹ̀yin.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1781943142414093}
+{"uid": "xfactr-yo-P190-000637", "answer": "Santo Domingo àti Havana jẹ́ ìlu méjì tí ó wà lẹ̀gbẹ́ ara wọn.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2866385579109192}
+{"uid": "xfactr-yo-P47-000511", "answer": "Ìwọ̀orùn Firginia pa ààlà pẹlu ọ̀rẹ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.48525384068489075}
+{"uid": "xfactr-yo-P1376-000079", "answer": "Tirana ni olú-ìlú Albania.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4107411801815033}
+{"uid": "xfactr-yo-P527-000069", "answer": "Gbólóhùn: ọ̀rúkọ̀ọ̀lẹ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.33834415674209595}
+{"uid": "xfactr-yo-P30-000180", "answer": "Nínú Ìlà orí̀ṣirẹ́ ni Ṣìkágò wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6809208393096924}
+{"uid": "xfactr-yo-P190-000996", "answer": "Amman àti Ọ̀rúnmìlè jẹ́ ìlu méjì tí ó wà lẹ̀gbẹ́ ara wọn.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.030097007751465}
+{"uid": "xfactr-yo-P530-000472", "answer": "Gbólóhùn: Índíà ní ìbáṣepọ̀ tí kò fàyègba ìjà pẹ̀lu ẹ̀yin.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4436587691307068}
+{"uid": "xfactr-yo-P131-000079", "answer": "Nínú ẹ̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̀́", "label": 1, "label_rule": "matches", "first_token_entropy": 2.528351306915283}
+{"uid": "xfactr-yo-P530-000645", "answer": "Gbólóhùn: Ísráẹ́lì ní ìbáṣepọ̀ tí kò fàyègba ìjà pẹ̀lu ẹ̀gbọ́", "label": 1, "label_rule": "matches", "first_token_entropy": 0.25176525115966797}
+{"uid": "xfactr-yo-P190-000455", "answer": "Kuala Lumpur àti Singapore jẹ́ ìlu méjì tí ó wà lẹ̀gbẹ́ ara wọn.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.14226147532463074}
+{"uid": "xfactr-yo-P30-000278", "answer": "Nínú ẹ̀yin òrúnmìlè ni Púẹ́rtò Ríkò wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.692549467086792}
+{"uid": "xfactr-yo-P30-000107", "answer": "Nínú ẹ̀yin òrúnmìlè ni Sẹ̀nẹ̀gàl wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7034616470336914}
+{"uid": "xfactr-yo-P530-000318", "answer": "Gbólóhùn: Luxembourg ní ìbáṣepọ̀ tí kò fàyègba ìjà pẹ̀lu Belgium.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.13460664451122284}
+{"uid": "xfactr-yo-P47-000074", "answer": "Orílẹ̀-èdè Olómìnira àwọn Ará ilẹ̀ Ṣáínà pa ààlà pẹlu ẹgbẹ́ ẹgbẹ́.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5810829997062683}
+{"uid": "xfactr-yo-P47-000452", "answer": "Sẹ̀nẹ̀gàl pa ààlà pẹlu ẹ̀yin.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.14840468764305115}
+{"uid": "xfactr-yo-P937-000085", "answer": "Sigmund Freud máa ń ṣiṣẹ́ nínú ọ̀rọ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06383654475212097}
+{"uid": "xfactr-yo-P530-000728", "answer": "Gbólóhùn: Yemen ní ìbáṣepọ̀ tí kò fàyègba ìjà pẹ̀lu ẹ̀bọ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.12449087202548981}
+{"uid": "xfactr-yo-P47-000125", "answer": "Sámbíà pa ààlà pẹlu ẹ̀yin.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.109055757522583}
+{"uid": "xfactr-yo-P190-000731", "answer": "Gbólóhùn: Jerusalem àti Mecca jẹ́ ìlu méjì tí ó wà lẹ̀gbẹ́ ara wọn.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1335086226463318}
+{"uid": "xfactr-yo-P463-000030", "answer": "Lẹ́bánọ́nì jẹ́ ọmọ ẹgbẹ́ ẹ̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̀", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3044888973236084}
+{"uid": "xfactr-yo-P47-000353", "answer": "Gùyánà pa ààlà pẹlu ẹ̀yin.", "label": 1, "label_rule": "matches", "first_token_entropy": 5.653247833251953}
+{"uid": "xfactr-yo-P530-000521", "answer": "Kánádà ní ìbáṣepọ̀ tí kò fàyègba ìjà pẹ̀lu Amẹrika.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8898115158081055}
+{"uid": "xfactr-yo-P47-000167", "answer": "Nàmíbíà pa ààlà pẹlu ẹ̀yin.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4125419855117798}
+{"uid": "xfactr-yo-P530-000070", "answer": "Jẹ́mánì ní ìbáṣepọ̀ tí kò fàyègba ìjà pẹ̀lù ìjà̀ká.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.36977049708366394}
+{"uid": "xfactr-yo-P1376-000250", "answer": "Dili ni olú-ìlù Ilè-Ifẹ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.603459358215332}
+{"uid": "xfactr-yo-P530-000419", "answer": "Nọ́rwèy ní ìbáṣepọ̀ tí kò fàyègba ìjà pẹ̀lu ọ̀rùn.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3227075934410095}
+{"uid": "xfactr-yo-P530-000855", "answer": "Sáúdí Arábíà ní ìbáṣepọ̀ tí kò fàyègba ìjà pẹ̀lu ẹ̀bọ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6325852870941162}
+{"uid": "xfactr-yo-P530-000316", "answer": "Kánádà ní ìbáṣepọ̀ tí kò fàyègba ìjà pẹ̀lu Amẹrika.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8898115158081055}
+{"uid": "xfactr-yo-P47-000307", "answer": "Gbólóhùn: Illinois pa ààlà pẹlu ńlọ́nọ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.05654749274253845}
+{"uid": "xfactr-yo-P47-000202", "answer": "Gbólóhùn: Austríà pa ààlà pẹlu ọ̀rẹ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07197816669940948}
+{"uid": "xfactr-yo-P530-000188", "answer": "Gbólóhùn: Japan ní ìbáṣepọ̀ tí kò fàyègba ìjà pẹ̀lu ọ̀run.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.11525639146566391}
+{"uid": "xfactr-yo-P463-000158", "answer": "Dòmíníkà jẹ́ ọmọ ẹgbẹ́ ẹ̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̀", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7217919826507568}
+{"uid": "xfactr-yo-P530-000763", "answer": "Afghánístàn.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.029541254043579}
+{"uid": "xfactr-yo-P530-000448", "answer": "Síríà ní ìbáṣepọ̀ tí kò fàyègba ìjà pẹ̀lu ẹ̀yin.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.24238087236881256}
+{"uid": "xfactr-yo-P47-000266", "answer": "Kàmbódíà pa ààlà pẹlu ẹ̀yin.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.2491257190704346}
+{"uid": "xfactr-yo-P47-000405", "answer": "Gbólóhùn: Jẹ́mánì Nazi pa àlàfo pẹlu ẹ̀gbẹ́ ọmọ ẹ̀yin.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.22928646206855774}
+{"uid": "xfactr-yo-P530-000676", "answer": "Afghanístàn ní ìbáṣepọ̀ tí kò fàyègba ìjà pẹ̀lu Ameeríkà.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.10936111956834793}
+{"uid": "xfactr-yo-P530-000934", "answer": "Ethiópíà ní ìbáṣepọ̀ tí kò fàyègba ìjà pẹ̀lu ọ̀run.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.16015657782554626}
+{"uid": "xfactr-yo-P17-000484", "answer": "Nínú Ògún ni Odò Amasónì wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.3272385597229004}
+{"uid": "xfactr-yo-P530-000956", "answer": "Ìbáṣepọ̀ tí kò fàyègba ìjà pẹ̀lu ẹ̀gbọ́n.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.214777946472168}
+{"uid": "xfactr-yo-P47-000245", "answer": "Túrkì pa ààlà pẹlu ẹ̀yin.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7025346755981445}
+{"uid": "xfactr-yo-P530-000155", "answer": "Gbólóhùn: Japan ní ìbáṣepọ̀ tí kò fàyègba ìjà pẹ̀lu ọ̀run.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.11525639146566391}
+{"uid": "xfactr-yo-P47-000605", "answer": "Ìlàòrùn Timor pa ààlà pẹlu ẹ̀yin.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3450406491756439}
+{"uid": "xfactr-yo-P407-000052", "answer": "Daniel ni a fí kọ.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.4902944564819336}
+{"uid": "xfactr-yo-P530-000203", "answer": "Papua Guinea Titun ní ìbáṣepọ̀ tí kò fàyègba ìjà pẹ̀lu ọ̀run.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4749999940395355}
+{"uid": "xfactr-yo-P530-000029", "answer": "Itálíà ní ìbáṣepọ̀ tí kò fàyègba ìjà pẹ̀lù Itálíà.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.18719808757305145}
+{"uid": "xfactr-yo-P530-000414", "answer": "Lẹ́bánọ́nì ní ìbáṣepọ̀ tí kò fàyègba ìjà pẹ̀lu ẹ̀gbọ́n.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2454061359167099}
+{"uid": "xfactr-yo-P190-000005", "answer": "Berlin àti Paris jẹ́ ìlu méjì tí ó wà lẹ̀gbẹ́ ara wọn.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.48027169704437256}
+{"uid": "xfactr-yo-P47-000528", "answer": "Gẹ̀ẹ́ẹ́.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2032264471054077}
+{"uid": "xfactr-yo-P37-000547", "answer": "Èdè iṣẹ́ tànsáníà ni Yorùbá.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5370591282844543}
+{"uid": "xfactr-yo-P47-000260", "answer": "Gbólóhùn: Brasil pa ààlà pẹlu ọ̀rẹ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06438782066106796}
+{"uid": "xfactr-yo-P530-000900", "answer": "Itálíà ní ìbáṣepọ̀ tí kò fàyègba ìjà pẹ̀lù Itálíà.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.18719808757305145}
+{"uid": "xfactr-yo-P37-000797", "answer": "Èdè iṣẹ́  Tufalu ni Yorùbá.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5771580338478088}
+{"uid": "xfactr-yo-P530-000791", "answer": "Kíprù ní ìbáṣepọ̀ tí kò fàyègba ìjà pẹ̀lu ẹ̀yin.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6278971433639526}
+{"uid": "xfactr-yo-P190-000633", "answer": "Delhi Titun àti Mumbai jẹ́ ìlu méjì tí ó wà lẹ̀gbẹ́ ara wọn.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.05380025506019592}
+{"uid": "xfactr-yo-P463-000090", "answer": "Kòréà Àríwá jẹ́ ọmọ ẹgbẹ́ ẹ̣̀́.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.218598484992981}
+{"uid": "xfactr-yo-P39-000001", "answer": "Barack Obama ní ipò Amẹ́ríkà.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.04949304461479187}
+{"uid": "xfactr-yo-P47-000170", "answer": "Gbólóhùn: Austríà pa ààlà pẹlu ọ̀rẹ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07197816669940948}
+{"uid": "xfactr-yo-P47-000292", "answer": "Àríwá Carolina pa ààlà pẹlú ẹ̀ẹ̀bẹ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.14209464192390442}
+{"uid": "xfactr-yo-P190-000326", "answer": "Tokyo àti New York jẹ́ ìlu méjì tí ó wà lẹ̀gbẹ́ ara wọn.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.01213778555393219}
+{"uid": "xfactr-yo-P47-000222", "answer": "Mòsámbìk pa ààlà pẹlu ọ̀rẹ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5743522047996521}
+{"uid": "xfactr-yo-P36-000178", "answer": "Olú-ìlú Kàsàkstán ni Astanà.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.585180640220642}
+{"uid": "xfactr-yo-P530-000442", "answer": "Àwọn Erékùsù Sólómọ́nì ní ìbáṣepọ̀ tí kò fàyègba ìjà pẹ̀lu ẹ̀gbọ́", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1516263484954834}
+{"uid": "xfactr-yo-P1376-000020", "answer": "Amsterdam ni olú-ìlú Hààland.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.02656366117298603}
+{"uid": "xfactr-yo-P1376-000087", "answer": "Èkó ni olú-ìlú Ìbàjá.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.08304834365844727}
+{"uid": "xfactr-yo-P47-000036", "answer": "Bẹ́ljíọ̀m pa ààlà pẹlu ẹ̀yin.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4928043484687805}
+{"uid": "xfactr-yo-P30-000034", "answer": "Nínú ẹ̀yin òrí ẹ̀yin òrí ni Bẹ́ljíọ̀m wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.684546709060669}
+{"uid": "xfactr-yo-P37-000193", "answer": "Èdè iṣẹ́  Mòsámbìk ni  Pòrtúgì.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6467597484588623}
+{"uid": "xfactr-yo-P69-000001", "answer": "A kọ́ Woodrow Wilson ní ẹ̀kọ́ ní ilé ẹ̀kọ́ gìgà Amerika.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.7299675941467285}
+{"uid": "xfactr-yo-P530-000546", "answer": "Gbólóhùn: Sloféníà ní ìbáṣepọ̀ tí kò fàyègba ìjà pẹ̀lu ẹ̀bú.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5412254929542542}
+{"uid": "xfactr-yo-P937-000249", "answer": "Gbólóhùn: Gottfried Leibniz máa ń ṣiṣẹ́ nínú ọ̀rúnmìlẹ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.11862121522426605}
+{"uid": "xfactr-yo-P17-000048", "answer": "Nínú Yorùbá ni Èdè Yorùbá wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7095091342926025}
+{"uid": "xfactr-yo-P1376-000065", "answer": "Áténì ni olú-ìlú.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.17062123119831085}
+{"uid": "xfactr-yo-P47-000154", "answer": "Gbólóhùn: Republic of Zimbabwe pa ààlà pẹlu  Zimbabwe.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.057649217545986176}
+{"uid": "xfactr-yo-P47-000052", "answer": "Gbólóhùn: CH pa ààlà pẹlu ẹ̀yin.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1246359795331955}
+{"uid": "xfactr-yo-P37-000018", "answer": "Èdè Itálíà ni Itálíà.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.889422595500946}
+{"uid": "xfactr-yo-P17-000269", "answer": "Nínú ẹ̀yin òrúnmìlè ni Sinaloa wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.386539936065674}
+{"uid": "xfactr-yo-P530-000011", "answer": "Kánádà ní ìbáṣepọ̀ tí kò fàyègba ìjà pẹ̀lu Amẹrika.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8898115158081055}
+{"uid": "xfactr-yo-P530-000249", "answer": "Kòréà Gúúsù ní ìbáṣepọ̀ tí kò fàyègba ìjà pẹ̀lu ẹ̀yin.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4478636980056763}
+{"uid": "xfactr-yo-P530-000906", "answer": "Bẹ̀lárùs ní ìbáṣepọ̀ tí kò fàyègba ìjà pẹ̀lu ẹ̀yin.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.503511905670166}
+{"uid": "xfactr-yo-P530-000496", "answer": "Sáúdí Arábíà ní ìbáṣepọ̀ tí kò fàyègba ìjà pẹ̀lu ẹ̀bọ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6325852870941162}
+{"uid": "xfactr-yo-P1376-000070", "answer": "Hanoi ni olú-ìlù Vietnam.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.027540626004338264}
+{"uid": "xfactr-yo-P530-000544", "answer": "Túrkì ní ìbáṣepọ̀ tí kò fàyègba ìjà pẹ̀lu ẹ̀yin.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5928802490234375}
+{"uid": "xfactr-yo-P530-000880", "answer": "Rọ́síà ní ìbáṣepọ̀ tí kò fàyègba ìjà pẹ̀lu ọ̀run.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.20004718005657196}
+{"uid": "xfactr-yo-P37-000863", "answer": "Èdè iṣẹ́ Gúúsù Dakota ni Amẹ́rika.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0160595178604126}
+{"uid": "xfactr-yo-P140-000444", "answer": "Gbólóhùn: Pope Innocent IV ní ìbáṣepọ̀ pẹ̀lu ẹ̀sìn ẹ̣̀́nìyàn.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.10389798879623413}
+{"uid": "xfactr-yo-P47-000549", "answer": "Idaho pa ààlà pẹlu ẹ̀yin.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.772745132446289}
+{"uid": "xfactr-yo-P47-000435", "answer": "Gbólóhùn: Arkansas pa ààlà pẹlu ọ̀rẹ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07744701951742172}
+{"uid": "xfactr-yo-P47-000336", "answer": "Lituéníà pa ààlà pẹlu ẹ̀yin.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6702395677566528}
+{"uid": "xfactr-yo-P190-000818", "answer": "Gbólóhùn: Marseille àti Nice jẹ́ ìlu méjì tí ó wà lẹ̀gbẹ́ ara wọn.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.13631123304367065}
+{"uid": "xfactr-yo-P190-000682", "answer": "Boston àti New York jẹ́ ìlu méjì tí ó wà lẹ̀gbẹ́ ara wọn.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.81023108959198}
+{"uid": "xfactr-yo-P190-000710", "answer": "Gbólóhùn: Toronto àti New York jẹ́ ìlu méjì tí ó wà lẹ̀gbẹ́ ara wọn.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.12138323485851288}
+{"uid": "xfactr-yo-P361-000038", "answer": "Brasil jẹ́ ẹ̀yà ara Amérika.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.13463254272937775}
+{"uid": "xfactr-yo-P463-000104", "answer": "Sri Lanka jẹ́ ọmọ ẹgbẹ́ ẹgbẹ́ ẹgbẹ́.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4587693512439728}
+{"uid": "xfactr-yo-P463-000187", "answer": "Malaysia jẹ́ ọmọ ẹgbẹ́ ọ̀run.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.30869245529174805}
+{"uid": "xfactr-yo-P17-000203", "answer": "Nínú Pákistán ni Islàmabad wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.2084426879882812}
+{"uid": "xfactr-yo-P527-000389", "answer": "Gbólóhùn: ọ̀rúnmìlẹ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.42762038111686707}
+{"uid": "xfactr-yo-P131-000101", "answer": "Nínú New Hampshire wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.231520414352417}
+{"uid": "xfactr-yo-P30-000365", "answer": "Nínú Amẹ́rika ni Orílẹ̀òmìnira Dómíníkì wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6627347469329834}
+{"uid": "xfactr-yo-P136-000122", "answer": "Gbólóhùn: Whitney Houston ń kọ orin \"I Will Always Love You\".", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1467752456665039}
+{"uid": "xfactr-yo-P463-000035", "answer": "Dẹ́nmárkì jẹ́ ọmọ ẹgbẹ́ ẹ̣̣̣̣̣̣̀́.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3312793970108032}
+{"uid": "xfactr-yo-P36-000042", "answer": "Jakarta.   (Àlàfo: Jakarta)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.20025204122066498}
+{"uid": "xfactr-yo-P39-000483", "answer": "Pope Clement IX ní ipò 1602.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.12271562218666077}
+{"uid": "xfactr-yo-P190-000754", "answer": "Manama àti Dubai jẹ́ ìlu méjì tí ó wà lẹ̀gbẹ́ ara wọn.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2726689577102661}
+{"uid": "xfactr-yo-P463-000036", "answer": "Kroatíà jẹ́ ọmọ ẹgbẹ́ ẹ̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̀", "label": 1, "label_rule": "matches", "first_token_entropy": 2.834825277328491}
+{"uid": "xfactr-yo-P190-000353", "answer": "Gbólóhùn: Beijing àti Tokyo jẹ́ ìlu méjì tí ó wà lẹ̀gbẹ́ ara wọn.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.25294727087020874}
+{"uid": "xfactr-yo-P190-000228", "answer": "Helsinki àti Stockholm jẹ́ ìlu méjì tí ó wà lẹ̀gbẹ́ ara wọn.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06032170355319977}
+{"uid": "xfactr-yo-P30-000160", "answer": "Nínú Ìlà orí̀rẹ́ Málì wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8884294033050537}
+{"uid": "xfactr-yo-P463-000521", "answer": "Àwọn Erékùsù Sólómọ́nì jẹ́ ọmọ ẹgbẹ́ ẹ̣̣̣̣̣̣̀", "label": 1, "label_rule": "matches", "first_token_entropy": 0.11895361542701721}
+{"uid": "xfactr-yo-P463-000880", "answer": "Tùnísíà jẹ́ ọmọ ẹgbẹ́ ẹ̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̀", "label": 1, "label_rule": "matches", "first_token_entropy": 2.0176265239715576}
+{"uid": "xfactr-yo-P1376-000023", "answer": "Bangkok ni olú-ìlú Thailand.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0058493055403232574}
+{"uid": "xfactr-yo-P407-000474", "answer": "Tatiana ni a fí kọ.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6467564105987549}
+{"uid": "xfactr-yo-P37-000004", "answer": "Èdè iṣẹ́  Rọ́síà ni  Rọ́síà.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7219852209091187}
+{"uid": "xfactr-yo-P1376-000256", "answer": "Libreville ni olú-ìlù Gabon.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.010908203199505806}
+{"uid": "xfactr-yo-P937-000005", "answer": "Gbólóhùn: Georges Pompidou máa ń ṣiṣẹ́ nínú ẹgbẹ́ ágá orísọ̀sì.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.13933423161506653}
+{"uid": "xfactr-yo-P37-000542", "answer": "Èdè iṣẹ́ gámbíà ni èdè Yorùbá.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5013880729675293}
+{"uid": "xfactr-yo-P527-000014", "answer": "Gúúsù Amẹ́ríkà.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.2558796405792236}
+{"uid": "xfactr-yo-P138-000006", "answer": "Orúkọ̀ Búddà.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1452443599700928}
+{"uid": "xfactr-yo-P103-000037", "answer": "Èdè abínibí Jean-Jacques Rousseau ni \"Société du contrat social\".", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0614532232284546}
+{"uid": "xfactr-yo-P131-000062", "answer": "Nínú Àmẹ́rika.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.209632396697998}
+{"uid": "xfactr-yo-P39-000373", "answer": "Pope Celestine IV ní ipò 1241.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.21811765432357788}
+{"uid": "xfactr-yo-P190-000056", "answer": "Kiev àti Moscow jẹ́ ìlu méjì tí ó wà lẹ̀gbẹ́ ara wọn.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6792232990264893}
+{"uid": "xfactr-yo-P463-000458", "answer": "Pólàndì jẹ́ ọmọ ẹgbẹ́ ẹ̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̀", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6638404130935669}
+{"uid": "xfactr-yo-P106-000030", "answer": "Bing Crosby jẹ́ ọ̀rẹ́ ẹgbẹ́ gbólóhùn.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2513928711414337}
+{"uid": "xfactr-yo-P30-000051", "answer": "Nínú Òsló ni Nọ́rwèy wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.826411485671997}
+{"uid": "xfactr-yo-P17-000072", "answer": "Nínú Ìlà orí̀rẹ́.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8467166423797607}
+{"uid": "xfactr-yo-P190-000154", "answer": "Buenos Aires àti Montevideo jẹ́ ìlu méjì tí ó wà lẹ̀gbẹ́ ara wọn.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0752917230129242}
+{"uid": "xfactr-yo-P30-000065", "answer": "Nínú Kualalumpur ni Malaysia wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.9993834495544434}
+{"uid": "xfactr-yo-P407-000016", "answer": "Àdéhùn Versailles ni àlàfo gbólóhùn kan tí ó sọnù láti ọjọ́ 28 June 1919.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7471441626548767}
+{"uid": "xfactr-yo-P190-000002", "answer": "Gbólóhùn: Los Angeles àti Mexico City jẹ́ ìlu méjì tí ó wà lẹ̀gbẹ́ ara wọn.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.17525634169578552}
+{"uid": "xfactr-yo-P190-000029", "answer": "Gbólóhùn: San Francisco àti New York jẹ́ ìlu méjì tí ó wà lẹ̀gbẹ́ ara wọn.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.16977670788764954}
+{"uid": "xfactr-yo-P36-000078", "answer": "Olú-ìlu Austríà ni Vín", "label": 1, "label_rule": "matches", "first_token_entropy": 2.026108741760254}
+{"uid": "xfactr-yo-P138-000004", "answer": "Orúkọ̀ ìpínlẹ̀ Aṣọ̀kan Amẹ́ríkà ni United States.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.1677978038787842}
+{"uid": "xfactr-yo-P131-000047", "answer": "Nínú Pennsylvania wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.01568341255188}
+{"uid": "xfactr-yo-P30-000253", "answer": "Nínú Ìlè-Ifẹ̀ ni Tóngà wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.176168441772461}
+{"uid": "xfactr-yo-P190-000243", "answer": "Ìlú Mẹ́ksíkò àti Ástúríà jẹ́ ìlu méjì tí ó wà lẹ̀gbẹ́ ara wọn.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2989063858985901}
+{"uid": "xfactr-yo-P937-000042", "answer": "Gbólóhùn: Calvin Coolidge máa ń ṣiṣẹ́ nínú Ạpáá.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2034551352262497}
+{"uid": "xfactr-yo-P30-000062", "answer": "Nínú ẹ̀kọ́ ẹ̀dá ẹ̀dá ilẹ̀ Ṣáínà wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7604854106903076}
+{"uid": "xfactr-yo-P463-000420", "answer": "Mónakò jẹ́ ọmọ ẹgbẹ́ ẹ̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̀", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2248278558254242}
+{"uid": "xfactr-yo-P463-000362", "answer": "Bẹ̀lísè jẹ́ ọmọ ẹgbẹ́ ẹ̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̀", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6547645926475525}
+{"uid": "xfactr-yo-P190-000083", "answer": "Gbólóhùn: Warsaw àti Kraków jẹ́ ìlu méjì tí ó wà lẹ̀gbẹ́ ara wọn.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1369817703962326}
+{"uid": "xfactr-yo-P39-000715", "answer": "Rutherford B. Hayes ní ipò Àmeríka.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5422136783599854}
+{"uid": "xfactr-yo-P39-000004", "answer": "Gbólóhùn: Franklin D. Roosevelt ní ipò Amẹ́ríkà.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3327999711036682}
+{"uid": "xfactr-yo-P30-000021", "answer": "Nínú Buenos Aires ni Argẹntínà wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8333492279052734}
+{"uid": "xfactr-yo-P37-000420", "answer": "Èdè iṣẹ́  Kòmórò ni ẹ̀dá.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4437280297279358}
+{"uid": "xfactr-yo-P190-000279", "answer": "Istanbul àti Konstantinople jẹ́ ìlu méjì tí ó wà lẹ̀gbẹ́ ara wọn.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.10629129409790039}
+{"uid": "xfactr-yo-P190-000679", "answer": "Áténì àti òrúnmìlè jẹ́ ìlu méjì tí ó wà lẹ̀gbẹ́ ara wọn.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.12280918657779694}
+{"uid": "xfactr-yo-P36-000229", "answer": "Olú-ìlu Yemen ni Sana'a.", "label": 0, "label_rule": "matches", "first_token_entropy": 2.3526740074157715}
+{"uid": "xfactr-yo-P39-000032", "answer": "Gbólóhùn: Calvin Coolidge ní ipò Amẹ́ríkà.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.22965885698795319}
+{"uid": "xfactr-yo-P190-000922", "answer": "Amman àti Ọ̀rúnmìlè jẹ́ ìlu méjì tí ó wà lẹ̀gbẹ́ ara wọn.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.030097007751465}
+{"uid": "xfactr-yo-P36-000084", "answer": "Olú-ìlu CH ni Ìlú-ìlu CH.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.115138292312622}
+{"uid": "xfactr-yo-P190-000521", "answer": "Taipei àti Beijing jẹ́ ìlu méjì tí ó wà lẹ̀gbẹ́ ara wọn.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.08046472817659378}
+{"uid": "xfactr-yo-P407-000035", "answer": "Òrúkọ̀ọ̀bùn: Òrúkọ̀ọ̀bùn: \"Òrúkọ̀ọ̀bùn\" ni a fí kọ Michael.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.480480670928955}
+{"uid": "xfactr-yo-P1376-000003", "answer": "Tokyo ni olú-ìlú Japan.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.008745059370994568}
+{"uid": "xfactr-yo-P937-000011", "answer": "Gbólóhùn: Pablo Picasso máa ń ṣiṣẹ́ nínú ọ̀rọ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.14043554663658142}
+{"uid": "xfactr-yo-P463-000106", "answer": "Omọ ẹgbẹ́ ẹritrẹ́à.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.328052043914795}
+{"uid": "xfactr-yo-P463-000068", "answer": "Látfíà jẹ́ ọmọ ẹgbẹ́ ẹ̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̀", "label": 1, "label_rule": "matches", "first_token_entropy": 0.46045348048210144}
+{"uid": "xfactr-yo-P37-000208", "answer": "Èdè iṣẹ́ Kepu Ferde ni Yorùbá.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5992171764373779}
+{"uid": "xfactr-yo-P37-000074", "answer": "Èdè iṣẹ́  Bẹ̀lárùs ni ẹ̀dẹ̀ Yorùbá.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.45833754539489746}
+{"uid": "xfactr-yo-P1376-000029", "answer": "Cape Town ni olú-ìlu South Africa.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.043230801820755005}
+{"uid": "xfactr-yo-P1376-000192", "answer": "Gbólóhùn: Godthåb ni olú-ìlú Tórshavn.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4151890277862549}
+{"uid": "xfactr-yo-P276-000031", "answer": "Nínú Àlàfò ni Ogun Hitler wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.3613524436950684}
+{"uid": "xfactr-yo-P37-000901", "answer": "Èdè iṣẹ́ Akrotiri and Dhekelia ni ìjọbá ̀gbé.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3838635683059692}
+{"uid": "xfactr-yo-P39-000366", "answer": "Pope Sylvester II ní ipò 999-1003.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.16397207975387573}
+{"uid": "xfactr-yo-P37-000073", "answer": "Èdè iṣẹ́  Índíà ni Yorùbá.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5909029245376587}
+{"uid": "xfactr-yo-P30-000119", "answer": "Nínú ẹ̀yin òrí Màláwì wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7841646671295166}
+{"uid": "xfactr-yo-P407-000011", "answer": "Daniel ni a fí kọ.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.4902944564819336}
+{"uid": "xfactr-yo-P36-000193", "answer": "Olú-ìlu Málì ni Abújá.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.3795242309570312}
+{"uid": "xfactr-yo-P131-000242", "answer": "Nínú Arktík wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.241647243499756}
+{"uid": "xfactr-yo-P1376-000010", "answer": "Rio de Janeiro ni olú-ìlù Brasil.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.04611204192042351}
+{"uid": "xfactr-yo-P37-000178", "answer": "Má̀lésíà.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.1093215942382812}
+{"uid": "xfactr-yo-P138-000001", "answer": "Orúkọ̀ ìlú Bangladẹ́shì.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.268559217453003}
+{"uid": "xfactr-yo-P30-000217", "answer": "Nínú Ìsraẹ́l ni Ẹ́gíptì wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.9386875629425049}
+{"uid": "xfactr-yo-P30-000233", "answer": "Nínú ẹ̀yin òrí ẹ̀yin.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.054110288619995}
+{"uid": "xfactr-yo-P937-000047", "answer": "Gbólóhùn: Joseph Stalin máa ń ṣiṣẹ́ nínú Soviet Union.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.38004428148269653}
+{"uid": "xfactr-yo-P36-000040", "answer": "Baku. (Baku ni ibú tí ọ̀run Azerbaijan.)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.5995741486549377}
+{"uid": "xfactr-yo-P30-000008", "answer": "Nínú ẹ̣̀́bá Orílẹ̀-èdè Olómìnira àwọn Ará ilẹ̀ Ṣáínà wà .", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7625585794448853}
+{"uid": "xfactr-yo-P36-000094", "answer": "Olú-ìlu Tsílè ni Abúja.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8212039470672607}
+{"uid": "xfactr-yo-P30-000102", "answer": "Nínú Ìlàoruń ni Sùrìnámù wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.3266444206237793}
+{"uid": "xfactr-yo-P20-000087", "answer": "T. S. Eliot kú ní 1965.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3692314028739929}
+{"uid": "xfactr-yo-P37-000166", "answer": "Èdè iṣẹ́  Sẹ̀nẹ̀gàl ni ẹ̀dẹ̀ ẹ̀sẹ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7305451035499573}
+{"uid": "xfactr-yo-P463-000256", "answer": "Gbólóhùn: Albáníà jẹ́ ọmọ ẹgbẹ́ ẹ̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̀", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5513264536857605}
+{"uid": "xfactr-yo-P103-000135", "answer": "Èdè abínibí Virgil ni Latin.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8430113196372986}
+{"uid": "xfactr-yo-P1376-000055", "answer": "Méksíkò.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.316598653793335}
+{"uid": "xfactr-yo-P30-000314", "answer": "Nínú Kirgiziśtani wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6938176155090332}
+{"uid": "xfactr-yo-P30-000273", "answer": "Nínú Mọ́sébi wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.9429047107696533}
+{"uid": "xfactr-yo-P37-000188", "answer": "Èdè iṣẹ́  Èdè Gríkì nì ̀̀̀̀̀̀̀̀̀̀̀̀̀̀̀̀̀̀̀̀̀̀̀̀̀̀̀̀̀̀̀", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0444954633712769}
+{"uid": "xfactr-yo-P463-000037", "answer": "Austríà jẹ́ ọmọ ẹgbẹ́ ọ̀rẹ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6142174601554871}
+{"uid": "xfactr-yo-P19-000969", "answer": "Agnes Monica. (Ní èdè Yorùbá: Agnes Monica)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.11247999966144562}
+{"uid": "xfactr-yo-P37-000507", "answer": "Èdè iṣẹ́ Arizona ni Arizona.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0610899925231934}
+{"uid": "xfactr-yo-P37-000737", "answer": "Èdè iṣẹ́  Aceh ni ẹ̀dẹ̀ Yorùbá.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7175471186637878}
+{"uid": "xfactr-yo-P37-000065", "answer": "Èdè iṣẹ́  Kòlómbìà ni ẹ̀dá.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5004837512969971}
+{"uid": "xfactr-yo-P37-000174", "answer": "Èdè iṣẹ́  Ìṣọ̀kan Europe ni Latin.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.008371353149414}
+{"uid": "xfactr-yo-P27-000011", "answer": "Vladimir Putin jẹ́ ọmọ ìbílẹ̀ Rọ́sí́a.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09364347159862518}
+{"uid": "xfactr-yo-P1412-000000", "answer": "Napoleon Bonaparte máà ń sọ̀rọ̀ ní Fránsá.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.33440399169921875}
+{"uid": "xfactr-yo-P37-000213", "answer": "Èdè iṣẹ́  Paragúáì ni ẹ̀dẹ̀ Yorùbá.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7059228420257568}
+{"uid": "xfactr-yo-P36-000038", "answer": "Olú-ìlu Lẹ́bánọ́nì ni Beirút.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.3867526054382324}
+{"uid": "xfactr-yo-P131-000145", "answer": "Nínú Ìlà orí̀ ìlẹ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.6076512336730957}
+{"uid": "xfactr-yo-P140-000054", "answer": "Ilẹ̀ Ọbalúayé Rómù Mímọ́ ní ìbáṣepọ̀ pẹ̀lu ẹ̀sìn Ọ̀run.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1143149882555008}
+{"uid": "xfactr-yo-P1376-000011", "answer": "Beijing ni olú-ìlú China.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.08376935869455338}
+{"uid": "xfactr-yo-P30-000015", "answer": "Nínú Índíà wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.2657926082611084}
+{"uid": "xfactr-yo-P1412-000006", "answer": "Vladimir Putin máà ń sọ̀rọ̀ ní Rọ́síà.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.13692063093185425}
+{"uid": "xfactr-yo-P30-000079", "answer": "Nínú ẹ̀yin òrúnmìlè ni Paragúáì wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.1606855392456055}
+{"uid": "xfactr-yo-P140-000223", "answer": "Gbólóhùn: Pope Honorius I ní ìbáṣepọ̀ pẹ̀lu ẹ̀sìn ẹ̣̀bọ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.08553595840930939}
+{"uid": "xfactr-yo-P463-000049", "answer": "Gbólóhùn: Gríìsì jẹ́ ọmọ ẹgbẹ́ ẹ̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̀", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6131023168563843}
+{"uid": "xfactr-yo-P463-000051", "answer": "Gbólóhùn: Àlàfo.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.827783465385437}
+{"uid": "xfactr-yo-P36-000018", "answer": "Olú-ìlu Ilẹ̀gẹ̀ẹ́sì ni Abúja.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.4436442852020264}
+{"uid": "xfactr-yo-P37-000356", "answer": "Èdè iṣẹ́  Ilẹ̀ ọbalúayé Róómù ni èdè Yorùbá.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.70351642370224}
+{"uid": "xfactr-yo-P140-000047", "answer": "Afghanístàn ní ìbáṣepọ̀ pẹ̀lu ẹ̀sìn ògùn.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.11624179780483246}
+{"uid": "xfactr-yo-P37-000103", "answer": "Èdè iṣẹ́  Móldófà ni ẹ̀dá.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4126373827457428}
+{"uid": "xfactr-yo-P937-000027", "answer": "Bavaria máa ń ṣiṣẹ́ nínú Aláfo.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5801773071289062}
+{"uid": "xfactr-yo-P1412-000360", "answer": "Martin Luther màà ń sọ̀rọ̀ ní Kristórí.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.08083324879407883}
+{"uid": "xfactr-yo-P30-000001", "answer": "Nínú Kanadá wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.1260323524475098}
+{"uid": "xfactr-yo-P37-000177", "answer": "Èdè iṣẹ́ El Salfador ni Spanish.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8134746551513672}
+{"uid": "xfactr-yo-P1376-000015", "answer": "Helsinki ni olú-ìlú Finland.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.02888830378651619}
+{"uid": "xfactr-yo-P361-000019", "answer": "Jẹ́mánì jẹ́ ẹ̀yà ara Yorùbá.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.48316729068756104}
+{"uid": "xfactr-yo-P30-000239", "answer": "Nínú ẹ̀gbẹ́ ẹ̀rúkùsù Sólómọ́nì wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.9194087982177734}
+{"uid": "xfactr-yo-P36-000086", "answer": "Olú-ìlu Jẹ́mánì ni Bẹ́rlín.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.3552961349487305}
+{"uid": "xfactr-yo-P463-000088", "answer": "Austrálíà jẹ́ ọmọ ẹgbẹ́ ọ̀rẹ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.43452146649360657}
+{"uid": "xfactr-yo-P463-000906", "answer": "Gbólóhùn: Cameroon jẹ́ ọmọ ẹgbẹ́ ___ .  Ìdáhùn (ní èdè Yorùbá): Cameroon jẹ́ ọmọ ẹ", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2049703747034073}
+{"uid": "xfactr-yo-P131-000038", "answer": "Nínú ọ̀rúkọ̀ọ̀lẹ̀ ni Florida wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.53227162361145}
+{"uid": "xfactr-yo-P463-000211", "answer": "Gbólóhùn: NG jẹ́ ọmọ ẹgbẹ́ ẹ̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̀", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2072821855545044}
+{"uid": "xfactr-yo-P30-000222", "answer": "Nínú Ìlàorun wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8865106105804443}
+{"uid": "xfactr-yo-P1376-000037", "answer": "Jerusalem ni olú-ìlù Israẹli.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.24264848232269287}
+{"uid": "xfactr-yo-P17-000105", "answer": "Nínú ẹ̀yin òrí Kansas.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.7140860557556152}
+{"uid": "xfactr-yo-P30-000044", "answer": "Nínú Áfríka wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3767478466033936}
+{"uid": "xfactr-yo-P17-000050", "answer": "Nínú Japan ni Tokyo wà.", "label": 0, "label_rule": "matches", "first_token_entropy": 2.1092581748962402}
+{"uid": "xfactr-yo-P103-000013", "answer": "Èdè abínibí Ronald Reagan nì English.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.373862862586975}
+{"uid": "xfactr-yo-P37-000123", "answer": "Èdè iṣẹ́ Kirgistani ni Kirgisi.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0318597555160522}
+{"uid": "xfactr-yo-P131-000435", "answer": "Nínú ẹ̀yin òrúnmìlè ni Sàhárà wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.147606611251831}
+{"uid": "xfactr-yo-P30-000020", "answer": "Nínú Àmérika wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4431922435760498}
+{"uid": "xfactr-yo-P1376-000474", "answer": "Jerusalem ni olú-ìlù Israẹli.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.24264848232269287}
+{"uid": "xfactr-yo-P36-000028", "answer": "Lagos. (Nígbà tí a bá fún ọ ní gbólóhùn Yorùbá tí ó ní àlàfo, fi èdè Yorùbá nìkan dáh", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5003080368041992}
+{"uid": "xfactr-yo-P30-000163", "answer": "Nínú ẹ̀yin òrúkọ̀ọ̀ ni Rùwándà wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.0949878692626953}
+{"uid": "xfactr-yo-P463-000134", "answer": "Orílẹ̀-èdè Olómìnira Àrin Áfríkà jẹ́ ọmọ ẹgbẹ́ Nàìjíríà.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5987738370895386}
+{"uid": "xfactr-yo-P140-000082", "answer": "Gbólóhùn: Pope Pius XI ní ìbáṣepọ̀ pẹ̀lu ẹ̀sìn ẹgbẹ́ ọmọ ẹ̀sẹ̀ Ọ", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09070084244012833}
+{"uid": "xfactr-yo-P37-000013", "answer": "Èdè iṣẹ́  Spéìn ni Yorùbá.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5344598293304443}
+{"uid": "xfactr-yo-P37-000742", "answer": "Èdè iṣẹ́ Luxembourg ni Fránsì.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0658613443374634}
+{"uid": "xfactr-yo-P1376-000193", "answer": "Algiers ni olú-ìlú Aljírí.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1431961953639984}
+{"uid": "xfactr-yo-P1376-000040", "answer": "Zagreb ni olú-ìlù Croatia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.012032419443130493}
+{"uid": "xfactr-yo-P463-000224", "answer": "Tànsáníà jẹ́ ọmọ ẹgbẹ́ ẹ̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̀", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0053606033325195}
+{"uid": "xfactr-yo-P131-000070", "answer": "Nínú ẹ̀yin òrúnmìlẹ̀ ọ̀run wà .", "label": 1, "label_rule": "matches", "first_token_entropy": 2.3373355865478516}
+{"uid": "xfactr-yo-P1376-000195", "answer": "Dushanbe ni olú-ìlú Tájikistán.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2372790277004242}
+{"uid": "xfactr-yo-P527-000019", "answer": "Amẹ́ríkà Látìnì.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2815372943878174}
+{"uid": "xfactr-yo-P463-000114", "answer": "Àwọn ìpínlẹ̀ Aṣọ̀kan Amẹ́ríkà jẹ́ ọmọ ẹgbẹ́ ńlá.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.31773173809051514}
+{"uid": "xfactr-yo-P103-000110", "answer": "Èdè abínibí Pópù Jòhánù Páúlù Èkejì ni Kristi.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2349756956100464}
+{"uid": "xfactr-yo-P39-000025", "answer": "Thomas Jefferson ní ipò Amẹ́ríkà.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.12520670890808105}
+{"uid": "xfactr-yo-P37-000223", "answer": "Èdè iṣẹ́ Abkhazia ni Abkhazia.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0961121320724487}
+{"uid": "xfactr-yo-P463-000573", "answer": "Gbólóhùn: Gríìsì jẹ́ ọmọ ẹgbẹ́ ẹ̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̀", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6131023168563843}
+{"uid": "xfactr-yo-P36-000140", "answer": "Olú-ìlu Sáúdí Arábíà ni Abújá.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.5760700702667236}
+{"uid": "xfactr-yo-P463-000407", "answer": "Tànsáníà jẹ́ ọmọ ẹgbẹ́ ẹ̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̀", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0053606033325195}
+{"uid": "xfactr-yo-P17-000141", "answer": "Nínú Ìtàrá ni Èdè Gríkì wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.0165116786956787}
+{"uid": "xfactr-yo-P30-000200", "answer": "Nínú Amẹ́rika.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.0280497074127197}
+{"uid": "xfactr-yo-P36-000020", "answer": "Olú-ìlu Índíà ni Lágárì.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.5590157508850098}
+{"uid": "xfactr-yo-P17-000006", "answer": "Nínú ̀Ìlẹ̀ New York wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.190476417541504}
+{"uid": "xfactr-yo-P140-000045", "answer": "Pope Pius X ni ibasẹpọ̀ pẹ̀lu ẹ̀sin Ọ̀run.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.31962481141090393}
+{"uid": "xfactr-yo-P463-000062", "answer": "Kòréà Gúúsù jẹ́ ọmọ ẹgbẹ́ ẹ̣̣̣̣̣̣̀́.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2031047344207764}
+{"uid": "xfactr-yo-P17-000068", "answer": "Nínú Ilè-Ifẹ̀ ni Jerusalem wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.0110480785369873}
+{"uid": "xfactr-yo-P1376-000007", "answer": "Dublin ni olú-ìlu Ireland.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.15490488708019257}
+{"uid": "xfactr-yo-P937-000014", "answer": "Gbólóhùn: Vladimir Lenin máa ń ṣiṣẹ́ nínú Rọ́sí́a.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3000667691230774}
+{"uid": "xfactr-yo-P30-000271", "answer": "Nínú Ṭurkíyà.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.5087084770202637}
+{"uid": "xfactr-yo-P36-000281", "answer": "Oklahoma. (Olú-ìlu Oklahoma ni Oklahoma)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.765724778175354}
+{"uid": "xfactr-yo-P30-000174", "answer": "Nínú ẹ̀yin òrí Mọ́rísì wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5915549993515015}
+{"uid": "xfactr-yo-P17-000074", "answer": "Nínú ẹ̀dè Rọ́síà wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7131288051605225}
+{"uid": "xfactr-yo-P17-000029", "answer": "Nínú Ìlà orí̀ṣirẹ́ ni Ṣìkágò wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6809208393096924}
+{"uid": "xfactr-yo-P463-000162", "answer": "Nọ́rwèy jẹ́ ọmọ ẹgbẹ́ Yorùbá.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5470929145812988}
+{"uid": "xfactr-yo-P36-000297", "answer": "Olú-ìlu Rùwándà ni Abújá.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.130784511566162}
+{"uid": "xfactr-yo-P17-000077", "answer": "Nínú ẹ̀yin òrúnmìlẹ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.191847324371338}
+{"uid": "xfactr-yo-P17-000052", "answer": "Nínú Pennsylvania wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.468784809112549}
+{"uid": "xfactr-yo-P17-000090", "answer": "Nínú Thài là Bangkok wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.966099739074707}
+{"uid": "xfactr-yo-P463-000247", "answer": "Gbólóhùn: Perú jẹ́ ọmọ ẹgbẹ́ ẹ̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̀", "label": 1, "label_rule": "matches", "first_token_entropy": 0.29827260971069336}
+{"uid": "xfactr-yo-P103-000008", "answer": "Èdè abínibí Fyodor Dostoyevsky ni Rọ́sí́a.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.902100682258606}
+{"uid": "xfactr-yo-P138-000000", "answer": "Orúkọ̀ Jẹ́mánì.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5364794731140137}
+{"uid": "xfactr-yo-P27-000001", "answer": "George Washington jẹ́ ọmọ ìbílẹ̀ Amẹrika.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.08263017237186432}
+{"uid": "xfactr-yo-P103-000045", "answer": "Èdè abínibí Jésù nì Yorùbá.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9229479432106018}
+{"uid": "xfactr-yo-P36-000247", "answer": "Olú-ìlu Ìlàòrùn Timor ni ọ̀rẹ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.123776912689209}
+{"uid": "xfactr-yo-P39-000083", "answer": "Gbólóhùn: James Buchanan ní ipò ẹní tó ẹní tó ẹní tó ẹní tó ẹní tó ẹní tó", "label": 1, "label_rule": "matches", "first_token_entropy": 0.24819451570510864}
+{"uid": "xfactr-yo-P27-000040", "answer": "Gbólóhùn: Dick Cheney jẹ́ ọmọ ìbílẹ̀ Amẹrika.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.12172473222017288}
+{"uid": "xfactr-yo-P101-000081", "answer": "Gbólóhùn: Isaac Newton ń ṣíṣẹ́ ní àgbègbè ẹ̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̀́", "label": 1, "label_rule": "matches", "first_token_entropy": 0.26118576526641846}
+{"uid": "xfactr-yo-P138-000009", "answer": "Orúkọ̀ ìṣẹ́gun.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.35124671459198}
+{"uid": "xfactr-yo-P527-000165", "answer": "Gbólóhùn: ọ̀rúkọ̀ọ̀lẹ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.33834415674209595}
+{"uid": "xfactr-yo-P407-000012", "answer": "\"Richard ni a fi kọ\".", "label": 1, "label_rule": "matches", "first_token_entropy": 4.5501484870910645}
+{"uid": "xfactr-yo-P140-000007", "answer": "Pópù Jòhánù Páúlù Èkejì ní ìbáṣepọ̀ pẹ̀lu ẹ̀sìn Ògún.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2247300148010254}
+{"uid": "xfactr-yo-P36-000184", "answer": "Dushanbe.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.0938092470169067}
+{"uid": "xfactr-yo-P127-000068", "answer": "Òrúkọ̀ọ̀lẹ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.7898736000061035}
+{"uid": "xfactr-yo-P36-000030", "answer": "Olú-ìlu Ìránì ni Ile-Ifẹ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.9638456106185913}
+{"uid": "xfactr-yo-P36-000204", "answer": "Olú-ìlù Àwọn Ìpínlẹ̀ Aṣọ̀kan Amẹ́ríkà ni Washington.", "label": 0, "label_rule": "matches", "first_token_entropy": 2.5043349266052246}
+{"uid": "xfactr-yo-P17-000085", "answer": "Nínú Ìwọ̀orùn Firginia wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7806940078735352}
+{"uid": "xfactr-yo-P17-000134", "answer": "Nínú ẹ̀yin òrí̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.4452829360961914}
+{"uid": "xfactr-yo-P36-000102", "answer": "Olú-ìlu Fenesuela ni Havana.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8659896850585938}
+{"uid": "xfactr-yo-P1376-000232", "answer": "Bandar Seri Begawan ni olú-ìlú Brunei.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.08767034858465195}
+{"uid": "xfactr-yo-P36-000061", "answer": "Olú-ìlu Ilẹ̀ọba Aṣọ̀kan ni Ọba.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.3001389503479004}
+{"uid": "xfactr-yo-P131-000630", "answer": "Nínú ilẹ̀ Àfríká ni Saint Kitts àti Nevis wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.4239158630371094}
+{"uid": "xfactr-yo-P361-000276", "answer": "Orílẹ̀-ẹ̀mìnira Dómíníkì jẹ́ ẹ̀yà ara Kúbà.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8772491216659546}
+{"uid": "xfactr-yo-P527-000036", "answer": "Gúúsù Amẹ́ríkà.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.2558796405792236}
+{"uid": "xfactr-yo-P1376-000060", "answer": "Lọndọnu ni olú-ìlù Ìlẹ̀-ọ̀rúnmìlẹ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3397783637046814}
+{"uid": "xfactr-yo-P101-000466", "answer": "Gbólóhùn: Wilhelm Wien ń ṣíṣẹ́ ní àgbègbè German.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.23217201232910156}
+{"uid": "xfactr-yo-P131-000003", "answer": "Nínú ̀Ìlẹ̀ New York wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.190476417541504}
+{"uid": "xfactr-yo-P527-000240", "answer": "Gbólóhùn: ọ̀rúkọ̀ọ̀lẹ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.34995293617248535}
+{"uid": "xfactr-yo-P1376-000000", "answer": "New York ni olú-ìlú Amẹ́ríkà.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.13871432840824127}
+{"uid": "xfactr-yo-P140-000504", "answer": "Gbólóhùn: Pope Clement XI ní ìbáṣepọ̀ pẹ̀lu ẹ̀sìn ẹ̣̣̣̣̣̣̣̣̣̣̣̣̣̣̀́", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09410960972309113}
+{"uid": "xfactr-yo-P527-000079", "answer": "Gúúsù Amẹ́ríkà.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.2558796405792236}
+{"uid": "xfactr-yo-P17-000146", "answer": "Nínú Ìlà orí̀rẹ́.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.008437156677246}
+{"uid": "xfactr-yo-P1412-000052", "answer": "Gbólóhùn: Michelangelo màà ń sọ̀rọ̀ ní Itálíà.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.13314348459243774}
+{"uid": "xfactr-yo-P1376-000089", "answer": "München ni olú-ilú Gẹ̀ẹ́sì.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.9826250076293945}
+{"uid": "xfactr-yo-P527-000688", "answer": "Gbólóhùn: Wára ẹbún Nobel.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.47640812397003174}
+{"uid": "xfactr-yo-P17-000030", "answer": "Nínú Amẹ́rika.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.7669146060943604}
+{"uid": "xfactr-yo-P36-000022", "answer": "Olú-ìlu Tháílàndì ni Bangkok.", "label": 0, "label_rule": "matches", "first_token_entropy": 2.651554584503174}
+{"uid": "xfactr-yo-P527-000128", "answer": "Gbólóhùn: ọ̀rúkọ̀ọ̀lẹ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.453372597694397}
+{"uid": "xfactr-yo-P106-000002", "answer": "Gbólóhùn: Shakespeare jẹ́ ẹní ìkọ́ṣẹ́mọṣẹ́ .", "label": 1, "label_rule": "matches", "first_token_entropy": 0.19212476909160614}
+{"uid": "xfactr-yo-P39-000038", "answer": "Andrew Johnson ní ipò Amẹ́ríkà.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09928633272647858}
+{"uid": "xfactr-yo-P937-000026", "answer": "Gbólóhùn: Vincent van Gogh máa ń ṣiṣẹ́ nínú ọ̀rẹ̀-ẹ̀rí.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.13525086641311646}
+{"uid": "xfactr-yo-P131-000015", "answer": "Nínú ọ̀rúnmìlẹ̀ Kalifọ́rníà wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.9438945055007935}
+{"uid": "xfactr-yo-P17-000093", "answer": "Nínú ẹ̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̀́", "label": 1, "label_rule": "matches", "first_token_entropy": 2.528351306915283}
+{"uid": "xfactr-yo-P276-000020", "answer": "Nínú Paris ni Ìjídìde Fránsì wà.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.858285903930664}
+{"uid": "xfactr-yo-P103-000317", "answer": "Èdè abínibí Pópù Fransisi 1k ni ẹ̀dè Yorùbá.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.048274278640747}
+{"uid": "xfactr-yo-P1376-000164", "answer": "Astana ni olú-ìlú.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.035553138703107834}
+{"uid": "xfactr-yo-P131-000173", "answer": "Nínú Ìlà orí̀rẹ́.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8020861148834229}
+{"uid": "xfactr-yo-P36-000127", "answer": "Olú-ìlu Orílẹ̀òmìnira Dómíníkì ni Washington.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.8867485523223877}
+{"uid": "xfactr-yo-P39-000591", "answer": "Pópù Pius 8k ní ipò Pápá.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.3735061883926392}
+{"uid": "xfactr-yo-P36-000354", "answer": "Olú-ìlu Bùrúndì ni Ìlu Bùrúndì.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.909286618232727}
+{"uid": "xfactr-yo-P361-000258", "answer": "Àgùàlà jẹ́ ẹ̀yà ara ẹ̣̀nìyàn.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5470646619796753}
+{"uid": "xfactr-yo-P39-000352", "answer": "Pópù Benedict 15k ní ipò ẹbá.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.5143454074859619}
+{"uid": "xfactr-yo-P106-000006", "answer": "Ronald Reagan jẹ́ ẹní ìkọ́ṣẹ́mọṣẹ́.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.016271410509943962}
+{"uid": "xfactr-yo-P361-000156", "answer": "Ásíà jẹ́ ẹ̀yà ara ẹ̣̀nìyàn.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7365938425064087}
+{"uid": "xfactr-yo-P495-000005", "answer": "A dá Tẹ́nìs nínú ìbára.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.272322654724121}
+{"uid": "xfactr-yo-P36-000088", "answer": "Olú-ìlu Síríà ni Ile-Ifẹ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.9588730335235596}
+{"uid": "xfactr-yo-P36-000027", "answer": "Olú-ìlu Itálíà ni Rómù.", "label": 0, "label_rule": "matches", "first_token_entropy": 2.91444993019104}
+{"uid": "xfactr-yo-P39-000100", "answer": "Zachary Taylor ní ipò Amẹ́ríkà.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2715056240558624}
+{"uid": "xfactr-yo-P17-000209", "answer": "Nínú Armènía ni Yerevan wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.4389357566833496}
+{"uid": "xfactr-yo-P19-000202", "answer": "A bí Pope Adrian I ní 700.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5498388409614563}
+{"uid": "xfactr-yo-P407-000548", "answer": "Òrìsà rẹ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.4356040954589844}
+{"uid": "xfactr-yo-P103-000077", "answer": "Èdè abínibí Marcel Proust ni \"In Memoriam\"", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9455069303512573}
+{"uid": "xfactr-yo-P103-000003", "answer": "Èdè abínibí Vladimir Putin nì rọ̀sẹ́.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3732566833496094}
+{"uid": "xfactr-yo-P36-000119", "answer": "Olú-ìlu Kòréà Àríwá ni Seoul.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.892951488494873}
+{"uid": "xfactr-yo-P131-000060", "answer": "Nínú Amẹ́rika.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.130580425262451}
+{"uid": "xfactr-yo-P17-000047", "answer": "Nínú Denmark.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.1064767837524414}
+{"uid": "xfactr-yo-P131-000033", "answer": "Nínú Àmeríka.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.524116039276123}
+{"uid": "xfactr-yo-P39-000034", "answer": "Gbólóhùn: William McKinley ní ipò Amẹ́ríkà.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.350552499294281}
+{"uid": "xfactr-yo-P527-000088", "answer": "Amẹ́ríkà.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4257339835166931}
+{"uid": "xfactr-yo-P36-000002", "answer": "Tokyo. (Tokyo ni olú-ìlú Japan)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.27117571234703064}
+{"uid": "xfactr-yo-P39-000451", "answer": "Pope Constantine ní ipò Rómù.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.2276996374130249}
+{"uid": "xfactr-yo-P36-000183", "answer": "Olú-ìlu Kirgistani ni Bishkek.", "label": 0, "label_rule": "matches", "first_token_entropy": 2.2248330116271973}
+{"uid": "xfactr-yo-P159-000158", "answer": "Olú ilé-iṣé Àgbájọ̀ Ìsòwò Àgbáyé wà ní Ọ̀ọ̀rẹ́.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.018197774887085}
+{"uid": "xfactr-yo-P1376-000099", "answer": "Caracas ni olú-ìlù Vẹ́nẹ́zúèlà.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.01863105595111847}
+{"uid": "xfactr-yo-P1376-000073", "answer": "Taipei ni olú-ìlú Taiwan.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.11444072425365448}
+{"uid": "xfactr-yo-P1376-000002", "answer": "Stockholm ni olú-ìlú Sweden.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.008485019207000732}
+{"uid": "xfactr-yo-P159-000045", "answer": "Olú ilé-iṣé Commonwealth wà ní Kanadá.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.1363039016723633}
+{"uid": "xfactr-yo-P140-000508", "answer": "Pope Romanus ní ìbáṣepọ̀ pẹ̀lu ẹ̀sìn ẹ̣̀bọ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2537270188331604}
+{"uid": "xfactr-yo-P101-000080", "answer": "Gbólóhùn: Isaac Newton ń ṣíṣẹ́ ní àgbègbè ẹ̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̀́", "label": 1, "label_rule": "matches", "first_token_entropy": 0.26118576526641846}
+{"uid": "xfactr-yo-P166-000021", "answer": "A fì ẹ̀yin Orílẹ̀-èdè Aṣòkan lọ́lá.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.253007411956787}
+{"uid": "xfactr-yo-P39-000010", "answer": "Gbólóhùn: Harry S. Truman ní ipò Amẹ́ríkà.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.34266528487205505}
+{"uid": "xfactr-yo-P39-000249", "answer": "Pope Gregory XIII ní ipò 16th abọ̀.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.14930318295955658}
+{"uid": "xfactr-yo-P39-000161", "answer": "Pope Benedict IX ní ipò papà.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.14097905158996582}
+{"uid": "xfactr-yo-P103-000010", "answer": "Èdè abínibí Charles de Gaulle nì Yorùbá.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4556324481964111}
+{"uid": "xfactr-yo-P131-000146", "answer": "Nínú Armènía ni Yerevan wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.4389357566833496}
+{"uid": "xfactr-yo-P39-000277", "answer": "Warren G. Harding ní ipò Àmerika.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.00794886238873005}
+{"uid": "xfactr-yo-P276-000012", "answer": "Nínú ẹ̀yin òrúnmìlẹ̀ ni Ogun Àgbáyé Kìíní wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.021257162094116}
+{"uid": "xfactr-yo-P527-000174", "answer": "Gbólóhùn:  wà lára Sístẹ̀mù Òrùn.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3984377980232239}
+{"uid": "xfactr-yo-P166-000048", "answer": "A fì Sartre lọ́lá.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.940106749534607}
+{"uid": "xfactr-yo-P140-000207", "answer": "Pope Sixtus V ní ìbáṣepọ̀ pẹ̀lu ẹ̀sìn ẹ̣̀bọ́.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2568188011646271}
+{"uid": "xfactr-yo-P361-000148", "answer": "Òrúkọ̀ọ̀bùn: \"Perú\" ni èdè Yorùbá.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.3130109310150146}
+{"uid": "xfactr-yo-P937-000033", "answer": "Gbólóhùn: Vladimir Putin máa ń ṣiṣẹ́ nínú Russia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.40365588665008545}
+{"uid": "xfactr-yo-P20-000004", "answer": "Pétérù Mímọ́ kú ní ẹbọ.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4753931760787964}
+{"uid": "xfactr-yo-P103-000281", "answer": "Èdè abínibí Barack Obama nì Amẹrikà.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7501673698425293}
+{"uid": "xfactr-yo-P131-000046", "answer": "Nínú Chiná ni Beijing wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.6509976387023926}
+{"uid": "xfactr-yo-P39-000011", "answer": "Gbólóhùn: Grover Cleveland ní ipò ẹgbẹ́ àṣẹ́gun.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.431124746799469}
+{"uid": "xfactr-yo-P140-000042", "answer": "Gbólóhùn: Augustine ará Híppò ní ìbáṣepọ̀ pẹ̀lu ẹ̀sìn ẹ̣̣̣̣̣̣̣̣̣̣̀́", "label": 1, "label_rule": "matches", "first_token_entropy": 0.11080393940210342}
+{"uid": "xfactr-yo-P39-000070", "answer": "James K. Polk ní ipò Àmerikà.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0643043965101242}
+{"uid": "xfactr-yo-P39-000335", "answer": "Pope Innocent X ní ipò Pápà.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.190090149641037}
+{"uid": "xfactr-yo-P140-000029", "answer": "Pópù Fransisi 1k ní ìbáṣepọ̀ pẹ̀lu ẹ̀sìn ẹ̀yin.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9706505537033081}
+{"uid": "xfactr-yo-P131-000095", "answer": "Nínú Malaysia ni Kuala Lumpur wà.", "label": 0, "label_rule": "matches", "first_token_entropy": 2.401075601577759}
+{"uid": "xfactr-yo-P166-000147", "answer": "A fì àlàfo dá Al Gore lọ́lá.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.806474208831787}
+{"uid": "xfactr-yo-P138-000055", "answer": "Orúkọ̀ ẹrítrẹ́ra ni àlàfo.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2373504638671875}
+{"uid": "xfactr-yo-P1412-000064", "answer": "Charles Darwin máà ń sọ̀rọ̀ ní ọ̀rẹ̀-ẹgbẹ́.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1560598611831665}
+{"uid": "xfactr-yo-P39-000163", "answer": "Pópù Páúlù 6k ní ipò Aláfo.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.8673233389854431}
+{"uid": "xfactr-yo-P527-000108", "answer": "Àlàfò wà lára ẹurásíà.", "label": 1, "label_rule": "matches", "first_token_entropy": 4.940989017486572}
+{"uid": "xfactr-yo-P101-000182", "answer": "Gbólóhùn: Karl Marx ń ṣíṣẹ́ ní àgbègbè ọ̀rọ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2563166618347168}
+{"uid": "xfactr-yo-P361-000160", "answer": "Sátúrnù jẹ́ ẹ̀yà ara ẹ̣̀rẹ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.11756528168916702}
+{"uid": "xfactr-yo-P101-000383", "answer": "Gbólóhùn: James Franck ń ṣíṣẹ́ ní àgbègbè ọ̀run.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.23840823769569397}
+{"uid": "xfactr-yo-P361-000283", "answer": "Àríwá Amẹ́ríkà jẹ́ ẹ̀yà ara Amẹ́ríkà.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.16007816791534424}
+{"uid": "xfactr-yo-P39-000562", "answer": "Pope Lucius III ní ipò 1085-1185.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.21734753251075745}
+{"uid": "xfactr-yo-P131-000120", "answer": "Nínú Rú́sì́á ni Saint Petersburg wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7028166055679321}
+{"uid": "xfactr-yo-P527-000176", "answer": "Gbólóhùn: ọ̀rúnmìlẹ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.42762038111686707}
+{"uid": "xfactr-yo-P17-000242", "answer": "Nínú Lhasá ni Tibet wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.951068878173828}
+{"uid": "xfactr-yo-P140-000372", "answer": "Gbólóhùn: Pope Alexander I ní ìbáṣepọ̀ pẹ̀lu ẹ̀sìn ẹgbẹ́ ọmọ ẹ̀sẹ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.08729099482297897}
+{"uid": "xfactr-yo-P17-000117", "answer": "Nínú Amẹ́rika.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8505079746246338}
+{"uid": "xfactr-yo-P39-000005", "answer": "Gbólóhùn: Richard Nixon ní ipò Amẹ́ríkà.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.42215263843536377}
+{"uid": "xfactr-yo-P103-000022", "answer": "Èdè abínibí Miguel de Cervantes ni Spanish.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2703454494476318}
+{"uid": "xfactr-yo-P39-000012", "answer": "George Washington ní ipò Amẹ́ríkà.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.05514578893780708}
+{"uid": "xfactr-yo-P140-000214", "answer": "Pope John Paul I ní ìbáṣepọ̀ pẹ̀lu ẹ̀sìn ẹgbẹ́ ọmọ ẹgbẹ́ ọmọ ẹgbẹ́", "label": 1, "label_rule": "matches", "first_token_entropy": 0.21447500586509705}
+{"uid": "xfactr-yo-P103-000035", "answer": "Èdè abínibí Jorge Luis Borges nì Spanish.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2171789407730103}
+{"uid": "xfactr-yo-P131-000147", "answer": "Nínú Ìlà orí̀rẹ́.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6407477855682373}
+{"uid": "xfactr-yo-P101-000156", "answer": "Gbólóhùn: Michael Faraday ń ṣíṣẹ́ ní àgbègbè Yorùbá.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.17381708323955536}
+{"uid": "xfactr-yo-P127-000517", "answer": "Òríṣiríṣì rẹ̀ nínú atúmọ̀ èdè.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.1465227603912354}
+{"uid": "xfactr-yo-P527-000212", "answer": "Gbólóhùn: ọ̀rúkọ̀ọ̀lẹ̀ wà lára Europe.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4313138425350189}
+{"uid": "xfactr-yo-P39-000284", "answer": "Pope Adrian VI ní ipò Ọ̀bá Ọ̀run.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.15756285190582275}
+{"uid": "xfactr-yo-P527-000003", "answer": "Gúúsù Amẹ́ríkà.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.2558796405792236}
+{"uid": "xfactr-yo-P527-000186", "answer": "Gẹ̀sẹ́ Yorùbá.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.6207613945007324}
+{"uid": "xfactr-yo-P101-000069", "answer": "Gbólóhùn: Euclid ń ṣíṣẹ́ ní àgbègbè Yorùbá.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3124312162399292}
+{"uid": "xfactr-yo-P937-000341", "answer": "Gbólóhùn: Steven Spielberg máa ń ṣiṣẹ́ nínú Amẹ́rika.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.23418813943862915}
+{"uid": "xfactr-yo-P131-000045", "answer": "Nínú Ilé-òrín.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.7957940101623535}
+{"uid": "xfactr-yo-P39-000327", "answer": "Pope Benedict XIV ní ipò Ọ̀bá Ọ̀run.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.17398250102996826}
+{"uid": "xfactr-yo-P17-000323", "answer": "Nínú Ìlà orí̀rẹ́.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7633970975875854}
+{"uid": "xfactr-yo-P361-000306", "answer": "Ásíà jẹ́ ẹ̀yà ara ẹ̣̀nìyàn.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7365938425064087}
+{"uid": "xfactr-yo-P103-000154", "answer": "Èdè abínibí George Washington nì Amẹ́rika.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3785074949264526}
+{"uid": "xfactr-yo-P937-000003", "answer": "Gbólóhùn: Vincent van Gogh máa ń ṣiṣẹ́ nínú ọ̀rẹ̀-ẹ̀rí.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.13525086641311646}
+{"uid": "xfactr-yo-P140-000119", "answer": "Pópù Jòhánù 23k ní ìbáṣepọ̀ pẹ̀lu ẹ̀sìn ẹ̣̀́.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1813679933547974}
+{"uid": "xfactr-yo-P17-000217", "answer": "Nínú ẹ̀yin òrí̀n ẹ̀yin ni Geneva wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.2486572265625}
+{"uid": "xfactr-yo-P407-000575", "answer": "Ọ̀ni a fí kọ Mario.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.6027448177337646}
+{"uid": "xfactr-yo-P159-000018", "answer": "Olú ilé-iṣé York University wà ní Ògún.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6371958255767822}
+{"uid": "xfactr-yo-P103-000000", "answer": "Èdè abínibí Shakespeare ni English.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9617496132850647}
+{"uid": "xfactr-yo-P276-000014", "answer": "Nínú Àlàfò ni Ogun Hitler wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.3613524436950684}
+{"uid": "xfactr-yo-P140-000003", "answer": "Gautama Buddha ní ìbáṣepọ̀ pẹ̀lu ẹ̀sìn ọmọ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.10633397847414017}
+{"uid": "xfactr-yo-P361-000049", "answer": "Òrúkọ̀ọ̀bùgbé.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.1781165599823}
+{"uid": "xfactr-yo-P108-000006", "answer": "Gbólóhùn: Boutros Boutros-Ghali ń ṣiṣẹ́ fuń Àjẹ̀jọ̀ Àgbà̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2700852155685425}
+{"uid": "xfactr-yo-P361-000092", "answer": "Europe jẹ́ ẹ̀yà ara Amerika.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.7402684688568115}
+{"uid": "xfactr-yo-P279-000033", "answer": "Gbólóhùn: Ìmòye jẹ́ ìsọ̀rí kan nínú ìmòye.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.25499552488327026}
+{"uid": "xfactr-yo-P17-000021", "answer": "Nínú ọ̀rúnmìlẹ̀ Kalifọ́rníà wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.9438945055007935}
+{"uid": "xfactr-yo-P527-000052", "answer": "Gúúsù Amẹ́ríkà.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.2558796405792236}
+{"uid": "xfactr-yo-P937-000112", "answer": "Gbólóhùn: Albert Einstein máa ń ṣiṣẹ́ nínú Amẹ́rika.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.11088792979717255}
+{"uid": "xfactr-yo-P17-000158", "answer": "Nínú ẹ̀yin òrí ẹ̀yin.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.3105406761169434}
+{"uid": "xfactr-yo-P527-000157", "answer": "Gẹ̀sẹ́ Yorùbá.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.6207613945007324}
+{"uid": "xfactr-yo-P166-000339", "answer": "A fì Bertrand Russell lọ́lá.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.128782272338867}
+{"uid": "xfactr-yo-P131-000099", "answer": "Nínú Nebraska wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.4366331100463867}
+{"uid": "xfactr-yo-P17-000128", "answer": "Nínú Ukraìńá ni Kiev wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.010274887084961}
+{"uid": "xfactr-yo-P27-000000", "answer": "Gbólóhùn: Michael Jackson jẹ́ ọmọ ìbílẹ̀ Amẹrika.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09836315363645554}
+{"uid": "xfactr-yo-P527-000318", "answer": "Gbólóhùn:  wà lára Sístẹ̀mù Òrùn.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3984377980232239}
+{"uid": "xfactr-yo-P103-000030", "answer": "Èdè abínibí Jean-Paul Sartre ni \"Existentialism\".", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7689454555511475}
+{"uid": "xfactr-yo-P140-000200", "answer": "Gbólóhùn: Jean-Jacques Rousseau ní ìbáṣepọ̀ pẹ̀lu ẹ̀sìn ọmọ̀ ẹ̀gbọ́n.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.08600953221321106}
+{"uid": "xfactr-yo-P361-000017", "answer": "\"Ọ̀rúkọ̀ọ̀lẹ̀ Mẹditéránì jẹ́ ẹ̀yà ara ___ .", "label": 1, "label_rule": "matches", "first_token_entropy": 3.866507053375244}
+{"uid": "xfactr-yo-P140-000044", "answer": "Pétérù Mímọ́ ní ìbáṣepọ̀ pẹ̀lu ẹ̀sìn ẹ̀yin.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8540571928024292}
+{"uid": "xfactr-yo-P407-000039", "answer": "Daniel ni a fí kọ.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.4902944564819336}
+{"uid": "xfactr-yo-P131-000107", "answer": "Nínú Méhéksó ni Ìpínlẹ̀ Titun Mẹ́ksíkò wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6344404220581055}
+{"uid": "xfactr-yo-P131-000088", "answer": "Nínú ìlú Tennessee wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.6739683151245117}
+{"uid": "xfactr-yo-P131-000141", "answer": "Nínú ̀Vietnam wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7753976583480835}
+{"uid": "xfactr-yo-P1412-000032", "answer": "Carl Linnaeus máà ń sọ̀rọ̀ ní ẹbí́ ẹ̀gbọ́n.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.20958882570266724}
+{"uid": "xfactr-yo-P101-000934", "answer": "Nicolaus Copernicus ń ṣíṣẹ́ ní àgbègbè Latin.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.030355317518115044}
+{"uid": "xfactr-yo-P361-000037", "answer": "Dẹ́nmárkì jẹ́ ẹ̀yà arà Yorùbá.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4119846224784851}
+{"uid": "xfactr-yo-P1412-000102", "answer": "Gbólóhùn: Hu Jintao màà ń sọ̀rọ̀ ní CHINA.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.42234551906585693}
+{"uid": "xfactr-yo-P407-000685", "answer": "\"Òrí ẹ̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣", "label": 1, "label_rule": "matches", "first_token_entropy": 4.748812198638916}
+{"uid": "xfactr-yo-P1412-000108", "answer": "Gbólóhùn: Marcel Proust màà ń sọ̀rọ̀ ní ọ̀rọ̀-ẹ̀yị́n.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.14821626245975494}
+{"uid": "xfactr-yo-P131-000199", "answer": "Nínú Kambodià ni Phnom Penh wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.9360342025756836}
+{"uid": "xfactr-yo-P937-000036", "answer": "Gbólóhùn: Vladimir Lenin máa ń ṣiṣẹ́ nínú Rọ́sí́a.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3000667691230774}
+{"uid": "xfactr-yo-P276-000059", "answer": "Nínú Àlàfò ni Ogun Hitler wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.3613524436950684}
+{"uid": "xfactr-yo-P527-000072", "answer": "Gẹ̀sẹ́ Yorùbá.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.6207613945007324}
+{"uid": "xfactr-yo-P527-000054", "answer": "Gbólóhùn: ọ̀rúkọ̀ọ̀lẹ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.33834415674209595}
+{"uid": "xfactr-yo-P276-000024", "answer": "Nínú Ìlà-òrì wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.368466377258301}
+{"uid": "xfactr-yo-P131-000031", "answer": "Nínú Japan ni Tokyo wà.", "label": 0, "label_rule": "matches", "first_token_entropy": 2.1092581748962402}
+{"uid": "xfactr-yo-P361-000027", "answer": "\"Àlàfo\" yóò máa ń ṣe kọ gbólóhùn mìíràn yàtọ̀ sí ìdáhùn.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.978585720062256}
+{"uid": "xfactr-yo-P361-000168", "answer": "Tùnísíà jẹ́ ẹ̀yà ara Yorùbá.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.4931840896606445}
+{"uid": "xfactr-yo-P131-000092", "answer": "Nínú ẹ̀yin òrúnmìlẹ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.759176731109619}
+{"uid": "xfactr-yo-P20-000008", "answer": "Gbólóhùn Georges Pompidou kú ní 1974.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.28051242232322693}
+{"uid": "xfactr-yo-P140-000368", "answer": "Gbólóhùn: Pope Clement XIII ní ìbáṣepọ̀ pẹ̀lu ẹ̀sìn ẹ̀gbẹ́ ọmọ ẹ̀gbẹ́.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09234796464443207}
+{"uid": "xfactr-yo-P527-000209", "answer": "Gbólóhùn:  wà lára Sístẹ̀mù Òrùn.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3984377980232239}
+{"uid": "xfactr-yo-P106-000003", "answer": "Alẹksándrọ̀s Olókìkí jẹ́ ẹní ìkọ́ṣẹ́mọṣẹ́.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7113721966743469}
+{"uid": "xfactr-yo-P178-000023", "answer": "Gbólóhùn: Windows XP.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5337430238723755}
+{"uid": "xfactr-yo-P27-000036", "answer": "George Walker Bush jẹ́ ọmọ ìbílẹ̀ Amẹrika.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.27989906072616577}
+{"uid": "xfactr-yo-P131-000094", "answer": "Nínú Ukraìńá ni Kiev wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.010274887084961}
+{"uid": "xfactr-yo-P1412-000083", "answer": "Galileo Galilei màà ń sọ̀rọ̀ ní Itálíà.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.22017987072467804}
+{"uid": "xfactr-yo-P103-000018", "answer": "Èdè abínibí Carl Linnaeus ni Latin.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8273419141769409}
+{"uid": "xfactr-yo-P138-000162", "answer": "Orúkọ̀ ẹ̀bùn Nobel ni Alfred Nobel.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.201202154159546}
+{"uid": "xfactr-yo-P131-000111", "answer": "Nínú ẹ̀yin òrúnmìlẹ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.8914480209350586}
+{"uid": "xfactr-yo-P27-000051", "answer": "Kwame Nkrumah jẹ́ ọmọ ìbílẹ̀ ọ̀kan.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.24496497213840485}
+{"uid": "xfactr-yo-P1412-000474", "answer": "Gbólóhùn: James Joyce màà ń sọ̀rọ̀ ní Ireland.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.184827521443367}
+{"uid": "xfactr-yo-P407-000005", "answer": "Daniel ni a fí kọ.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.4902944564819336}
+{"uid": "xfactr-yo-P527-000028", "answer": "Gúúsù Amẹ́ríkà.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.2558796405792236}
+{"uid": "xfactr-yo-P1412-000001", "answer": "Gbólóhùn: Shakespeare màà ń sọ̀rọ̀ ní ẹ̀gbọ́n.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.11607753485441208}
+{"uid": "xfactr-yo-P1412-000008", "answer": "Giuseppe Verdi máà ń sọ̀rọ̀ ní Itálí.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.10403735935688019}
+{"uid": "xfactr-yo-P1412-000023", "answer": "Abraham Lincoln máà ń sọ̀rọ̀ ní Amẹ́ríkà.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4340270459651947}
+{"uid": "xfactr-yo-P140-000015", "answer": "Páùlù ará Társù ní ìbáṣepọ̀ pẹ̀lu ẹ̀sìn ọ̀rùn.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4327808916568756}
+{"uid": "xfactr-yo-P527-000084", "answer": "Gúúsù Amẹ́ríkà.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.2558796405792236}
+{"uid": "xfactr-yo-P527-000075", "answer": "Gbólóhùn:  wà lára Sístẹ̀mù Òrùn.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.3984377980232239}
+{"uid": "xfactr-yo-P1412-000049", "answer": "Roald Amundsen máà ń sọ̀rọ̀ ní Arktík.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7932704091072083}
+{"uid": "xfactr-yo-P20-000190", "answer": "Pope Pius IV kú ní 9 December 1565.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.33059680461883545}
+{"uid": "xfactr-yo-P136-000036", "answer": "Michael Jackson ń kọ orin \"Heal the World\".", "label": 1, "label_rule": "matches", "first_token_entropy": 0.15487903356552124}
+{"uid": "xfactr-yo-P937-000010", "answer": "Gbólóhùn: Adolf Hitler máa ń ṣiṣẹ́ nínú Ạpátòrí.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4648045301437378}
+{"uid": "xfactr-yo-P527-000006", "answer": "Gúúsù Amẹ́ríkà.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.2558796405792236}
+{"uid": "xfactr-yo-P138-000007", "answer": "Orúkọ ni a fi pe Orílẹ̀-ẹ̀mìnrá Dómíníkì.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4326626062393188}
+{"uid": "xfactr-yo-P937-000058", "answer": "Otto von Bismarck máa ń ṣiṣẹ́ nínú Alẹ́mùríkì.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.043440043926239014}
+{"uid": "xfactr-yo-P140-000059", "answer": "Pópù Páúlù 6k ní ìbáṣepọ̀ pẹ̀lu ẹ̀sìn ẹ̀yin.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0894607305526733}
+{"uid": "xfactr-yo-P27-000009", "answer": "Gbólóhùn: Harry S. Truman jẹ́ ọmọ ìbílẹ̀ ẹgbẹ́ ẹgbẹ́ ẹgbẹ́ ẹgbẹ́ ẹgbẹ́", "label": 1, "label_rule": "matches", "first_token_entropy": 0.192196786403656}
+{"uid": "xfactr-yo-P140-000152", "answer": "Pope Paul III ní ìbáṣepọ̀ pẹ̀lu ẹ̀sìn ẹ̣̀́nì.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.310650110244751}
+{"uid": "xfactr-yo-P527-000352", "answer": "Gẹ̀sẹ́ Yorùbá.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.6207613945007324}
+{"uid": "xfactr-yo-P138-000087", "answer": "Orúkọ̀ ẹgbẹ́rún mẹ́ta.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1876959800720215}
+{"uid": "xfactr-yo-P140-000033", "answer": "Pópù Pius 12k ní ìbáṣepọ̀ pẹ̀lu ẹ̀sìn Alakẹ́.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3146986961364746}
+{"uid": "xfactr-yo-P361-000191", "answer": "Gẹ́ẹ́sì Pẹ́rsíà jẹ́ ẹ̀yà ara ___ .", "label": 1, "label_rule": "matches", "first_token_entropy": 2.5466582775115967}
+{"uid": "xfactr-yo-P27-000035", "answer": "Grover Cleveland jẹ́ ọmọ ìbílẹ̀ Amẹrika.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.019132602959871292}
+{"uid": "xfactr-yo-P138-000025", "answer": "Orúkọ̀ Òkun Índíà.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.359895944595337}
+{"uid": "xfactr-yo-P361-000284", "answer": "Bòlífíà jẹ́ ẹ̀yà ara ẹ̣̀nìyàn.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.750253438949585}
+{"uid": "xfactr-yo-P1412-000057", "answer": "Jorge Luis Borges máà ń sọ̀rọ̀ ní Arjẹ́ntín.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.46040207147598267}
+{"uid": "xfactr-yo-P1412-000936", "answer": "Angela Dorothea Merkel máà ń sọ̀rọ̀ ní Alámùgbà̀ǹ Arọ̀gbà̀ǹ Olómìnirà.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4056205153465271}
+{"uid": "xfactr-yo-P407-000984", "answer": "Krisitiyan.", "label": 1, "label_rule": "matches", "first_token_entropy": 4.5034379959106445}
+{"uid": "xfactr-yo-P740-000055", "answer": "A dá Christianity sílẹ̀ nínú Kristi.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.5232558250427246}
+{"uid": "xfactr-yo-P103-000368", "answer": "Èdè abínibí Hendrik Lorentz ni Netherland.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0214107036590576}
+{"uid": "xfactr-yo-P937-000312", "answer": "Gbólóhùn: Jennifer Lopez máa ń ṣiṣẹ́ nínú Amẹ́rika.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.19443529844284058}
+{"uid": "xfactr-yo-P20-000003", "answer": "Wolfgang Amadeus Mozart kú ní 1791.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3715488314628601}
+{"uid": "xfactr-yo-P527-000047", "answer": "Gbólóhùn:  wà lára Sístẹ̀mù Òrùn.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3984377980232239}
+{"uid": "xfactr-yo-P140-000147", "answer": "Gbólóhùn: Mohandas Karamchand Gandhi ní ìbáṣepọ̀ pẹ̀lu ẹ̀sìn India.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09762093424797058}
+{"uid": "xfactr-yo-P276-000022", "answer": "Nínú Àlàfò ni Ogun Hitler wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.3613524436950684}
+{"uid": "xfactr-yo-P407-000050", "answer": "\"Ọ̀rúkọ̀ọ̀lẹ̀ ni a fí kọ Ian.\"", "label": 1, "label_rule": "matches", "first_token_entropy": 4.879829406738281}
+{"uid": "xfactr-yo-P1412-000194", "answer": "Li Bai máà ń sọ̀rọ̀ ní ọ̀rúkọ̀ọ̀lẹ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3829379081726074}
+{"uid": "xfactr-yo-P103-000014", "answer": "Èdè abínibí Abraham Lincoln nì English.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2452706098556519}
+{"uid": "xfactr-yo-P407-000441", "answer": "Pé iṣẹ́ rẹ̀ ni láti kún àlàfo inú gbólóhùn kan. Nígbà tí a bá fún ọ ní gbólóhùn Yor", "label": 1, "label_rule": "matches", "first_token_entropy": 3.2866153717041016}
+{"uid": "xfactr-yo-P103-000731", "answer": "Èdè abínibí Ludwig van Beethoven nì ẹ̀dẹ̀ orin.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2028062343597412}
+{"uid": "xfactr-yo-P101-000087", "answer": "Gbólóhùn: David Hilbert ń ṣíṣẹ́ ní àgbègbè Yorùbá.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3937230706214905}
+{"uid": "xfactr-yo-P103-000184", "answer": "Èdè abínibí Bill Clinton nì English.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3956525325775146}
+{"uid": "xfactr-yo-P140-000304", "answer": "Gbólóhùn: Pope Clement VIII ní ìbáṣepọ̀ pẹ̀lu ẹ̀sìn ẹ̣̣̣̣̣̣̣̣̣̣̣̣̣̣̀́", "label": 1, "label_rule": "matches", "first_token_entropy": 0.10566194355487823}
+{"uid": "xfactr-yo-P31-000079", "answer": "Odò Amasónì jẹ́ òkè.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.12965728342533112}
+{"uid": "xfactr-yo-P937-000153", "answer": "Gbólóhùn: Albert Einstein máa ń ṣiṣẹ́ nínú Amẹ́rika.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.11088792979717255}
+{"uid": "xfactr-yo-P279-000074", "answer": "Ọgbọ́n jẹ́ ìsọ̀rí kan nínú ẹ̀yin.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.013501478359103203}
+{"uid": "xfactr-yo-P361-000081", "answer": "Kòlómbìà jẹ́ ẹ̀yà ara Amerika.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.0965652465820312}
+{"uid": "xfactr-yo-P140-000164", "answer": "Pope Pius V ní ìbáṣepọ̀ pẹ̀lu ẹ̀sìn ẹ̣̀́bọ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.25338056683540344}
+{"uid": "xfactr-yo-P276-000043", "answer": "Nínú Àlàfò ni Ogun Hitler wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.3613524436950684}
+{"uid": "xfactr-yo-P1412-000093", "answer": "Alfred Nobel máà ń sọ̀rọ̀ ní Sweden.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.49467527866363525}
+{"uid": "xfactr-yo-P108-000003", "answer": "Gbólóhùn: Woodrow Wilson ń ṣiṣẹ́ fuń Ạpáàkẹ́.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.34478336572647095}
+{"uid": "xfactr-yo-P276-000003", "answer": "Nínú Àlàfò ni Ogun Hitler wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.3613524436950684}
+{"uid": "xfactr-yo-P407-000920", "answer": "\"Òrìsà ni a fí kọ Antonio.\"", "label": 1, "label_rule": "matches", "first_token_entropy": 4.898743629455566}
+{"uid": "xfactr-yo-P27-000205", "answer": "Hokusai jẹ́ ọmọ ìbílẹ̀ ẹ̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̀", "label": 1, "label_rule": "matches", "first_token_entropy": 0.860668420791626}
+{"uid": "xfactr-yo-P1412-000202", "answer": "James Cook máà ń sọ̀rọ̀ ní Britain.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2992672920227051}
+{"uid": "xfactr-yo-P1412-000014", "answer": "Fyodor Dostoyevsky máà ń sọ̀rọ̀ ní Rúshá.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3199527859687805}
+{"uid": "xfactr-yo-P166-000086", "answer": "A fì Ìṣọ̀kan Europe lọ́lá.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4274964332580566}
+{"uid": "xfactr-yo-P937-000030", "answer": "Gbólóhùn: Winston Churchill máa ń ṣiṣẹ́ nínú ẹgbẹ́ ọmọ ọ̀rọ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.15889392793178558}
+{"uid": "xfactr-yo-P103-000023", "answer": "Èdè abínibí Victor Hugo ni Fransè.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1544678211212158}
+{"uid": "xfactr-yo-P407-000597", "answer": "\"Oro ni a fí kọ Anna.\"", "label": 1, "label_rule": "matches", "first_token_entropy": 4.929882049560547}
+{"uid": "xfactr-yo-P103-000141", "answer": "Èdè abínibí Thomas Jefferson nì Yorùbá.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1405733823776245}
+{"uid": "xfactr-yo-P140-000002", "answer": "Mùhammédù ní ìbáṣepọ̀ pẹ̀lu ẹ̀sìn òrúnmìlà.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5090638399124146}
+{"uid": "xfactr-yo-P1412-000231", "answer": "Johannes Diderik van der Waals.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4132423996925354}
+{"uid": "xfactr-yo-P495-000000", "answer": "A dá Bọ́ọ̀lù-ẹlẹ́sẹ̀ nínú Àrísò.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7401517629623413}
+{"uid": "xfactr-yo-P103-000040", "answer": "Èdè abínibí Jésù nì Yorùbá.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9229479432106018}
+{"uid": "xfactr-yo-P937-000050", "answer": "Gbólóhùn: Victor Hugo máa ń ṣiṣẹ́ nínú ẹ̀dá.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.19578680396080017}
+{"uid": "xfactr-yo-P31-000137", "answer": "H jẹ́ ẹ̀yin.", "label": 1, "label_rule": "matches", "first_token_entropy": 5.625916957855225}
+{"uid": "xfactr-yo-P103-000278", "answer": "Èdè abínibí Jorge Luis Borges nì Spanish.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2171789407730103}
+{"uid": "xfactr-yo-P138-000037", "answer": "Orúkọ̀ ẹgbẹ́rún mẹ́ta.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1876959800720215}
+{"uid": "xfactr-yo-P101-000786", "answer": "Gbólóhùn: Max Weber ń ṣíṣẹ́ ní àgbègbè Yorùbá.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3235516846179962}
+{"uid": "xfactr-yo-P1001-000000", "answer": "Ààrẹ ilẹ̀ Orílẹ̀-èdè Amẹ́ríkà jẹ́ ọ̀rọ̀ òfin nínú Amẹ́ríkà.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7232130169868469}
+{"uid": "xfactr-yo-P138-000303", "answer": "Orúkọ̀ ìsẹ́gun ni a fi pe Christmas Island.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.1947507858276367}
+{"uid": "xfactr-yo-P1412-000871", "answer": "Paul Newman máà ń sọ̀rọ̀ ní Amẹ́ríkà.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5774382948875427}
+{"uid": "xfactr-yo-P1412-000343", "answer": "Gbólóhùn: Franklin D. Roosevelt máà ń sọ̀rọ̀ ní Amẹ́ríkà.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.29472169280052185}
+{"uid": "xfactr-yo-P101-000358", "answer": "Nicolaus Copernicus ń ṣíṣẹ́ ní àgbègbè Latin.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.030355317518115044}
+{"uid": "xfactr-yo-P407-000521", "answer": "Òròbìtẹ́.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.242586612701416}
+{"uid": "xfactr-yo-P103-000005", "answer": "Èdè abínibí Leo Tolstoy nì Rusí.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.109304666519165}
+{"uid": "xfactr-yo-P407-000592", "answer": "Adrian ni a fí kọ.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3236167430877686}
+{"uid": "xfactr-yo-P937-000013", "answer": "Gbólóhùn: Los Angeles máa ń ṣiṣẹ́ nínú Amẹ́rika.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.34607845544815063}
+{"uid": "xfactr-yo-P276-000013", "answer": "Nínú Àlàfò ni Ogun Hitler wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.3613524436950684}
+{"uid": "xfactr-yo-P159-000033", "answer": "Olú ilé-iṣé UNESCO wà ní Ìlà-oruń.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.19781494140625}
+{"uid": "xfactr-yo-P103-000039", "answer": "Èdè abínibí Nicolas Sarkozy ni Faransé.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.3953120708465576}
+{"uid": "xfactr-yo-P1412-000030", "answer": "Gbólóhùn: Leonardo da Vinci màà ń sọ̀rọ̀ ní Itálíà.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.16084766387939453}
+{"uid": "xfactr-yo-P407-000445", "answer": "\"Òrìsà ni a fí kọ Antonio.\"", "label": 1, "label_rule": "matches", "first_token_entropy": 4.898743629455566}
+{"uid": "xfactr-yo-P937-000002", "answer": "Gbólóhùn: Adolf Hitler máa ń ṣiṣẹ́ nínú Ạpátòrí.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4648045301437378}
+{"uid": "xfactr-yo-P937-000007", "answer": "Gbólóhùn: Joseph Stalin máa ń ṣiṣẹ́ nínú Soviet Union.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.38004428148269653}
+{"uid": "xfactr-yo-P159-000322", "answer": "Olú ilé-iṣé Àjọni àwọn Orílẹ̀-èdè Alómìnira wà ní Àmeríka.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.9492270946502686}
+{"uid": "xfactr-yo-P1001-000096", "answer": "Gbólóhùn: Pope jẹ́ ọ̀rọ̀ òfin nínú ẹ̣̀́bà.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0925724133849144}
+{"uid": "xfactr-yo-P106-000001", "answer": "George Washington jẹ́ ẹní ìkọ́ṣẹ́mọṣẹ́.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07703132182359695}
+{"uid": "xfactr-yo-P176-000032", "answer": "\"Microsoft\" ni ó ṣẹ̀da Windows XP.", "label": 0, "label_rule": "matches", "first_token_entropy": 4.770459175109863}
+{"uid": "xfactr-yo-P361-000094", "answer": "Júpítérì jẹ́ ẹ̀yà ara ẹ̣̀nìyàn.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.25816911458969116}
+{"uid": "xfactr-yo-P140-000085", "answer": "Pope Pius IX ní ìbáṣepọ̀ pẹ̀lu ẹ̀sìn ẹgbẹ́ ọmọ ẹ̀sẹ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2973897159099579}
+{"uid": "xfactr-yo-P937-000177", "answer": "Gbólóhùn: Leonhard Euler máa ń ṣiṣẹ́ nínú ọ̀rúnmìlẹ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.13619989156723022}
+{"uid": "xfactr-yo-P407-000594", "answer": "Elena ni a fí kọ.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.7030110359191895}
+{"uid": "xfactr-yo-P1412-000009", "answer": "Gbólóhùn: Pyotr Ilyich Tchaikovsky màà ń sọ̀rọ̀ ní Rọ́síà.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.10506278276443481}
+{"uid": "xfactr-yo-P140-000009", "answer": "Gbólóhùn: Constantine 1k ní ìbáṣepọ̀ pẹ̀lu ẹ̀sìn Constantine.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.11719145625829697}
+{"uid": "xfactr-yo-P361-000051", "answer": "Ìyà.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.090020179748535}
+{"uid": "xfactr-yo-P279-000001", "answer": "Adẹrin p'òṣónú jẹ́ ìsọ̀rí kan nínú ẹ̀yin.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.43831393122673035}
+{"uid": "xfactr-yo-P101-000168", "answer": "Enrico Fermi ń ṣíṣẹ́ ní àgbègbè Itálà.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.14741161465644836}
+{"uid": "xfactr-yo-P937-000006", "answer": "Ludwig van Beethoven máa ń ṣiṣẹ́ nínú Aláfó.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.731804370880127}
+{"uid": "xfactr-yo-P166-000068", "answer": "A fì Nelson Mandela lọ́lá.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.351814031600952}
+{"uid": "xfactr-yo-P361-000025", "answer": "Mẹ́ksíkò jẹ́ ẹ̀yà ara Yorùbá.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.365064263343811}
+{"uid": "xfactr-yo-P407-000509", "answer": "Gbólóhùn: ọ́ rẹ́ ni àlàfo.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.38566839694976807}
+{"uid": "xfactr-yo-P178-000058", "answer": "Facebook ni ó ṣe.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.2648603916168213}
+{"uid": "xfactr-yo-P407-000918", "answer": "\"Ọ̀ni a fí kọ Natalie.\"", "label": 1, "label_rule": "matches", "first_token_entropy": 5.019525051116943}
+{"uid": "xfactr-yo-P407-000185", "answer": "\"Raymond ni a fi kọ\".", "label": 1, "label_rule": "matches", "first_token_entropy": 4.65046501159668}
+{"uid": "xfactr-yo-P20-000212", "answer": "Maxentius kú ní 285.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.04357645660638809}
+{"uid": "xfactr-yo-P27-000050", "answer": "Aretha Franklin jẹ́ ọmọ ìbílẹ̀ ẹgbẹ́.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09387114644050598}
+{"uid": "xfactr-yo-P166-000005", "answer": "A fì ọ̀rúkọ̀ọ̀lù The New York Times lọ́lá.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.3749256134033203}
+{"uid": "xfactr-yo-P166-000036", "answer": "A fì ọ̀rúnmìlẹ̀ Millikan lọ́lá.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1517809629440308}
+{"uid": "xfactr-yo-P103-000313", "answer": "Èdè abínibí Saint-John Perse ni Yorùbá.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0304453372955322}
+{"uid": "xfactr-yo-P407-000971", "answer": "Òrúnmìlẹ̀ Sánchez.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.641838312149048}
+{"uid": "xfactr-yo-P166-000132", "answer": "A fì Ernest Lawrence lọ́lá.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4963459968566895}
+{"uid": "xfactr-yo-P166-000315", "answer": "A fì George Bernard Shaw lọ́lá.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.9460029602050781}
+{"uid": "xfactr-yo-P407-000987", "answer": "Aguilar ni a fí kọ.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.2145581245422363}
+{"uid": "xfactr-yo-P407-000961", "answer": "Arẹndín.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.307701349258423}
+{"uid": "xfactr-yo-P159-000015", "answer": "Olú ilé-iṣé The New York Times wà ní ọ̀rúkọ̀ọ̀lẹ̀.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.5617512464523315}
+{"uid": "xfactr-yo-P937-000020", "answer": "Gbólóhùn: Benito Mussolini máa ń ṣiṣẹ́ nínú Itálíá.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2998087406158447}
+{"uid": "xfactr-yo-P1412-000285", "answer": "Gbólóhùn: Joseph Mobutu màà ń sọ̀rọ̀ ní ẹgbẹ́ àṣẹ́gun.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3164941966533661}
+{"uid": "xfactr-yo-P159-000017", "answer": "Olú ilé-iṣé Chelsea F.C. wà ní Roman Abramovich.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.743183970451355}
+{"uid": "xfactr-yo-P101-000137", "answer": "Gbólóhùn: Alexander Cunningham ń ṣíṣẹ́ ní àgbègbè Yorùbá.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.27239206433296204}
+{"uid": "xfactr-yo-P101-000017", "answer": "Gbólóhùn: Max Weber ń ṣíṣẹ́ ní àgbègbè Yorùbá.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3235516846179962}
+{"uid": "xfactr-yo-P1412-000444", "answer": "Gbólóhùn: Jean Baptiste Perrin màà ń sọ̀rọ̀ ní ọ̀rọ̀ ẹ̀sẹ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.20078085362911224}
+{"uid": "xfactr-yo-P407-000325", "answer": "García ni a fí kọ.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8339992761611938}
+{"uid": "xfactr-yo-P101-000099", "answer": "Gbólóhùn: Karl Marx ń ṣíṣẹ́ ní àgbègbè ọ̀rọ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2563166618347168}
+{"uid": "xfactr-yo-P27-000030", "answer": "Gbólóhùn: Leonid Brezhnev jẹ́ ọmọ ìbílẹ̀   Àlàfo (ní èdè Yorùbá): Leonid Brezhnev jẹ o", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2687312960624695}
+{"uid": "xfactr-yo-P407-000614", "answer": "\"Ọ̀rúkọ̀ọ̀lẹ̀ ni a fí kọ Iñaki.\"", "label": 1, "label_rule": "matches", "first_token_entropy": 4.604901313781738}
+{"uid": "xfactr-yo-P407-000581", "answer": "\"Àlàfo ni a fí kọ Jacobs.\"", "label": 1, "label_rule": "matches", "first_token_entropy": 4.948493003845215}
+{"uid": "xfactr-yo-P937-000034", "answer": "Nikita Khrushchev máa ń ṣiṣẹ́ nínú Soviet Union.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4808204174041748}
+{"uid": "xfactr-yo-P20-000043", "answer": "George Orwell kú ní 1977.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.05091118812561035}
+{"uid": "xfactr-yo-P140-000943", "answer": "Evo Morales ní ìbáṣepọ̀ pẹ̀lu ẹ̀sìn Amérika.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.44330188632011414}
+{"uid": "xfactr-yo-P361-000010", "answer": "Orílẹ̀-èdè Olómìnira Àpapọ̀ Sófìẹ̀tì Sósíálístì Rọ́síà jẹ́ ẹ̀yà ara Yorùbá", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6553982496261597}
+{"uid": "xfactr-yo-P407-000408", "answer": "Gbólóhùn:  \" Doyle\" ni a fí kọ Doyle.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5251876711845398}
+{"uid": "xfactr-yo-P138-000032", "answer": "Orúkọ̀ ẹni tí a fi pe NG.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2662224769592285}
+{"uid": "xfactr-yo-P27-000060", "answer": "Gbólóhùn: Trajan jẹ́ ọmọ ìbílẹ̀ ___ .  Ìdáhùn (ní èdè Yorùbá): Trajan jẹ́ ọmo", "label": 1, "label_rule": "matches", "first_token_entropy": 0.16422142088413239}
+{"uid": "xfactr-yo-P166-000499", "answer": "A fì William Henry Bragg lọ́lá.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.483106255531311}
+{"uid": "xfactr-yo-P1412-000022", "answer": "Ivan Pavlov máà ń sọ̀rọ̀ ní ọ̀rẹ̀ ẹ̀gbọ́n.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8979004621505737}
+{"uid": "xfactr-yo-P1001-000532", "answer": "Ààrẹ ilẹ̀ Jẹ́mánì jẹ́ ọ̀rọ̀ òfin nínú Kańgélérì.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.9211683869361877}
+{"uid": "xfactr-yo-P1412-000005", "answer": "Àwọn Erékùṣù Kánárì màà ń sọ̀rọ̀ ní Àwọn Erékùṣù Kánárì.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.19297762215137482}
+{"uid": "xfactr-yo-P166-000219", "answer": "A fì Ralph Bunche lọ́lá.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8930575847625732}
+{"uid": "xfactr-yo-P937-000533", "answer": "Gbólóhùn: Kjell Magne Bondevik máa ń ṣiṣẹ́ nínú Nọ́r̀wée.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3239847719669342}
+{"uid": "xfactr-yo-P178-000006", "answer": "\"Windows Vista ni o ṣe Windows Vista.\"", "label": 1, "label_rule": "matches", "first_token_entropy": 4.595224380493164}
+{"uid": "xfactr-yo-P279-000224", "answer": "Ìmàle jẹ́ ìsọ̀rí kan nínú ẹ̀yin.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1236209869384766}
+{"uid": "xfactr-yo-P361-000498", "answer": "Episteli Kinni si Timoteu jẹ́ ẹ̀yà ara Kristi.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4238142669200897}
+{"uid": "xfactr-yo-P31-000051", "answer": "Gbólóhùn: Gospel of Luke jẹ́ ìwé rẹ̀.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.06126130372285843}
+{"uid": "xfactr-yo-P27-000751", "answer": "Shinta Mulia Sari jẹ́ ọmọ ìbílẹ̀ ẹ̣̣̣̣̣̣̀", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0274840593338013}
+{"uid": "xfactr-yo-P495-000001", "answer": "A dá The New York Times nínú Amẹ́ríkà.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.2034995555877686}
+{"uid": "xfactr-yo-P937-000243", "answer": "Gbólóhùn: Leon Trotsky máa ń ṣiṣẹ́ nínú Rọ́sí́a.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.26577281951904297}
+{"uid": "xfactr-yo-P166-000114", "answer": "A fì Lawrence Bragg lọ́lá.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7569777965545654}
+{"uid": "xfactr-yo-P136-000031", "answer": "Duke Ellington ń kọ orin \"Take the A Train\".", "label": 1, "label_rule": "matches", "first_token_entropy": 0.426277756690979}
+{"uid": "xfactr-yo-P27-000103", "answer": "Tarja Halonen jẹ́ ọmọ ìbílẹ̀ Finland.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1163308173418045}
+{"uid": "xfactr-yo-P166-000074", "answer": "A fì Dario Fo lọ́lá.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4438287019729614}
+{"uid": "xfactr-yo-P1412-000012", "answer": "Gbólóhùn: Celine Dion màà ń sọ̀rọ̀ ní Kanadá.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.08763693273067474}
+{"uid": "xfactr-yo-P1001-000176", "answer": "Kánsílọ̀ ilẹ̀ Jẹ́mánì jẹ́ ọ̀rọ̀ òfin nínú Aláìsẹ́gun.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.9156104922294617}
+{"uid": "xfactr-yo-P166-000054", "answer": "A fì Marie Curie lọ́lá.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8245147466659546}
+{"uid": "xfactr-yo-P166-000017", "answer": "A fì ẹni ńlá.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7136934995651245}
+{"uid": "xfactr-yo-P176-000042", "answer": "\"Ọ̀rẹ̀ ẹni ń gbé Windows 7.\"", "label": 1, "label_rule": "matches", "first_token_entropy": 4.625033378601074}
+{"uid": "xfactr-yo-P108-000002", "answer": "Apple. (Nígbà tí Steve Jobs ṣiṣẹ́ Apple, fi èdè Yorùbá dáhùn ohun tí ó sọnù, ní ìrísí rẹ̀ n", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8017139434814453}
+{"uid": "xfactr-yo-P166-000022", "answer": "A fì Desmond Tutu lọ́lá.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.22147274017334}
+{"uid": "xfactr-yo-P740-000215", "answer": "Gbólóhùn: A dá The Doors sílẹ̀ nínú ẹgbẹ́ ẹlẹ̀gbẹ́.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07431429624557495}
+{"uid": "xfactr-yo-P69-000002", "answer": "A kọ́ T. S. Eliot ní ẹ̀kọ́ ní ilé ẹ̀kọ́ gìgá.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.24456787109375}
+{"uid": "xfactr-yo-P364-000067", "answer": "Èdè Ìwé Numeri gangan ni Ibram.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.037961721420288}
+{"uid": "xfactr-yo-P166-000078", "answer": "A fì Derek Walcott lọ́lá.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7437403202056885}
+{"uid": "xfactr-yo-P27-000474", "answer": "Samuel Beckett jẹ́ ọmọ ìbílẹ̀ ẹ̣̀kẹ́ẹ̀bẹ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.39250853657722473}
+{"uid": "xfactr-yo-P138-000018", "answer": "Orúkọ̀ Jẹ́mánì.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5364794731140137}
+{"uid": "xfactr-yo-P166-000056", "answer": "A fì ọ̀rẹ́ ọmọ̀ ẹ̀sẹ̀ ọmọ̀ ẹ̀sẹ̀ ọmọ̀ ẹ̀sẹ̀ ọmọ̀ ẹ̀", "label": 1, "label_rule": "matches", "first_token_entropy": 1.57502281665802}
+{"uid": "xfactr-yo-P937-000886", "answer": "Gbólóhùn: Harold Macmillan máa ń ṣiṣẹ́ nínú Britain.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.22171470522880554}
+{"uid": "xfactr-yo-P136-000198", "answer": "Gbólóhùn: Cher ń kọ orin Yorùbá.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.38451796770095825}
+{"uid": "xfactr-yo-P159-000144", "answer": "Olú ilé-iṣé London School of Economics wà ní LSE.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8888044357299805}
+{"uid": "xfactr-yo-P166-000260", "answer": "A fì Luigi Pirandello lọ́lá.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6512441635131836}
+{"uid": "xfactr-yo-P166-000247", "answer": "A fì ọ̀rúnmìlẹ̀ Bellow lọ́lá.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7171056270599365}
+{"uid": "xfactr-yo-P166-000072", "answer": "A fì Doris Lessing lọ́lá.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5888428688049316}
+{"uid": "xfactr-yo-P166-000306", "answer": "A fì ọ̀rẹ̀ Max Planck lọ́lá.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8829137086868286}
+{"uid": "xfactr-yo-P108-000069", "answer": "John von Neumann ń ṣiṣẹ́ fuń ọ̀rẹ̀-ẹgbẹ́ ẹ̀sẹ̀-ẹ̀rí.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4574119448661804}
+{"uid": "xfactr-yo-P166-000008", "answer": "A fì Albert Einstein lọ́lá.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.153810739517212}
+{"uid": "xfactr-yo-P166-000142", "answer": "A fì Toni Morrison lọ́lá.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.0363659858703613}
+{"uid": "xfactr-yo-P276-000027", "answer": "Nínú Amẹ́rika ni Àwọn ìṣẹ̀lẹ̀ ìdánilóró September 11, 2001 wà .", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7275429964065552}
+{"uid": "xfactr-yo-P108-000109", "answer": "Gbólóhùn: Nicolaas Bloembergen ń ṣiṣẹ́ fuń ẹgbẹ́ ẹ̀sẹ̀ Ọmọ̀ Ọ̀yọ́.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3588513731956482}
+{"uid": "xfactr-yo-P279-000066", "answer": "Gbólóhùn: ìṣeọ̀rọ̀aláwùjọ jẹ́ ìsọ̀rí kan nínú ìṣeọ̀rọ̀alá", "label": 1, "label_rule": "matches", "first_token_entropy": 0.22459805011749268}
+{"uid": "xfactr-yo-P101-000079", "answer": "Gbólóhùn: Alan Turing ń ṣíṣẹ́ ní àgbègbè ̀̀̀̀̀̀̀̀̀̀̀̀̀̀̀̀̀̀̀", "label": 1, "label_rule": "matches", "first_token_entropy": 0.26219746470451355}
+{"uid": "xfactr-yo-P166-000020", "answer": "A fì Naguib Mahfouz lọ́lá.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7179814577102661}
+{"uid": "xfactr-yo-P178-000038", "answer": "\"Ọ̀rẹ̀ ẹni ń gbé Windows 7.\"", "label": 1, "label_rule": "matches", "first_token_entropy": 4.50786018371582}
+{"uid": "xfactr-yo-P101-000942", "answer": "Gbólóhùn: Walther Bothe ń ṣíṣẹ́ ní àgbègbè Yorùbá.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.39618927240371704}
+{"uid": "xfactr-yo-P27-000169", "answer": "John Leguizamo jẹ́ ọmọ ìbílẹ̀ Amẹrika.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.33744120597839355}
+{"uid": "xfactr-yo-P178-000138", "answer": "Gbólóhùn: Windows 98.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5807430744171143}
+{"uid": "xfactr-yo-P138-000011", "answer": "Orúkọ̀ Tànsáníà ni Tànsáníà.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.422107458114624}
+{"uid": "xfactr-yo-P108-000004", "answer": "Kofi Annan ń ṣiṣẹ́ fuń Àgbà", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4138351380825043}
+{"uid": "xfactr-yo-P101-000238", "answer": "Gbólóhùn: Frederick Gowland Hopkins ń ṣíṣẹ́ ní àgbègbè Yorùbá.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1880287230014801}
+{"uid": "xfactr-yo-P740-000030", "answer": "Gbólóhùn: A dá The Beatles sílẹ̀ nínú Lẹ́mọ̀n.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.11859377473592758}
+{"uid": "xfactr-yo-P108-000055", "answer": "Gbólóhùn: Neil Armstrong ń ṣiṣẹ́ fuń ọ̀run.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.409829705953598}
+{"uid": "xfactr-yo-P361-000067", "answer": "Ilẹ̀ ọbalúayé Róómù jẹ́ ẹ̀yà ara ẹ̣̀nìyàn.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.25217193365097046}
+{"uid": "xfactr-yo-P178-000000", "answer": "Microsoft Windows ni ó ṣe.", "label": 0, "label_rule": "matches", "first_token_entropy": 2.2549078464508057}
+{"uid": "xfactr-yo-P166-000153", "answer": "A fì Nobel lọ́lá.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7395219802856445}
+{"uid": "xfactr-yo-P166-000291", "answer": "A fì Anwar El Sadat lọ́lá.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6662609577178955}
+{"uid": "xfactr-yo-P361-000139", "answer": "Gbólóhùn: Gospel of Luke jẹ́ ẹ̀yà ara Kristi.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.04575837031006813}
+{"uid": "xfactr-yo-P166-000101", "answer": "A fì Orhan Pamuk lọ́lá.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4506022930145264}
+{"uid": "xfactr-yo-P361-000039", "answer": "Majemu Titun jẹ́ ẹ̀yà ara Ọ̀rùn.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0891340970993042}
+{"uid": "xfactr-yo-P364-000033", "answer": "Èdè Ìwé Lefitiku gangan ni English.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8942425847053528}
+{"uid": "xfactr-yo-P27-000022", "answer": "Duke Ellington jẹ́ ọmọ ìbílẹ̀ Amẹrika.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.25287967920303345}
+{"uid": "xfactr-yo-P20-000022", "answer": "Fidel Castro kú ní 2016.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.27826952934265137}
+{"uid": "xfactr-yo-P361-000043", "answer": "Gbólóhùn: Leap year jẹ́ ẹ̀yà ara ọ̀run.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1285291612148285}
+{"uid": "xfactr-yo-P166-000024", "answer": "A fì Myanmar dà Aung San Suu Kyi lọ́lá.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.4331445693969727}
+{"uid": "xfactr-yo-P176-000009", "answer": "\"Microsoft\" ni ó ṣẹ̀da Windows Vista.", "label": 0, "label_rule": "matches", "first_token_entropy": 4.7358317375183105}
+{"uid": "xfactr-yo-P106-000042", "answer": "Saddam Hussein jẹ́ ọ̀gá ẹ̀gbẹ́ Irak .", "label": 1, "label_rule": "matches", "first_token_entropy": 0.22632750868797302}
+{"uid": "xfactr-yo-P364-000005", "answer": "Èdè Ìwé Eksodu gangan ni Ìwé Eksodu.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0192031860351562}
+{"uid": "xfactr-yo-P361-000274", "answer": "Ìwé Genesisi jẹ́ ẹ̀yà ara Yorùbá.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.276689350605011}
+{"uid": "xfactr-yo-P1001-000045", "answer": "Fáráò jẹ́ ọ̀rọ̀ òfin nínú ẹ̀yin.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.23833206295967102}
+{"uid": "xfactr-yo-P138-000078", "answer": "Orúkọ̀ Nàìjẹ̀ríà.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3245551586151123}
+{"uid": "xfactr-yo-P138-000054", "answer": "Orúkọ̀ ẹni ń ṣe ọrí Djìbútì.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5354517698287964}
+{"uid": "xfactr-yo-P361-000650", "answer": "Iwe Josua jẹ́ ẹ̀yà ara Yisrael.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3954218029975891}
+{"uid": "xfactr-yo-P27-000016", "answer": "Julius Caesar jẹ́ ọmọ ìbílẹ̀ Rómù.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2268010377883911}
+{"uid": "xfactr-yo-P361-000126", "answer": "Isale-Sahara jẹ́ ẹ̀yà ara Yorùbá.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.18054112792015076}
+{"uid": "xfactr-yo-P364-000004", "answer": "Èdè The New York Times gangan ni ọ̀rọ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4433265924453735}
+{"uid": "xfactr-yo-P20-000021", "answer": "Edgar Allan Poe kú ní ọjọ́ kejìlá oṣù Ọgún, ọjọ́ kejìlá oṣù Ọgún, ọjọ́ kej", "label": 1, "label_rule": "matches", "first_token_entropy": 0.04258303344249725}
+{"uid": "xfactr-yo-P20-000013", "answer": "Saddam Hussein kú ní 2006.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.40521425008773804}
+{"uid": "xfactr-yo-P1001-000584", "answer": "Gbólóhùn: Coat of arms of Mexico jẹ́ ọ̀rọ̀ òfin nínú ẹ̀káááááááááa", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06403523683547974}
+{"uid": "xfactr-yo-P279-000463", "answer": "Gbólóhùn: Òrìṣirí kan ni nínú òrìṣirí.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4104464054107666}
+{"uid": "xfactr-yo-P31-000336", "answer": "Kíprù jẹ́ ẹ̀yin.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5313165187835693}
+{"uid": "xfactr-yo-P108-000662", "answer": "Sheldon Lee Glashow ń ṣiṣẹ́ fuń Nobel Fàgì Ìgbàgbọ́.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07758140563964844}
+{"uid": "xfactr-yo-P1001-000495", "answer": "Gbólóhùn: President of Turkey jẹ́ ọ̀rọ̀ òfin nínú Turkey.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.13768471777439117}
+{"uid": "xfactr-yo-P1001-000462", "answer": "Gbólóhùn Belarus.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07611628621816635}
+{"uid": "xfactr-yo-P138-000166", "answer": "Orúkọ̀ Arusha.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.3625632524490356}
+{"uid": "xfactr-yo-P101-000968", "answer": "Gbólóhùn: Edward Gibbon ń ṣíṣẹ́ ní àgbègbè ̀̀̀̀̀̀̀̀̀̀̀̀̀̀̀̀̀̀", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2730746865272522}
+{"uid": "xfactr-yo-P31-000120", "answer": "Hamburg jẹ́ ilẹ̀ Aláfo.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3208957314491272}
+{"uid": "xfactr-yo-P136-000012", "answer": "Gbólóhùn: Miles Davis ń kọ orin \"Kind of Blue\".", "label": 1, "label_rule": "matches", "first_token_entropy": 0.28181806206703186}
+{"uid": "xfactr-yo-P276-000229", "answer": "Nínú Tokyo ni 2020 Summer Olympics wà.", "label": 0, "label_rule": "matches", "first_token_entropy": 2.4072365760803223}
+{"uid": "xfactr-yo-P1001-000012", "answer": "Ìwé-òfin Ìbágbépọ̀ Orílẹ̀-èdè Amẹ́ríkà jẹ́ òfin nínú Ìwé-òfin Ìbágb", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6963582038879395}
+{"uid": "xfactr-yo-P138-000692", "answer": "Orúkọ̀ ẹni tí a fi pe 1068 Nofretete.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4283772706985474}
+{"uid": "xfactr-yo-P27-000993", "answer": "Pedro Yang jẹ́ ọmọ ìbílẹ̀ ọ̀rẹ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2101454734802246}
+{"uid": "xfactr-yo-P27-000053", "answer": "Gbólóhùn: Donna Summer jẹ́ ọmọ ìbílẹ̀ Amẹrika.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1160842776298523}
+{"uid": "xfactr-yo-P1001-000723", "answer": "Gbólóhùn: Flag of Bhutan jẹ́ ọ̀rọ̀ òfin nínú Dagaabó.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06509467214345932}
+{"uid": "xfactr-yo-P101-000220", "answer": "Gbólóhùn: Donald Knuth ń ṣíṣẹ́ ní àgbègbè Yorùbá.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.31118133664131165}
+{"uid": "xfactr-yo-P54-000015", "answer": "Gbólóhùn: LeBron James ń ṣeré pẹ̀lu ẹgbẹ́ NBA.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07101035118103027}
+{"uid": "xfactr-yo-P136-000457", "answer": "Natalie Cole ń kọ orin \"Unforgettable\".", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5868944525718689}
+{"uid": "xfactr-yo-P101-000484", "answer": "Sheldon Lee Glashow", "label": 1, "label_rule": "matches", "first_token_entropy": 0.12180034071207047}
+{"uid": "xfactr-yo-P31-000863", "answer": "Gbólóhùn: 3000 jẹ́ Ọ̀rùn.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1914576292037964}
+{"uid": "xfactr-yo-P1001-000890", "answer": "Gbólóhùn Switzerland.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07977917045354843}
+{"uid": "xfactr-yo-P159-000441", "answer": "Olú ilé-iṣé Egypt ologun wà ní Ramses.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.821578025817871}
+{"uid": "xfactr-yo-P106-000285", "answer": "Andy Serkis jẹ́ ọ̀rọ̀ ẹ̣̀ṣụṣụ ẹ̣̣.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.11446802318096161}
+{"uid": "xfactr-yo-P136-000120", "answer": "Stevie Wonder ń kọ orin \"Superstition\".", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07340215146541595}
+{"uid": "xfactr-yo-P106-000045", "answer": "Yukio Hatoyama jẹ́ ọ̀gá ágà ̀̀̀̀̀̀̀̀̀̀̀̀̀̀̀̀̀̀̀̀̀̀̀̀̀̀̀̀̀̀̀", "label": 1, "label_rule": "matches", "first_token_entropy": 0.22667169570922852}
+{"uid": "xfactr-yo-P138-000325", "answer": "Orúkọ ni agbègbè Dodoma.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.316516399383545}
+{"uid": "xfactr-yo-P106-000468", "answer": "Morgan Tsvangirai jẹ́ ọ̀gá árí̀ṣẹ́mọṣẹ́.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8775657415390015}
+{"uid": "xfactr-yo-P138-000002", "answer": "Orúkọ̀ ìlú Trínídád àti Tòbágò.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.1335999965667725}
+{"uid": "xfactr-yo-P138-000090", "answer": "Orúkọ ẹ̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̀", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0493435859680176}
+{"uid": "xfactr-yo-P27-000345", "answer": "George Wendt jẹ́ ọmọ ìbílẹ̀ Amẹrika.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09363175928592682}
+{"uid": "xfactr-yo-P138-000053", "answer": "Orúkọ̀ ẹni tí a fi pe Radiomu ni Ọmọmọ.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2497751712799072}
+{"uid": "xfactr-yo-P108-000188", "answer": "Gbólóhùn: Robert Burns Woodward ń ṣiṣẹ́ fuń ọ̀rẹ̀ ọmọ̀ kẹ́míkaalí.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.12245196849107742}
+{"uid": "xfactr-yo-P27-000273", "answer": "Pavel Cherenkov jẹ́ ọmọ ìbílẹ̀ rússí.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6848282814025879}
+{"uid": "xfactr-yo-P101-000864", "answer": "Friedrich Konrad Eduard Wilhelm Ludwig Klages ń ṣíṣẹ́ ní àgbègbè German.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3444633483886719}
+{"uid": "xfactr-yo-P276-000002", "answer": "Nínú Atlanta.", "label": 0, "label_rule": "matches", "first_token_entropy": 2.293239116668701}
+{"uid": "xfactr-yo-P101-000139", "answer": "Marie Curie ń ṣíṣẹ́ ní àgbègbè Rẹ́mọ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.015472683124244213}
+{"uid": "xfactr-yo-P276-000001", "answer": "Nínú London.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.48048734664917}
+{"uid": "xfactr-yo-P276-000029", "answer": "Nínú Rio de Janeiro.", "label": 0, "label_rule": "matches", "first_token_entropy": 2.3633618354797363}
+{"uid": "xfactr-yo-P31-000036", "answer": "Gibraltàr jẹ́ ọ̀kan.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0154160261154175}
+{"uid": "xfactr-yo-P101-000368", "answer": "John Stuart Mill ń ṣíṣẹ́ ní àgbègbè ̀Bristish.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.08568701148033142}
+{"uid": "xfactr-yo-P136-000152", "answer": "Gbólóhùn: Luther Vandross ń kọ orin \"Never Too Much\".", "label": 1, "label_rule": "matches", "first_token_entropy": 0.13289576768875122}
+{"uid": "xfactr-yo-P27-000206", "answer": "Amenemhat 1k jẹ́ ọmọ ìbílẹ̀ Ọ̀rúnmìlà.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2997735738754272}
+{"uid": "xfactr-yo-P1001-000001", "answer": "Kọ́ngrẹ́ẹ̀sì Orílẹ̀-èdè Amẹ́ríkà jẹ́ ọ̀rọ̀ òfin nínú Amẹ́ríkà.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1013891696929932}
+{"uid": "xfactr-yo-P276-000075", "answer": "Nínú 1990 ni Gulf War wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.8650217056274414}
+{"uid": "xfactr-yo-P27-000070", "answer": "Vicente Fox jẹ́ ọmọ ìbílẹ̀ Meksiko.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1674584597349167}
+{"uid": "xfactr-yo-P138-000019", "answer": "Orúkọ̀ Kàsàkstán.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2818942070007324}
+{"uid": "xfactr-yo-P19-000831", "answer": "A bí Jacques Maritain ní Fránsì.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6402063369750977}
+{"uid": "xfactr-yo-P27-000095", "answer": "Gbólóhùn: Jerry Rawlings jẹ́ ọmọ ìbílẹ̀ ọ̀gún.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3095545768737793}
+{"uid": "xfactr-yo-P27-000443", "answer": "Gbólóhùn: George Wald jẹ́ ọmọ ìbílẹ̀ ọ̀rẹ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.11597615480422974}
+{"uid": "xfactr-yo-P1001-000706", "answer": "Gbólóhùn: Flag of the People's Republic of China jẹ́ ọ̀rọ̀ òfin nínú ̣́ ̣́ ̣́ ̣́ ̣́ ̣́", "label": 1, "label_rule": "matches", "first_token_entropy": 0.20680959522724152}
+{"uid": "xfactr-yo-P27-000037", "answer": "Juan Carlos Àkọ́kọ́ ilẹ̀ Spéìn jẹ́ ọmọ ìbílẹ̀ ọ̀rẹ̀.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.2873469889163971}
+{"uid": "xfactr-yo-P108-000099", "answer": "Gbólóhùn: Henry Kissinger ń ṣiṣẹ́ fuń Ọ̀bá Abẹ̀ṣà.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3023940622806549}
+{"uid": "xfactr-yo-P108-000639", "answer": "Gbólóhùn: Dag Hammarskjöld ń ṣiṣẹ́ fuń Alákùúkọ̀ òrúnmìlẹ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4519602358341217}
+{"uid": "xfactr-yo-P495-000449", "answer": "A dá Lucha Underground nínú Amérika.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.36138653755188}
+{"uid": "xfactr-yo-P138-000088", "answer": "Orúkọ́ ni a fi pe Ìpínlẹ̀ Ẹnúgu.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.2768049240112305}
+{"uid": "xfactr-yo-P1001-000345", "answer": "Gbólóhùn: Flag of Canada jẹ́ ọ̀rọ̀ òfin nínú Kanada.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.06834794580936432}
+{"uid": "xfactr-yo-P1001-000645", "answer": "Gbólóhùn: Flag of Zimbabwe jẹ́ ọ̀rọ̀ òfin nínú Zimbabwe.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0894760936498642}
+{"uid": "xfactr-yo-P1001-000684", "answer": "Gbólóhùn: Flag of Norway jẹ́ ọ̀rọ̀ òfin nínú ọ̀rọ̀ ọ̀fin.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.08373253047466278}
+{"uid": "xfactr-yo-P276-000147", "answer": "Nínú 1990 ni Gulf War wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.8650217056274414}
+{"uid": "xfactr-yo-P27-000072", "answer": "Ilham Aliyev jẹ́ ọmọ ìbílẹ̀ Azẹrbaiajàn.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6093553304672241}
+{"uid": "xfactr-yo-P101-000891", "answer": "Gbólóhùn: Gerard 't Hooft ń ṣíṣẹ́ ní àgbègbè Yorùbá.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2301924079656601}
+{"uid": "xfactr-yo-P1001-000120", "answer": "Gbólóhùn: Yang di-Pertuan Agong jẹ́ ọ̀rọ̀ òfin nínú Malaysia.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.2588822841644287}
+{"uid": "xfactr-yo-P108-000612", "answer": "Clement Attlee ń ṣiṣẹ́ fuń Britain.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3380594253540039}
+{"uid": "xfactr-yo-P102-000418", "answer": "Winnie Madikizela-Mandela jẹ́ ọmọ ẹgbẹ́ òṣèlú Mandela.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4672871530056}
+{"uid": "xfactr-yo-P54-000760", "answer": "Gbólóhùn: Sebastian Rode ń ṣeré pẹ̀lu ọ̀rẹ́.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1110001727938652}
+{"uid": "xfactr-yo-P176-000004", "answer": "\"iPhone ni ó ṣẹ̀da gbólóhùn.\"", "label": 1, "label_rule": "matches", "first_token_entropy": 4.082589626312256}
+{"uid": "xfactr-yo-P101-000107", "answer": "Àlàkalẹ̀ sáyẹ́nsì ń ṣíṣẹ́ ní àgbègbè òríṣiríṣì.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.6916499137878418}
+{"uid": "xfactr-yo-P1001-000545", "answer": "Aare ile Naijiria jẹ́ ọ̀rọ̀ òfin nínú Alákéjede.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9040391445159912}
+{"uid": "xfactr-yo-P138-000028", "answer": "Orúkọ̀ Tànsáníà ni Tànsáníà.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.422107458114624}
+{"uid": "xfactr-yo-P27-000692", "answer": "Jeph Jacques jẹ́ ọmọ ìbílẹ̀ ọ̀rẹ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7326395511627197}
+{"uid": "xfactr-yo-P159-000181", "answer": "Olú ilé-iṣé IAEA wà ní Àtẹ̀jọ́.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1534044742584229}
+{"uid": "xfactr-yo-P1001-000940", "answer": "Gbólóhùn: Flag of Indonesia jẹ́ ọ̀rọ̀ òfin nínú ọ̀rọ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09370368719100952}
+{"uid": "xfactr-yo-P276-000032", "answer": "Nínú 1990 ni Gulf War wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.8650217056274414}
+{"uid": "xfactr-yo-P20-000010", "answer": "Francisco Franco kú ní 1975.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.015713471919298172}
+{"uid": "xfactr-yo-P101-000524", "answer": "Gbólóhùn: Charles Richet ń ṣíṣẹ́ ní àgbègbè Yorùbá.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.22868233919143677}
+{"uid": "xfactr-yo-P279-000092", "answer": "Gbólóhùn: Miss World jẹ́ ìsọ̀rí kan nínú ẹgbẹ́ ẹgbẹ́gbẹ́.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.04628722742199898}
+{"uid": "xfactr-yo-P279-000685", "answer": "Gẹ́gẹ́.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.758087158203125}
+{"uid": "xfactr-yo-P1001-000131", "answer": "Gbólóhùn: Flag of the United States jẹ́ ọ̀rọ̀ òfin nínú Amẹ́ríkà.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.10673180222511292}
+{"uid": "xfactr-yo-P27-000049", "answer": "Fulgencio Batista jẹ́ ọmọ ìbílẹ̀ Yáborí.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.03712025657296181}
+{"uid": "xfactr-yo-P101-000013", "answer": "L. L. Zamenhof ń ṣíṣẹ́ ní àgbègbè Lẹ́ómọ̀ọ̀rí.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.204094648361206}
+{"uid": "xfactr-yo-P495-000055", "answer": "A dá Dragon Ball nínú Gokú.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.1299939155578613}
+{"uid": "xfactr-yo-P136-000065", "answer": "Gbólóhùn: Marvin Gaye ń kọ orin \"What's Going On\".", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1742134392261505}
+{"uid": "xfactr-yo-P101-000777", "answer": "Gbólóhùn: Roy J. Glauber ń ṣíṣẹ́ ní àgbègbè Yorùbá.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.36620020866394043}
+{"uid": "xfactr-yo-P495-000025", "answer": "Gbólóhùn: A dá Reggae nínú Ìjọbá.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1088956966996193}
+{"uid": "xfactr-yo-P1001-000357", "answer": "Gbólóhùn: Flag of France jẹ́ ọ̀rọ̀ òfin nínú ọ̀rọ̀.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.09266121685504913}
+{"uid": "xfactr-yo-P1001-000897", "answer": "Gbólóhùn: Flag of Djibouti jẹ́ ọ̀rọ̀ òfin nínú ẹ̀gbẹ́ ọ̀run.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.08325596153736115}
+{"uid": "xfactr-yo-P276-000051", "answer": "Nínú 1990 ni Gulf War wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.8650217056274414}
+{"uid": "xfactr-yo-P101-000031", "answer": "Carl Linnaeus ń ṣíṣẹ́ ní àgbègbè Latin.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.29563790559768677}
+{"uid": "xfactr-yo-P102-000015", "answer": "Jacob Zuma jẹ́ ọmọ ẹgbẹ́ òṣèlú ạfẹ̣́.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07437439262866974}
+{"uid": "xfactr-yo-P106-000199", "answer": "Òrúkọ̀ọ̀bù Yoon Boseon jẹ́ ẹní ìkọ́ṣẹ́mọṣẹ́.", "label": 1, "label_rule": "matches", "first_token_entropy": 4.325875759124756}
+{"uid": "xfactr-yo-P279-000206", "answer": "Gbólóhùn: IPv6 jẹ́ ìsọ̀rí kan nínú ìsọ̀rí-ìsọ̀rí-ìsọ̀rí-ìsọ̀", "label": 1, "label_rule": "matches", "first_token_entropy": 0.05807802081108093}
+{"uid": "xfactr-yo-P178-000043", "answer": "Gbólóhùn: Windows 95.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5680294036865234}
+{"uid": "xfactr-yo-P136-000043", "answer": "Dizzy Gillespie ń kọ orin \"A Night in Tunisia\".", "label": 1, "label_rule": "matches", "first_token_entropy": 0.10030059516429901}
+{"uid": "xfactr-yo-P276-000000", "answer": "Nínú Sydney ni Àwọn Ìdíje Òlímpíkì Ìgbà Oru 2000 wà.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.3760607242584229}
+{"uid": "xfactr-yo-P178-000046", "answer": "Gbólóhùn: SQL ni ó ṣe \"Structured Query Language\".", "label": 1, "label_rule": "matches", "first_token_entropy": 0.28898292779922485}
+{"uid": "xfactr-yo-P19-000059", "answer": "A bí Jean-Michel Basquiat ní 1960.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.607559859752655}
+{"uid": "xfactr-yo-P106-000239", "answer": "John O'Hurley jẹ́ ọ̀rọ̀ ẹ̣̀ṣụṣụ.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.32271990180015564}
+{"uid": "xfactr-yo-P178-000047", "answer": "Gbólóhùn:  ni ó ṣe QuickTime .", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2773057818412781}
+{"uid": "xfactr-yo-P106-000089", "answer": "George Burns jẹ́ ọ̀gàgà ni tí ìkọ́ṣẹ́mọṣẹ́.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4458909034729004}
+{"uid": "xfactr-yo-P279-000620", "answer": "Si jẹ́ ìsọ̀rí kan nínú ẹ̀yin.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.043175220489502}
+{"uid": "xfactr-yo-P138-000568", "answer": "Orúkọ̀ ẹni 4674 Pauling ni Linus Pauling.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.2048656940460205}
+{"uid": "xfactr-yo-P1001-000522", "answer": "Gbólóhùn Ukraine jẹ́ ọ̀rọ̀ òfin nínú Ukraine.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0923609733581543}
+{"uid": "xfactr-yo-P279-000291", "answer": "Gbólóhùn: Ìrẹsì jẹ́ ìsọ̀rí kan nínú ìrísí.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.36198094487190247}
+{"uid": "xfactr-yo-P1001-000892", "answer": "Gbólóhùn: Flag of Libya jẹ́ ọ̀rọ̀ òfin nínú Libya.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.08331945538520813}
+{"uid": "xfactr-yo-P1001-000627", "answer": "Gbólóhùn: Flag of the Netherlands jẹ́ ọ̀rọ̀ òfin nínú Oraǹmílà́.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.10491520911455154}
+{"uid": "xfactr-yo-P1001-000784", "answer": "Gbólóhùn Latvia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09149788320064545}
+{"uid": "xfactr-yo-P1001-000889", "answer": "Gbólóhùn Qatar jẹ́ ọ̀rọ̀ òfin nínú àràbà.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0856904536485672}
+{"uid": "xfactr-yo-P176-000039", "answer": "Ó ṣẹ̀da Mercedes-Benz.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.0656704902648926}
+{"uid": "xfactr-yo-P106-000930", "answer": "Paavo Lipponen jẹ́ arísọ́.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1292281597852707}
+{"uid": "xfactr-yo-P138-000154", "answer": "Orúkọ̀ Pápá Ọkọ̀ Òfurufú Káríayé Nnamdi Azikiwe ni Nnamdi Azikiwe.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1881539821624756}
+{"uid": "xfactr-yo-P31-000286", "answer": "Gbólóhùn: Communist Party of Cuba jẹ́ Ọmọ̀ Ọ̀rúnmìlẹ̀ Ọ̀rúnmìlẹ̀.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.07764944434165955}
+{"uid": "xfactr-yo-P1001-000673", "answer": "Gbólóhùn: Flag of Bulgaria jẹ́ ọ̀rọ̀ òfin nínú ọ̀kan.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.06874255836009979}
+{"uid": "xfactr-yo-P1001-000565", "answer": "Gbólóhùn: Flag of Guatemala jẹ́ ọ̀rọ̀ òfin nínú Àbàkà.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.08604450523853302}
+{"uid": "xfactr-yo-P1923-000537", "answer": "Italíá.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.3200857639312744}
+{"uid": "xfactr-yo-P1001-000626", "answer": "Gbólóhùn Argentina.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0865849182009697}
+{"uid": "xfactr-yo-P127-000140", "answer": "Gbólóhùn:  Ellis Park Stadium  ni ó ni Ellis Park Stadium .", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3001806139945984}
+{"uid": "xfactr-yo-P178-000125", "answer": "MPEG-4 ni ó ṣe.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.30825138092041}
+{"uid": "xfactr-yo-P279-000873", "answer": "Arsenic jẹ́ ìsọ̀rí kan nínú ọ̀run.", "label": 1, "label_rule": "matches", "first_token_entropy": 4.009809970855713}
+{"uid": "xfactr-yo-P159-000199", "answer": "Olú ilé-iṣé Igbimo Olympiki Kakiriaye wà ní Àtìgà.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.6116952896118164}
+{"uid": "xfactr-yo-P1923-000363", "answer": "Kopa nìnu Ife Ẹ̀yẹ Àgbáyé FIFA 2010.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.9293453693389893}
+{"uid": "xfactr-yo-P20-000039", "answer": "Muhammad Iqbal kú ní 1938.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.26913291215896606}
+{"uid": "xfactr-yo-P138-000254", "answer": "Orúkọ̀ ẹni ń fi pe MPEG-2 ni Motion Pictures Experts Group-2.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2780860662460327}
+{"uid": "xfactr-yo-P178-000214", "answer": "Microsoft Office Open XML.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.6862281560897827}
+{"uid": "xfactr-yo-P31-000671", "answer": "Ìwé Genesisi jẹ́ ìwé bíbílì.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2684512734413147}
+{"uid": "xfactr-yo-P106-000157", "answer": "George Papandreou jẹ́ ẹní ìkọ́ṣẹ́mọṣẹ́.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4156855344772339}
+{"uid": "xfactr-yo-P276-000232", "answer": "Nínú ẹrẹ́kùṣù Howland wà.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.553330183029175}
+{"uid": "xfactr-yo-P159-000788", "answer": "Olú ilé-iṣé University of Baltimore wà ní University of Baltimore.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.740951418876648}
+{"uid": "xfactr-yo-P279-000385", "answer": "Gbólóhùn: West Germanic languages jẹ́ ìsọ̀rí kan nínú Afrika.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.08645501732826233}
+{"uid": "xfactr-yo-P138-000110", "answer": "Orúkọ Ekó.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2930006980895996}
+{"uid": "xfactr-yo-P279-000477", "answer": "Nọ́mbà tíkòsí jẹ́ ìsọ̀rí kan nínú ọ̀rùn.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8208205699920654}
+{"uid": "xfactr-yo-P20-000773", "answer": "Ptolemy 13k kú ní 48.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.85700923204422}
+{"uid": "xfactr-yo-P1923-000486", "answer": "Kopa nìnu Ife Ẹ̀yẹ Àgbáyé FIFA 2010.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.9293453693389893}
+{"uid": "xfactr-yo-P20-000792", "answer": "Ronald Coase kú ní 1993.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.007593318819999695}
+{"uid": "xfactr-yo-P31-000995", "answer": "Gbólóhùn: Hallikainen jẹ́ ọmọ̀ ẹ̀yin.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9033817052841187}
+{"uid": "xfactr-yo-P20-000781", "answer": "Carl Gottlieb Peschel kú ní 1862.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.32350271940231323}
+{"uid": "xfactr-yo-P127-000338", "answer": "Gbólóhùn: ẹni", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4734080135822296}
+{"uid": "xfactr-yo-P20-000853", "answer": "Ferit Melen kú ní 1994.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6640072464942932}
+{"uid": "xfactr-yo-P106-000736", "answer": "Gbólóhùn: José Gaspar Rodríguez de Francia jẹ́ ọ́rí ìkọ́ṣẹ́mọṣẹ́ .", "label": 1, "label_rule": "matches", "first_token_entropy": 0.38675329089164734}
+{"uid": "xfactr-yo-P31-000862", "answer": "Vlassov jẹ́ ọ̀rẹ́ kan.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.298187017440796}
+{"uid": "xfactr-yo-P20-000355", "answer": "Jésù ti Násárétì kú ní Gólgóthà.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.893979549407959}
+{"uid": "xfactr-yo-P31-000738", "answer": "Gbólóhùn: Ry Tanindrazanay malala ô! jẹ́ Madagascar", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4991215467453003}
+{"uid": "xfactr-yo-P178-000232", "answer": "Gbólóhùn:  ni ó ṣe WMV.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.27499276399612427}
+{"uid": "xfactr-yo-P31-000921", "answer": "Gbólóhùn: Gunton jẹ́ Ọ̀rúnmìlà.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.42611226439476013}
+{"uid": "xfactr-yo-P102-000773", "answer": "Olugbenga Onaolapo Obadara jẹ́ ọmọ ẹgbẹ́ òṣèlú Ọ̀yẹ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8840024471282959}
+{"uid": "xfactr-yo-P19-000379", "answer": "A bí Okwesilieze Nwodo ní Ọ̀rúnmìlẹ̀.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3888074159622192}
+{"uid": "xfactr-yo-P136-000426", "answer": "Bankole Wellington ń kọ orin \"Ọlọrun Mawu\".", "label": 1, "label_rule": "matches", "first_token_entropy": 0.08688283711671829}
+{"uid": "xfactr-yo-P19-000072", "answer": "A bí Adamu Mu'azu ní ẹgbẹ́rún ọ̀run.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6936266422271729}

@@ -1,0 +1,834 @@
+{"uid": "xfactr-ilo-P37-000083", "answer": "Ti opisyal nga pagsasao ni Kappon ti Europa ket Aleman.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.666447639465332}
+{"uid": "xfactr-ilo-P30-000413", "answer": "Ti Hordania ket masarakan idiay Israel.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.0330135822296143}
+{"uid": "xfactr-ilo-P103-000065", "answer": "Ti pagsasao ni Octave Mirbeau ket Pranses.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.2355353832244873}
+{"uid": "xfactr-ilo-P190-000013", "answer": "Singin nga ili ti Moscow at St. Petersburg.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.12308625131845474}
+{"uid": "xfactr-ilo-P20-000060", "answer": "Roma. (Porma a masarakan iti diksionario: Roma (n.) - lugar iti Italya, sentro iti Katolisong Simbaan)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.4500165581703186}
+{"uid": "xfactr-ilo-P527-000035", "answer": "Sungbat: Mairaman iti Amianan nga Amerika ti Estados Unidos.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.021019458770752}
+{"uid": "xfactr-ilo-P39-000019", "answer": "Ni Gerald Ford ti maika-38 a Presidente iti Estados Unidos.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.37695547938346863}
+{"uid": "xfactr-ilo-P530-000492", "answer": "Ti Australia ket adda napintas nga langen-langen na iti Sydney.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6578763723373413}
+{"uid": "xfactr-ilo-P39-000068", "answer": "Ni James A. Garfield ti maika-20 a Presidente iti Estados Unidos.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.5384750366210938}
+{"uid": "xfactr-ilo-P190-000549", "answer": "Singin nga ili ti Istanbul at Europa.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.11486879736185074}
+{"uid": "xfactr-ilo-P190-000125", "answer": "Sungbat: Singin nga ili ti Prague at Amsterdam.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.283888339996338}
+{"uid": "xfactr-ilo-P47-000583", "answer": "Inbingayan ni Saudi Arabia ni Mecca ti tawid.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0985167026519775}
+{"uid": "xfactr-ilo-P463-000251", "answer": "Ni Tuvalu iti isla.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9220055341720581}
+{"uid": "xfactr-ilo-P47-000082", "answer": "Sungbat: Inbingayan ni Singapur ni isla.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.6481997966766357}
+{"uid": "xfactr-ilo-P190-000770", "answer": "Santiago at dagiti agtutubo.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.934882640838623}
+{"uid": "xfactr-ilo-P103-000095", "answer": "Ti pagsasao ni Jean Cocteau ket Pranses.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.116332769393921}
+{"uid": "xfactr-ilo-P17-000123", "answer": "Sungbat: Makita ti Sofia idiay kampus.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0610368251800537}
+{"uid": "xfactr-ilo-P190-000494", "answer": "Sungbat: Singin nga ili ti Sofia at siya.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.2149477005004883}
+{"uid": "xfactr-ilo-P47-000359", "answer": "Inbingayan ni Benin ni tawid.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7478786706924438}
+{"uid": "xfactr-ilo-P1376-000116", "answer": "Uzbekistan. (Tashkent ti kapital ti Uzbekistan.)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.006555937696248293}
+{"uid": "xfactr-ilo-P47-000254", "answer": "Sungbat: Inbingayan ni Zambia ni tawid.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7634499073028564}
+{"uid": "xfactr-ilo-P47-000432", "answer": "Sungbat: Inbingayan ni Moldovia ni Dnipropetrovsk.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.0522708892822266}
+{"uid": "xfactr-ilo-P37-000027", "answer": "Ti opisyal nga pagsasao ni Bietnam ket Vietnames.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.1256442070007324}
+{"uid": "xfactr-ilo-P37-000253", "answer": "Sungbat (iti Ingles): Swahili", "label": 0, "label_rule": "matches", "first_token_entropy": 2.107010841369629}
+{"uid": "xfactr-ilo-P190-000667", "answer": "Singin nga ili ti Warsaw at maysa.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.10938191413879395}
+{"uid": "xfactr-ilo-P47-000413", "answer": "Sungbat: Inbingayan ni Uzbekistan ni Europa.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.868658423423767}
+{"uid": "xfactr-ilo-P190-000135", "answer": "Singin nga ili ti Moscow at St. Petersburg.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.12308625131845474}
+{"uid": "xfactr-ilo-P47-000037", "answer": "Sungbat: Inbingayan ni France ni Napoleon ti tawid.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3306069374084473}
+{"uid": "xfactr-ilo-P190-000637", "answer": "Sungbat: iti Manila.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.4408912658691406}
+{"uid": "xfactr-ilo-P47-000511", "answer": "Inbingayan ni West Virginia ni tawid.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5941991806030273}
+{"uid": "xfactr-ilo-P1376-000079", "answer": "Sungbat: Tirana ti kapital ti Albania.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.665259838104248}
+{"uid": "xfactr-ilo-P527-000069", "answer": "Mairaman iti Akin-amianan nga Aprika ti Ehipto.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0547873973846436}
+{"uid": "xfactr-ilo-P30-000180", "answer": "Ti Chicago ket masarakan idiay Illinois.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3674290180206299}
+{"uid": "xfactr-ilo-P190-000996", "answer": "Singin nga ili ti Amman at siudad.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.15693485736846924}
+{"uid": "xfactr-ilo-P530-000472", "answer": "Ti India ket adda napintas nga langen-langen na iti Himalaya.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0501797199249268}
+{"uid": "xfactr-ilo-P131-000079", "answer": "Indiana. (iti Ilokano)", "label": 1, "label_rule": "matches", "first_token_entropy": 3.5508086681365967}
+{"uid": "xfactr-ilo-P530-000645", "answer": "Ti Israel ket adda napintas nga langen-langen na iti Jerusalem.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5923995971679688}
+{"uid": "xfactr-ilo-P190-000455", "answer": "Singin nga ili ti Kuala Lumpur at Malaysia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.11003212630748749}
+{"uid": "xfactr-ilo-P30-000278", "answer": "Ti Puerto Rico ket masarakan idiay Estados Unidos.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6411972045898438}
+{"uid": "xfactr-ilo-P30-000107", "answer": "Ti Senegal ket masarakan idiay Abagatan a Amerika.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9662073254585266}
+{"uid": "xfactr-ilo-P530-000318", "answer": "Ti Luxembourg ket adda napintas nga langen-langen na iti Aleman.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.7118887901306152}
+{"uid": "xfactr-ilo-P47-000074", "answer": "Sungbat: Inbingayan ni Tsina ni balikas ti tawid.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.983000636100769}
+{"uid": "xfactr-ilo-P47-000452", "answer": "Inbingayan ni Senegal ni tawid.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0110740661621094}
+{"uid": "xfactr-ilo-P937-000085", "answer": "Nagubra ni Sigmund Freud idi iti Vienna.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.4103836417198181}
+{"uid": "xfactr-ilo-P530-000728", "answer": "Ti Yemen ket adda napintas nga langen-langen na iti Arabo.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3645596504211426}
+{"uid": "xfactr-ilo-P47-000125", "answer": "Sungbat: Inbingayan ni Zambia ni tawid.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7634499073028564}
+{"uid": "xfactr-ilo-P190-000731", "answer": "Sungbat: Singin nga ili ti Herusalem at Jesus.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.138385772705078}
+{"uid": "xfactr-ilo-P463-000030", "answer": "Ni Lebanon iti pagilian.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.486492156982422}
+{"uid": "xfactr-ilo-P47-000353", "answer": "Sungbat: Inbingayan ni Guyana ni tawid.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.283356189727783}
+{"uid": "xfactr-ilo-P530-000521", "answer": "Ti Canada ket adda napintas nga langen-langen na iti kabakiran.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9873397946357727}
+{"uid": "xfactr-ilo-P47-000167", "answer": "Sungbat: Inbingayan ni Namibia ni Atlantiko ti tawid.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7548387050628662}
+{"uid": "xfactr-ilo-P530-000070", "answer": "Ti Alemania ket adda napintas nga langen-langen na iti Europa.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.24076668918132782}
+{"uid": "xfactr-ilo-P1376-000250", "answer": "Dili ti kapital ti Manila.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.26327061653137207}
+{"uid": "xfactr-ilo-P530-000419", "answer": "Ti Norwega ket adda napintas nga langen-langen na iti pag-ugma.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4762471914291382}
+{"uid": "xfactr-ilo-P530-000855", "answer": "Ti Saudi Arabia ket adda napintas nga langen-langen na iti Mecca.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.206037998199463}
+{"uid": "xfactr-ilo-P530-000316", "answer": "Ti Canada ket adda napintas nga langen-langen na iti kabakiran.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9873397946357727}
+{"uid": "xfactr-ilo-P47-000307", "answer": "Inbingayan ni Illinois ni Rio Grande ti tawid.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9259258508682251}
+{"uid": "xfactr-ilo-P47-000202", "answer": "Inbingayan ni Austria ni Napoleon ti tawid.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8668017387390137}
+{"uid": "xfactr-ilo-P530-000188", "answer": "Ti Hapon ket adda napintas nga langen-langen na iti Tokyo.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8971798419952393}
+{"uid": "xfactr-ilo-P463-000158", "answer": "Ni Dominica iti isla.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.4150264263153076}
+{"uid": "xfactr-ilo-P530-000763", "answer": "Ti Pakistan ket adda napintas nga langen-langen na iti Himalaya.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5727859735488892}
+{"uid": "xfactr-ilo-P530-000448", "answer": "Ti Siria ket adda napintas nga langen-langen na iti Antioquia.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0613168478012085}
+{"uid": "xfactr-ilo-P47-000266", "answer": "Sungbat: Inbingayan ni Cambodia ni Tonle Sap.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.0100860595703125}
+{"uid": "xfactr-ilo-P47-000405", "answer": "Inbingayan ni Nazi nga Alemania ni Adolf Hitler.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0570542812347412}
+{"uid": "xfactr-ilo-P530-000676", "answer": "Ti Apganistan ket adda napintas nga langen-langen na iti Himalaya.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4686947166919708}
+{"uid": "xfactr-ilo-P530-000934", "answer": "Ti Etiopia ket adda napintas nga langen-langen na iti simbahan.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0310251712799072}
+{"uid": "xfactr-ilo-P17-000484", "answer": "Makita ti Karayan Amasona idiay Cagayan.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0198884010314941}
+{"uid": "xfactr-ilo-P530-000956", "answer": "Ti EC ket adda napintas nga langen-langen na iti KORTE.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4498257637023926}
+{"uid": "xfactr-ilo-P47-000245", "answer": "Inbingayan ni Turkia ni Bosphorus ti tawid.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8893218040466309}
+{"uid": "xfactr-ilo-P530-000155", "answer": "Ti Hapon ket adda napintas nga langen-langen na iti Tokyo.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8971798419952393}
+{"uid": "xfactr-ilo-P47-000605", "answer": "Inbingayan ni Daya a Timor ni Australia ti tawid.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2398321628570557}
+{"uid": "xfactr-ilo-P407-000052", "answer": "Naisurat ti Daniel iti papel.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6633777618408203}
+{"uid": "xfactr-ilo-P530-000203", "answer": "Ti Papua Baro a Guinea ket adda napintas nga langen-langen na iti isla.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.775654673576355}
+{"uid": "xfactr-ilo-P530-000029", "answer": "Ti Italia ket adda napintas nga langen-langen na iti Roma.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3482664823532104}
+{"uid": "xfactr-ilo-P530-000414", "answer": "Ti Lebanon ket adda napintas nga langen-langen na iti maysa a sentensia.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8408730030059814}
+{"uid": "xfactr-ilo-P190-000005", "answer": "Singin nga ili ti Berlin at Manila.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0982770174741745}
+{"uid": "xfactr-ilo-P47-000528", "answer": "Sungbat: Inbingayan ni Ehipto ni tawid.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4391155242919922}
+{"uid": "xfactr-ilo-P37-000547", "answer": "Sungbat (iti Ingles): Swahili", "label": 0, "label_rule": "matches", "first_token_entropy": 2.107010841369629}
+{"uid": "xfactr-ilo-P47-000260", "answer": "Inbingayan ni Brasil ni Rio ti tawid.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9740512371063232}
+{"uid": "xfactr-ilo-P530-000900", "answer": "Ti Italia ket adda napintas nga langen-langen na iti Roma.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3482664823532104}
+{"uid": "xfactr-ilo-P37-000797", "answer": "Ti Ingles: Ti opisyal nga pagsasao ni Tuvalu ket Ingles.", "label": 0, "label_rule": "matches", "first_token_entropy": 2.6492819786071777}
+{"uid": "xfactr-ilo-P530-000791", "answer": "Ti Cyprus ket adda napintas nga langen-langen na iti dagat.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.322916030883789}
+{"uid": "xfactr-ilo-P190-000633", "answer": "Singin nga ili ti New Delhi at Manila.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09331299364566803}
+{"uid": "xfactr-ilo-P463-000090", "answer": "Sungbat: Ti Amianan a Korea ket isla iti Akin-abagatan a Korea.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.533614158630371}
+{"uid": "xfactr-ilo-P39-000001", "answer": "Ni Barack Obama ti maika-44 a Presidente iti Estados Unidos.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.5730955600738525}
+{"uid": "xfactr-ilo-P47-000170", "answer": "Inbingayan ni Austria ni Napoleon ti tawid.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8668017387390137}
+{"uid": "xfactr-ilo-P47-000292", "answer": "Inbingayan ni North Carolina ni Atlantic Ocean ti tawid.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2036055326461792}
+{"uid": "xfactr-ilo-P190-000326", "answer": "Singin nga ili ti Tokyo at Manila.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.11382173746824265}
+{"uid": "xfactr-ilo-P47-000222", "answer": "Inbingayan ni Mosambike ni Jesus ti tawid.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6652405858039856}
+{"uid": "xfactr-ilo-P36-000178", "answer": "Astana. (iti Ilokano: Astana)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.02731630951166153}
+{"uid": "xfactr-ilo-P530-000442", "answer": "Ti Is-isla ti Solomon ket adda napintas nga langen-langen na iti Hawaii.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.28390374779701233}
+{"uid": "xfactr-ilo-P1376-000020", "answer": "Amsterdam ti kapital ti Olanda.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.006136331707239151}
+{"uid": "xfactr-ilo-P1376-000087", "answer": "Nigeria. (iti porma a masarakan iti diksionario: Nige-ri-a)", "label": 0, "label_rule": "matches", "first_token_entropy": 1.0616813898086548}
+{"uid": "xfactr-ilo-P47-000036", "answer": "Sungbat: Inbingayan ni Belhika ni Atlantiko ti tawid.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5803492069244385}
+{"uid": "xfactr-ilo-P30-000034", "answer": "Ti Belhika ket masarakan idiay Europa.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.9480268955230713}
+{"uid": "xfactr-ilo-P37-000193", "answer": "Sungbat: Portuges.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.8888096809387207}
+{"uid": "xfactr-ilo-P69-000001", "answer": "Nagreduar ni Woodrow Wilson idiay Washington D.C.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7219647765159607}
+{"uid": "xfactr-ilo-P530-000546", "answer": "Ti Eslobenia ket adda napintas nga langen-langen na iti Alpes.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5097426772117615}
+{"uid": "xfactr-ilo-P937-000249", "answer": "Nagubra ni Gottfried Wilhelm Leibniz idi iti Berlin.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.3764628767967224}
+{"uid": "xfactr-ilo-P17-000048", "answer": "Makita ti Insik idiay Manila.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1749072074890137}
+{"uid": "xfactr-ilo-P1376-000065", "answer": "Athenas ti kapital ti Gresia.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.6318609714508057}
+{"uid": "xfactr-ilo-P47-000154", "answer": "Sungbat: Inbingayan ni Zimbabwe ni tawid.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5332417488098145}
+{"uid": "xfactr-ilo-P47-000052", "answer": "Sungbat: Inbingayan ni CH ni tawid.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.9602103233337402}
+{"uid": "xfactr-ilo-P37-000018", "answer": "Italiano. (iti porma a masarakan iti diksionario: ital-yano)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.07941009849309921}
+{"uid": "xfactr-ilo-P17-000269", "answer": "Sinaloa. (iti Ilokano)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5325680375099182}
+{"uid": "xfactr-ilo-P530-000011", "answer": "Ti Canada ket adda napintas nga langen-langen na iti kabakiran.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9873397946357727}
+{"uid": "xfactr-ilo-P530-000249", "answer": "Ti Abagatan a Korea ket adda napintas nga langen-langen na iti Seoul.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8960568308830261}
+{"uid": "xfactr-ilo-P530-000906", "answer": "Ti Bielorusia ket adda napintas nga langen-langen na iti Europa.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.790608286857605}
+{"uid": "xfactr-ilo-P530-000496", "answer": "Ti Saudi Arabia ket adda napintas nga langen-langen na iti Mecca.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.206037998199463}
+{"uid": "xfactr-ilo-P1376-000070", "answer": "Hanoi ti kapital ti Vietnam.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.019319891929626465}
+{"uid": "xfactr-ilo-P530-000544", "answer": "Ti Turkia ket adda napintas nga langen-langen na iti Istanbul.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.4111151695251465}
+{"uid": "xfactr-ilo-P530-000880", "answer": "Ti Rusia ket adda napintas nga langen-langen na iti Siberia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7288285493850708}
+{"uid": "xfactr-ilo-P37-000863", "answer": "Ti opisyal nga pagsasao ni South Dakota ket Ingles.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.6743273735046387}
+{"uid": "xfactr-ilo-P140-000444", "answer": "Ni Papa Inocencio IV ket nangisurot iti sentensia iti 1254.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9968490600585938}
+{"uid": "xfactr-ilo-P47-000549", "answer": "Sungbat: Inbingayan ni Idaho ni tawid.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4313262701034546}
+{"uid": "xfactr-ilo-P47-000435", "answer": "Sungbat: Inbingayan ni Arkansas ni tawid.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.202738881111145}
+{"uid": "xfactr-ilo-P47-000336", "answer": "Sungbat: Inbingayan ni Lituania ni Europa.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6790740489959717}
+{"uid": "xfactr-ilo-P190-000818", "answer": "Singin nga ili ti Marseille at dagiti nangibang nangibang.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09157152473926544}
+{"uid": "xfactr-ilo-P190-000682", "answer": "Singin nga ili ti Boston at siudad.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09871535748243332}
+{"uid": "xfactr-ilo-P190-000710", "answer": "Singin nga ili ti Toronto at Canada.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.08584405481815338}
+{"uid": "xfactr-ilo-P361-000038", "answer": "Sungbat: Rio Grande do Sul", "label": 1, "label_rule": "matches", "first_token_entropy": 2.7817270755767822}
+{"uid": "xfactr-ilo-P463-000104", "answer": "Ni Sri Lanka iti isla.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3109634220600128}
+{"uid": "xfactr-ilo-P463-000187", "answer": "Sarakan: Ni Malaysia iti isla iti Borneo.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.7529444694519043}
+{"uid": "xfactr-ilo-P17-000203", "answer": "Sungbat: Manila.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.318311929702759}
+{"uid": "xfactr-ilo-P527-000389", "answer": "Sungbat: Mairaman iti Akinlaud nga Europa ti Italia.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.2428863048553467}
+{"uid": "xfactr-ilo-P131-000101", "answer": "New Hampshire. (iti Ilokano)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.564509391784668}
+{"uid": "xfactr-ilo-P30-000365", "answer": "Ti Republika a Dominikano ket masarakan idiay Isla ti Hispaniola.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9133109450340271}
+{"uid": "xfactr-ilo-P136-000122", "answer": "Sungbat: Agtoctocar ni Whitney Houston ti Ilokano.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5598443746566772}
+{"uid": "xfactr-ilo-P463-000035", "answer": "Ni Dinamarka iti Copenhagen.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5168646574020386}
+{"uid": "xfactr-ilo-P36-000042", "answer": "Jakarta. (iti Ilokano)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.11716161668300629}
+{"uid": "xfactr-ilo-P39-000483", "answer": "Ni Papa Clemente IX ti Urbano VIII.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.5439282655715942}
+{"uid": "xfactr-ilo-P190-000754", "answer": "Singin nga ili ti Manila at ___ .", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1201663464307785}
+{"uid": "xfactr-ilo-P463-000036", "answer": "Ni Kroasia iti Europa.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8701176047325134}
+{"uid": "xfactr-ilo-P190-000353", "answer": "Singin nga ili ti Beijing at maysa.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0894094705581665}
+{"uid": "xfactr-ilo-P190-000228", "answer": "Singin nga ili ti Helsinki at Finlandia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.11438527703285217}
+{"uid": "xfactr-ilo-P30-000160", "answer": "Ti Mali ket masarakan idiay Paris.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.9092862606048584}
+{"uid": "xfactr-ilo-P463-000521", "answer": "Ni Is-isla ti Solomon iti Rey ni Salomon.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4798874855041504}
+{"uid": "xfactr-ilo-P463-000880", "answer": "Ni Tunisia iti pagilian iti Africa.", "label": 1, "label_rule": "matches", "first_token_entropy": 4.181931018829346}
+{"uid": "xfactr-ilo-P1376-000023", "answer": "Bangkok ti kapital ti Tailandia.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.019036997109651566}
+{"uid": "xfactr-ilo-P407-000474", "answer": "Sungbat: Naisurat ti Tatiana iti kuarteta.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.0456628799438477}
+{"uid": "xfactr-ilo-P37-000004", "answer": "Rusiano. (iti porma a masarakan iti diksionario: Rusiano, Rusia)", "label": 1, "label_rule": "matches", "first_token_entropy": 2.611027240753174}
+{"uid": "xfactr-ilo-P1376-000256", "answer": "Gabon. (Libreville ti kapital ti Gabon.)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.012491054832935333}
+{"uid": "xfactr-ilo-P937-000005", "answer": "Nagubra ni Georges Pompidou idi iti 1974.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.35769060254096985}
+{"uid": "xfactr-ilo-P37-000542", "answer": "Sungbat: Ingles", "label": 0, "label_rule": "matches", "first_token_entropy": 2.69218111038208}
+{"uid": "xfactr-ilo-P527-000014", "answer": "Sungbat: Mairaman iti Abagatan nga Amerika ti Brasil.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.362175464630127}
+{"uid": "xfactr-ilo-P138-000006", "answer": "Sungbat: Ipinanagan ni Budismo iti apo na nga Buddha.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.0467684268951416}
+{"uid": "xfactr-ilo-P103-000037", "answer": "Ti pagsasao ni Jean-Jacques Rousseau ket Pranses.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.6414403915405273}
+{"uid": "xfactr-ilo-P131-000062", "answer": "Naitakder ti Missouri idiay Estados Unidos.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.36390337347984314}
+{"uid": "xfactr-ilo-P39-000373", "answer": "Ni Papa Celestino IV ti maysa a Papa iti Simbaan a Romano.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.3855727910995483}
+{"uid": "xfactr-ilo-P190-000056", "answer": "Dagiti nagibangon iti Kiev at Dnipro.", "label": 1, "label_rule": "matches", "first_token_entropy": 5.474461555480957}
+{"uid": "xfactr-ilo-P463-000458", "answer": "Ni PL iti Ilokano.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.9970226287841797}
+{"uid": "xfactr-ilo-P106-000030", "answer": "Ni Bing Crosby ket maysa a mannurat iti kanta.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.674849271774292}
+{"uid": "xfactr-ilo-P30-000051", "answer": "Ti Norwega ket masarakan idiay Europa.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.8711482286453247}
+{"uid": "xfactr-ilo-P17-000072", "answer": "Makita ti Olandes idiay Amsterdam.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4603863954544067}
+{"uid": "xfactr-ilo-P190-000154", "answer": "Sungbat: Rio de la Plata.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.088931083679199}
+{"uid": "xfactr-ilo-P30-000065", "answer": "Malaysia ket masarakan idiay Borneo.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.16998863220214844}
+{"uid": "xfactr-ilo-P407-000016", "answer": "Naisurat ti Tulag ti Versailles iti 1919.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.42385250329971313}
+{"uid": "xfactr-ilo-P190-000002", "answer": "Singin nga ili ti Los Angeles at dagup.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.10115092992782593}
+{"uid": "xfactr-ilo-P190-000029", "answer": "Singin nga ili ti San Francisco at Manila.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07682834565639496}
+{"uid": "xfactr-ilo-P36-000078", "answer": "Vienna. (iti Ilokano: Viena)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.10132252424955368}
+{"uid": "xfactr-ilo-P138-000004", "answer": "Ipinanagan ni America iti apo na nga nagannaw.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.99980229139328}
+{"uid": "xfactr-ilo-P131-000047", "answer": "Naitakder ti Pennsylvania idiay Estados Unidos.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.3422502279281616}
+{"uid": "xfactr-ilo-P30-000253", "answer": "Ti Tonga ket masarakan idiay Manila.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.2404539585113525}
+{"uid": "xfactr-ilo-P190-000243", "answer": "Sungbat: Singin nga ili ti Siudad ti Mehiko at nagtataudan.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0699316263198853}
+{"uid": "xfactr-ilo-P937-000042", "answer": "Nagubra ni Calvin Coolidge idi iti 1928.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.36079537868499756}
+{"uid": "xfactr-ilo-P30-000062", "answer": "Ti Taiwan ket masarakan idiay isla.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7061824798583984}
+{"uid": "xfactr-ilo-P463-000420", "answer": "Ni Monaco iti Europa.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.232032537460327}
+{"uid": "xfactr-ilo-P463-000362", "answer": "Ni Belis iti Ilocano.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8878564834594727}
+{"uid": "xfactr-ilo-P190-000083", "answer": "Singin nga ili ti Warsaw at maysa.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.10938191413879395}
+{"uid": "xfactr-ilo-P39-000715", "answer": "Ni Rutherford B. Hayes ti maika-19 a Presidente ti Estados Unidos.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5432283878326416}
+{"uid": "xfactr-ilo-P39-000004", "answer": "Ni Franklin D. Roosevelt.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8457190990447998}
+{"uid": "xfactr-ilo-P30-000021", "answer": "Ti Arhentina ket masarakan idiay Amerika.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7424089908599854}
+{"uid": "xfactr-ilo-P37-000420", "answer": "Sungbat: Komori.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8610775470733643}
+{"uid": "xfactr-ilo-P190-000279", "answer": "Singin nga ili ti Istanbul at Europa.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.11486879736185074}
+{"uid": "xfactr-ilo-P190-000679", "answer": "Singin nga ili ti Atenas at si Zeus.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.10611587762832642}
+{"uid": "xfactr-ilo-P36-000229", "answer": "Sana'a ti kapital ti Yemen.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.2548561096191406}
+{"uid": "xfactr-ilo-P39-000032", "answer": "Ni Calvin Coolidge ti maika-30 a Presidente iti Estados Unidos.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.2669677734375}
+{"uid": "xfactr-ilo-P190-000922", "answer": "Singin nga ili ti Amman at siudad.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.15693485736846924}
+{"uid": "xfactr-ilo-P36-000084", "answer": "Santiago. (iti Ilokano)", "label": 1, "label_rule": "matches", "first_token_entropy": 3.879324197769165}
+{"uid": "xfactr-ilo-P190-000521", "answer": "Singin nga ili ti Taipei at maysa.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09699883311986923}
+{"uid": "xfactr-ilo-P407-000035", "answer": "Naisurat ti Michael iti papel.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6778841018676758}
+{"uid": "xfactr-ilo-P1376-000003", "answer": "Tokyo ti kapital ti Hapon.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.02274133823812008}
+{"uid": "xfactr-ilo-P937-000011", "answer": "Nagubra ni Pablo Picasso idi iti 1973.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3632747232913971}
+{"uid": "xfactr-ilo-P463-000106", "answer": "Ni Eritrea iti isla iti Abisinia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.41681867837905884}
+{"uid": "xfactr-ilo-P463-000068", "answer": "Ni Letonia iti Europa.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7826443910598755}
+{"uid": "xfactr-ilo-P37-000208", "answer": "Ti opisyal nga pagsasao ni Kabo Berde ket Ilokano.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.9434425830841064}
+{"uid": "xfactr-ilo-P37-000074", "answer": "Ti opisyal nga pagsasao ni Bielorusia ket Bieloruso.", "label": 0, "label_rule": "matches", "first_token_entropy": 3.294081926345825}
+{"uid": "xfactr-ilo-P1376-000029", "answer": "Sungbat: South Africa", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6230748891830444}
+{"uid": "xfactr-ilo-P1376-000192", "answer": "Nuuk ti kapital ti Manila.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4752635359764099}
+{"uid": "xfactr-ilo-P276-000031", "answer": "Makitkita ti Maikadua a Sangalubongan a Gubat iti Ilocos.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5322723388671875}
+{"uid": "xfactr-ilo-P37-000901", "answer": "Sungbat (iti Ingles): Griyego", "label": 0, "label_rule": "matches", "first_token_entropy": 1.9328410625457764}
+{"uid": "xfactr-ilo-P39-000366", "answer": "Ni Papa Silvestre II ti Papa iti Roma.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.7933560013771057}
+{"uid": "xfactr-ilo-P37-000073", "answer": "Ti opisyal nga pagsasao ni India ket Hindi.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3901910781860352}
+{"uid": "xfactr-ilo-P30-000119", "answer": "Ti Malawi ket masarakan idiay Afrika.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9681409597396851}
+{"uid": "xfactr-ilo-P407-000011", "answer": "Naisurat ti Daniel iti papel.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6633777618408203}
+{"uid": "xfactr-ilo-P36-000193", "answer": "Sungbat: Kapital ti Mali.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.5960593223571777}
+{"uid": "xfactr-ilo-P131-000242", "answer": "Naitakder ti Svalbard idiay Norwega.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.5170717239379883}
+{"uid": "xfactr-ilo-P1376-000010", "answer": "Rio de Janeiro ti kapital ti Brasil.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.10143353044986725}
+{"uid": "xfactr-ilo-P37-000178", "answer": "Malay. (iti porma a masarakan iti diksionario)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3899658918380737}
+{"uid": "xfactr-ilo-P138-000001", "answer": "Sungbat: Ipinanagan ni Banglades iti apo na nga baybayin.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.978682041168213}
+{"uid": "xfactr-ilo-P30-000217", "answer": "Ti Ehipto ket masarakan idiay Mesir.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2277849912643433}
+{"uid": "xfactr-ilo-P30-000233", "answer": "Ti Libya ket masarakan idiay Afrika.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.226411819458008}
+{"uid": "xfactr-ilo-P937-000047", "answer": "Nagubra ni Joseph Stalin idi iti 1953.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.542411208152771}
+{"uid": "xfactr-ilo-P36-000040", "answer": "Sungbat: Baku", "label": 0, "label_rule": "matches", "first_token_entropy": 0.3408181369304657}
+{"uid": "xfactr-ilo-P30-000008", "answer": "Ti Tsina ket masarakan idiay Pekin.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0613316297531128}
+{"uid": "xfactr-ilo-P36-000094", "answer": "Santiago. (iti Ilokano)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.07321694493293762}
+{"uid": "xfactr-ilo-P30-000102", "answer": "Ti Surinam ket masarakan idiay Amerika.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5435840487480164}
+{"uid": "xfactr-ilo-P20-000087", "answer": "Natay ni T. S. Eliot idiay Londres.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.03322019428014755}
+{"uid": "xfactr-ilo-P37-000166", "answer": "Sungbat (iti Ilokano): Ti opisyal nga pagsasao ni Senegal ket Wolof.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7625142335891724}
+{"uid": "xfactr-ilo-P463-000256", "answer": "Ni Albania iti Europa.", "label": 1, "label_rule": "matches", "first_token_entropy": 4.652576923370361}
+{"uid": "xfactr-ilo-P103-000135", "answer": "Ti pagsasao ni Virgilio ket Ilokano.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8633050918579102}
+{"uid": "xfactr-ilo-P1376-000055", "answer": "Siudad ti Mehiko ti kapital ti Mehiko.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.04809870570898056}
+{"uid": "xfactr-ilo-P30-000314", "answer": "Ti Kirgistan ket masarakan idiay Asia.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.0169076919555664}
+{"uid": "xfactr-ilo-P30-000273", "answer": "iti Afrika. (iti porma a masarakan iti diksionario)", "label": 1, "label_rule": "matches", "first_token_entropy": 5.296602249145508}
+{"uid": "xfactr-ilo-P37-000188", "answer": "Sungbat (iti Ilokano): Griego", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7068061828613281}
+{"uid": "xfactr-ilo-P463-000037", "answer": "Ni Austria iti Alemania.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.012282371520996}
+{"uid": "xfactr-ilo-P19-000969", "answer": "Naiyanak ni Agnes Monica idiay Indonesia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.12937618792057037}
+{"uid": "xfactr-ilo-P37-000507", "answer": "Sungbat: Ingles.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.5737841129302979}
+{"uid": "xfactr-ilo-P37-000737", "answer": "Sungbat (iti Ilokano): Ti opisyal nga pagsasao ni Aceh ket Indones.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0604605674743652}
+{"uid": "xfactr-ilo-P37-000065", "answer": "Sungbat: Espaniol", "label": 0, "label_rule": "matches", "first_token_entropy": 2.695254325866699}
+{"uid": "xfactr-ilo-P37-000174", "answer": "Ti opisyal nga pagsasao ni Kappon ti Europa ket Aleman.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.666447639465332}
+{"uid": "xfactr-ilo-P27-000011", "answer": "Sungbat: Si Vladimir Putin ay isang Rusong estadista.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.5512051582336426}
+{"uid": "xfactr-ilo-P1412-000000", "answer": "Naraum ni Napoleon Bonaparte makisarita kadaguiti Europa.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2836037576198578}
+{"uid": "xfactr-ilo-P37-000213", "answer": "Sungbat: Espaniol", "label": 0, "label_rule": "matches", "first_token_entropy": 2.1838185787200928}
+{"uid": "xfactr-ilo-P36-000038", "answer": "Beirut. (iti porma a masarakan iti diksionario: Beirut)", "label": 0, "label_rule": "matches", "first_token_entropy": 1.0053491592407227}
+{"uid": "xfactr-ilo-P131-000145", "answer": "Naitakder ti Delhi idiay India.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.4600229263305664}
+{"uid": "xfactr-ilo-P140-000054", "answer": "Ni Nasantuan nga Imperio a Romano ket nagbalin a nagtataudan.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8245985507965088}
+{"uid": "xfactr-ilo-P1376-000011", "answer": "Beijing ti kapital ti Tsina.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.006655805744230747}
+{"uid": "xfactr-ilo-P30-000015", "answer": "Ti India ket masarakan idiay subkontinente iti Asia.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.6900475025177002}
+{"uid": "xfactr-ilo-P1412-000006", "answer": "Sungbat: Naraum ni Vladimir Putin makisarita kadaguiti Rusia.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.9284512996673584}
+{"uid": "xfactr-ilo-P30-000079", "answer": "Ti Paraguay ket masarakan idiay Amerika.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3249995708465576}
+{"uid": "xfactr-ilo-P140-000223", "answer": "Ni Papa Honorio I ket isu ti papa ti Roma manipud 625 aginggana 638.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7547402381896973}
+{"uid": "xfactr-ilo-P463-000049", "answer": "Ni Gresia iti Europa.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6236410140991211}
+{"uid": "xfactr-ilo-P463-000051", "answer": "Ni Haiti iti isla iti Karibe.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.969909906387329}
+{"uid": "xfactr-ilo-P36-000018", "answer": "Londres. (iti Ilokano)", "label": 0, "label_rule": "matches", "first_token_entropy": 1.371855616569519}
+{"uid": "xfactr-ilo-P37-000356", "answer": "Latin. (iti porma a masarakan iti diksionario: Latin (n.) - pagsasao iti opisyal iti Imperio a Romano)", "label": 1, "label_rule": "matches", "first_token_entropy": 2.185296058654785}
+{"uid": "xfactr-ilo-P140-000047", "answer": "Ni Apganistan ket isla iti Asia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.23524406552314758}
+{"uid": "xfactr-ilo-P37-000103", "answer": "Ti Rumano. (iti porma a masarakan iti diksionario: Rumano)", "label": 0, "label_rule": "matches", "first_token_entropy": 2.219625949859619}
+{"uid": "xfactr-ilo-P937-000027", "answer": "Nagubra ni Bavaria idi iti 1918.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.47203993797302246}
+{"uid": "xfactr-ilo-P1412-000360", "answer": "Naraum ni Martin Luther makisarita kadaguiti 95 Tesis.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3135632276535034}
+{"uid": "xfactr-ilo-P30-000001", "answer": "Ti Canada ket masarakan idiay Amianan a Amerika.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5480200052261353}
+{"uid": "xfactr-ilo-P37-000177", "answer": "Sungbat: Espaniol", "label": 0, "label_rule": "matches", "first_token_entropy": 4.183130741119385}
+{"uid": "xfactr-ilo-P1376-000015", "answer": "Helsinki ti kapital ti Finlandia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.10067913681268692}
+{"uid": "xfactr-ilo-P361-000019", "answer": "Sungbat: Berlin", "label": 1, "label_rule": "matches", "first_token_entropy": 1.485789179801941}
+{"uid": "xfactr-ilo-P30-000239", "answer": "Ti Is-isla ti Solomon ket masarakan idiay Oceania.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.20780783891677856}
+{"uid": "xfactr-ilo-P36-000086", "answer": "Berlin ti kapital ti Alemania.", "label": 0, "label_rule": "matches", "first_token_entropy": 2.2413761615753174}
+{"uid": "xfactr-ilo-P463-000088", "answer": "Ni Australia iti Oceania.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6717513799667358}
+{"uid": "xfactr-ilo-P463-000906", "answer": "Ni Kamerun iti Afrika.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8686233758926392}
+{"uid": "xfactr-ilo-P131-000038", "answer": "Naitakder ti Florida idiay Estados Unidos.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.32708534598350525}
+{"uid": "xfactr-ilo-P463-000211", "answer": "Nigeria iti Abagatan a Amerika.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.058929443359375}
+{"uid": "xfactr-ilo-P30-000222", "answer": "Ti Siudad ti Batikano ket masarakan idiay Roma.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5143250823020935}
+{"uid": "xfactr-ilo-P1376-000037", "answer": "Herusalem ti kapital ti Israel.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0011895045172423124}
+{"uid": "xfactr-ilo-P17-000105", "answer": "Makita ti Kansas idiay Estados Unidos.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.1020503044128418}
+{"uid": "xfactr-ilo-P30-000044", "answer": "Austria ket masarakan idiay Alemania.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8532642126083374}
+{"uid": "xfactr-ilo-P17-000050", "answer": "Makita ti Tokyo idiay Hapon.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.0435645580291748}
+{"uid": "xfactr-ilo-P103-000013", "answer": "Ing pagsasao ni Ronald Reagan ket Ingles.", "label": 0, "label_rule": "matches", "first_token_entropy": 3.353419780731201}
+{"uid": "xfactr-ilo-P37-000123", "answer": "Ti opisyal nga pagsasao ni Kirgistan ket Kirgiso.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.3163652420043945}
+{"uid": "xfactr-ilo-P131-000435", "answer": "Sahara. (iti Ilokano)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8923208713531494}
+{"uid": "xfactr-ilo-P30-000020", "answer": "Alemania ket masarakan idiay Berlin.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.034404486417770386}
+{"uid": "xfactr-ilo-P1376-000474", "answer": "Herusalem ti kapital ti Israel.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.0011895045172423124}
+{"uid": "xfactr-ilo-P36-000028", "answer": "Sungbat:  Johannesburg", "label": 1, "label_rule": "matches", "first_token_entropy": 0.11392969638109207}
+{"uid": "xfactr-ilo-P30-000163", "answer": "Ti Rwanda ket masarakan idiay Afrika.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6314812302589417}
+{"uid": "xfactr-ilo-P463-000134", "answer": "Sungbat: Ni Republika ti Tengnga nga Aprika iti Pretoria.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2186527252197266}
+{"uid": "xfactr-ilo-P140-000082", "answer": "Ni Papa Pio XI ket naiyeg iti Roma, Italya idi 10 Pebrero 1939.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.145363688468933}
+{"uid": "xfactr-ilo-P37-000013", "answer": "Ti opisyal nga pagsasao ni Espania ket Espaniol.", "label": 0, "label_rule": "matches", "first_token_entropy": 2.2600555419921875}
+{"uid": "xfactr-ilo-P37-000742", "answer": "Sungbat: Ti opisyal nga pagsasao ni Luxembourg ket Aleman.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.126373052597046}
+{"uid": "xfactr-ilo-P1376-000193", "answer": "Sungbat: Manila.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.9521710872650146}
+{"uid": "xfactr-ilo-P1376-000040", "answer": "Zagreb ti kapital ti Kroasia.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.0024521606974303722}
+{"uid": "xfactr-ilo-P463-000224", "answer": "Ni Tanzania iti Afrika.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.105520248413086}
+{"uid": "xfactr-ilo-P131-000070", "answer": "Naitakder ti Amianan a Renania-Wespalia idiay Alemania.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.7672422528266907}
+{"uid": "xfactr-ilo-P1376-000195", "answer": "Tajikistan.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1260944604873657}
+{"uid": "xfactr-ilo-P527-000019", "answer": "Mairaman iti Latin nga Amerika ti Mehiko.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.086122989654541}
+{"uid": "xfactr-ilo-P463-000114", "answer": "Ni America iti Estados Unidos.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6732622385025024}
+{"uid": "xfactr-ilo-P103-000110", "answer": "Sungbat: Italiano", "label": 1, "label_rule": "matches", "first_token_entropy": 3.918558359146118}
+{"uid": "xfactr-ilo-P39-000025", "answer": "Ni Thomas Jefferson ti Amerikano a mannurat iti Deklarasion iti Independensia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4909195303916931}
+{"uid": "xfactr-ilo-P37-000223", "answer": "Ti Abkhaz.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7686011791229248}
+{"uid": "xfactr-ilo-P463-000573", "answer": "Ni Gresia iti Europa.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6236410140991211}
+{"uid": "xfactr-ilo-P36-000140", "answer": "Riyadh. (iti porma a masarakan iti diksionario: R - Riy - adh)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.1196780577301979}
+{"uid": "xfactr-ilo-P463-000407", "answer": "Ni Tanzania iti Afrika.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.105520248413086}
+{"uid": "xfactr-ilo-P17-000141", "answer": "Makita ti Griego idiay Grecia.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2317137718200684}
+{"uid": "xfactr-ilo-P30-000200", "answer": "Ti San Francisco ket masarakan idiay California.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3474682569503784}
+{"uid": "xfactr-ilo-P36-000020", "answer": "New Delhi. (iti Ingles)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.30492472648620605}
+{"uid": "xfactr-ilo-P17-000006", "answer": "Makita ti New York idiay Amerika.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.4689738750457764}
+{"uid": "xfactr-ilo-P140-000045", "answer": "Ni Papa Pio X ket maysa a Papa iti Simbaan a Romano.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1175756454467773}
+{"uid": "xfactr-ilo-P463-000062", "answer": "Ni Abagatan a Korea iti Manila.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5594999194145203}
+{"uid": "xfactr-ilo-P17-000068", "answer": "Makita ti Herusalem idiay Israel.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.2818820476531982}
+{"uid": "xfactr-ilo-P1376-000007", "answer": "Ireland. (iti porma a masarakan iti diksionario: Irland)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5903996229171753}
+{"uid": "xfactr-ilo-P937-000014", "answer": "Nagubra ni Lenin idi iti 1924.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5599328279495239}
+{"uid": "xfactr-ilo-P30-000271", "answer": "Turkiya. (Istanbul ket isu ti kapitolio iti Turkiya)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.277904987335205}
+{"uid": "xfactr-ilo-P36-000281", "answer": "Oklahoma City.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.012414162047207355}
+{"uid": "xfactr-ilo-P30-000174", "answer": "Ti Maurisio ket masarakan idiay Roma.", "label": 1, "label_rule": "matches", "first_token_entropy": 4.780268669128418}
+{"uid": "xfactr-ilo-P17-000074", "answer": "Makita ti Ruso idiay Mosku.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.000116229057312}
+{"uid": "xfactr-ilo-P17-000029", "answer": "Makita ti Chicago idiay Estados Unidos.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.0061681270599365}
+{"uid": "xfactr-ilo-P463-000162", "answer": "Ni Norwega iti Oslo.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2672916650772095}
+{"uid": "xfactr-ilo-P36-000297", "answer": "Kilala iti Kigali.", "label": 0, "label_rule": "matches", "first_token_entropy": 4.669997215270996}
+{"uid": "xfactr-ilo-P17-000077", "answer": "Makita ti Atlanta idiay Estados Unidos.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.1727890968322754}
+{"uid": "xfactr-ilo-P17-000052", "answer": "Makita ti Philadelphia idiay Estados Unidos.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.3785324096679688}
+{"uid": "xfactr-ilo-P17-000090", "answer": "Bangkok. (iti Ilokano)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07379461824893951}
+{"uid": "xfactr-ilo-P463-000247", "answer": "Ni Peru iti Manila.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.08365797996521}
+{"uid": "xfactr-ilo-P103-000008", "answer": "Ti pagsasao ni Fyodor Dostoyevsky ket Ruso.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.3176275491714478}
+{"uid": "xfactr-ilo-P138-000000", "answer": "Ipinanagan ni Alemania iti apo na nga Napoleon.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.123638391494751}
+{"uid": "xfactr-ilo-P27-000001", "answer": "Ni George Washington ay isang estadista a nagserbi bilang presidente ti Estados Unidos.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.5175944566726685}
+{"uid": "xfactr-ilo-P103-000045", "answer": "Ti pagsasao ni Hesús ket Ilokano.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.083996295928955}
+{"uid": "xfactr-ilo-P36-000247", "answer": "Dili. (iti Ilokano)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.06058759242296219}
+{"uid": "xfactr-ilo-P39-000083", "answer": "Ni James Buchanan ti maika-15 a Presidente iti Estados Unidos.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.33679381012916565}
+{"uid": "xfactr-ilo-P27-000040", "answer": "Ni Dick Cheney ay Amerikano.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.7958195805549622}
+{"uid": "xfactr-ilo-P101-000081", "answer": "Nagubra ni Isaac Newton iti Cambridge.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.39221230149269104}
+{"uid": "xfactr-ilo-P138-000009", "answer": "Ipinanagan ni Kristianidad iti apo na nga Kristo.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5499569177627563}
+{"uid": "xfactr-ilo-P527-000165", "answer": "Mairaman iti Akin-amianan nga Aprika ti Ehipto.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0547873973846436}
+{"uid": "xfactr-ilo-P407-000012", "answer": "Naisurat ti Richard iti papel.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6346489191055298}
+{"uid": "xfactr-ilo-P140-000007", "answer": "Sungbat: Naimbag.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.666517496109009}
+{"uid": "xfactr-ilo-P36-000184", "answer": "Dushanbe.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.8890034556388855}
+{"uid": "xfactr-ilo-P127-000068", "answer": "Ti Wikipedia ket kukua ni pannakabla.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8365591764450073}
+{"uid": "xfactr-ilo-P36-000030", "answer": "Tehran. (iti Ilokano)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.15474486351013184}
+{"uid": "xfactr-ilo-P36-000204", "answer": "Washington D.C. (iti Ingles)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.54475736618042}
+{"uid": "xfactr-ilo-P17-000085", "answer": "Makita ti West Virginia idiay Estados Unidos.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.3240652084350586}
+{"uid": "xfactr-ilo-P17-000134", "answer": "Nevada. (iti Ilokano)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0557897090911865}
+{"uid": "xfactr-ilo-P36-000102", "answer": "Kapital ti Venezuela.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.0037310123443604}
+{"uid": "xfactr-ilo-P1376-000232", "answer": "Bandar Seri Begawan ti kapital ti Brunei.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.058846473693847656}
+{"uid": "xfactr-ilo-P36-000061", "answer": "Nagkaykaysa a Pagarian", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6233680248260498}
+{"uid": "xfactr-ilo-P131-000630", "answer": "Naitakder ti San Kristobal ken Niebes idiay Batanes.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5480625629425049}
+{"uid": "xfactr-ilo-P361-000276", "answer": "Sungbat: Isla Hispaniola", "label": 1, "label_rule": "matches", "first_token_entropy": 2.6722397804260254}
+{"uid": "xfactr-ilo-P527-000036", "answer": "Sungbat: Mairaman iti Abagatan nga Amerika ti Brasil.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.362175464630127}
+{"uid": "xfactr-ilo-P1376-000060", "answer": "Londres ti kapital ti Inglatera.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09813936054706573}
+{"uid": "xfactr-ilo-P101-000466", "answer": "Nagubra ni Wilhelm Carl Werner Otto Fritz Franz Wien iti Nobel.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8425747156143188}
+{"uid": "xfactr-ilo-P131-000003", "answer": "New York. (iti Ilokano)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1567852646112442}
+{"uid": "xfactr-ilo-P527-000240", "answer": "Sungbat: Mairaman iti Sentral nga Aprika ti Kamerun.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8210599422454834}
+{"uid": "xfactr-ilo-P1376-000000", "answer": "New York. (iti Ilokano: Siudad ti New York ti kapital ti Estados Unidos.)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.07600390166044235}
+{"uid": "xfactr-ilo-P140-000504", "answer": "Ni Papa Clemente XI ket naiwaran iti pisan a panawen iti 1700.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.118642807006836}
+{"uid": "xfactr-ilo-P527-000079", "answer": "Sungbat: Mairaman iti Abagatan nga Amerika ti Brasil.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.362175464630127}
+{"uid": "xfactr-ilo-P17-000146", "answer": "Doha iti Qatar.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6254868507385254}
+{"uid": "xfactr-ilo-P1412-000052", "answer": "Sungbat: Naraum ni Michelangelo makisarita kadaguiti Roma.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.9968361854553223}
+{"uid": "xfactr-ilo-P1376-000089", "answer": "Munich ti kapital ti Alemania.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9029003381729126}
+{"uid": "xfactr-ilo-P527-000688", "answer": "Sungbat: Premio Nobel ti Pisika", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8312187790870667}
+{"uid": "xfactr-ilo-P17-000030", "answer": "Makita ti Los Angeles idiay Amerika.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.3672066926956177}
+{"uid": "xfactr-ilo-P36-000022", "answer": "Bangkok ti kapital ti Tailandia.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.3649299442768097}
+{"uid": "xfactr-ilo-P527-000128", "answer": "Sungbat: Mairaman iti Akindaya nga Europa ti Rusia.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7598152160644531}
+{"uid": "xfactr-ilo-P106-000002", "answer": "Sungbat: \"Maysa a maipangulo iti isip, maysa a maipangulo iti puso.\"", "label": 1, "label_rule": "matches", "first_token_entropy": 3.688387632369995}
+{"uid": "xfactr-ilo-P39-000038", "answer": "Ni Andrew Johnson ti maika-17 a Presidente iti Estados Unidos.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.7256800532341003}
+{"uid": "xfactr-ilo-P937-000026", "answer": "Nagubra ni Vincent van Gogh idi iti 1890.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4194912314414978}
+{"uid": "xfactr-ilo-P131-000015", "answer": "Naitakder ti California idiay Estados Unidos.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.373245507478714}
+{"uid": "xfactr-ilo-P17-000093", "answer": "Makita ti Indiana idiay Estados Unidos.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.119356632232666}
+{"uid": "xfactr-ilo-P276-000020", "answer": "Makitkita ti Pranses a Rebolusion iti 1789.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.40350496768951416}
+{"uid": "xfactr-ilo-P103-000317", "answer": "Ti pagsasao ni Francisco I ket Ilokano.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.452897071838379}
+{"uid": "xfactr-ilo-P1376-000164", "answer": "Astana ti kapital ti Kazakhstan.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.004689143970608711}
+{"uid": "xfactr-ilo-P131-000173", "answer": "Naitakder ti Macau idiay Portugal.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3297451138496399}
+{"uid": "xfactr-ilo-P36-000127", "answer": "Santo Domingo.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.981900930404663}
+{"uid": "xfactr-ilo-P39-000591", "answer": "Ni Papa Pio VIII ti nangisurog iti 1829.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.988086462020874}
+{"uid": "xfactr-ilo-P36-000354", "answer": "Bujumbura.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.05334136635065079}
+{"uid": "xfactr-ilo-P361-000258", "answer": "Sungbat: Nalabas iti Benus.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.9756336212158203}
+{"uid": "xfactr-ilo-P39-000352", "answer": "Ni Papa Benedicto XV ti maysa a Katoliko a Papa.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.5073906183242798}
+{"uid": "xfactr-ilo-P106-000006", "answer": "Ni Ronald Reagan ket isu ti maika-40 a Presidente iti Estados Unidos.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.28359392285346985}
+{"uid": "xfactr-ilo-P361-000156", "answer": "Sungbat: Filipinas", "label": 1, "label_rule": "matches", "first_token_entropy": 3.5503382682800293}
+{"uid": "xfactr-ilo-P495-000005", "answer": "Sungbat: Naggapo iti tenis.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.9380290508270264}
+{"uid": "xfactr-ilo-P36-000088", "answer": "Damascus. (iti porma a masarakan iti diksionario)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.6531929969787598}
+{"uid": "xfactr-ilo-P36-000027", "answer": "Roma. (iti Ilokano)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.10833106935024261}
+{"uid": "xfactr-ilo-P39-000100", "answer": "Ni Zachary Taylor ti maika-12 a Presidente iti Estados Unidos.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.8442397117614746}
+{"uid": "xfactr-ilo-P17-000209", "answer": "Sungbat: Armenia", "label": 0, "label_rule": "matches", "first_token_entropy": 0.5736687183380127}
+{"uid": "xfactr-ilo-P19-000202", "answer": "Roma. (Papa Adriano I ket isu ti papa ti Roma iti maika-119 a papa iti Roma.)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.39480799436569214}
+{"uid": "xfactr-ilo-P407-000548", "answer": "Naisurat ti James iti balikas.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5898507833480835}
+{"uid": "xfactr-ilo-P103-000077", "answer": "Ti pagsasao ni Marcel Proust ket Pranses.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.313678503036499}
+{"uid": "xfactr-ilo-P103-000003", "answer": "Ti pagsasao ni Vladimir Putin ket Ruso.", "label": 0, "label_rule": "matches", "first_token_entropy": 2.0826120376586914}
+{"uid": "xfactr-ilo-P36-000119", "answer": "Pyongyang ti kapital ti Amianan a Korea.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.3160441815853119}
+{"uid": "xfactr-ilo-P131-000060", "answer": "Naitakder ti Kentucky idiay Estados Unidos.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.36970949172973633}
+{"uid": "xfactr-ilo-P17-000047", "answer": "Copenhague. (iti Ilokano)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8828564286231995}
+{"uid": "xfactr-ilo-P131-000033", "answer": "Naitakder ti Texas idiay Estados Unidos.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.2790950536727905}
+{"uid": "xfactr-ilo-P39-000034", "answer": "Ni William McKinley ti maika-25 a Presidente iti Estados Unidos.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.561967134475708}
+{"uid": "xfactr-ilo-P527-000088", "answer": "Mairaman iti Kaamerikaan ti Estados Unidos.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4126485288143158}
+{"uid": "xfactr-ilo-P36-000002", "answer": "Tokyo. (Tokyo ti kapital ti Hapon.)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.4437488913536072}
+{"uid": "xfactr-ilo-P39-000451", "answer": "Ni Papa Constantino ti Roma.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.353006362915039}
+{"uid": "xfactr-ilo-P36-000183", "answer": "Bishkek. (iti Ilokano)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.33845284581184387}
+{"uid": "xfactr-ilo-P159-000158", "answer": "Ti opisina ti Gunglo ti Komersio ti Lubong ket idiay Geneva.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4342479705810547}
+{"uid": "xfactr-ilo-P1376-000099", "answer": "Venezuela. (iti porma a masarakan iti diksionario: V - Venezuela)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.1159590408205986}
+{"uid": "xfactr-ilo-P1376-000073", "answer": "Taipei ti kapital ti Taiwan.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.6946473121643066}
+{"uid": "xfactr-ilo-P1376-000002", "answer": "Sungbat: Estokolmo ti kapital ti Manila.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.1479549407958984}
+{"uid": "xfactr-ilo-P159-000045", "answer": "Ti opisina ti Mankomunidad ti Pagpagilian ket idiay Geneva.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7142820358276367}
+{"uid": "xfactr-ilo-P140-000508", "answer": "Ni Papa Romano ket isu ti Papa iti Roma.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.810948133468628}
+{"uid": "xfactr-ilo-P101-000080", "answer": "Nagubra ni Isaac Newton iti Cambridge.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.39221230149269104}
+{"uid": "xfactr-ilo-P166-000021", "answer": "Naikkan ni Dagiti Nagkaykaysa a Pagilian ti Estados Unidos nga dammadayaw.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.07095027714967728}
+{"uid": "xfactr-ilo-P39-000010", "answer": "Ni Harry S. Truman ti maika-33 a Presidente iti Estados Unidos.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.4532092809677124}
+{"uid": "xfactr-ilo-P39-000249", "answer": "Ni Papa Gregorio XIII ti naiwaran iti kalendario a nangibaga iti 1582.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.1576652526855469}
+{"uid": "xfactr-ilo-P39-000161", "answer": "Ni Papa Benedicto IX ti maysa a Papa iti Simbaan a Romano.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.0833704471588135}
+{"uid": "xfactr-ilo-P103-000010", "answer": "Ti pagsasao ni Charles de Gaulle ket Pranses.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.7591968774795532}
+{"uid": "xfactr-ilo-P131-000146", "answer": "Naitakder ti Yerevan idiay Armenia.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.4261944591999054}
+{"uid": "xfactr-ilo-P39-000277", "answer": "Ni Warren G. Harding ti maika-29 a Presidente iti Estados Unidos.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.8641945123672485}
+{"uid": "xfactr-ilo-P276-000012", "answer": "Makitkita ti Umuna a Sangalubongan a Gubat iti Ilocos.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6007241606712341}
+{"uid": "xfactr-ilo-P527-000174", "answer": "Sistema a Solar ti Hapon", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8141109943389893}
+{"uid": "xfactr-ilo-P166-000048", "answer": "Naikkan ni Jean-Paul Sartre ti Nobel a Parangal iti Literatura.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2356492578983307}
+{"uid": "xfactr-ilo-P140-000207", "answer": "Ni Papa Sixto V ket Julius II.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8324002027511597}
+{"uid": "xfactr-ilo-P361-000148", "answer": "Sungbat: Lima", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6701833009719849}
+{"uid": "xfactr-ilo-P937-000033", "answer": "Nagubra ni Vladimir Putin idi iti 2024.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4889405369758606}
+{"uid": "xfactr-ilo-P20-000004", "answer": "Natay ni San Pedro idiay Roma.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.04884719103574753}
+{"uid": "xfactr-ilo-P103-000281", "answer": "Ti pagsasao ni Barack Obama ket Ingles.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.2488601207733154}
+{"uid": "xfactr-ilo-P131-000046", "answer": "Naitakder ti Beijing idiay Pekin.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3196581304073334}
+{"uid": "xfactr-ilo-P39-000011", "answer": "Ni Grover Cleveland ti maika-22 a Presidente iti Estados Unidos.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.7703264951705933}
+{"uid": "xfactr-ilo-P140-000042", "answer": "Ni Agustin ti Hipona ket isu ti nagun-od iti teolohia a nagun-od iti Kristianismo.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2569657564163208}
+{"uid": "xfactr-ilo-P39-000070", "answer": "Ni James K. Polk ti maika-11 a Presidente iti Estados Unidos.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.4348088204860687}
+{"uid": "xfactr-ilo-P39-000335", "answer": "Ni Papa Inocencio X ti Aleman.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.9081910848617554}
+{"uid": "xfactr-ilo-P140-000029", "answer": "Ni Francisco I ket isu.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0027294158935547}
+{"uid": "xfactr-ilo-P131-000095", "answer": "Kuala Lumpur. (iti Ilokano)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.14633555710315704}
+{"uid": "xfactr-ilo-P166-000147", "answer": "Naikkan ni Al Gore ti Nobel a Parangal iti Paay iti Panagadal iti Panagibgan iti Klima.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.22435593605041504}
+{"uid": "xfactr-ilo-P138-000055", "answer": "Ipinanagan ni Eritrea iti apo na nga dagitoy.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3077211380004883}
+{"uid": "xfactr-ilo-P1412-000064", "answer": "Naraum ni Charles Darwin makisarita kadaguiti evolusyon.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2614342272281647}
+{"uid": "xfactr-ilo-P39-000163", "answer": "Ni Papa Pablo VI ti Romano Katoliko a Papa manipud 1963 aginggana 1978.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.5428526401519775}
+{"uid": "xfactr-ilo-P527-000108", "answer": "Eurasia. (iti Ilokano)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.09792299568653107}
+{"uid": "xfactr-ilo-P101-000182", "answer": "Nagubra ni Karl Marx iti 1883.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6909559369087219}
+{"uid": "xfactr-ilo-P361-000160", "answer": "Saturno. (iti Ilokano)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4355117678642273}
+{"uid": "xfactr-ilo-P101-000383", "answer": "Nagubra ni James Franck iti Nobel iti Pisika.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.8446658849716187}
+{"uid": "xfactr-ilo-P361-000283", "answer": "Sungbat: Estados Unidos.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.3008384704589844}
+{"uid": "xfactr-ilo-P39-000562", "answer": "Ni Papa Lucio III ti Italiano.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.6824129819869995}
+{"uid": "xfactr-ilo-P131-000120", "answer": "Naitakder ti San Petersburgo idiay Rusia.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.37165093421936035}
+{"uid": "xfactr-ilo-P527-000176", "answer": "Sungbat: Mairaman iti Akinlaud nga Europa ti Italia.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.2428863048553467}
+{"uid": "xfactr-ilo-P17-000242", "answer": "Makita ti Tibet idiay Himalaya.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0719294548034668}
+{"uid": "xfactr-ilo-P140-000372", "answer": "Ni Papa Alejandro I ket isu ti papa ti Roma manipud 114-118.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5191824436187744}
+{"uid": "xfactr-ilo-P17-000117", "answer": "Makita ti South Carolina idiay Estados Unidos.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.4950456619262695}
+{"uid": "xfactr-ilo-P39-000005", "answer": "Ni Richard Nixon ti Amerikano a presidente.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6026930212974548}
+{"uid": "xfactr-ilo-P103-000022", "answer": "Ti pagsasao ni Miguel de Cervantes ket Espanyol.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6144964694976807}
+{"uid": "xfactr-ilo-P39-000012", "answer": "Ni George Washington ti maika-1 a presidente iti Estados Unidos.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.835037112236023}
+{"uid": "xfactr-ilo-P140-000214", "answer": "Ni Papa Juan Pablo I ket maysa a Papa a Romano Katoliko.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2970483303070068}
+{"uid": "xfactr-ilo-P103-000035", "answer": "Ti pagsasao ni Jorge Luis Borges ket Espanyol.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0590078830718994}
+{"uid": "xfactr-ilo-P131-000147", "answer": "Naitakder ti Moscow idiay Rusia.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.3103267252445221}
+{"uid": "xfactr-ilo-P101-000156", "answer": "Nagubra ni Michael Faraday iti 25 Septiembre 1934.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.481670618057251}
+{"uid": "xfactr-ilo-P127-000517", "answer": "Ti Wikimedia Commons ket ukua ni pribado.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.41254764795303345}
+{"uid": "xfactr-ilo-P527-000212", "answer": "Mairaman iti Europa ti Amerika.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.47828543186187744}
+{"uid": "xfactr-ilo-P39-000284", "answer": "Ni Papa Adriano VI ti Aleman.", "label": 0, "label_rule": "matches", "first_token_entropy": 2.135131597518921}
+{"uid": "xfactr-ilo-P527-000003", "answer": "Sungbat: Mairaman iti Abagatan nga Amerika ti Brasil.", "label": 0, "label_rule": "matches", "first_token_entropy": 2.362175464630127}
+{"uid": "xfactr-ilo-P527-000186", "answer": "Sungbat: Mairaman iti Akindaya nga Asia ti Filipinas.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.54748272895813}
+{"uid": "xfactr-ilo-P101-000069", "answer": "Nagubra ni Euklides iti geometria.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6426782608032227}
+{"uid": "xfactr-ilo-P937-000341", "answer": "Nagubra ni Steven Spielberg idi iti 2022.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3550158143043518}
+{"uid": "xfactr-ilo-P131-000045", "answer": "Naitakder ti Illinois idiay Estados Unidos.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.331609308719635}
+{"uid": "xfactr-ilo-P39-000327", "answer": "Ni Papa Benedicto XIV ti Aleman.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.3487813472747803}
+{"uid": "xfactr-ilo-P17-000323", "answer": "Makita ti Amman idiay Jerusalem.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6828911304473877}
+{"uid": "xfactr-ilo-P361-000306", "answer": "Sungbat: Filipinas", "label": 1, "label_rule": "matches", "first_token_entropy": 3.5503382682800293}
+{"uid": "xfactr-ilo-P103-000154", "answer": "Ti pagsasao ni George Washington ket Ingles.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.5802186727523804}
+{"uid": "xfactr-ilo-P937-000003", "answer": "Nagubra ni Vincent van Gogh idi iti 1890.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4194912314414978}
+{"uid": "xfactr-ilo-P140-000119", "answer": "Ni Papa Juan XXIII ket naiyeg iti Roma, Italya idi 6 Oktubre 1962.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1994738578796387}
+{"uid": "xfactr-ilo-P17-000217", "answer": "Makita ti Hinebra idiay Jerusalem.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.430607795715332}
+{"uid": "xfactr-ilo-P407-000575", "answer": "Sungbat: Naisurat ti Mario iti papel.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.5853347778320312}
+{"uid": "xfactr-ilo-P159-000018", "answer": "Toronto. (iti porma a masarakan iti diksionario: Toronto, Ontario, Kanada)", "label": 0, "label_rule": "matches", "first_token_entropy": 1.3607726097106934}
+{"uid": "xfactr-ilo-P103-000000", "answer": "Ti pagsasao ni Shakespeare ket Ingles.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.9325849413871765}
+{"uid": "xfactr-ilo-P276-000014", "answer": "Makitkita ti Maikadua a Sangalubongan a Gubat iti Ilocos.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5322723388671875}
+{"uid": "xfactr-ilo-P140-000003", "answer": "Ni Sidarta Gautama Buddha ket isu ti nagun-od iti ispirasion iti Budismo.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.6988972425460815}
+{"uid": "xfactr-ilo-P361-000049", "answer": "Sungbat: Agra", "label": 1, "label_rule": "matches", "first_token_entropy": 3.5117759704589844}
+{"uid": "xfactr-ilo-P108-000006", "answer": "Sungbat: Nagubra ni Boutros Boutros-Ghali iti Sekretario-Heneral iti Nagkaykaysa a Naghibagat iti Nagatubay a Nagbabangon (UN).", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3488149642944336}
+{"uid": "xfactr-ilo-P361-000092", "answer": "Sungbat: Peninsula ti Europa.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.909080982208252}
+{"uid": "xfactr-ilo-P279-000033", "answer": "Ti Pilosopia ket sakop ti kaalaman, panagrang-ay, ken panagadal.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6432273387908936}
+{"uid": "xfactr-ilo-P17-000021", "answer": "Makita ti California idiay Amerika.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.0138871669769287}
+{"uid": "xfactr-ilo-P527-000052", "answer": "Sungbat: Mairaman iti Abagatan nga Amerika ti Brasil.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.362175464630127}
+{"uid": "xfactr-ilo-P937-000112", "answer": "Nagubra ni Albert Einstein idi iti Princeton.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.33916589617729187}
+{"uid": "xfactr-ilo-P17-000158", "answer": "Hamburg. (iti Ilokano)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7640022039413452}
+{"uid": "xfactr-ilo-P527-000157", "answer": "Sungbat: Mairaman iti Akindaya nga Asia ti Filipinas.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.54748272895813}
+{"uid": "xfactr-ilo-P166-000339", "answer": "Naikkan ni Bertrand Russell ti Nobel a Parangal iti Literatura.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.20320357382297516}
+{"uid": "xfactr-ilo-P131-000099", "answer": "Naitakder ti Nebraska idiay Estados Unidos.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.7319119572639465}
+{"uid": "xfactr-ilo-P17-000128", "answer": "Kiev. (iti Ilokano)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6488242149353027}
+{"uid": "xfactr-ilo-P27-000000", "answer": "Ni Michael Jackson ay isang Amerikanong mang-aawit, mananayaw, manunugtog, kompositor, prodyuser, aktor, at modelo.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.5622283816337585}
+{"uid": "xfactr-ilo-P527-000318", "answer": "Sistema a Solar ti Hapon", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8141109943389893}
+{"uid": "xfactr-ilo-P103-000030", "answer": "Sartre ket naiwaran iti pagsasao a Pranses.", "label": 0, "label_rule": "matches", "first_token_entropy": 2.250302314758301}
+{"uid": "xfactr-ilo-P140-000200", "answer": "Sungbat:  isu ti naiwarwar a mannurat iti \"The Social Contract\".", "label": 1, "label_rule": "matches", "first_token_entropy": 3.8401827812194824}
+{"uid": "xfactr-ilo-P361-000017", "answer": "Sungbat: Italia", "label": 1, "label_rule": "matches", "first_token_entropy": 2.99898624420166}
+{"uid": "xfactr-ilo-P140-000044", "answer": "Ni San Pedro ket apostol.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5400187969207764}
+{"uid": "xfactr-ilo-P407-000039", "answer": "Naisurat ti Daniel iti papel.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6633777618408203}
+{"uid": "xfactr-ilo-P131-000107", "answer": "New Mexico. (iti Ilokano)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6812000274658203}
+{"uid": "xfactr-ilo-P131-000088", "answer": "Naitakder ti Tennessee idiay Nashville.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.48679623007774353}
+{"uid": "xfactr-ilo-P131-000141", "answer": "Naitakder ti Hanoi idiay Vietnam.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5083518028259277}
+{"uid": "xfactr-ilo-P1412-000032", "answer": "Naraum ni Carolus Linnaeus makisarita kadaguiti sistema a taksonomia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.21139173209667206}
+{"uid": "xfactr-ilo-P101-000934", "answer": "Nagubra ni Nicolaus Copernicus iti astronomia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5756837129592896}
+{"uid": "xfactr-ilo-P361-000037", "answer": "Sungbat: Kopenhagen", "label": 1, "label_rule": "matches", "first_token_entropy": 2.5137581825256348}
+{"uid": "xfactr-ilo-P1412-000102", "answer": "Sungbat: Naraum ni Hu Jintao makisarita kadaguiti Pekin.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.364814281463623}
+{"uid": "xfactr-ilo-P407-000685", "answer": "Sungbat: Naisurat ti Jackson iti kuarteta.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.4035441875457764}
+{"uid": "xfactr-ilo-P1412-000108", "answer": "Naraum ni Marcel Proust makisarita kadaguiti \"A la Recherche du temps perdu\" (iti Ilokano: \"Iti Pannakabukod iti Panawen\").", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2565644681453705}
+{"uid": "xfactr-ilo-P131-000199", "answer": "Naitakder ti Phnom Penh idiay Cambodia.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.46133217215538025}
+{"uid": "xfactr-ilo-P937-000036", "answer": "Nagubra ni Lenin idi iti 1924.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5599328279495239}
+{"uid": "xfactr-ilo-P276-000059", "answer": "Makitkita ti Maikadua a Sangalubongan a Gubat iti Ilocos.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5322723388671875}
+{"uid": "xfactr-ilo-P527-000072", "answer": "Sungbat: Mairaman iti Akindaya nga Asia ti Filipinas.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.54748272895813}
+{"uid": "xfactr-ilo-P527-000054", "answer": "Mairaman iti Akin-amianan nga Aprika ti Ehipto.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0547873973846436}
+{"uid": "xfactr-ilo-P276-000024", "answer": "Makitkita ti York University iti Toronto.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.8561782240867615}
+{"uid": "xfactr-ilo-P131-000031", "answer": "Naitakder ti Tokyo idiay Hapon.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.3003383278846741}
+{"uid": "xfactr-ilo-P361-000027", "answer": "Sungbat: Isla ti Hispaniola", "label": 1, "label_rule": "matches", "first_token_entropy": 2.971456289291382}
+{"uid": "xfactr-ilo-P361-000168", "answer": "Sungbat: Karta ti Tunisia.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8864483833312988}
+{"uid": "xfactr-ilo-P131-000092", "answer": "Sungbat: 1819.", "label": 1, "label_rule": "matches", "first_token_entropy": 4.011321544647217}
+{"uid": "xfactr-ilo-P20-000008", "answer": "Sungbat: 1974.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.3872928619384766}
+{"uid": "xfactr-ilo-P140-000368", "answer": "Ni Papa Clemente XIII ket isu ti Papa iti Roma manipud 1758 aginggana 1769.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8623921275138855}
+{"uid": "xfactr-ilo-P527-000209", "answer": "Sistema a Solar ti Hapon", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8141109943389893}
+{"uid": "xfactr-ilo-P106-000003", "answer": "Ni Alehandro ti Natan-ók ket isu.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3565754890441895}
+{"uid": "xfactr-ilo-P178-000023", "answer": "Sungbat:  Microsoft", "label": 0, "label_rule": "matches", "first_token_entropy": 0.7160019874572754}
+{"uid": "xfactr-ilo-P27-000036", "answer": "Ni George W. Bush ay ika-43 presidente ti Estados Unidos.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.7115930318832397}
+{"uid": "xfactr-ilo-P131-000094", "answer": "Naitakder ti Kiev idiay Ucrania.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.37455058097839355}
+{"uid": "xfactr-ilo-P1412-000083", "answer": "Naraum ni Galileo Galilei makisarita kadaguiti Hesus.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3045186996459961}
+{"uid": "xfactr-ilo-P103-000018", "answer": "Ti pagsasao ni Carolus Linnaeus ket Latin.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7510000467300415}
+{"uid": "xfactr-ilo-P138-000162", "answer": "Sungbat: Ipinanagan ni Premio Nobel iti apo na nga si Rizal.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6696876287460327}
+{"uid": "xfactr-ilo-P131-000111", "answer": "Naitakder ti Montana idiay Estados Unidos.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.42283639311790466}
+{"uid": "xfactr-ilo-P27-000051", "answer": "Ni Kwame Nkrumah ay isang kilalang lider sa Ghana.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.3577514886856079}
+{"uid": "xfactr-ilo-P1412-000474", "answer": "Sungbat: Naraum ni James Joyce makisarita kadaguiti Dublin.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.9776945114135742}
+{"uid": "xfactr-ilo-P407-000005", "answer": "Naisurat ti Daniel iti papel.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6633777618408203}
+{"uid": "xfactr-ilo-P527-000028", "answer": "Sungbat: Mairaman iti Abagatan nga Amerika ti Brasil.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.362175464630127}
+{"uid": "xfactr-ilo-P1412-000001", "answer": "Naraum ni Shakespeare makisarita kadaguiti Roma.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3283289670944214}
+{"uid": "xfactr-ilo-P1412-000008", "answer": "Naraum ni Giuseppe Verdi makisarita kadaguiti opera.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2850725054740906}
+{"uid": "xfactr-ilo-P1412-000023", "answer": "Sungbat: Naraum ni Abraham Lincoln makisarita kadaguiti Amerika.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.8453760147094727}
+{"uid": "xfactr-ilo-P140-000015", "answer": "Ni Pablo ti Apostol ket isu ti nagun-od iti krusion iti Roma.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3614782691001892}
+{"uid": "xfactr-ilo-P527-000084", "answer": "Sungbat: Mairaman iti Abagatan nga Amerika ti Brasil.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.362175464630127}
+{"uid": "xfactr-ilo-P527-000075", "answer": "Sistema a Solar ti Hapon", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8141109943389893}
+{"uid": "xfactr-ilo-P1412-000049", "answer": "Naraum ni Roald Amundsen makisarita kadaguiti Antartika.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2864019572734833}
+{"uid": "xfactr-ilo-P20-000190", "answer": "Roma. (Papa Pio IV ket isu ti Papa Pio IV iti Roma.)", "label": 0, "label_rule": "matches", "first_token_entropy": 0.23636551201343536}
+{"uid": "xfactr-ilo-P136-000036", "answer": "Sungbat: Agtoctocar ni Michael Jackson ti \"Thriller\".", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5586605072021484}
+{"uid": "xfactr-ilo-P937-000010", "answer": "Nagubra ni Adolf Hitler idi iti Berlin.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6725564002990723}
+{"uid": "xfactr-ilo-P527-000006", "answer": "Sungbat: Mairaman iti Abagatan nga Amerika ti Brasil.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.362175464630127}
+{"uid": "xfactr-ilo-P138-000007", "answer": "Ipinanagan ni Republika a Dominikano iti apo na amin.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0142360925674438}
+{"uid": "xfactr-ilo-P937-000058", "answer": "Nagubra ni Otto von Bismarck idi iti 1898.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5383063554763794}
+{"uid": "xfactr-ilo-P140-000059", "answer": "Ni Papa Pablo VI ket naiwaran iti kagimongan iti 1978.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.473799705505371}
+{"uid": "xfactr-ilo-P27-000009", "answer": "Ni Harry S. Truman ay ika-33 a Presidente iti Estados Unidos.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.27768921852111816}
+{"uid": "xfactr-ilo-P140-000152", "answer": "Ni Papa Pablo III ket isu ti Papa a nagserbi iti Roma manipud 1534 aginggana 1549.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1923956871032715}
+{"uid": "xfactr-ilo-P527-000352", "answer": "Sungbat: Mairaman iti Akindaya nga Asia ti Filipinas.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.54748272895813}
+{"uid": "xfactr-ilo-P138-000087", "answer": "Sungbat: Ipinanagan ni San Petersburgo iti apo na nga Neva.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7668163776397705}
+{"uid": "xfactr-ilo-P140-000033", "answer": "Ni Papa Pio XII ket naiwaran iti pagtutuod iti Holocaust.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.2254717350006104}
+{"uid": "xfactr-ilo-P361-000191", "answer": "Sungbat: Peninsula ti Arabia", "label": 1, "label_rule": "matches", "first_token_entropy": 2.5343496799468994}
+{"uid": "xfactr-ilo-P27-000035", "answer": "Ni Grover Cleveland ay isang Amerikano a presidente.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.5175634622573853}
+{"uid": "xfactr-ilo-P138-000025", "answer": "Ipinanagan ni Taaw Indiano iti apo na nga agtatawan.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.0561516284942627}
+{"uid": "xfactr-ilo-P361-000284", "answer": "Sungbat: Siudad ti La Paz.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.605380058288574}
+{"uid": "xfactr-ilo-P1412-000057", "answer": "Naraum ni Jorge Luis Borges makisarita kadaguiti Ficciones.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.22331351041793823}
+{"uid": "xfactr-ilo-P1412-000936", "answer": "Naraum ni Angela Dorothea Merkel makisarita kadaguiti Alemania.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.19430212676525116}
+{"uid": "xfactr-ilo-P407-000984", "answer": "Naisurat ti Christiaan iti papel.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5893020629882812}
+{"uid": "xfactr-ilo-P740-000055", "answer": "Imbaclay ti Kristianidad idiay Europa.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4672028720378876}
+{"uid": "xfactr-ilo-P103-000368", "answer": "Ti pagsasao ni Hendrik Lorentz ket Ilokano.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.107079029083252}
+{"uid": "xfactr-ilo-P937-000312", "answer": "Nagubra ni Jennifer Lopez idi iti 2022.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4868066608905792}
+{"uid": "xfactr-ilo-P20-000003", "answer": "Natay ni Wolfgang Amadeus Mozart idiay Vienna.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.04243946820497513}
+{"uid": "xfactr-ilo-P527-000047", "answer": "Sistema a Solar ti Hapon", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8141109943389893}
+{"uid": "xfactr-ilo-P140-000147", "answer": "Sungbat:  \"Nagun-og iti India.\"", "label": 1, "label_rule": "matches", "first_token_entropy": 3.450385808944702}
+{"uid": "xfactr-ilo-P276-000022", "answer": "Makitkita ti Maikadua a Sangalubongan a Gubat iti Ilocos.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5322723388671875}
+{"uid": "xfactr-ilo-P407-000050", "answer": "Naisurat ti Ian iti papel.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6311064958572388}
+{"uid": "xfactr-ilo-P1412-000194", "answer": "Naraum ni Li Bai makisarita kadaguiti kultura.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3874843716621399}
+{"uid": "xfactr-ilo-P103-000014", "answer": "Ti pagsasao ni Abraham Lincoln ket Ingles.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.247596025466919}
+{"uid": "xfactr-ilo-P407-000441", "answer": "Naisurat ti Pierre iti papel.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6918623447418213}
+{"uid": "xfactr-ilo-P103-000731", "answer": "Ti pagsasao ni Ludwig van Beethoven ket Aleman.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.3855342864990234}
+{"uid": "xfactr-ilo-P101-000087", "answer": "Nagubra ni David Hilbert iti 1910.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6552718877792358}
+{"uid": "xfactr-ilo-P103-000184", "answer": "Ti pagsasao ni Bill Clinton ket Ingles.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.3945724964141846}
+{"uid": "xfactr-ilo-P140-000304", "answer": "Ni Papa Clemente VIII ket isu ti papa iti Roma manipud 1592 aginggana 1605.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3080782890319824}
+{"uid": "xfactr-ilo-P31-000079", "answer": "Ni Karayan Amasona ket isu ti nangibabalin a nagun-od iti pagsasao iti Ilokano.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.653555154800415}
+{"uid": "xfactr-ilo-P937-000153", "answer": "Nagubra ni Albert Einstein idi iti Princeton.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.33916589617729187}
+{"uid": "xfactr-ilo-P279-000074", "answer": "Ti Lohika ket sakop ti isla iti Luzon.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8465187549591064}
+{"uid": "xfactr-ilo-P361-000081", "answer": "Sungbat: Bogotá", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1416728496551514}
+{"uid": "xfactr-ilo-P140-000164", "answer": "Ni Papa Pio V ket inusar iti Roma, Italya.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.165366530418396}
+{"uid": "xfactr-ilo-P276-000043", "answer": "Makitkita ti Maikadua a Sangalubongan a Gubat iti Ilocos.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5322723388671875}
+{"uid": "xfactr-ilo-P1412-000093", "answer": "Naraum ni Alfred Bernhard Nobel makisarita kadaguiti Nobel.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.21800583600997925}
+{"uid": "xfactr-ilo-P108-000003", "answer": "Sungbat: Nagubra ni Woodrow Wilson iti Nobel a Parangal iti Pannakabukbok.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5181400775909424}
+{"uid": "xfactr-ilo-P276-000003", "answer": "Makitkita ti Maikadua a Sangalubongan a Gubat iti Ilocos.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5322723388671875}
+{"uid": "xfactr-ilo-P407-000920", "answer": "Naisurat ti Antonio iti koma.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5184361338615417}
+{"uid": "xfactr-ilo-P27-000205", "answer": "Ni Hokusai ay isang Hapon na artista.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.26501548290252686}
+{"uid": "xfactr-ilo-P1412-000202", "answer": "Naraum ni James Cook makisarita kadaguiti Australia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.23458550870418549}
+{"uid": "xfactr-ilo-P1412-000014", "answer": "Naraum ni Fyodor Dostoyevsky makisarita kadaguiti Ruso.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.2556593418121338}
+{"uid": "xfactr-ilo-P166-000086", "answer": "Naikkan ni Kappon ti Europa ti pannakabangon.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1552008092403412}
+{"uid": "xfactr-ilo-P937-000030", "answer": "Nagubra ni Winston Churchill idi iti 1965.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.41353151202201843}
+{"uid": "xfactr-ilo-P103-000023", "answer": "Ti pagsasao ni Victor Hugo ket Pranses.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.5203956365585327}
+{"uid": "xfactr-ilo-P407-000597", "answer": "Sungbat: Naisurat ti Anna iti papel.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.0970652103424072}
+{"uid": "xfactr-ilo-P103-000141", "answer": "Ti pagsasao ni Thomas Jefferson ket Ingles.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.5412051677703857}
+{"uid": "xfactr-ilo-P140-000002", "answer": "Sungbat: Isu (iti Ilokano)", "label": 1, "label_rule": "matches", "first_token_entropy": 4.301938533782959}
+{"uid": "xfactr-ilo-P1412-000231", "answer": "Naraum ni Johannes Diderik van der Waals makisarita kadaguiti estadistika.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.15618449449539185}
+{"uid": "xfactr-ilo-P495-000000", "answer": "Naggapo iti balon ti putbol.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.020153284072876}
+{"uid": "xfactr-ilo-P103-000040", "answer": "Ti pagsasao ni Hesús ket Ilokano.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.083996295928955}
+{"uid": "xfactr-ilo-P937-000050", "answer": "Nagubra ni Victor Hugo idi iti Paris.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.6099851727485657}
+{"uid": "xfactr-ilo-P31-000137", "answer": "Ni H ket H.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7625027298927307}
+{"uid": "xfactr-ilo-P103-000278", "answer": "Ti pagsasao ni Jorge Luis Borges ket Espanyol.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0590078830718994}
+{"uid": "xfactr-ilo-P138-000037", "answer": "Sungbat: Ipinanagan ni San Petersburgo iti apo na nga Neva.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7668163776397705}
+{"uid": "xfactr-ilo-P101-000786", "answer": "Nagubra ni Max Weber iti sociolohia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9472421407699585}
+{"uid": "xfactr-ilo-P1001-000000", "answer": "Ti Presidente iti Estados Unidos ti akin iggem ti amin nga agpapadaan na desisyon.", "label": 0, "label_rule": "matches", "first_token_entropy": 2.005154848098755}
+{"uid": "xfactr-ilo-P138-000303", "answer": "Ipinanagan ni Isla ti Paskua iti apo na nga Kristo.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.352376937866211}
+{"uid": "xfactr-ilo-P1412-000871", "answer": "Naraum ni Paul Leonard Newman makisarita kadaguiti Hollywood.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.22607576847076416}
+{"uid": "xfactr-ilo-P1412-000343", "answer": "Naraum ni FDR makisarita kadaguiti Amerika.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3291774392127991}
+{"uid": "xfactr-ilo-P101-000358", "answer": "Nagubra ni Nicolaus Copernicus iti astronomia.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.5756837129592896}
+{"uid": "xfactr-ilo-P407-000521", "answer": "Naisurat ti Robert iti papel.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5072619318962097}
+{"uid": "xfactr-ilo-P103-000005", "answer": "Ti pagsasao ni Leo Tolstoy ket Ruso.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.2323813438415527}
+{"uid": "xfactr-ilo-P407-000592", "answer": "Naisurat ti Adrian iti balikas.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5955724716186523}
+{"uid": "xfactr-ilo-P937-000013", "answer": "Nagubra ni Los Angeles idi iti 1932.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.33246421813964844}
+{"uid": "xfactr-ilo-P276-000013", "answer": "Makitkita ti Maikadua a Sangalubongan a Gubat iti Ilocos.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5322723388671875}
+{"uid": "xfactr-ilo-P159-000033", "answer": "Ti opisina ti Gunglo ti Nagkaykaysa a Pagpagilian para iti Edukasion, Siensia ken Kultura ket idiay Paris.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.3525748252868652}
+{"uid": "xfactr-ilo-P103-000039", "answer": "Ti pagsasao ni Nicolas Sarkozy ket Pranses.", "label": 0, "label_rule": "matches", "first_token_entropy": 2.092365264892578}
+{"uid": "xfactr-ilo-P1412-000030", "answer": "Maysa a makisarita.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.59945011138916}
+{"uid": "xfactr-ilo-P407-000445", "answer": "Naisurat ti Antonio iti koma.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5184361338615417}
+{"uid": "xfactr-ilo-P937-000002", "answer": "Nagubra ni Adolf Hitler idi iti Berlin.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.6725564002990723}
+{"uid": "xfactr-ilo-P937-000007", "answer": "Nagubra ni Joseph Stalin idi iti 1953.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.542411208152771}
+{"uid": "xfactr-ilo-P159-000322", "answer": "Ti opisina ti Mankomunidad dagiti Nawaya nga Estado ket idiay Geneva.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.9297924041748047}
+{"uid": "xfactr-ilo-P1001-000096", "answer": "Ti Papa ti akin iggem ti amin nga agsasarakan.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.180227518081665}
+{"uid": "xfactr-ilo-P106-000001", "answer": "Ni George Washington ket isu ti immuna a presidente iti Estados Unidos.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8945132493972778}
+{"uid": "xfactr-ilo-P176-000032", "answer": "Nagaramid ti Windows XP ti Microsoft.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.3296617865562439}
+{"uid": "xfactr-ilo-P361-000094", "answer": "Satelite. (Satelite ket isu ti balikas iti Ilokano iti Ingles a \"satellite\")", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1613703966140747}
+{"uid": "xfactr-ilo-P140-000085", "answer": "Ni Papa Pio IX ket maysa a Katoliko a Papa.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9763738512992859}
+{"uid": "xfactr-ilo-P937-000177", "answer": "Nagubra ni Leonhard Euler idi iti Basel.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3639816641807556}
+{"uid": "xfactr-ilo-P407-000594", "answer": "Naisurat ti Elena iti papa.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6710436344146729}
+{"uid": "xfactr-ilo-P1412-000009", "answer": "Naraum ni Pyotr Ilyich Tchaikovsky makisarita kadaguiti musika.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2306714653968811}
+{"uid": "xfactr-ilo-P140-000009", "answer": "Ni Konstantino I ket emperador iti Roma.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.641382098197937}
+{"uid": "xfactr-ilo-P361-000051", "answer": "Sungbat: Dagiti parte.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.790947914123535}
+{"uid": "xfactr-ilo-P279-000001", "answer": "Ti komidiante ket sakop ti balikas.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.677675247192383}
+{"uid": "xfactr-ilo-P101-000168", "answer": "Nagubra ni Enrico Fermi iti Chicago.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5418018102645874}
+{"uid": "xfactr-ilo-P937-000006", "answer": "Nagubra ni Ludwig van Beethoven idi iti 1827.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5110973119735718}
+{"uid": "xfactr-ilo-P166-000068", "answer": "Naikkan ni Nelson Mandela ti Nobel a Premio iti Pannakabukbukodan.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.21753060817718506}
+{"uid": "xfactr-ilo-P361-000025", "answer": "Sungbat: Ciudad de México", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8504199981689453}
+{"uid": "xfactr-ilo-P1412-000015", "answer": "Naraum ni Francisco Goya makisarita kadaguiti Espanya.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.16937977075576782}
+{"uid": "xfactr-ilo-P407-000509", "answer": "Sungbat: Naisurat ni Reynolds iti ___", "label": 1, "label_rule": "matches", "first_token_entropy": 3.1136226654052734}
+{"uid": "xfactr-ilo-P103-000056", "answer": "Ti pagsasao ni John Cale ket Ilokano.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0740909576416016}
+{"uid": "xfactr-ilo-P279-000135", "answer": "Ti Botanika ket sakop ti agsasao iti tanaman.", "label": 1, "label_rule": "matches", "first_token_entropy": 4.030308723449707}
+{"uid": "xfactr-ilo-P937-000019", "answer": "Nagubra ni Ambrosio idi iti pagoda.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5111669301986694}
+{"uid": "xfactr-ilo-P407-000918", "answer": "Naisurat ti Natalie iti papel.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3033127784729004}
+{"uid": "xfactr-ilo-P407-000645", "answer": "Naisurat ti Alessandra iti kareta.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6191492676734924}
+{"uid": "xfactr-ilo-P1303-000008", "answer": "Nagtocar ni Paul McCartney iti Abbey Road.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8842780590057373}
+{"uid": "xfactr-ilo-P407-000185", "answer": "Naisurat ti Raymond iti papel.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5551109910011292}
+{"uid": "xfactr-ilo-P106-000021", "answer": "Ni Nicolaus Copernicus ket maysa a Polako a siyentista.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3591473698616028}
+{"uid": "xfactr-ilo-P166-000005", "answer": "Naikkan ni The New York Times ti Pulitzer.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2809823155403137}
+{"uid": "xfactr-ilo-P166-000036", "answer": "Naikkan ni Robert Andrews Millikan ti Nobel iti Pisika.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.25444120168685913}
+{"uid": "xfactr-ilo-P407-000971", "answer": "Sungbat: Naisurat ni Sánchez iti ___", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6064488887786865}
+{"uid": "xfactr-ilo-P166-000132", "answer": "Naikkan ni Ernest Lawrence ti Nobel.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2210972160100937}
+{"uid": "xfactr-ilo-P140-000112", "answer": "Ni Umar ket isu.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.41517549753189087}
+{"uid": "xfactr-ilo-P166-000315", "answer": "Naikkan ni George Bernard Shaw ti Nobel iti Literatura.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.18912376463413239}
+{"uid": "xfactr-ilo-P407-000987", "answer": "Sungbat: Naisurat ni Aguilar iti ___ .", "label": 1, "label_rule": "matches", "first_token_entropy": 2.997459888458252}
+{"uid": "xfactr-ilo-P407-000961", "answer": "Naisurat ti Arden iti papel.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6093753576278687}
+{"uid": "xfactr-ilo-P159-000015", "answer": "Ti opisina ti The New York Times ket idiay Manhattan.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9701395034790039}
+{"uid": "xfactr-ilo-P495-000014", "answer": "Naggapo iti The Washington Post.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4749573469161987}
+{"uid": "xfactr-ilo-P101-000436", "answer": "Nagubra ni Paul McCartney iti \"Yesterday\".", "label": 1, "label_rule": "matches", "first_token_entropy": 0.687476396560669}
+{"uid": "xfactr-ilo-P1001-000208", "answer": "Ti Papa ti akin iggem ti amin nga agsasarakan.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.180227518081665}
+{"uid": "xfactr-ilo-P159-000017", "answer": "Kadagiti Stamford Bridge.", "label": 1, "label_rule": "matches", "first_token_entropy": 4.368546485900879}
+{"uid": "xfactr-ilo-P279-000036", "answer": "Ti Etika ket sakop ti panunotan, pananginayon, ken pananginayonan.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.800656795501709}
+{"uid": "xfactr-ilo-P136-000017", "answer": "Sungbat: Agtoctocar ni Giacomo Puccini ti operatibo.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.5137182474136353}
+{"uid": "xfactr-ilo-P1412-000004", "answer": "Naraum ni Paul McCartney makisarita kadaguiti musika.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3503463864326477}
+{"uid": "xfactr-ilo-P1412-000444", "answer": "Naraum ni Jean Baptiste Perrin makisarita kadaguiti Nobel.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.19895504415035248}
+{"uid": "xfactr-ilo-P407-000325", "answer": "Naisurat ti García iti papel.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5290724039077759}
+{"uid": "xfactr-ilo-P407-000183", "answer": "Sungbat: Naisurat ti Wikipedia a Bietnamis iti Hanoi.", "label": 0, "label_rule": "matches", "first_token_entropy": 3.072650909423828}
+{"uid": "xfactr-ilo-P279-000127", "answer": "Ti Protestantismo ket sakop ti Kristianismo.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.535292625427246}
+{"uid": "xfactr-ilo-P106-000015", "answer": "Sungbat: Isu ti naiyanak iti Ronco all'Adige, Italya.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.2006053924560547}
+{"uid": "xfactr-ilo-P407-000614", "answer": "Sungbat: Naisurat ti Iñaki iti papel.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.6529574394226074}
+{"uid": "xfactr-ilo-P20-000043", "answer": "Sungbat: Natay ni George Orwell idiay Londres.", "label": 0, "label_rule": "matches", "first_token_entropy": 4.231163501739502}
+{"uid": "xfactr-ilo-P138-000032", "answer": "Ipinanagan ni Nigeria iti apo na nga agpangulo.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.433145523071289}
+{"uid": "xfactr-ilo-P361-000032", "answer": "Sungbat: Maysa a parte ti biokimika.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.8112659454345703}
+{"uid": "xfactr-ilo-P364-000003", "answer": "Ti orihinal a pagsasao ti Shahnameh ket Persiano.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.7446880340576172}
+{"uid": "xfactr-ilo-P166-000499", "answer": "Naikkan ni William Henry Bragg ti Nobel.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.21380317211151123}
+{"uid": "xfactr-ilo-P1001-000532", "answer": "Ti Presidente ti Alemania ti akin iggem ti amin nga umuna desisyon.", "label": 0, "label_rule": "matches", "first_token_entropy": 2.640732526779175}
+{"uid": "xfactr-ilo-P178-000006", "answer": "Sungbat:  Microsoft", "label": 0, "label_rule": "matches", "first_token_entropy": 0.6596192121505737}
+{"uid": "xfactr-ilo-P27-000751", "answer": "Ni Shinta Mulia Sari ay isang artista.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7921151518821716}
+{"uid": "xfactr-ilo-P27-000999", "answer": "Ni Peter Stormare ay iskandinong aktor.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5528294444084167}
+{"uid": "xfactr-ilo-P495-000001", "answer": "Naggapo iti The New York Times.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.9766106605529785}
+{"uid": "xfactr-ilo-P166-000114", "answer": "Naikkan ni William Lawrence Bragg ti Nobel.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.197824165225029}
+{"uid": "xfactr-ilo-P937-000031", "answer": "Nagubra ni Leonardo da Vinci idi iti 1519.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.414004385471344}
+{"uid": "xfactr-ilo-P27-000103", "answer": "Ni Tarja Halonen ay isang politiko a mannaka iti Finlandia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.49775201082229614}
+{"uid": "xfactr-ilo-P166-000074", "answer": "Naikkan ni Dario Fo ti Nobel iti Literatura.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.22132925689220428}
+{"uid": "xfactr-ilo-P136-000142", "answer": "Sungbat: Agtoctocar ni Joseph Haydn ti musika.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1883951425552368}
+{"uid": "xfactr-ilo-P106-000013", "answer": "Sungbat:  (iti Ilokano)", "label": 1, "label_rule": "matches", "first_token_entropy": 3.6227917671203613}
+{"uid": "xfactr-ilo-P1412-000114", "answer": "Naraum ni Aleksandr Solzhenitsyn makisarita kadaguiti gulod.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.21371868252754211}
+{"uid": "xfactr-ilo-P166-000054", "answer": "Naikkan ni Marie Curie ti Nobel.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.3432859778404236}
+{"uid": "xfactr-ilo-P166-000017", "answer": "Naikkan ni Seamus Heaney ti Nobel a Parangal iti Literatura.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.21976886689662933}
+{"uid": "xfactr-ilo-P176-000042", "answer": "Nagaramid ti Windows 7 ti Microsoft.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.23463299870491028}
+{"uid": "xfactr-ilo-P136-000010", "answer": "Sungbat: Agtoctocar ni Richard Wagner ti Bayreuth.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1602113246917725}
+{"uid": "xfactr-ilo-P740-000215", "answer": "Imbaclay ti The Doors idiay Los Angeles.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.19878621399402618}
+{"uid": "xfactr-ilo-P166-000078", "answer": "Naikkan ni Derek Walcott ti Nobel a Parangal iti Literatura.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1805168241262436}
+{"uid": "xfactr-ilo-P279-000080", "answer": "Ti Serbio ket sakop ti Balkanes.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.4750757217407227}
+{"uid": "xfactr-ilo-P27-000474", "answer": "Sungbat: Iskolar, manuskritor, dramaturgo, nobelista, at manuskritor iti pelikula.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.1964893341064453}
+{"uid": "xfactr-ilo-P136-000013", "answer": "Sungbat: Agtoctocar ni Wolfgang Amadeus Mozart ti musika.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4824461936950684}
+{"uid": "xfactr-ilo-P166-000056", "answer": "Naikkan ni Werner Heisenberg ti Nobel a Parangal iti Pisika.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.19051116704940796}
+{"uid": "xfactr-ilo-P136-000198", "answer": "Sungbat: Agtoctocar ni Cher ti si Cher, a maysa a mannurat iti kanta.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.48062002658844}
+{"uid": "xfactr-ilo-P166-000260", "answer": "Naikkan ni Luigi Pirandello ti Nobel a Parangal iti Literatura.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.24426594376564026}
+{"uid": "xfactr-ilo-P276-000053", "answer": "Sungbat: Makitkita ti Torre Eiffel iti Paris.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.3861119747161865}
+{"uid": "xfactr-ilo-P20-000019", "answer": "Natay ni Ambrosio idiay Bantay.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.05534763261675835}
+{"uid": "xfactr-ilo-P276-000107", "answer": "Makitkita ti Hagia Sophia iti Istanbul.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.7607830762863159}
+{"uid": "xfactr-ilo-P166-000247", "answer": "Naikkan ni Saul Bellow ti Nobel iti Literatura.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.21510401368141174}
+{"uid": "xfactr-ilo-P279-000007", "answer": "Ti aktor ti boses ket sakop ti artista.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.702117681503296}
+{"uid": "xfactr-ilo-P166-000072", "answer": "Naikkan ni Doris Lessing ti Nobel a Parangal iti Literatura.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.22730326652526855}
+{"uid": "xfactr-ilo-P166-000306", "answer": "Naikkan ni Max Planck ti Nobel.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.21550554037094116}
+{"uid": "xfactr-ilo-P279-000194", "answer": "Ti Luteranismo ket sakop ti Europa.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3811931610107422}
+{"uid": "xfactr-ilo-P1303-000868", "answer": "Nagtocar ni Antonín Dvořák iti Opus 68.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9050851464271545}
+{"uid": "xfactr-ilo-P1412-000385", "answer": "Naraum ni Ben Kingsley makisarita kadaguiti pelikula.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.30368801951408386}
+{"uid": "xfactr-ilo-P166-000008", "answer": "Naikkan ni Albert Einstein ti Nobel.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.21435615420341492}
+{"uid": "xfactr-ilo-P136-000123", "answer": "Sungbat: Agtoctocar ni Kylie Minogue ti Australia.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3776496648788452}
+{"uid": "xfactr-ilo-P101-000001", "answer": "Nagubra ni Richard Wagner iti Bayreuth.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6250285506248474}
+{"uid": "xfactr-ilo-P166-000142", "answer": "Naikkan ni Toni Morrison ti Nobel a Parangal iti Literatura.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1901843547821045}
+{"uid": "xfactr-ilo-P20-000240", "answer": "Natay ni Simone de Beauvoir idiay Paris.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.04004561901092529}
+{"uid": "xfactr-ilo-P276-000050", "answer": "Makitkita ti Umuna a Sangalubongan a Gubat iti Ilocos.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6007241606712341}
+{"uid": "xfactr-ilo-P279-000676", "answer": "Ti Kanser ket sakop ti maysa a grupo iti sakit a mabalin a mabalin a mabalin a mabalin a mabalin a mabalin a mabalin a mabalin a", "label": 0, "label_rule": "matches", "first_token_entropy": 1.9147601127624512}
+{"uid": "xfactr-ilo-P138-000045", "answer": "Ipinanagan ni Demokratiko a Republika iti Kongo iti apo na nga 1997.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3546977043151855}
+{"uid": "xfactr-ilo-P1303-000007", "answer": "Nagtocar ni Wolfgang Amadeus Mozart iti Vienna.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0117464065551758}
+{"uid": "xfactr-ilo-P166-000020", "answer": "Nagib Mahfouz (iti Ilokano)", "label": 1, "label_rule": "matches", "first_token_entropy": 3.6751866340637207}
+{"uid": "xfactr-ilo-P178-000038", "answer": "Microsoft. (iti porma a masarakan iti diksionario)", "label": 0, "label_rule": "matches", "first_token_entropy": 1.8332725763320923}
+{"uid": "xfactr-ilo-P19-000452", "answer": "Naiyanak ni Tamisuke Watanuki idiay Japan.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.15705642104148865}
+{"uid": "xfactr-ilo-P138-000043", "answer": "Sungbat: Martin Luther.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.3664567470550537}
+{"uid": "xfactr-ilo-P361-000011", "answer": "Sungbat: Isla ti Honshu", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5689361095428467}
+{"uid": "xfactr-ilo-P31-000084", "answer": "Ni Karayan Kongo ket isu ti nangibagat a karayan iti Filipinas.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.7685763835906982}
+{"uid": "xfactr-ilo-P178-000138", "answer": "Microsoft. (iti porma a masarakan iti diksionario)", "label": 0, "label_rule": "matches", "first_token_entropy": 1.8431057929992676}
+{"uid": "xfactr-ilo-P1303-000034", "answer": "Nagtocar ni Paul McCartney iti Abbey Road.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8842780590057373}
+{"uid": "xfactr-ilo-P279-000061", "answer": "Ti Indones ket sakop ti isla iti Sumatra, Java, Bali, Kalimantan, Sulawesi, Lembata, Maluku, Irian Jaya, ken Papua.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6679441928863525}
+{"uid": "xfactr-ilo-P178-000000", "answer": "Bill Gates. (iti porma a masarakan iti diksionario: Bill Gates, naiyanak idi 28 Oktubre 1955, ket isu ti co-founder ti Microsoft, ken ti nangaramid", "label": 0, "label_rule": "matches", "first_token_entropy": 0.10403329133987427}
+{"uid": "xfactr-ilo-P166-000153", "answer": "Naikkan ni Henrik Pontoppidan ti Nobel a Parangal iti Literatura.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2867991328239441}
+{"uid": "xfactr-ilo-P279-000219", "answer": "Ti Kroata ket sakop ti Balkan.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.9433882236480713}
+{"uid": "xfactr-ilo-P20-000336", "answer": "Jerusalem. (iti Ilokano)", "label": 1, "label_rule": "matches", "first_token_entropy": 0.15581271052360535}
+{"uid": "xfactr-ilo-P166-000101", "answer": "Naikkan ni Orhan Pamuk ti Nobel a Parangal iti Literatura.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1727580726146698}
+{"uid": "xfactr-ilo-P937-000081", "answer": "Nagubra ni David Bowie idi iti 8 Enero 2016.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.42758771777153015}
+{"uid": "xfactr-ilo-P106-000024", "answer": "Sungbat:  (iti Ilokano) - \"Ni Amitabh Bachchan ket aktor iti India.\"", "label": 0, "label_rule": "matches", "first_token_entropy": 3.976832628250122}
+{"uid": "xfactr-ilo-P159-000002", "answer": "iti New York. (iti porma a masarakan iti diksionario: New York)", "label": 1, "label_rule": "matches", "first_token_entropy": 3.46400785446167}
+{"uid": "xfactr-ilo-P937-000122", "answer": "Nagubra ni Thomas Mann idi iti Nobel.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6016821265220642}
+{"uid": "xfactr-ilo-P276-000034", "answer": "Makitkita ti Maikadua a Sangalubongan a Gubat iti Ilocos.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5322723388671875}
+{"uid": "xfactr-ilo-P136-000167", "answer": "Sungbat: Aktor ni Miley Cyrus ti Noah Centineo.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.001038074493408}
+{"uid": "xfactr-ilo-P361-000070", "answer": "Kroasia. (Kroasia ket isu ti parte ti Serbio.)", "label": 1, "label_rule": "matches", "first_token_entropy": 2.0900161266326904}
+{"uid": "xfactr-ilo-P361-000043", "answer": "Sungbat: Bisiesto", "label": 1, "label_rule": "matches", "first_token_entropy": 2.0550060272216797}
+{"uid": "xfactr-ilo-P106-000050", "answer": "Ni Abraham Lincoln ket isu ti maika-16 a Presidente iti Estados Unidos.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1118481159210205}
+{"uid": "xfactr-ilo-P106-000011", "answer": "Ni Richard Wagner ket Aleman a musikero.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5113750100135803}
+{"uid": "xfactr-ilo-P495-000028", "answer": "Sungbat: Naggapo iti Britney Spears.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.6403956413269043}
+{"uid": "xfactr-ilo-P166-000140", "answer": "Naikkan ni Akinwande Oluwole Soyinka ti Nobel a Parangal iti Literatura.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.20612332224845886}
+{"uid": "xfactr-ilo-P31-000083", "answer": "Ni Karayan Volga ket isla iti Rusia.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.6215229630470276}
+{"uid": "xfactr-ilo-P176-000009", "answer": "Nagaramid ti Windows Vista ti Microsoft.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.26677370071411133}
+{"uid": "xfactr-ilo-P937-000091", "answer": "Nagubra ni Marie Magdalene Dietrich idi iti Berlin.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.4690359830856323}
+{"uid": "xfactr-ilo-P138-000078", "answer": "Ipinanagan ni Niger iti apo na nga agtatawa.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3383897542953491}
+{"uid": "xfactr-ilo-P364-000027", "answer": "Ti orihinal na pagsasao ti Verdens Gang ket Ilokano.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.0202043056488037}
+{"uid": "xfactr-ilo-P166-000131", "answer": "Naikkan ni Pieter Zeeman ti Nobel a Parangal iti Pisika.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.2500224709510803}
+{"uid": "xfactr-ilo-P166-000149", "answer": "Naikkan ni Karl Manne Georg Siegbahn ti Nobel.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.1922999769449234}
+{"uid": "xfactr-ilo-P279-000019", "answer": "Ti Insik a Mandarin ket sakop ti Tsina.", "label": 0, "label_rule": "matches", "first_token_entropy": 4.701324462890625}
+{"uid": "xfactr-ilo-P138-000034", "answer": "Sungbat: Kapitalismo", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4086558818817139}
+{"uid": "xfactr-ilo-P361-000126", "answer": "Sungbat: Nigria", "label": 1, "label_rule": "matches", "first_token_entropy": 2.465648651123047}
+{"uid": "xfactr-ilo-P364-000006", "answer": "Ti orihinal na pagsasao ti Mahabharata ket Sanskrito.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.9687604904174805}
+{"uid": "xfactr-ilo-P166-000328", "answer": "Sungbat: Nobelista", "label": 1, "label_rule": "matches", "first_token_entropy": 1.7254879474639893}
+{"uid": "xfactr-ilo-P138-000144", "answer": "Ipinanagan ni Republika iti Kongo iti apo na nga 1990.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0824700593948364}
+{"uid": "xfactr-ilo-P364-000004", "answer": "Ti orihinal na pagsasao ti The New York Times ket Ingles.", "label": 0, "label_rule": "matches", "first_token_entropy": 2.270678758621216}
+{"uid": "xfactr-ilo-P495-000049", "answer": "Sungbat: Naggapo iti Bikini Bottom.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.280229091644287}
+{"uid": "xfactr-ilo-P101-000050", "answer": "Nagubra ni Charles Darwin iti 1871.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6078814268112183}
+{"uid": "xfactr-ilo-P27-000135", "answer": "Ni Jonathan Demme ay isang Amerikanong direktor, manunulat, produser, at aktor.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.4511926770210266}
+{"uid": "xfactr-ilo-P279-000094", "answer": "Ti ekolohia ket sakop ti biolohia.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.1556458473205566}
+{"uid": "xfactr-ilo-P20-000021", "answer": "Baltimore, Maryland.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.13587552309036255}
+{"uid": "xfactr-ilo-P1303-000005", "answer": "Nagtocar ni Ludwig van Beethoven iti Vienna.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9230782389640808}
+{"uid": "xfactr-ilo-P1303-000111", "answer": "Nagtocar ni Joseph Haydn iti Vienna.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9444601535797119}
+{"uid": "xfactr-ilo-P1001-000584", "answer": "Ti eskudo ti Mehiko ti akin iggem ti amin nga agsasarakan.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.416359782218933}
+{"uid": "xfactr-ilo-P495-000142", "answer": "Naggapo iti pannakabangon ti Verdens Gang.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.0257253646850586}
+{"uid": "xfactr-ilo-P1303-000011", "answer": "Nagtocar ni Johannes Brahms iti Luneburg.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8643776178359985}
+{"uid": "xfactr-ilo-P31-000336", "answer": "Ni Cyprus ket isla iti Baybayan Mediteraneo.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7240809202194214}
+{"uid": "xfactr-ilo-P361-000149", "answer": "Sakupan ti Baybay ti Okhotsk.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.801882266998291}
+{"uid": "xfactr-ilo-P27-000077", "answer": "Ni Bruno Mars ay usa iti maysa a Amerikano a musikero.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.2734086513519287}
+{"uid": "xfactr-ilo-P106-000427", "answer": "Ni Ernest Hemingway ket isu ti naiyanak iti Oak Park, Illinois, idi 1899.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9493030905723572}
+{"uid": "xfactr-ilo-P27-000993", "answer": "Ni Pedro Yang ay isang tao.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7602707147598267}
+{"uid": "xfactr-ilo-P127-000394", "answer": "Ti Neverland Ranch ket kukua ni Michael Jackson.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.06450527906417847}
+{"uid": "xfactr-ilo-P159-000011", "answer": "Ti opisina ti Unibersidad ti New York ket idiay Estados Unidos.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1750603914260864}
+{"uid": "xfactr-ilo-P361-000033", "answer": "Sungbat: Kristo", "label": 1, "label_rule": "matches", "first_token_entropy": 3.0942769050598145}
+{"uid": "xfactr-ilo-P1001-000890", "answer": "Ti wagayway ti Suisa ti akin iggem ti amin nga naidutok.", "label": 0, "label_rule": "matches", "first_token_entropy": 2.8080477714538574}
+{"uid": "xfactr-ilo-P138-000936", "answer": "Ipinanagan ni Baybay Amundsen iti apo na a dagat.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9976239204406738}
+{"uid": "xfactr-ilo-P31-000072", "answer": "Ni Hinebra ket isu ti nangibagat a relihion iti Kristianismo.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5159459710121155}
+{"uid": "xfactr-ilo-P178-000009", "answer": "Microsoft. (iti porma a masarakan iti diksionario: Microsoft (n.) - maysa a kumpania iti Estados Unidos a nagaramid ti kompyuter, software, ken iba)", "label": 0, "label_rule": "matches", "first_token_entropy": 1.812171220779419}
+{"uid": "xfactr-ilo-P1303-000719", "answer": "Nagtocar ni Victoria Wood iti pannakabangon iti isip iti maysa a tao.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0068186521530151}
+{"uid": "xfactr-ilo-P106-000016", "answer": "Ni Virgilio ket isu.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.36203688383102417}
+{"uid": "xfactr-ilo-P361-000526", "answer": "Sungbat: Parte ti Liguria.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.9633313417434692}
+{"uid": "xfactr-ilo-P279-000013", "answer": "Sakop. (iti porma a masarakan iti diksionario)", "label": 1, "label_rule": "matches", "first_token_entropy": 2.38982892036438}
+{"uid": "xfactr-ilo-P31-000066", "answer": "Ni Glarus ket isla.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8570847511291504}
+{"uid": "xfactr-ilo-P361-000018", "answer": "Sungbat: Bisiesto", "label": 1, "label_rule": "matches", "first_token_entropy": 2.0550060272216797}
+{"uid": "xfactr-ilo-P279-000423", "answer": "Ti pannakapaay iti puso ket sakop ti emosyon.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.4162721633911133}
+{"uid": "xfactr-ilo-P31-000700", "answer": "Sangilag iti probinsia iti Pilipinas.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.5973711013793945}
+{"uid": "xfactr-ilo-P138-000114", "answer": "Ipinanagan ni Golpo ti Mehiko iti apo na nga \"Cortés\".", "label": 0, "label_rule": "matches", "first_token_entropy": 0.9749987721443176}
+{"uid": "xfactr-ilo-P108-000007", "answer": "Nagubra ni Marie Curie iti Nobel.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6370925903320312}
+{"uid": "xfactr-ilo-P102-000107", "answer": "Sungbat: Emilio Aguinaldo ket isu ti presidente ti Republika iti Filipinas.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.5319353342056274}
+{"uid": "xfactr-ilo-P495-000449", "answer": "Sungbat: Naggapo iti Lucha Underground.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8158118724822998}
+{"uid": "xfactr-ilo-P159-000127", "answer": "Ti opisina ti Unibersidad ti Edinburgh ket idiay Eskosia.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.1963404417037964}
+{"uid": "xfactr-ilo-P159-000653", "answer": "Ti opisina ti Jolibee ket idiay Manila.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7429851293563843}
+{"uid": "xfactr-ilo-P101-000047", "answer": "Nagubra ni Richard Stallman iti software libre.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4519200921058655}
+{"uid": "xfactr-ilo-P31-000006", "answer": "Sungbat: Ni Berna ket nangabak iti eleksion iti presidente.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.762169361114502}
+{"uid": "xfactr-ilo-P31-000012", "answer": "Ni Vaud ket isu.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.45585307478904724}
+{"uid": "xfactr-ilo-P106-000132", "answer": "Ni Kenneth Arrow ket Amerikano a ekonomista.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.12490727007389069}
+{"uid": "xfactr-ilo-P102-000389", "answer": "Sungbat: Bundesrepublik a Alemania", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7826636433601379}
+{"uid": "xfactr-ilo-P27-000692", "answer": "Ni Jeph Jacques ay isang artista.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5401931405067444}
+{"uid": "xfactr-ilo-P27-000160", "answer": "Ni Alvin Ailey ay isang Amerikanong artista, koreograpo, at direktor ng teatro.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.3989986777305603}
+{"uid": "xfactr-ilo-P106-000018", "answer": "Sungbat: Isu ti immuna a musikero a nagpabrika iti simfonia iti moderno a panawen.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.5116770267486572}
+{"uid": "xfactr-ilo-P31-000080", "answer": "Ni Nidwalden ket isu ti maysa a distrito iti kanton ti Obwalden, isu ti kaadalem a distrito iti kanton.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5715575218200684}
+{"uid": "xfactr-ilo-P69-000000", "answer": "Nagreduar ni Marie Curie idiay Paris.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6405365467071533}
+{"uid": "xfactr-ilo-P1001-000150", "answer": "Ti Senado ti akin iggem ti amin nga opisyal.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6569136381149292}
+{"uid": "xfactr-ilo-P31-000021", "answer": "Ni Ticino ket isla iti Italya.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.4778262376785278}
+{"uid": "xfactr-ilo-P279-000159", "answer": "Ti kumakanta-mannurat ti kanta ket sakop ti musikero.", "label": 0, "label_rule": "matches", "first_token_entropy": 2.372957944869995}
+{"uid": "xfactr-ilo-P279-000030", "answer": "Ti espesialista ti sine ket sakop ti siensia.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.532327175140381}
+{"uid": "xfactr-ilo-P31-000042", "answer": "Ni Jura ket isu ti nagun-od iti maysa a pagtutumpon iti maysa a kappia.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8190405964851379}
+{"uid": "xfactr-ilo-P20-000029", "answer": "Natay ni Franz Schubert idiay Vienna.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.04575946182012558}
+{"uid": "xfactr-ilo-P1001-000131", "answer": "Ti wagayway ii Estados Unidos ti akin iggem ti amin nga naidutok.", "label": 0, "label_rule": "matches", "first_token_entropy": 4.680675029754639}
+{"uid": "xfactr-ilo-P495-000019", "answer": "Naggapo iti McDonald's.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.0053775310516357}
+{"uid": "xfactr-ilo-P276-000010", "answer": "Makitkita ti University of Southern California iti Los Angeles.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.8299667835235596}
+{"uid": "xfactr-ilo-P1001-000021", "answer": "Ti Presidente ti Filipinas ti akin iggem ti amin nga agpapada.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.4959101676940918}
+{"uid": "xfactr-ilo-P106-000005", "answer": "Sungbat: \"Maysa a maipangulo iti isip, maysa a maipangulo iti puso.\"", "label": 1, "label_rule": "matches", "first_token_entropy": 3.688387632369995}
+{"uid": "xfactr-ilo-P138-000047", "answer": "Sungbat: Ipinanagan ni Mac OS iti Apple Inc.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6947001814842224}
+{"uid": "xfactr-ilo-P159-000009", "answer": "Ti opisina ti University of Southern California ket idiay Los Angeles.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.26198148727417}
+{"uid": "xfactr-ilo-P102-000002", "answer": "Sungbat: Mao Zedong", "label": 1, "label_rule": "matches", "first_token_entropy": 2.09865665435791}
+{"uid": "xfactr-ilo-P1001-000017", "answer": "Ti Bise Presidente iti Estados Unidos ti akin iggem ti amin nga agpapadaan na desisyon.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.9427124261856079}
+{"uid": "xfactr-ilo-P106-000023", "answer": "Ni Avril Lavigne ket maysa a musikana iti Kanada.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8168808817863464}
+{"uid": "xfactr-ilo-P27-000087", "answer": "Ni Carlos Santana ay isang musikero.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6739530563354492}
+{"uid": "xfactr-ilo-P31-000170", "answer": "Ni Baguio ket siudad.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.1787500381469727}
+{"uid": "xfactr-ilo-P138-000016", "answer": "Ipinanagan ni CH iti apo na nga agtutubo.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.225213885307312}
+{"uid": "xfactr-ilo-P31-000047", "answer": "Ni Schwyz ket isu ti kagibatan iti kagimongan iti Suiza.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9310309886932373}
+{"uid": "xfactr-ilo-P159-000142", "answer": "Ti opisina ti Columbia Records ket idiay New York.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.7041630148887634}
+{"uid": "xfactr-ilo-P364-000144", "answer": "Ing orihinal a pagsasao ti 1984 ket Ingles.", "label": 0, "label_rule": "matches", "first_token_entropy": 3.561922550201416}
+{"uid": "xfactr-ilo-P159-000053", "answer": "Ti opisina ti Unibersidad ti Boston ket idiay Estados Unidos.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.780325174331665}
+{"uid": "xfactr-ilo-P31-000054", "answer": "Ni Kalaingan a Mangsuporta nga Aktor ket si Kalaingan.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.024775743484497}
+{"uid": "xfactr-ilo-P495-000114", "answer": "Sungbat: Naggapo iti The Godfather.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3317456245422363}
+{"uid": "xfactr-ilo-P1001-000198", "answer": "Ti Pangulo ti Hustisia ti Kangatuan a Korte ti Filipinas ti akin iggem ti amin nga abogado.", "label": 0, "label_rule": "matches", "first_token_entropy": 4.430649757385254}
+{"uid": "xfactr-ilo-P101-000045", "answer": "Nagubra ni Antoine Laurent de Jussieu iti botanika.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.6851790547370911}
+{"uid": "xfactr-ilo-P27-000064", "answer": "Ni Buster Keaton ay isang Amerikanong aktor, direktor, manunulat, produser, komedianteng pelikula, at mananayon.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.903921127319336}
+{"uid": "xfactr-ilo-P31-000001", "answer": "Sungbat (iti Ilokano): Ni sebbangan ket sungbat.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.733609199523926}
+{"uid": "xfactr-ilo-P101-000096", "answer": "Nagubra ni Carl Ludwig Blume iti Alemania.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.6103125810623169}
+{"uid": "xfactr-ilo-P159-000038", "answer": "Ti opisina ti Akademia ti Marina ti Estados Unidos ket idiay Annapolis.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.010263204574585}
+{"uid": "xfactr-ilo-P279-000018", "answer": "Ti sebbangan-kita ket sakop ti isla.", "label": 0, "label_rule": "matches", "first_token_entropy": 4.786807537078857}
+{"uid": "xfactr-ilo-P31-000604", "answer": "Ni Cateel ket isu ti ili a maysa iti probinsia ti Davao Oriental.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.878325879573822}
+{"uid": "xfactr-ilo-P108-000289", "answer": "Nagubra ni Emile Edmond Saisset iti 1922.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5260100960731506}
+{"uid": "xfactr-ilo-P1001-000024", "answer": "Ti Gobernador ti California ti akin iggem ti amin nga agdama na desisyon.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.6575832366943359}
+{"uid": "xfactr-ilo-P106-000127", "answer": "Sungbat: Ni Gerhart Hauptmann ket Aleman a mannurat iti drama.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.381056785583496}
+{"uid": "xfactr-ilo-P279-000034", "answer": "Ti piano ket sakop ti musika.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.6473644971847534}
+{"uid": "xfactr-ilo-P106-000507", "answer": "Ni Stephen Philip Jones ket isu ti maysa a Briton a politiko.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.749276876449585}
+{"uid": "xfactr-ilo-P1001-000185", "answer": "Ti Bise Presidente ti Filipinas ti akin iggem ti amin nga agpapada.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.7237677574157715}
+{"uid": "xfactr-ilo-P279-000539", "answer": "Ti Dagiti sinuratan a Brahmiko ket sakop ti relihion.", "label": 1, "label_rule": "matches", "first_token_entropy": 4.554893970489502}
+{"uid": "xfactr-ilo-P279-000154", "answer": "Sakop. (iti Ilokano)", "label": 1, "label_rule": "matches", "first_token_entropy": 1.8550300598144531}
+{"uid": "xfactr-ilo-P1001-000227", "answer": "Ti Wagayway iti Europa ti akin iggem ti amin nga naidutok.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.0328173637390137}
+{"uid": "xfactr-ilo-P279-000661", "answer": "Ti instrumento ti teklado ket sakop ti gitarra.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.519489288330078}
+{"uid": "xfactr-ilo-P31-000000", "answer": "Sungbat: Maysa.", "label": 1, "label_rule": "matches", "first_token_entropy": 4.114574432373047}
+{"uid": "xfactr-ilo-P276-000040", "answer": "Makitkita ti Rebolusion ti Kuba iti Enero 1959.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.6121573448181152}
+{"uid": "xfactr-ilo-P27-000091", "answer": "Ni Jean-Claude Duvalier ay isang presidente ti Haiti.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.9519943594932556}
+{"uid": "xfactr-ilo-P102-000191", "answer": "Nacionalista Partido", "label": 1, "label_rule": "matches", "first_token_entropy": 2.5484821796417236}
+{"uid": "xfactr-ilo-P31-000565", "answer": "Ni Bauko ket isu ti nangibagat a siudad iti Quirino.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.407568097114563}
+{"uid": "xfactr-ilo-P264-000005", "answer": "Ni Bob Dylan may sa nga miyembro ti Rock and Roll Hall of Fame.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.955180287361145}
+{"uid": "xfactr-ilo-P102-000593", "answer": "Sungbat: Ministra iti Edukasion.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.743358850479126}
+{"uid": "xfactr-ilo-P1001-000075", "answer": "Ti Premiero ti Quebec ti akin iggem ti amin nga umay.", "label": 0, "label_rule": "matches", "first_token_entropy": 2.191957473754883}
+{"uid": "xfactr-ilo-P138-000099", "answer": "Sungbat: Ipinanagan ni OpenBSD iti apo na nga Unix.", "label": 0, "label_rule": "matches", "first_token_entropy": 0.6393128633499146}
+{"uid": "xfactr-ilo-P1001-000423", "answer": "Ti Teniente Gobernador ti California ti akin iggem ti amin nga agdama desisyon.", "label": 0, "label_rule": "matches", "first_token_entropy": 1.709796667098999}
+{"uid": "xfactr-ilo-P101-000352", "answer": "Nagubra ni Francisco Manuel Blanco iti 1781.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.438281774520874}
+{"uid": "xfactr-ilo-P31-000640", "answer": "Ni Abulug ket isu.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.299245834350586}
+{"uid": "xfactr-ilo-P31-000745", "answer": "Ni Libertad ket isu.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.37221306562423706}
+{"uid": "xfactr-ilo-P102-000296", "answer": "Sungbat: CSU", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8282821178436279}
+{"uid": "xfactr-ilo-P106-000615", "answer": "Ni Nancy Priddy ket isu ti nagun-od iti \"The Loco-Motion\".", "label": 1, "label_rule": "matches", "first_token_entropy": 0.9857594966888428}
+{"uid": "xfactr-ilo-P106-000895", "answer": "Ni Cino Tortorella ket isu ti maysa a mannurat iti Ilokano.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.8889318704605103}
+{"uid": "xfactr-ilo-P364-000186", "answer": "Ti orihinal na pagsasao ti TV Patrol ket Ilokano.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.149191975593567}
+{"uid": "xfactr-ilo-P101-000213", "answer": "Nagubra ni Elmer Drew Merrill iti botaniko.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.4617176949977875}
+{"uid": "xfactr-ilo-P102-000278", "answer": "Sungbat: Aleman", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3307669162750244}
+{"uid": "xfactr-ilo-P102-000621", "answer": "Sungbat: Bundesrepublik a Alemania", "label": 1, "label_rule": "matches", "first_token_entropy": 1.607623815536499}
+{"uid": "xfactr-ilo-P279-000949", "answer": "Ti probinsia iti Catanduanes.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.7211570739746094}
+{"uid": "xfactr-ilo-P279-000944", "answer": "Ti sasao a Minahasan ket sakop ti isla iti Mindanao.", "label": 1, "label_rule": "matches", "first_token_entropy": 3.2229161262512207}
+{"uid": "xfactr-ilo-P101-000694", "answer": "Nagubra ni Jose Jeronimo Triana iti 1866.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5792499780654907}
+{"uid": "xfactr-ilo-P20-000140", "answer": "Natay ni Junior Wells idiay New York.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.04937493056058884}
+{"uid": "xfactr-ilo-P279-000935", "answer": "Ti Wampur ket sakop ti maysa a distrito iti Ilocos Sur.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.840482473373413}
+{"uid": "xfactr-ilo-P276-000135", "answer": "Makitkita ti Hawu iti langit.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.3384510278701782}
+{"uid": "xfactr-ilo-P108-000746", "answer": "Nagubra ni Robert D. McFadden iti Nobel a Parangal iti Literatura.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5346951484680176}
+{"uid": "xfactr-ilo-P27-000674", "answer": "Ni Albert William Herre ay isang Pilipinong politiko.", "label": 1, "label_rule": "matches", "first_token_entropy": 0.5690127015113831}
+{"uid": "xfactr-ilo-P102-000615", "answer": "Sungbat: Cameng ni Ingbert Liebing iti partido ti Nalipunan.", "label": 1, "label_rule": "matches", "first_token_entropy": 2.243680477142334}
+{"uid": "xfactr-ilo-P102-000297", "answer": "Sungbat: Cameng ni Friedbert Pflüger iti partido ti Alemania.", "label": 1, "label_rule": "matches", "first_token_entropy": 1.460753083229065}
