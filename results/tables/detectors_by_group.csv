@@ -1,0 +1,13 @@
+detector,group,languages,mean_d_auroc,ci_low,ci_high
+mam_fc,high,zh ja vi,0.3051,-6.1883,6.0141
+mam_fc,medium,tl sw,1.9263,-5.7067,9.9608
+mam_fc,low,yo ilo,-2.8466,-14.8305,9.3606
+mam_attn,high,zh ja vi,-1.4778,-7.6682,5.0002
+mam_attn,medium,tl sw,-0.3396,-7.7765,7.6161
+mam_attn,low,yo ilo,-2.9584,-16.4034,11.4678
+selfcheck,high,zh ja vi,-8.789,-20.1753,2.0496
+selfcheck,medium,tl sw,-4.7554,-17.6129,7.8442
+selfcheck,low,yo ilo,-7.0746,-24.5602,8.9639
+sem,high,zh ja vi,3.7009,-6.1623,13.3615
+sem,medium,tl sw,2.5014,-9.7597,13.84
+sem,low,yo ilo,5.7801,-7.7936,18.6991
