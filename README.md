@@ -46,7 +46,11 @@ pip install -r requirements.lock.txt
 python scripts/check_env.py
 ```
 
-`requirements.txt` lists the direct dependencies and `requirements.lock.txt` the exact versions.
+`requirements.txt` lists the direct dependencies and `requirements.lock.txt` the exact versions. The stages above run with that lock alone. The test suite also needs the model libraries (torch, transformers, spaCy and the rest), because its fixtures build a tiny model; on a machine without a GPU the CPU build of torch is enough:
+
+```
+pip install -r requirements-gpu.lock.txt --extra-index-url https://download.pytorch.org/whl/cpu
+```
 
 GPU part (Windows, NVIDIA GPU with 16 GB, Python 3.11, git). The Llama model is gated: request access on Hugging Face, then provide a token in the `HF_TOKEN` environment variable (bootstrap also offers a login). `scripts/bootstrap.py` creates `.venv`, installs the CUDA build of torch and the pins from `requirements-gpu.txt` / `requirements-gpu.lock.txt`, and runs the GPU check:
 

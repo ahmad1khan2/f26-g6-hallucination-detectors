@@ -12,3 +12,4 @@ jupyter
 nbconvert
 ipykernel
 pytest
+nltk
