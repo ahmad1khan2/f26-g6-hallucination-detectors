@@ -1,0 +1,7 @@
+setting,script_class,languages,n_languages,mean_d_acc,mean_d_auroc,tphr_of_means,marker,decisions
+mtrex,Latin,de,1,7.9283,-0.4886,1.2102,undefined,reference
+mtrex,non-Latin,hi bn ur,3,37.9803,5.5003,0.8392,,reference reference reference
+xfactr,Latin,vi tl sw yo ilo,5,23.749,-0.0147,3.2077,undefined,holds undefined holds holds undefined
+xfactr,non-Latin,zh ja,2,18.3333,-0.4258,1.634,undefined,holds undefined
+psiloqa,Latin,fi,1,-11.7,-0.541,1.335,undefined,undefined
+psiloqa,non-Latin,hi zh ar,3,-8.3667,-7.738,0.0339,undefined,undefined undefined undefined

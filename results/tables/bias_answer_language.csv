@@ -1,0 +1,9 @@
+setting,language,script,n,share_wrong_script,acc_all,acc_target_script_only,tphr_all,tphr_target_script_only,class_changes
+mtrex,hi,Devanagari,6420,0.0,35.405,35.405,0.8007,0.8007,False
+mtrex,bn,Bengali,6420,0.0005,29.0966,29.0946,1.2979,1.2997,False
+mtrex,ur,Arabic,6420,0.0,30.2025,30.2025,0.6377,0.6377,False
+xfactr,zh,Han,1380,0.0029,38.6232,38.7355,1.0009,0.9926,False
+xfactr,ja,Japanese,1380,0.0014,29.7826,29.7533,1.0096,1.0144,False
+psiloqa,hi,Devanagari,1000,0.029,13.2,12.8733,0.3285,0.3978,False
+psiloqa,zh,Han,1000,0.008,13.0,13.004,0.3647,0.3949,False
+psiloqa,ar,Arabic,1000,0.001,11.8,11.7117,-0.3091,-0.3142,False

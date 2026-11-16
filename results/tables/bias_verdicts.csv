@@ -1,0 +1,9 @@
+slice,verdict
+resource_group,"no: decision per group {'high': 'holds', 'medium': 'holds', 'low': 'holds'}"
+script,"no: Latin vs non-Latin decisions {'xfactr': {'Latin': 'holds', 'non-Latin': 'holds'}, 'psiloqa': {'Latin': 'undefined', 'non-Latin': 'undefined'}}"
+relation_xfactr,yes: 8 of 314 dropped-relation cases change a TPHR class (languages: vi yo)
+relation_mtrex,no: mTREx TPHR by category ranges 0.33 to 1.35
+generator_psiloqa,yes: MAM AUROC spans 24.3 points over 9 generator cells with 30+ test items and 30+ hallucinated ones
+label_rule,no: 0 of 7 languages change TPHR class under the stem label
+answer_language,no: share of answers outside the target script is 0.00 to 0.03; 0 of 8 languages change TPHR class without them
+class_balance,yes: 4 cells have under 30 minority-class test items: xfactr/yo psiloqa/en psiloqa/hi psiloqa/ar

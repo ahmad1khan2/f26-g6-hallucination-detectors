@@ -1,0 +1,8 @@
+language,d_acc_matches,d_acc_stem,auroc_l_matches,auroc_l_stem,tphr_matches,marker_matches,tphr_stem,marker_stem,class_changes
+zh,13.8406,13.8406,79.8291,79.8291,1.0009,,1.0009,,False
+ja,22.8261,22.6812,83.7641,83.7641,1.0096,undefined,1.0068,undefined,False
+vi,10.942,10.942,79.199,79.199,0.7919,,0.7919,,False
+tl,22.0576,22.0576,82.5206,82.5206,1.0299,undefined,1.0299,undefined,False
+sw,16.9014,16.9894,73.0975,73.0975,0.4562,,0.4585,,False
+yo,44.743,44.8598,79.1965,79.1965,1.5018,,1.503,,False
+ilo,24.1007,24.1007,86.1363,86.1363,0.5306,undefined,0.5306,undefined,False
