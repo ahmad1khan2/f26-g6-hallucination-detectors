@@ -1,4 +1,7 @@
-"""Rebuilds every EDA table, figure and the findings list in data/eda/ from the raw and processed data."""
+"""Rebuilds every EDA table, figure and the findings list in data/eda/ from the raw and processed data.
+
+With --phase4 it instead draws the Phase 4 figures in results/figures/ from results/tables/ (run scripts/run_analysis.py first).
+"""
 import sys
 from pathlib import Path
 
@@ -120,7 +123,126 @@ def psiloqa(cfg, findings):
     findings.append("PsiloQA: generator models differ by language (psiloqa_models.csv), so language and generator effects are confounded.")
 
 
+TABLES, FIGURES = ROOT / "results" / "tables", ROOT / "results" / "figures"
+SETTING_NAMES = {"mtrex": "mTREx", "xfactr": "X-FACTR", "psiloqa": "PsiloQA"}
+DETECTOR_STYLE = {"mam_fc": (ACCENT, "o"), "mam_attn": (DARK, "s"), "selfcheck": (GREY, "^"), "sem": ("#cfcfcf", "D")}
+GROUP_SHADE = {"high": "#ececec", "medium": "#f6f6f6", "low": "#e0e0e0"}
+
+
+def table(name):
+    # keep_default_na=False so the paper marker "NA" is not read as missing
+    return pd.read_csv(TABLES / f"{name}.csv", keep_default_na=False, na_values=[""])
+
+
+def fig_acc_vs_auroc(acc, au):
+    fig, axes = new_axes(3, width=2.1, height=2.4)
+    for ax, (setting, name) in zip(axes, SETTING_NAMES.items()):
+        a = acc[acc.setting == setting].reset_index(drop=True)
+        u = au[(au.setting == setting) & (au.detector == "mam_fc")].set_index("language").loc[a.language]
+        x = range(len(a))
+        ax.bar([i - 0.2 for i in x], a.accuracy, 0.4, color=GREY, label="Accuracy")
+        ax.bar([i + 0.2 for i in x], u.auroc, 0.4, color=DARK, label="MAM AUROC",
+               yerr=[u.auroc - u.ci_low, u.ci_high - u.auroc], error_kw={"lw": 0.7, "capsize": 1.5})
+        ax.set_xticks(list(x), a.language, fontsize=7)
+        ax.set(ylim=(0, 100), xlabel=name)
+        ax.tick_params(labelsize=7)
+    axes[0].set_ylabel("points")
+    axes[2].legend(fontsize=6.5, frameon=False, loc="upper right")
+    save(fig, FIGURES / "acc_vs_auroc.png")
+
+
+def fig_tphr_ci(tphr):
+    fig, axes = new_axes(3, width=2.1, height=2.9)
+    for ax, (setting, name) in zip(axes, SETTING_NAMES.items()):
+        t = tphr[tphr.setting == setting]
+        languages = list(dict.fromkeys(t.language))
+        groups = {l["code"]: l["group"] for l in load_config("languages")["languages"]}
+        for row, lang in enumerate(languages):
+            if setting == "xfactr":
+                ax.axhspan(row - 0.5, row + 0.5, color=GROUP_SHADE[groups[lang]], lw=0)
+        for k, (det, (colour, marker)) in enumerate(DETECTOR_STYLE.items()):
+            for row, lang in enumerate(languages):
+                r = t[(t.language == lang) & (t.detector == det)].iloc[0]
+                y = row + (k - 1.5) * 0.15
+                defined = pd.isna(r.marker)
+                if pd.notna(r.tphr):
+                    ax.plot(r.tphr, y, marker, ms=3.5, color=colour, mfc=colour if defined else "white", mew=0.8,
+                            label=det if row == 0 else None)
+                if defined and pd.notna(r.ci_low):
+                    ax.plot([r.ci_low, r.ci_high], [y, y], color=colour, lw=0.7)
+        ax.axvline(0, color="black", lw=0.6)
+        ax.set_yticks(range(len(languages)), languages, fontsize=7)
+        ax.invert_yaxis()
+        ax.set_xlabel(f"{name}: TPHR", fontsize=7)
+        ax.tick_params(axis="x", labelsize=7)
+    axes[0].legend(fontsize=5.5, frameon=False, loc="lower right")
+    save(fig, FIGURES / "tphr_ci.png")
+
+
+def fig_labels_scatter(acc, au, spearman):
+    fig, axes = new_axes(2, width=3.1, height=2.5)
+    langs = {l["code"]: l for l in load_config("languages")["languages"] if l["chosen"]}
+    a = acc[(acc.setting == "xfactr") & (acc.language != "en")].set_index("language")
+    u = au[(au.setting == "xfactr") & (au.detector == "mam_fc") & (au.language != "en")].set_index("language")
+    for ax, values, target, label in ((axes[0], a.accuracy, "accuracy", "Accuracy (points)"),
+                                      (axes[1], u.auroc, "auroc_mam_fc", "MAM AUROC (points)")):
+        for lang, v in values.items():
+            ax.scatter(langs[lang]["label_count"], v, color=GROUP_COLOURS[langs[lang]["group"]], s=18)
+            ax.annotate(lang, (langs[lang]["label_count"], v), textcoords="offset points", xytext=(3, 3), fontsize=7)
+        rho = spearman.set_index("target").loc[target]
+        ax.set(xscale="log", xlabel="entity labels (log)", ylabel=label)
+        ax.set_title(f"Spearman rho {rho.rho:.2f}, p {rho.p:.2f}, n {int(rho.n)}", fontsize=7.5)
+    save(fig, FIGURES / "labels_scatter.png")
+
+
+def fig_bias_summary(loro, rule, gen, balance):
+    fig, axes = new_axes(3, width=2.1, height=2.5)
+    ax = axes[0]
+    rule = rule.set_index("language")
+    for i, r in enumerate(loro.itertuples()):
+        if pd.notna(r.tphr_min):
+            ax.plot([r.tphr_min, r.tphr_max], [i, i], color=GREY, lw=2)
+        if pd.notna(r.tphr_full):
+            ax.plot(r.tphr_full, i, "o", color=ACCENT, ms=3.5)
+        if pd.notna(rule.loc[r.language, "tphr_stem"]):
+            ax.plot(rule.loc[r.language, "tphr_stem"], i, "x", color=DARK, ms=3.5)
+    ax.set_yticks(range(len(loro)), loro.language, fontsize=7)
+    ax.invert_yaxis()
+    ax.set_xlabel("X-FACTR TPHR: full (dot),\nleave-one-relation-out (bar),\nstem label (x)", fontsize=6.5)
+    ax.tick_params(axis="x", labelsize=7)
+    ax = axes[1]
+    g = gen.dropna(subset=["auroc_mam_fc"])
+    languages = list(dict.fromkeys(gen.language))
+    ax.scatter([languages.index(l) for l in g.language], g.auroc_mam_fc, s=g.n_test.clip(upper=100) / 4 + 4, color=DARK)
+    ax.axhline(50, color="black", lw=0.6)
+    ax.set_xticks(range(len(languages)), languages, fontsize=7)
+    ax.set(ylabel="MAM AUROC per generator", ylim=(0, 100))
+    ax.set_xlabel("PsiloQA (dot size = test items)", fontsize=6.5)
+    ax.tick_params(axis="y", labelsize=7)
+    ax = axes[2]
+    labels = [f"{s[0].upper()}-{l}" for s, l in zip(balance.setting, balance.language)]
+    ax.bar(range(len(balance)), balance.test_minority.clip(lower=1), color=[GREY if not t else ACCENT for t in balance.thin])
+    ax.axhline(30, color="black", lw=0.6, ls="--")
+    ax.set(yscale="log", ylabel="minority test items")
+    ax.set_xticks(range(len(balance)), labels, rotation=90, fontsize=5.5)
+    ax.tick_params(axis="y", labelsize=7)
+    save(fig, FIGURES / "bias_summary.png")
+
+
+def phase4_figures():
+    FIGURES.mkdir(parents=True, exist_ok=True)
+    acc, au, tphr = table("accuracy"), table("auroc"), table("tphr")
+    fig_acc_vs_auroc(acc, au)
+    fig_tphr_ci(tphr)
+    fig_labels_scatter(acc, au, table("spearman"))
+    fig_bias_summary(table("bias_relation_xfactr_loro"), table("bias_label_rule"),
+                     table("bias_generator_psiloqa"), table("bias_class_balance"))
+    print(f"wrote 4 figures to {FIGURES}")
+
+
 def main():
+    if "--phase4" in sys.argv:
+        return phase4_figures()
     cfg = load_config("data")
     EDA.mkdir(exist_ok=True)
     findings = []
