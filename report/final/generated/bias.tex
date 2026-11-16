@@ -1,0 +1,23 @@
+\begin{table}[!ht]
+\tablestyle
+\caption{Bias check: does the conclusion change for each slice.}\label{tab:bias}
+\begin{tabular}{lcp{200bp}}
+\textbf{Slice} & \textbf{Conclusion changes} & \textbf{Evidence} \\
+\hline
+Resource group (X-FACTR) & no & decision is high holds, medium holds, low holds \\
+\hline
+Script of the target language & no & X-FACTR: Latin holds and non-Latin holds; PsiloQA: Latin undefined and non-Latin undefined \\
+\hline
+X-FACTR relation (leave one out) & yes & 8 of 314 dropped-relation cases change a TPHR class (languages: Vietnamese and Yoruba) \\
+\hline
+mTREx category & no & mTREx TPHR by category ranges 0.33 to 1.35 \\
+\hline
+PsiloQA generator model & yes & MAM AUROC spans 24.3 points over 9 generator cells with 30+ test items and 30+ hallucinated ones \\
+\hline
+Label rule (matcher or stem) & no & 0 of 7 languages change TPHR class under the stem label \\
+\hline
+Answer language & no & share of answers outside the target script is 0.00 to 0.03; 0 of 8 languages change TPHR class without them \\
+\hline
+Class balance & yes & 4 cells have under 30 minority-class test items: X-FACTR Yoruba, PsiloQA English, PsiloQA Hindi, PsiloQA Arabic
+\end{tabular}
+\end{table}

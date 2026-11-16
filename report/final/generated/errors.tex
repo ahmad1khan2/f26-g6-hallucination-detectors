@@ -1,0 +1,27 @@
+\begin{table}[!ht]
+\tablestyle
+\caption{Final failure codes by setting and failure type.}\label{tab:errors}
+\begin{tabular}{lrrrrrrr}
+\textbf{Code} & \textbf{\makecell[r]{mTREx\\missed}} & \textbf{\makecell[r]{mTREx\\false flag}} & \textbf{\makecell[r]{X-FACTR\\missed}} & \textbf{\makecell[r]{X-FACTR\\false flag}} & \textbf{\makecell[r]{PsiloQA\\missed}} & \textbf{\makecell[r]{PsiloQA\\false flag}} & \textbf{All} \\
+\hline
+matcher error & 3 & 4 & 4 & 5 & 0 & 0 & 16 \\
+\hline
+gold data error & 1 & 0 & 6 & 0 & 0 & 0 & 7 \\
+\hline
+prompt or template problem & 1 & 1 & 1 & 0 & 0 & 0 & 3 \\
+\hline
+wrong language & 0 & 0 & 0 & 0 & 0 & 1 & 1 \\
+\hline
+partial answer & 2 & 0 & 1 & 0 & 0 & 2 & 5 \\
+\hline
+refusal or non-answer & 0 & 0 & 0 & 0 & 0 & 1 & 1 \\
+\hline
+plausible wrong entity & 8 & 0 & 2 & 0 & 4 & 0 & 14 \\
+\hline
+unrelated entity & 0 & 0 & 1 & 0 & 0 & 0 & 1 \\
+\hline
+span problem (PsiloQA) & 0 & 0 & 0 & 0 & 3 & 7 & 10 \\
+\hline
+other & 0 & 10 & 0 & 10 & 8 & 4 & 32
+\end{tabular}
+\end{table}

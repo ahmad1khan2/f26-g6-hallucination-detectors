@@ -8,10 +8,15 @@
 \usepackage{caption}
 \usepackage{lastpage}
 \usepackage{natbib}
+\usepackage{array}
+\usepackage{makecell}
+\makeatletter\def\bibsection{}\makeatother
+\usepackage{colortbl}
 \setmainfont{TeX Gyre Heros}
 \newfontfamily\headfont{TeX Gyre Termes}
 \definecolor{ink}{HTML}{1F1E1D}
 \definecolor{muted}{HTML}{6B6B6B}
+\definecolor{rulegrey}{HTML}{C9C8C7}
 \color{ink}
 \setcounter{secnumdepth}{0}
 \renewcommand{\normalsize}{\fontsize{12bp}{18bp}\selectfont}
@@ -27,6 +32,7 @@
 \renewcommand{\small}{\fontsize{10.5bp}{15bp}\selectfont}
 \setlength{\bibsep}{3bp}
 \bibliographystyle{plainnat}
+\newcommand{\tablestyle}{\small\renewcommand{\arraystretch}{1.0}\setlength{\tabcolsep}{4bp}\setlength{\arrayrulewidth}{0.5bp}\arrayrulecolor{rulegrey}}
 \newcommand{\HeadLabel}{Final Report — Group 6}
 \newlength{\hdrY}\setlength{\hdrY}{1pt}
 \usepackage{fancyhdr}
@@ -34,6 +40,10 @@
 \renewcommand{\headrulewidth}{0pt}
 \fancyhead[L]{\fontsize{6bp}{7bp}\selectfont\color{muted}\HeadLabel}
 \fancyfoot[R]{\fontsize{6bp}{7bp}\selectfont\color{muted}Page \thepage{} of \pageref{LastPage}}
+\input{generated/numbers}
+
+\newcommand{\dd}{-\kern0pt-}
+\newcommand{\minus}{−}
 \begin{document}
 {\headfont\fontsize{24bp}{28.8bp}\selectfont Beyond Factual QA: Extending the Low-Resource Hallucination-Detector Robustness Phenomenon to Dialogue Generation and a Broader Set of Languages\par}
 \vspace{18bp}\nopagebreak
@@ -41,62 +51,169 @@
 AI2002 – Artificial Intelligence, Fall 2026 · Track B (Research \& Development) · Group ID: 6\par
 Ahmad Ali Khan (Lead, 24L-3049) · Talha Pasha (24L-3005) · Moeed Amir (24L-3060) · Bilal Kashif (24L-3036)\par}
 
-\section{Abstract}
-TBD
+\section{Abstract and summary}
+\citet{datta2026} report that hallucination detectors lose far less performance than task accuracy when a model moves from English to low-resource languages. We test whether this holds on a broader language set (X-FACTR) and on long answers with span-level hallucinations (PsiloQA). One generator, Llama 3.1 8B Instruct in 4-bit, answers \totalitems{} items in total from mTREx, X-FACTR and PsiloQA. Three detectors from the authors' released code (MAM, SelfCheckGPT and Semantic Entropy) are scored with accuracy, AUROC and TPHR, using bootstrap intervals and a decision rule fixed before any metric was computed.
+
+On mTREx our own run reproduces the base paper's pattern: accuracy falls from \mtenacc{} in English to between \mtacclo{} and \mtacchi{}, while MAM AUROC stays between \mtfclo{} and \mtfchi{}. On X-FACTR the gap holds in \xfholdsn{} of \xfn{} languages and none narrows or closes; in the other \xfundefn{} the detector does not lose AUROC at all. AUROC does not fall faster in the lowest-resource languages (Spearman rho \rhoau{}, n = \nsp{}). On PsiloQA every TPHR is undefined, because English accuracy is already the lowest, and MAM is close to chance, so the question of whether the gap shrinks on long answers stays open. Of the \errmissn{} missed hallucinations we read on mTREx and X-FACTR, \errmissnoisepct\% come from the matcher or the gold data.
 
 \section{Introduction}
-TBD
+Language models answer less accurately in languages with little training text, and hallucination detectors are usually built and tested on English. \citet{datta2026} ask whether such detectors suffer from the same low-resource effect. They compare the drop in accuracy with the drop in detector AUROC when moving from English to another language, and combine the two in one number, TPHR (the log of the accuracy drop divided by the AUROC drop). On factual questions in five languages they find that accuracy falls much more than AUROC.
+
+That result rests on five languages and on short answers that are a single entity. We ask three questions.
+
+\begin{itemize}
+\item \textbf{RQ1, breadth}: does accuracy fall much further than AUROC across a wider set of languages with different resource levels (X-FACTR)?
+\item \textbf{RQ2, depth}: does the gap appear on long answers with span-level hallucinations (PsiloQA)?
+\item \textbf{RQ3, detectors}: does one detector fail first as the language gets rarer?
+\end{itemize}
+
+Our pre-registered expectation, written in the proposal before any run, was that the gap persists on X-FACTR with AUROC falling faster in the lowest-resource languages, and that it shrinks on PsiloQA. We report the outcome whichever way it goes. The deliverable is this comparative analysis and a reproducible codebase built on the authors' released code.
 
 \section{Related work}
-TBD
+\citet{datta2026} test detectors on mTREx in English, German, Hindi, Bengali and Urdu with four models, and release their code and data. We use their mTREx data and three detectors unchanged, and use our own mTREx run as the reference instead of their published numbers. SelfCheckGPT \citep{manakul2023} draws extra answers and scores how well they support the main answer; we use the unigram variant. Semantic Entropy \citep{farquhar2024} groups sampled answers by meaning and measures how spread out the groups are; the released code groups them with LaBSE embeddings \citep{feng2022}. MAM, from the base paper, trains a small classifier on the model's activations at the first generated token. X-FACTR \citep{jiang2020} probes factual knowledge with relation templates in 23 languages, which gives us several resource levels. PsiloQA \citep{psiloqa} holds questions in 14 languages with a language-model answer and annotated hallucinated spans. Llama 3.1 \citep{grattafiori2024} is loaded in 4-bit NF4 \citep{dettmers2023} to fit one 16 GB GPU.
 
 \section{Data}
-TBD
+We use exactly three datasets, converted to one record layout (uid, dataset, language, relation, prompt, gold, answer, spans, label, pair\_uid, meta). Every random choice uses seed 42 and a stable hash order, never an unseeded shuffle. Raw data stays out of git and is rebuilt by one download script.
+
+\textbf{mTREx} is the reference setting: factual questions in English, German, Hindi, Bengali and Urdu, in three categories (capitals, country, official language). Raw files hold \mtrexrawmin{} to \mtrexrawmax{} rows. We split each target on the separator for several answers, normalise it, and drop empty rows and repeated sources, which takes \mtrexraw{} rows to \mtrexuniq{}. The smallest remaining cell sets one size for all, so every language and category keeps \mtrexcell{} rows, \nmtrex{} records in total. About \mtrexmulti{} of the English questions accept more than one answer. Questions use the authors' own prompt file.
+
+\textbf{X-FACTR} provides breadth. It has \xfactrrelations{} Wikidata relations and \xfactrfacts{} facts. We group languages by their entity-label count (high at least \highmin{}, medium \medmin{} to 14,999, low below \medmin{}) and choose languages whose templates need no gender or case morphology: Japanese, Chinese and Vietnamese (high), Tagalog and Swahili (medium), Yoruba and Ilocano (low). Punjabi was dropped because its labels are in Shahmukhi while its templates are in Gurmukhi. No relation uses gendered wording in these languages, so all \xfactrrelations{} stay. A fact is kept for a language only if its subject and object have labels in that language and in English. The prompt is the relation template with the subject filled in and a blank for the answer; the gold answer is the object label plus its aliases. Facts are ordered by how many chosen languages cover them, then by hash, and each relation is capped at \xfactrcap{} facts. The result is \sampledmin{} to \sampledmax{} facts per language, \xfactrenfacts{} shared English facts, and \nxfactr{} records. Each non-English record points to its English twin.
+\textbf{PsiloQA} provides depth. The dataset has \psiloqatotal{} questions in 14 languages, with answers from \psiloqamodels{} generator models. We pool its splits, keep English, Hindi, Chinese, Finnish and Arabic (\psiloqapooled{} rows), remove \psiloqadups{} repeated question and answer pairs, and label an answer 1 when it has at least one annotated span. Each language keeps \psiloqaperlang{} items, sampled in proportion to its own generator models, so the generator mix differs by language and is reported in the bias check. It is a single-turn long-answer test. \npsiloqa{} records remain.
+
+Entity-label counts run from \labelmax{} (Japanese) to \labelmin{} (Ilocano), and accepted answers per fact fall from \aliasmax{} to \aliasmin{}, which makes the substring matcher stricter in low-resource languages. PsiloQA answers are mostly hallucinated (rate \psiloqaratemin{} to \psiloqaratemax{}): English has only \psiloqaencorrect{} correct answers in \psiloqaperlang{}, and no language has more than \psiloqacorrectmax{}.
 
 \section{Methodology}
-TBD
+\textbf{Generator.} Every experiment uses meta-llama/Llama-3.1-8B-Instruct, loaded in 4-bit NF4 with bitsandbytes and bfloat16 compute and never fine-tuned. One model everywhere keeps mTREx, X-FACTR and PsiloQA comparable. Each item gets one greedy answer (temperature 0, 5 to 50 new tokens, as in the released MAM script), and all three detectors score that same text.
+
+\textbf{Labels.} On mTREx and X-FACTR an answer is hallucinated (label 1) when it matches none of the accepted answers. The decision is made only by one function, matches(), which normalises the text (NFKC, whitespace, lower case for cased scripts) and tests whether a gold answer is a substring of the answer, as in the base paper. On mTREx it disagrees with the authors' own rule on \matcherdisagree{} of \matcherchecks{} checks, and we keep ours. For X-FACTR we also hand-check \hcper{} answers per language (see Error analysis) and add a second label that also accepts an answer equal to a gold alias after stemming. On PsiloQA the label comes from the span annotation only.
+
+\textbf{Detectors.} We use the authors' code at a pinned commit, kept as a read-only submodule, and copy the scripts into our source tree. MAM reads the final layer's fully connected activations (\fcwidth{} wide), our primary variant, and the self-attention outputs (\attnwidth{} wide), our secondary one, at the first generated token. A classifier with one hidden layer of 256 units is trained with AdamW (learning rate 1e-4, weight decay 1e-2, batch 128, about 1,000 steps) on a random 80/20 split within each language, and AUROC is measured on the held-out 20\%. SelfCheckGPT draws \numsamples{} samples at temperature 1 and scores the main answer by its unigram negative log-likelihood against them. Semantic Entropy groups the same samples with LaBSE (cosine threshold 0.75) and measures the entropy of the groups.
+
+\textbf{Our marked adaptations.} We changed only what our setting needs, each change marked with a G6 comment, saved as a diff and listed in the code notes. A regression test fails if any unmarked function differs from the original. The \gendevs{} deviations are one shared greedy answer for all detectors, the first-token entropy stored instead of the \logitwidth{} logits per item, samples drawn once and shared by the two sampling detectors, a seeded classifier, hooks on only two layers, logged failures and resumable runs, spaCy tokenizers for languages the released scripts lack, and 4-bit loading with our own loaders and labels. Detection logic, hyperparameters, the clustering rule and the score formulas are unchanged. For PsiloQA, where answers come from other generators, MAM reads our model's activations over the given answer's tokens (the authors' multi-token variant, a mean over the first 10 answer positions), SelfCheckGPT compares the given answer with our model's samples, and Semantic Entropy is computed per question and reported separately.
+
+\textbf{Metrics.} Accuracy is the share of correct answers; AUROC takes a hallucinated answer as positive; both are in points. ΔAcc and ΔAUROC are English minus the language in the same setting, and TPHR is the base paper's log10(|ΔAcc| / |ΔAUROC|). As fixed in our analysis specification before any metric was computed, TPHR is undefined when the accuracy drop is under 5 points or AUROC does not fall, and both drops are reported instead. Intervals are 95\% bootstrap intervals with 1,000 resamples; MAM is averaged over three splits (seeds 42, 43, 44). The decision rule says the gap holds if the TPHR interval overlaps or lies above the range measured on mTREx, narrows if it lies below that range but above zero, and closes if TPHR is zero or negative. Figure~\ref{fig:pipeline} shows the pipeline and Figure~\ref{fig:mam} the MAM detector.
 
 \begin{figure}[h]
 \centering\includegraphics{figures/pipeline.pdf}
-\caption{Pipeline from raw data to the decision rule.}
+\caption{Pipeline from raw data to the decision rule.}\label{fig:pipeline}
 \end{figure}
 \begin{figure}[h]
 \centering\includegraphics{figures/mam.pdf}
-\caption{MAM detector.}
+\caption{MAM detector: last-layer activations at the first generated token feed a 256-unit classifier that outputs the probability of a hallucination.}\label{fig:mam}
 \end{figure}
 
 \section{Implementation and workflow}
-TBD
+The repository follows the order of the work. The stages, each one a script, are:
+
+\begin{itemize}
+\item Download the raw data, build the three processed files, and rebuild the exploratory figures and tables.
+\item On the GPU machine, run a smoke test on 20 items per dataset, a timing test that sets the run sizes, the full run, and a final check that every output file matches the processed data, has no duplicates and has both classes in each test split.
+\item Summarise results, score the hand check, then run the analysis, the figures, the error-analysis sample and the entropy table.
+\item Run the notebook, which reads the saved results, and build this report.
+\end{itemize}
+
+Tests exist at four levels (\testsunit{} unit, \testsintegration{} integration, \testsregression{} regression and \testssystem{} system test files, \testfuncs{} test functions in \testfiles{} files). The regression tests freeze the processed data and the match with the authors' rule and check that adapted code differs from the original only where marked. The system tests run the run driver on a tiny model and execute the notebook; real-model tests run only on the GPU machine.
+
+The GPU run is resumable. Every output line is flushed to disk, configuration files are replaced in one step, each stage skips items already stored, and MAM classifiers are checkpointed. A pause file stops the run cleanly, a start-up entry restarts it at login, and a background thread pushes the small result files to the repository every hour. Activations and samples stay on the run machine.
 
 \section{Experimental setup}
-TBD
+All runs used one \gpuname{} with 16 GB (PyTorch \torchver{}, Transformers \transformersver{}); peak GPU memory was \peakvram{} GiB. The timing test, given a budget of \timinghours{} hours, measured throughput per stage and set the run sizes. MAM ran on every item of every language. SelfCheckGPT and Semantic Entropy ran on the first \samplingn{} items per language in hash order, which is the first step of the proposal's cut order and makes their intervals wide. PsiloQA answers may use up to \psiloqamaxtokens{} new tokens in the sampling stages. The full run took about \runhours{} hours and no item failed. Seeds 42, 43 and 44 give the three MAM splits, and the classifier seed is fixed, so a rerun reproduces the numbers.
 
 \section{Results}
-TBD
+Table~\ref{tab:main} gives the primary detector for every language against English, with the outcome of the decision rule. Figure~\ref{fig:acc} plots accuracy beside MAM AUROC.
 
-\section{Our reference run against the paper's reported results}
-TBD
+\input{generated/results_main}
+
+\textbf{Reference (mTREx).} Accuracy falls from \mtenacc{} in English to between \mtacclo{} and \mtacchi{} while MAM (FC) AUROC stays between \mtfclo{} and \mtfchi{} (English \mtenau{}). Across Hindi, Bengali and Urdu the TPHR ranges from \rnglo{} to \rnghi{}, so accuracy falls far more than AUROC. German is undefined: accuracy drops \dedacc{} points, but AUROC is \dedauroc{} points higher than English.
+
+\textbf{Breadth (X-FACTR).} Accuracy runs from \xfacclo{} (Yoruba) to \xfacchi{} against \xfenacc{} in English, and MAM (FC) AUROC from \xffclo{} to \xffchi{} against \xfenau{}. The gap holds for \xfholdslangs{}. \xfundeflangs{} are undefined because AUROC is above English, so the detector loses nothing there, which is consistent with the gap. No language narrows or closes, but all \xfn{} intervals are unstable (over 10\% of resamples gave no TPHR). Semantic Entropy holds in \xfsemholds{} of \xfn{} languages against its own mTREx range (\semrnglo{} to \semrnghi{}); SelfCheckGPT has no range because its mTREx rows are all undefined.
+
+\textbf{Depth (PsiloQA).} English accuracy (\psenacc{}) is the lowest of the five languages, so every accuracy drop is negative (\psdacclo{} to \psdacchi{}) and all \psrows{} rows are undefined. MAM (FC) AUROC is \psfclo{} to \psfchi{}, and \psbelow{} of \psfcn{} languages score under 60. It is higher than English in all four other languages (by \psdaulo{} to \psdauhi{} points), but the English interval runs from \psencilo{} to \psencihi{} and English has only \psenminority{} correct answers in its test split. TPHR cannot say whether the gap shrinks on long answers.
+
+\begin{figure}[h]
+\centering\includegraphics[width=0.72\textwidth]{../../results/figures/acc_vs_auroc.png}
+\caption{Accuracy and MAM (FC) AUROC per language for each dataset.}\label{fig:acc}
+\end{figure}
+
+\textbf{Detectors compared.} Averaged over the non-English X-FACTR languages, AUROC is \meanfcxf{} for MAM (FC), \meanattnxf{} for MAM (Attn), \meansemxf{} for Semantic Entropy and \meansgmxf{} for SelfCheckGPT. The mean 95\% interval is \wmam{} points wide for MAM (FC) and \wsamp{} for the sampling detectors, which see only \samplingn{} items. Table~\ref{tab:groups} groups the mean AUROC drop by resource level: every interval contains zero for all four detectors, so no detector loses AUROC faster in lower-resource groups. For MAM (FC) the drop is \grphigh{}, \grpmed{} and \minus\grplow{} points for the high, medium and low group, while the mean accuracy drop grows from \grphighacc{} to \grpmedacc{} to \grplowacc{} points. On PsiloQA SelfCheckGPT scores below 50 AUROC in \scbelow{} of \pslangs{} languages and Semantic Entropy in \sembelow{}.
+
+\input{generated/groups}
+
+\textbf{Resource analysis.} Across the \nsp{} non-English X-FACTR languages, the Spearman correlation between entity-label count and MAM (FC) AUROC is \rhoau{} (p = \pau{}) and with accuracy \rhoacc{} (p = \pacc{}); with so few languages neither is significant. Figure~\ref{fig:tphr} shows the TPHR intervals.
+
+\begin{figure}[h]
+\centering\includegraphics[width=0.72\textwidth]{../../results/figures/tphr_ci.png}
+\caption{TPHR with 95\% bootstrap intervals per language and setting.}\label{fig:tphr}
+\end{figure}
+
+\section{Replication results versus reported paper results}
+Our reference run uses the base paper's data and detector code but a 4-bit quantized model, our matching rule and our sampling subsets, so we compare patterns, not exact values. Table~\ref{tab:paper} sets our mTREx accuracy and MAM (FC) AUROC per category against the paper's LLaMA-8B numbers (Tables 8 and 10 of the paper).
+
+\input{generated/paper_comparison}
+
+Over \pcn{} category and language cells, our accuracy falls relative to English in \pcfalls{}. It differs from the paper's accuracy by \pcaccdiff{} points on average (\pcaccsigned{} lower on net), and our MAM (FC) AUROC differs by \pcaudiff{} on average (at most \pcaumax{}). TPHR is positive in all \pcourdef{} cells where we can define it, and in all \pcpaperdef{} in the paper; in the \pcboth{} cells defined in both, \pcbothclose{} lie within 0.4 of each other. The pattern repeats: accuracy falls, AUROC holds and TPHR is positive. We attribute the remaining differences to 4-bit quantization, the matching rule and sampling, but we did not isolate their separate effects.
 
 \section{Bias check}
-TBD
+We checked whether the conclusion changes across \biasn{} slices (Table~\ref{tab:bias}); \biasyes{} of them change it. Dropping one X-FACTR relation at a time changes a TPHR class in \loropairs{} of \loroall{} cases, which flips the decision for \loroflips{} languages. MAM AUROC spans \genspan{} points over \gencellsn{} PsiloQA generator models, so generator and language effects overlap. And \thinn{} cells have too few minority-class test items (\thincells{}; as few as \thinmin{}), which limits what PsiloQA and Yoruba can show. The resource group, script, mTREx category, label rule and answer language do not change it.
+
+\input{generated/bias}
 
 \section{Error analysis}
-TBD
+We drew \errcell{} missed hallucinations and \errcell{} false flags per setting from the MAM (FC) test predictions of seed 42 (\errn{} items). A missed hallucination is a hallucinated answer scoring below the median score of that language's correct answers; a false flag is a correct answer scoring above the median score of its hallucinated answers. Two members coded each item independently with a code list fixed before reading, and agreed on \erragree{} of \errn{} (\errshare\%); the \errdisagree{} disagreements were settled by discussion. Table~\ref{tab:errors} gives the final codes.
 
-\section{Insights}
-TBD
+\input{generated/errors}
+
+\textbf{Label noise.} Among the \errmissn{} missed hallucinations on mTREx and X-FACTR, \errmissnoise{} (\errmissnoisepct\%) are matcher errors or gold data errors, meaning the answer was in fact acceptable or the gold was wrong. Only \errmisswrong{} are wrong entities. The matcher also accepted wrong answers in \errflagmatcher{} of the \errflagn{} false flags there, mostly by matching gold text echoed from the prompt, so the detector was right on those. The hand check agrees: the matcher and our reading of \hcn{} X-FACTR answers (\hcper{} per language) agree from \hcagmin\% (\hcmin{}) to \hcagmax\% (\hcmax{}), and \hcunder{} of \hclangs{} languages are under 90\%. The matcher rejected \hcrejected{} correct answers, mostly true answers missing from the gold list for relations with several answers, and accepted \hcaccepted{} wrong ones; it counts \hcmatcher\% of the sample as correct against \hchand\% by hand. The stem label moves accuracy by at most \stemmax{} points, because most misses come from incomplete gold lists, which stemming cannot fix.
+
+\textbf{Other codes.} \errotherflag{} of the \errother{} items coded other are false flags on correct answers; the code list had no slot for a detector error on a correct answer and was not changed after coding began. On PsiloQA, \errspanflag{} of the \errpsflag{} false flags are span problems, answers that look wrong but have no annotated span, so part of that pool reflects the span labels and not the detector.
+
+\textbf{Entropy check.} As in the base paper's appendix, we check the generator's uncertainty, using the entropy of the first generated token's distribution saved during generation. On X-FACTR the mean entropy is \entenmean{} in English and \enthigh{}, \entmed{} and \entlow{} in the high, medium and low groups. The entropy gap between hallucinated and correct answers is \entengap{} in English and \entlowgap{} in the low-resource group, so the generator's own uncertainty separates the two classes less where resources are scarce. On PsiloQA the gap is \minus\entpsgap{}: hallucinated answers do not carry higher entropy at their first token.
+
+\section{Key insights}
+\textbf{RQ1, breadth.} Accuracy falls much further than AUROC wherever TPHR is defined: the gap holds in \xfholdsn{} of \xfn{} languages, the other \xfundefn{} have AUROC above English, and none narrows. We expected AUROC to fall faster in the lowest-resource languages. It did not (rho \rhoau{}, all group intervals contain zero). The smaller entropy gap in the low group hints that the generator's own uncertainty is a weaker signal there, but the intervals are unstable.
+
+\textbf{RQ2, depth.} This stays open. Every TPHR is undefined because English accuracy is the lowest, so the expectation that the gap shrinks on PsiloQA is neither confirmed nor refuted. MAM (FC) AUROC is weak (\psfclo{} to \psfchi{}), entropy does not separate the classes, and many false flags have no annotated span.
+
+\textbf{RQ3, detectors.} Our data do not show that one detector fails first. All group intervals contain zero for the four detectors, the sampling detectors have intervals \wsamp{} points wide on average against \wmam{} for MAM (FC), and only on PsiloQA do SelfCheckGPT and Semantic Entropy fall below chance.
+
+\textbf{Expectation against outcome.} The pre-registered expectation held in part. The gap persists on X-FACTR, but AUROC does not fall faster in the lowest-resource languages, and the PsiloQA part could not be tested.
 
 \section{Challenges faced during implementation}
-TBD
+\begin{itemize}
+\item \textbf{Environment}: conda was not available, so we used a Python 3.11 virtual environment with pinned requirements. The authors' notes ask for Python 3.12; we kept 3.11, also on the GPU machine, and left the detector logic unchanged.
+\item \textbf{4-bit loading and memory}: 4-bit loading fits the model on one 16 GB GPU (peak \peakvram{} GiB). MAM features are \fcwidth{} wide for the fully connected output and take about 7 GB or more, so they stay out of git and only two layers are hooked.
+\item \textbf{GPU machine shutdown}: the machine switched off during the first long run. We added a flush after every line, atomic config writes, resume support, a pause file, restart at login and hourly pushes. Those pushes first returned 403 because the machine was signed in to a different GitHub account; the results stayed safe locally until it was fixed.
+\item \textbf{Timing and cuts}: 20 samples per item are slow, so the timing test set the sampling detectors to \samplingn{} items per language, the first step of the cut order.
+\item \textbf{Matcher limits and imbalance}: the substring matcher misses true answers when gold aliases are few, so we hand-checked \hcper{} answers per language and added a stem label. PsiloQA is mostly hallucinated, leaving as few as \psenminority{} correct answers in an English test split.
+\item \textbf{The released code}: reading it showed hard-coded paths and memory limits, failed items dropped without a trace, a classifier loop that stops at the first missing file, unseeded weights, results written only when a category ends, a SelfCheckGPT direction that the paper words the other way round, Adam in the paper against AdamW in the code, 1,001 steps against 1,000, and no named key for Semantic Entropy. Each is recorded in the code notes and handled in the marked deviations.
+\end{itemize}
 
 \section{Limitations}
-TBD
+\begin{itemize}
+\item SelfCheckGPT and Semantic Entropy use \samplingn{} items per language, so their intervals are wide, and \thinn{} cells have under 30 minority-class test items, so their AUROC is unreliable.
+\item PsiloQA answers come from other generators: MAM reads our model's activations over someone else's answer, using the mean over the first 10 answer positions. Generator and language effects overlap.
+\item We use one generator in 4-bit, a substring matcher, entropy saved during generation instead of full logits, and an error analysis of only \errn{} items. The comparison with the base paper does not separate quantization, matching and sampling.
+\item The prompts and the hand check were read by one team member; the Yoruba and Ilocano prompts are low confidence.
+\end{itemize}
 
 \section{How to run and reproduce}
-TBD
+The CPU part (data, analysis, tests, notebook) needs Python 3.11. Commands, in order:
+
+\begin{itemize}
+\item Setup: git clone \dd{}recurse-submodules https://github.com/ahmad1khan2/f26-g6-hallucination-detectors; then python -m venv .venv, activate it, pip install -r requirements.lock.txt and python scripts/check\_env.py.
+\item Data: bash scripts/download\_data.sh, then python scripts/build\_processed.py and python scripts/make\_report\_assets.py.
+\item GPU run (Windows, 16 GB NVIDIA GPU, Hugging Face token in HF\_TOKEN with access to the gated Llama weights): py -3.11 scripts/bootstrap.py, then python scripts/run\_phase3.py with the stages smoke, timing \dd{}hours 30, full and verify, or all stages unattended with scripts/run\_all.ps1. Every stage resumes where it stopped.
+\item Results: python scripts/summarize\_results.py, python scripts/run\_analysis.py, python scripts/make\_report\_assets.py \dd{}phase4, python scripts/error\_sample.py and python scripts/entropy\_table.py.
+\item Tests: pytest runs everything except the GPU tests; pytest -m gpu runs the real-model tests on the GPU machine.
+\item Notebook and report: run F26-6.ipynb, which reads the saved results; build this report in the report folder with lualatex, bibtex and lualatex twice.
+\end{itemize}
+
+Only the GPU run needs a GPU.
+\section{Model files}
+We use the public Llama-3.1-8B-Instruct unchanged. It is loaded in 4-bit at load time and not fine-tuned, so there are no model weights of ours to ship. The MAM classifiers are small and are retrained inside the run, but their weights were not kept; only their test-split predictions are saved. Rebuilding the classifiers needs the GPU run, because the activation features (about 7 GB) are not in git. The code is MIT licensed, the authors' code keeps its own MIT notice, mTREx is MIT, PsiloQA is CC BY 4.0, X-FACTR has no licence file (its data derive from Wikidata and Wikipedia), and Llama 3.1 is used under Meta's licence.
 
 \section{Conclusion}
-TBD
+Our own mTREx run reproduces the base paper's pattern with a quantized model. On X-FACTR the gap between the accuracy drop and the AUROC drop holds wherever it can be measured, in all three resource groups, and does not widen in the lowest-resource languages. On PsiloQA the question of whether the gap shrinks on long answers could not be answered, because accuracy there is already low in English and MAM is near chance. Nearly half of the missed hallucinations we read on mTREx and X-FACTR trace to the label matcher or the gold data, so label quality limits what these benchmarks can show.
 
 \nocite{*}
 {\titleformat{\section}{\headfont\fontsize{16.5bp}{21.45bp}\selectfont}{}{0pt}{}
